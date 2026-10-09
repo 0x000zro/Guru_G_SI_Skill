@@ -1,0 +1,80 @@
+{
+  "exam": "UPTET_CTET",
+  "paper": "Paper_1_and_2",
+  "version": "1.0.0",
+  "active_subjects_count": 6,
+  "total_planned_subjects": 6,
+  "subjects": [
+    {
+      "id": "CDP",
+      "name_en": "Child Development and Pedagogy",
+      "name_hi": "बाल विकास एवं शिक्षण शास्त्र",
+      "directory": "Child_Development_and_Pedagogy",
+      "manifest_path": "Child_Development_and_Pedagogy/CDP_index.json",
+      "status": "scaffolded",
+      "total_topics": 27,
+      "framework_version": "1.0.0",
+      "taxonomy_version": "1.0.0"
+    },
+    {
+      "id": "HINDI",
+      "name_en": "Hindi Language and Pedagogy",
+      "name_hi": "हिन्दी भाषा एवं शिक्षण शास्त्र",
+      "directory": "Hindi",
+      "manifest_path": "Hindi/Hindi_index.json",
+      "status": "scaffolded",
+      "total_topics": 18,
+      "framework_version": "1.0.0",
+      "taxonomy_version": "1.0.0"
+    },
+    {
+      "id": "MATH",
+      "name_en": "Mathematics and Pedagogy",
+      "name_hi": "गणित एवं शिक्षण शास्त्र",
+      "directory": "Mathematics",
+      "manifest_path": "Mathematics/Maths_index.json",
+      "status": "scaffolded",
+      "total_topics": 24,
+      "framework_version": "1.0.0",
+      "taxonomy_version": "1.0.0"
+    },
+    {
+      "id": "EVS",
+      "name_en": "Environmental Studies and Pedagogy",
+      "name_hi": "पर्यावरण अध्ययन एवं शिक्षण शास्त्र",
+      "directory": "Environmental_Studies",
+      "manifest_path": "Environmental_Studies/EVS_index.json",
+      "status": "scaffolded",
+      "total_topics": 24,
+      "framework_version": "1.0.0",
+      "taxonomy_version": "1.0.0"
+    },
+    {
+      "id": "ENG",
+      "name_en": "English Language and Pedagogy",
+      "name_hi": "अंग्रेजी भाषा एवं शिक्षण शास्त्र",
+      "directory": "English",
+      "manifest_path": "English/Eng_index.json",
+      "status": "scaffolded",
+      "total_topics": 21,
+      "framework_version": "1.0.0",
+      "taxonomy_version": "1.0.0"
+    },
+    {
+      "id": "SAN",
+      "name_en": "Sanskrit Language and Pedagogy",
+      "name_hi": "संस्कृत भाषा एवं शिक्षण शास्त्र",
+      "directory": "Sanskrit",
+      "manifest_path": "Sanskrit/Sanskrit_index.json",
+      "status": "scaffolded",
+      "total_topics": 22,
+      "framework_version": "1.0.0",
+      "taxonomy_version": "1.0.0"
+    }
+  ],
+  "brand": "SISKILL",
+  "tagline": "Super Intelligence Learning Skill CTET & UPTET",
+  "official_domain": "siskill.in",
+  "support_email": "support@siskill.in",
+  "package_name": "in.siskill.app"
+}

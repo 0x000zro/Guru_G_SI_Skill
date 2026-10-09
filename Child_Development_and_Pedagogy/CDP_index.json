@@ -1,0 +1,4118 @@
+{
+  "schema_version": "1.0.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
+  "status": "scaffolded",
+  "exam_scope": [
+    "UPTET",
+    "CTET"
+  ],
+  "paper_scope": [
+    "Paper_1",
+    "Paper_2"
+  ],
+  "subject": {
+    "id": "CDP",
+    "type": "pedagogy",
+    "name_en": "Child Development and Pedagogy",
+    "name_hi": "बाल विकास एवं शिक्षण शास्त्र",
+    "directory": "Child_Development_and_Pedagogy"
+  },
+  "total_topics": 27,
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice"
+  ],
+  "topics": [
+    {
+      "id": "T01",
+      "slug": "Growth_and_Development_Concepts",
+      "title_hi": "वृद्धि एवं विकास की संकल्पना",
+      "order": 1,
+      "folder": "Topic_01_Growth_and_Development_Concepts",
+      "subtopics": [
+        {
+          "id": "T01_ST01",
+          "slug": "Meaning_and_Definitions",
+          "order": 1,
+          "folder": "Subtopic_01_Meaning_and_Definitions",
+          "micro_topics": [
+            {
+              "id": "T01_ST01_M01",
+              "slug": "Growth_Meaning",
+              "folder": "Micro_01_Growth_Meaning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_ST01_M02",
+              "slug": "Development_Meaning",
+              "folder": "Micro_02_Development_Meaning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_ST01_M03",
+              "slug": "Growth_vs_Development",
+              "folder": "Micro_03_Growth_vs_Development",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_ST01_M04",
+              "slug": "Developmental_Change",
+              "folder": "Micro_04_Developmental_Change",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T01_ST02",
+          "slug": "Principles_of_Development",
+          "order": 2,
+          "folder": "Subtopic_02_Principles_of_Development",
+          "micro_topics": [
+            {
+              "id": "T01_ST02_M01",
+              "slug": "Development_Is_Continuous",
+              "folder": "Micro_01_Development_Is_Continuous",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_ST02_M02",
+              "slug": "Development_Follows_Sequence",
+              "folder": "Micro_02_Development_Follows_Sequence",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_ST02_M03",
+              "slug": "Individual_Differences",
+              "folder": "Micro_03_Individual_Differences",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_ST02_M04",
+              "slug": "General_to_Specific_Development",
+              "folder": "Micro_04_General_to_Specific_Development",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "slug": "Stages_and_Developmental_Tasks",
+      "title_hi": "विकास की अवस्थाएं एवं विकासात्मक कार्य",
+      "order": 2,
+      "folder": "Topic_02_Stages_and_Developmental_Tasks",
+      "subtopics": [
+        {
+          "id": "T02_ST01",
+          "slug": "Stages_of_Development",
+          "order": 1,
+          "folder": "Subtopic_01_Stages_of_Development",
+          "micro_topics": [
+            {
+              "id": "T02_ST01_M01",
+              "slug": "Infancy",
+              "folder": "Micro_01_Infancy",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_ST01_M02",
+              "slug": "Early_Childhood",
+              "folder": "Micro_02_Early_Childhood",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_ST01_M03",
+              "slug": "Middle_Childhood",
+              "folder": "Micro_03_Middle_Childhood",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_ST01_M04",
+              "slug": "Adolescence",
+              "folder": "Micro_04_Adolescence",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T02_ST02",
+          "slug": "Developmental_Tasks",
+          "order": 2,
+          "folder": "Subtopic_02_Developmental_Tasks",
+          "micro_topics": [
+            {
+              "id": "T02_ST02_M01",
+              "slug": "Havighurst_Developmental_Tasks",
+              "folder": "Micro_01_Havighurst_Developmental_Tasks",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_ST02_M02",
+              "slug": "Age_Specific_Tasks",
+              "folder": "Micro_02_Age_Specific_Tasks",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_ST02_M03",
+              "slug": "Developmental_Readiness",
+              "folder": "Micro_03_Developmental_Readiness",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "slug": "Heredity_and_Environment",
+      "title_hi": "वंशानुक्रम एवं वातावरण",
+      "order": 3,
+      "folder": "Topic_03_Heredity_and_Environment",
+      "subtopics": [
+        {
+          "id": "T03_ST01",
+          "slug": "Heredity",
+          "order": 1,
+          "folder": "Subtopic_01_Heredity",
+          "micro_topics": [
+            {
+              "id": "T03_ST01_M01",
+              "slug": "Meaning_of_Heredity",
+              "folder": "Micro_01_Meaning_of_Heredity",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST01_M02",
+              "slug": "Genetic_Influence",
+              "folder": "Micro_02_Genetic_Influence",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST01_M03",
+              "slug": "Laws_of_Heredity",
+              "folder": "Micro_03_Laws_of_Heredity",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T03_ST02",
+          "slug": "Environment",
+          "order": 2,
+          "folder": "Subtopic_02_Environment",
+          "micro_topics": [
+            {
+              "id": "T03_ST02_M01",
+              "slug": "Meaning_of_Environment",
+              "folder": "Micro_01_Meaning_of_Environment",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST02_M02",
+              "slug": "Family_Environment",
+              "folder": "Micro_02_Family_Environment",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST02_M03",
+              "slug": "School_Environment",
+              "folder": "Micro_03_School_Environment",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST02_M04",
+              "slug": "Social_Environment",
+              "folder": "Micro_04_Social_Environment",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T03_ST03",
+          "slug": "Heredity_Environment_Interaction",
+          "order": 3,
+          "folder": "Subtopic_03_Heredity_Environment_Interaction",
+          "micro_topics": [
+            {
+              "id": "T03_ST03_M01",
+              "slug": "Nature_Nurture_Debate",
+              "folder": "Micro_01_Nature_Nurture_Debate",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST03_M02",
+              "slug": "Interaction_of_Heredity_and_Environment",
+              "folder": "Micro_02_Interaction_of_Heredity_and_Environment",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_ST03_M03",
+              "slug": "Educational_Implications",
+              "folder": "Micro_03_Educational_Implications",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "slug": "Socialization_Processes",
+      "title_hi": "समाजीकरण की प्रक्रियाएं",
+      "order": 4,
+      "folder": "Topic_04_Socialization_Processes",
+      "subtopics": [
+        {
+          "id": "T04_ST01",
+          "slug": "Social_World_and_Children",
+          "order": 1,
+          "folder": "Subtopic_01_Social_World_and_Children",
+          "micro_topics": [
+            {
+              "id": "T04_ST01_M01",
+              "slug": "Family_and_Socialization",
+              "folder": "Micro_01_Family_and_Socialization",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST01_M02",
+              "slug": "Peer_Group",
+              "folder": "Micro_02_Peer_Group",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST01_M03",
+              "slug": "School_and_Socialization",
+              "folder": "Micro_03_School_and_Socialization",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST01_M04",
+              "slug": "Culture_and_Socialization",
+              "folder": "Micro_04_Culture_and_Socialization",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T04_ST02",
+          "slug": "Agents_of_Socialization",
+          "order": 2,
+          "folder": "Subtopic_02_Agents_of_Socialization",
+          "micro_topics": [
+            {
+              "id": "T04_ST02_M01",
+              "slug": "Parents",
+              "folder": "Micro_01_Parents",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST02_M02",
+              "slug": "Teachers",
+              "folder": "Micro_02_Teachers",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST02_M03",
+              "slug": "Peers",
+              "folder": "Micro_03_Peers",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST02_M04",
+              "slug": "Community",
+              "folder": "Micro_04_Community",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_ST02_M05",
+              "slug": "Media",
+              "folder": "Micro_05_Media",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "slug": "Cognitive_Theories_Piaget_Vygotsky_Bruner",
+      "title_hi": "संज्ञानात्मक विकास के सिद्धांत",
+      "order": 5,
+      "folder": "Topic_05_Cognitive_Theories_Piaget_Vygotsky_Bruner",
+      "subtopics": [
+        {
+          "id": "T05_ST01",
+          "slug": "Piaget_Cognitive_Development",
+          "order": 1,
+          "folder": "Subtopic_01_Piaget_Cognitive_Development",
+          "micro_topics": [
+            {
+              "id": "T05_ST01_M01",
+              "slug": "Piaget_Theory_Overview",
+              "folder": "Micro_01_Piaget_Theory_Overview",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST01_M02",
+              "slug": "Sensorimotor_Stage",
+              "folder": "Micro_02_Sensorimotor_Stage",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST01_M03",
+              "slug": "Preoperational_Stage",
+              "folder": "Micro_03_Preoperational_Stage",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST01_M04",
+              "slug": "Concrete_Operational_Stage",
+              "folder": "Micro_04_Concrete_Operational_Stage",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST01_M05",
+              "slug": "Formal_Operational_Stage",
+              "folder": "Micro_05_Formal_Operational_Stage",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST01_M06",
+              "slug": "Schema_Assimilation_Accommodation",
+              "folder": "Micro_06_Schema_Assimilation_Accommodation",
+              "order": 6,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T05_ST02",
+          "slug": "Vygotsky_Social_Cultural_Theory",
+          "order": 2,
+          "folder": "Subtopic_02_Vygotsky_Social_Cultural_Theory",
+          "micro_topics": [
+            {
+              "id": "T05_ST02_M01",
+              "slug": "Social_Cultural_Theory",
+              "folder": "Micro_01_Social_Cultural_Theory",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST02_M02",
+              "slug": "Zone_of_Proximal_Development",
+              "folder": "Micro_02_Zone_of_Proximal_Development",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST02_M03",
+              "slug": "More_Knowledgeable_Other",
+              "folder": "Micro_03_More_Knowledgeable_Other",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST02_M04",
+              "slug": "Scaffolding",
+              "folder": "Micro_04_Scaffolding",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST02_M05",
+              "slug": "Language_and_Thought",
+              "folder": "Micro_05_Language_and_Thought",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T05_ST03",
+          "slug": "Bruner_Cognitive_Theory",
+          "order": 3,
+          "folder": "Subtopic_03_Bruner_Cognitive_Theory",
+          "micro_topics": [
+            {
+              "id": "T05_ST03_M01",
+              "slug": "Discovery_Learning",
+              "folder": "Micro_01_Discovery_Learning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST03_M02",
+              "slug": "Modes_of_Representation",
+              "folder": "Micro_02_Modes_of_Representation",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST03_M03",
+              "slug": "Spiral_Curriculum",
+              "folder": "Micro_03_Spiral_Curriculum",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_ST03_M04",
+              "slug": "Scaffolding_in_Bruner",
+              "folder": "Micro_04_Scaffolding_in_Bruner",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "slug": "Moral_Development_Theories",
+      "title_hi": "नैतिक विकास के सिद्धांत",
+      "order": 6,
+      "folder": "Topic_06_Moral_Development_Theories",
+      "subtopics": [
+        {
+          "id": "T06_ST01",
+          "slug": "Kohlberg_Moral_Development",
+          "order": 1,
+          "folder": "Subtopic_01_Kohlberg_Moral_Development",
+          "micro_topics": [
+            {
+              "id": "T06_ST01_M01",
+              "slug": "Kohlberg_Theory",
+              "folder": "Micro_01_Kohlberg_Theory",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_ST01_M02",
+              "slug": "Preconventional_Level",
+              "folder": "Micro_02_Preconventional_Level",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_ST01_M03",
+              "slug": "Conventional_Level",
+              "folder": "Micro_03_Conventional_Level",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_ST01_M04",
+              "slug": "Postconventional_Level",
+              "folder": "Micro_04_Postconventional_Level",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_ST01_M05",
+              "slug": "Moral_Dilemmas",
+              "folder": "Micro_05_Moral_Dilemmas",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T06_ST02",
+          "slug": "Piaget_Moral_Development",
+          "order": 2,
+          "folder": "Subtopic_02_Piaget_Moral_Development",
+          "micro_topics": [
+            {
+              "id": "T06_ST02_M01",
+              "slug": "Heteronomous_Morality",
+              "folder": "Micro_01_Heteronomous_Morality",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_ST02_M02",
+              "slug": "Autonomous_Morality",
+              "folder": "Micro_02_Autonomous_Morality",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_ST02_M03",
+              "slug": "Moral_Reasoning",
+              "folder": "Micro_03_Moral_Reasoning",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "slug": "Psychosocial_and_Psychoanalytic_Theories",
+      "title_hi": "मनोसामाजिक एवं मनोविश्लेषणात्मक सिद्धांत",
+      "order": 7,
+      "folder": "Topic_07_Psychosocial_and_Psychoanalytic_Theories",
+      "subtopics": [
+        {
+          "id": "T07_ST01",
+          "slug": "Erikson_Psychosocial_Theory",
+          "order": 1,
+          "folder": "Subtopic_01_Erikson_Psychosocial_Theory",
+          "micro_topics": [
+            {
+              "id": "T07_ST01_M01",
+              "slug": "Erikson_Theory",
+              "folder": "Micro_01_Erikson_Theory",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST01_M02",
+              "slug": "Psychosocial_Stages",
+              "folder": "Micro_02_Psychosocial_Stages",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST01_M03",
+              "slug": "Trust_vs_Mistrust",
+              "folder": "Micro_03_Trust_vs_Mistrust",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST01_M04",
+              "slug": "Autonomy_vs_Shame",
+              "folder": "Micro_04_Autonomy_vs_Shame",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST01_M05",
+              "slug": "Initiative_vs_Guilt",
+              "folder": "Micro_05_Initiative_vs_Guilt",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST01_M06",
+              "slug": "Industry_vs_Inferiority",
+              "folder": "Micro_06_Industry_vs_Inferiority",
+              "order": 6,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST01_M07",
+              "slug": "Identity_vs_Role_Confusion",
+              "folder": "Micro_07_Identity_vs_Role_Confusion",
+              "order": 7,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T07_ST02",
+          "slug": "Freud_Psychoanalysis",
+          "order": 2,
+          "folder": "Subtopic_02_Freud_Psychoanalysis",
+          "micro_topics": [
+            {
+              "id": "T07_ST02_M01",
+              "slug": "Freud_Theory",
+              "folder": "Micro_01_Freud_Theory",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST02_M02",
+              "slug": "Id_Ego_Superego",
+              "folder": "Micro_02_Id_Ego_Superego",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST02_M03",
+              "slug": "Psychosexual_Stages",
+              "folder": "Micro_03_Psychosexual_Stages",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_ST02_M04",
+              "slug": "Educational_Implications",
+              "folder": "Micro_04_Educational_Implications",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "slug": "Language_and_Thought",
+      "title_hi": "भाषा एवं चिंतन",
+      "order": 8,
+      "folder": "Topic_08_Language_and_Thought",
+      "subtopics": [
+        {
+          "id": "T08_ST01",
+          "slug": "Language_Development",
+          "order": 1,
+          "folder": "Subtopic_01_Language_Development",
+          "micro_topics": [
+            {
+              "id": "T08_ST01_M01",
+              "slug": "Language_Development_Stages",
+              "folder": "Micro_01_Language_Development_Stages",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_ST01_M02",
+              "slug": "Language_Acquisition",
+              "folder": "Micro_02_Language_Acquisition",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_ST01_M03",
+              "slug": "Bilingualism",
+              "folder": "Micro_03_Bilingualism",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_ST01_M04",
+              "slug": "Multilingualism",
+              "folder": "Micro_04_Multilingualism",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T08_ST02",
+          "slug": "Language_Thought_Relationship",
+          "order": 2,
+          "folder": "Subtopic_02_Language_Thought_Relationship",
+          "micro_topics": [
+            {
+              "id": "T08_ST02_M01",
+              "slug": "Language_and_Cognition",
+              "folder": "Micro_01_Language_and_Cognition",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_ST02_M02",
+              "slug": "Vygotsky_Language_Thought",
+              "folder": "Micro_02_Vygotsky_Language_Thought",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_ST02_M03",
+              "slug": "Piaget_Language_Thought",
+              "folder": "Micro_03_Piaget_Language_Thought",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "slug": "Cognition_Emotion_and_Motivation",
+      "title_hi": "संज्ञान, संवेग एवं अभिप्रेरणा",
+      "order": 9,
+      "folder": "Topic_09_Cognition_Emotion_and_Motivation",
+      "subtopics": [
+        {
+          "id": "T09_ST01",
+          "slug": "Cognition",
+          "order": 1,
+          "folder": "Subtopic_01_Cognition",
+          "micro_topics": [
+            {
+              "id": "T09_ST01_M01",
+              "slug": "Cognitive_Processes",
+              "folder": "Micro_01_Cognitive_Processes",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST01_M02",
+              "slug": "Attention",
+              "folder": "Micro_02_Attention",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST01_M03",
+              "slug": "Memory",
+              "folder": "Micro_03_Memory",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST01_M04",
+              "slug": "Perception",
+              "folder": "Micro_04_Perception",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T09_ST02",
+          "slug": "Emotion",
+          "order": 2,
+          "folder": "Subtopic_02_Emotion",
+          "micro_topics": [
+            {
+              "id": "T09_ST02_M01",
+              "slug": "Meaning_of_Emotion",
+              "folder": "Micro_01_Meaning_of_Emotion",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST02_M02",
+              "slug": "Emotional_Development",
+              "folder": "Micro_02_Emotional_Development",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST02_M03",
+              "slug": "Emotional_Intelligence",
+              "folder": "Micro_03_Emotional_Intelligence",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T09_ST03",
+          "slug": "Motivation",
+          "order": 3,
+          "folder": "Subtopic_03_Motivation",
+          "micro_topics": [
+            {
+              "id": "T09_ST03_M01",
+              "slug": "Intrinsic_Motivation",
+              "folder": "Micro_01_Intrinsic_Motivation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST03_M02",
+              "slug": "Extrinsic_Motivation",
+              "folder": "Micro_02_Extrinsic_Motivation",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST03_M03",
+              "slug": "Achievement_Motivation",
+              "folder": "Micro_03_Achievement_Motivation",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_ST03_M04",
+              "slug": "Teacher_Role_in_Motivation",
+              "folder": "Micro_04_Teacher_Role_in_Motivation",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "slug": "Personality_Theories_and_Assessment",
+      "title_hi": "व्यक्तित्व के सिद्धांत एवं मापन",
+      "order": 10,
+      "folder": "Topic_10_Personality_Theories_and_Assessment",
+      "subtopics": [
+        {
+          "id": "T10_ST01",
+          "slug": "Personality_Concept",
+          "order": 1,
+          "folder": "Subtopic_01_Personality_Concept",
+          "micro_topics": [
+            {
+              "id": "T10_ST01_M01",
+              "slug": "Meaning_of_Personality",
+              "folder": "Micro_01_Meaning_of_Personality",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST01_M02",
+              "slug": "Characteristics_of_Personality",
+              "folder": "Micro_02_Characteristics_of_Personality",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST01_M03",
+              "slug": "Determinants_of_Personality",
+              "folder": "Micro_03_Determinants_of_Personality",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T10_ST02",
+          "slug": "Personality_Theories",
+          "order": 2,
+          "folder": "Subtopic_02_Personality_Theories",
+          "micro_topics": [
+            {
+              "id": "T10_ST02_M01",
+              "slug": "Trait_Theory",
+              "folder": "Micro_01_Trait_Theory",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST02_M02",
+              "slug": "Type_Theory",
+              "folder": "Micro_02_Type_Theory",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST02_M03",
+              "slug": "Psychoanalytic_View",
+              "folder": "Micro_03_Psychoanalytic_View",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST02_M04",
+              "slug": "Humanistic_View",
+              "folder": "Micro_04_Humanistic_View",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T10_ST03",
+          "slug": "Personality_Assessment",
+          "order": 3,
+          "folder": "Subtopic_03_Personality_Assessment",
+          "micro_topics": [
+            {
+              "id": "T10_ST03_M01",
+              "slug": "Objective_Tests",
+              "folder": "Micro_01_Objective_Tests",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST03_M02",
+              "slug": "Projective_Tests",
+              "folder": "Micro_02_Projective_Tests",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST03_M03",
+              "slug": "Observation_Method",
+              "folder": "Micro_03_Observation_Method",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_ST03_M04",
+              "slug": "Interview_Method",
+              "folder": "Micro_04_Interview_Method",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "slug": "Intelligence_Theories_and_Testing",
+      "title_hi": "बुद्धि के सिद्धांत एवं परीक्षण",
+      "order": 11,
+      "folder": "Topic_11_Intelligence_Theories_and_Testing",
+      "subtopics": [
+        {
+          "id": "T11_ST01",
+          "slug": "Intelligence_Concept",
+          "order": 1,
+          "folder": "Subtopic_01_Intelligence_Concept",
+          "micro_topics": [
+            {
+              "id": "T11_ST01_M01",
+              "slug": "Meaning_of_Intelligence",
+              "folder": "Micro_01_Meaning_of_Intelligence",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST01_M02",
+              "slug": "Nature_of_Intelligence",
+              "folder": "Micro_02_Nature_of_Intelligence",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST01_M03",
+              "slug": "Intelligence_and_Learning",
+              "folder": "Micro_03_Intelligence_and_Learning",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T11_ST02",
+          "slug": "Intelligence_Theories",
+          "order": 2,
+          "folder": "Subtopic_02_Intelligence_Theories",
+          "micro_topics": [
+            {
+              "id": "T11_ST02_M01",
+              "slug": "Spearman_Two_Factor_Theory",
+              "folder": "Micro_01_Spearman_Two_Factor_Theory",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST02_M02",
+              "slug": "Thurstone_Primary_Mental_Abilities",
+              "folder": "Micro_02_Thurstone_Primary_Mental_Abilities",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST02_M03",
+              "slug": "Guilford_Structure_of_Intellect",
+              "folder": "Micro_03_Guilford_Structure_of_Intellect",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST02_M04",
+              "slug": "Gardner_Multiple_Intelligences",
+              "folder": "Micro_04_Gardner_Multiple_Intelligences",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST02_M05",
+              "slug": "Sternberg_Triarchic_Theory",
+              "folder": "Micro_05_Sternberg_Triarchic_Theory",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T11_ST03",
+          "slug": "Intelligence_Testing",
+          "order": 3,
+          "folder": "Subtopic_03_Intelligence_Testing",
+          "micro_topics": [
+            {
+              "id": "T11_ST03_M01",
+              "slug": "IQ_Concept",
+              "folder": "Micro_01_IQ_Concept",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST03_M02",
+              "slug": "Individual_Intelligence_Tests",
+              "folder": "Micro_02_Individual_Intelligence_Tests",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST03_M03",
+              "slug": "Group_Intelligence_Tests",
+              "folder": "Micro_03_Group_Intelligence_Tests",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_ST03_M04",
+              "slug": "Verbal_and_Nonverbal_Tests",
+              "folder": "Micro_04_Verbal_and_Nonverbal_Tests",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "slug": "Individual_Differences_and_Gender",
+      "title_hi": "व्यक्तिगत विभिन्नताएं एवं जेंडर",
+      "order": 12,
+      "folder": "Topic_12_Individual_Differences_and_Gender",
+      "subtopics": [
+        {
+          "id": "T12_ST01",
+          "slug": "Individual_Differences",
+          "order": 1,
+          "folder": "Subtopic_01_Individual_Differences",
+          "micro_topics": [
+            {
+              "id": "T12_ST01_M01",
+              "slug": "Meaning_of_Individual_Differences",
+              "folder": "Micro_01_Meaning_of_Individual_Differences",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_ST01_M02",
+              "slug": "Cognitive_Differences",
+              "folder": "Micro_02_Cognitive_Differences",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_ST01_M03",
+              "slug": "Learning_Differences",
+              "folder": "Micro_03_Learning_Differences",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_ST01_M04",
+              "slug": "Personality_Differences",
+              "folder": "Micro_04_Personality_Differences",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T12_ST02",
+          "slug": "Gender_and_Education",
+          "order": 2,
+          "folder": "Subtopic_02_Gender_and_Education",
+          "micro_topics": [
+            {
+              "id": "T12_ST02_M01",
+              "slug": "Gender_Roles",
+              "folder": "Micro_01_Gender_Roles",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_ST02_M02",
+              "slug": "Gender_Stereotypes",
+              "folder": "Micro_02_Gender_Stereotypes",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_ST02_M03",
+              "slug": "Gender_Bias",
+              "folder": "Micro_03_Gender_Bias",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_ST02_M04",
+              "slug": "Gender_Sensitive_Classroom",
+              "folder": "Micro_04_Gender_Sensitive_Classroom",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "slug": "Thinking_Problem_Solving_and_Creativity",
+      "title_hi": "चिंतन, समस्या समाधान एवं सृजनात्मकता",
+      "order": 13,
+      "folder": "Topic_13_Thinking_Problem_Solving_and_Creativity",
+      "subtopics": [
+        {
+          "id": "T13_ST01",
+          "slug": "Thinking",
+          "order": 1,
+          "folder": "Subtopic_01_Thinking",
+          "micro_topics": [
+            {
+              "id": "T13_ST01_M01",
+              "slug": "Meaning_of_Thinking",
+              "folder": "Micro_01_Meaning_of_Thinking",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST01_M02",
+              "slug": "Convergent_Thinking",
+              "folder": "Micro_02_Convergent_Thinking",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST01_M03",
+              "slug": "Divergent_Thinking",
+              "folder": "Micro_03_Divergent_Thinking",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST01_M04",
+              "slug": "Critical_Thinking",
+              "folder": "Micro_04_Critical_Thinking",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T13_ST02",
+          "slug": "Problem_Solving",
+          "order": 2,
+          "folder": "Subtopic_02_Problem_Solving",
+          "micro_topics": [
+            {
+              "id": "T13_ST02_M01",
+              "slug": "Problem_Solving_Process",
+              "folder": "Micro_01_Problem_Solving_Process",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST02_M02",
+              "slug": "Strategies_of_Problem_Solving",
+              "folder": "Micro_02_Strategies_of_Problem_Solving",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST02_M03",
+              "slug": "Teacher_Role",
+              "folder": "Micro_03_Teacher_Role",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T13_ST03",
+          "slug": "Creativity",
+          "order": 3,
+          "folder": "Subtopic_03_Creativity",
+          "micro_topics": [
+            {
+              "id": "T13_ST03_M01",
+              "slug": "Meaning_of_Creativity",
+              "folder": "Micro_01_Meaning_of_Creativity",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST03_M02",
+              "slug": "Characteristics_of_Creative_Children",
+              "folder": "Micro_02_Characteristics_of_Creative_Children",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST03_M03",
+              "slug": "Creative_Thinking",
+              "folder": "Micro_03_Creative_Thinking",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_ST03_M04",
+              "slug": "Encouraging_Creativity",
+              "folder": "Micro_04_Encouraging_Creativity",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "slug": "Learning_Concepts_and_Laws",
+      "title_hi": "अधिगम की संकल्पना एवं नियम",
+      "order": 14,
+      "folder": "Topic_14_Learning_Concepts_and_Laws",
+      "subtopics": [
+        {
+          "id": "T14_ST01",
+          "slug": "Learning_Concept",
+          "order": 1,
+          "folder": "Subtopic_01_Learning_Concept",
+          "micro_topics": [
+            {
+              "id": "T14_ST01_M01",
+              "slug": "Meaning_of_Learning",
+              "folder": "Micro_01_Meaning_of_Learning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_ST01_M02",
+              "slug": "Characteristics_of_Learning",
+              "folder": "Micro_02_Characteristics_of_Learning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_ST01_M03",
+              "slug": "Factors_Affecting_Learning",
+              "folder": "Micro_03_Factors_Affecting_Learning",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T14_ST02",
+          "slug": "Laws_of_Learning",
+          "order": 2,
+          "folder": "Subtopic_02_Laws_of_Learning",
+          "micro_topics": [
+            {
+              "id": "T14_ST02_M01",
+              "slug": "Thorndike_Laws",
+              "folder": "Micro_01_Thorndike_Laws",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_ST02_M02",
+              "slug": "Law_of_Readiness",
+              "folder": "Micro_02_Law_of_Readiness",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_ST02_M03",
+              "slug": "Law_of_Exercise",
+              "folder": "Micro_03_Law_of_Exercise",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_ST02_M04",
+              "slug": "Law_of_Effect",
+              "folder": "Micro_04_Law_of_Effect",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "slug": "Learning_Theories_and_Pedagogy",
+      "title_hi": "अधिगम के सिद्धांत एवं शिक्षाशास्त्र",
+      "order": 15,
+      "folder": "Topic_15_Learning_Theories_and_Pedagogy",
+      "subtopics": [
+        {
+          "id": "T15_ST01",
+          "slug": "Behaviorist_Conditioning",
+          "order": 1,
+          "folder": "Subtopic_01_Behaviorist_Conditioning",
+          "micro_topics": [
+            {
+              "id": "T15_ST01_M01",
+              "slug": "Classical_Conditioning",
+              "folder": "Micro_01_Classical_Conditioning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST01_M02",
+              "slug": "Pavlov",
+              "folder": "Micro_02_Pavlov",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST01_M03",
+              "slug": "Operant_Conditioning",
+              "folder": "Micro_03_Operant_Conditioning",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST01_M04",
+              "slug": "Skinner",
+              "folder": "Micro_04_Skinner",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST01_M05",
+              "slug": "Reinforcement_and_Punishment",
+              "folder": "Micro_05_Reinforcement_and_Punishment",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T15_ST02",
+          "slug": "Cognitive_Learning",
+          "order": 2,
+          "folder": "Subtopic_02_Cognitive_Learning",
+          "micro_topics": [
+            {
+              "id": "T15_ST02_M01",
+              "slug": "Insight_Learning",
+              "folder": "Micro_01_Insight_Learning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST02_M02",
+              "slug": "Gestalt_Learning",
+              "folder": "Micro_02_Gestalt_Learning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST02_M03",
+              "slug": "Cognitive_Maps",
+              "folder": "Micro_03_Cognitive_Maps",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T15_ST03",
+          "slug": "Constructivist_Learning",
+          "order": 3,
+          "folder": "Subtopic_03_Constructivist_Learning",
+          "micro_topics": [
+            {
+              "id": "T15_ST03_M01",
+              "slug": "Constructivism",
+              "folder": "Micro_01_Constructivism",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST03_M02",
+              "slug": "Learner_Centered_Learning",
+              "folder": "Micro_02_Learner_Centered_Learning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST03_M03",
+              "slug": "Active_Learning",
+              "folder": "Micro_03_Active_Learning",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_ST03_M04",
+              "slug": "Collaborative_Learning",
+              "folder": "Micro_04_Collaborative_Learning",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "slug": "Teaching_Methods_Skills_and_Models",
+      "title_hi": "शिक्षण विधियां, कौशल एवं मॉडल",
+      "order": 16,
+      "folder": "Topic_16_Teaching_Methods_Skills_and_Models",
+      "subtopics": [
+        {
+          "id": "T16_ST01",
+          "slug": "Teaching_Methods",
+          "order": 1,
+          "folder": "Subtopic_01_Teaching_Methods",
+          "micro_topics": [
+            {
+              "id": "T16_ST01_M01",
+              "slug": "Lecture_Method",
+              "folder": "Micro_01_Lecture_Method",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST01_M02",
+              "slug": "Discussion_Method",
+              "folder": "Micro_02_Discussion_Method",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST01_M03",
+              "slug": "Project_Method",
+              "folder": "Micro_03_Project_Method",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST01_M04",
+              "slug": "Demonstration_Method",
+              "folder": "Micro_04_Demonstration_Method",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST01_M05",
+              "slug": "Problem_Solving_Method",
+              "folder": "Micro_05_Problem_Solving_Method",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T16_ST02",
+          "slug": "Teaching_Skills",
+          "order": 2,
+          "folder": "Subtopic_02_Teaching_Skills",
+          "micro_topics": [
+            {
+              "id": "T16_ST02_M01",
+              "slug": "Questioning_Skill",
+              "folder": "Micro_01_Questioning_Skill",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST02_M02",
+              "slug": "Explanation_Skill",
+              "folder": "Micro_02_Explanation_Skill",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST02_M03",
+              "slug": "Reinforcement_Skill",
+              "folder": "Micro_03_Reinforcement_Skill",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST02_M04",
+              "slug": "Stimulus_Variation",
+              "folder": "Micro_04_Stimulus_Variation",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T16_ST03",
+          "slug": "Teaching_Models",
+          "order": 3,
+          "folder": "Subtopic_03_Teaching_Models",
+          "micro_topics": [
+            {
+              "id": "T16_ST03_M01",
+              "slug": "Advance_Organizer_Model",
+              "folder": "Micro_01_Advance_Organizer_Model",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST03_M02",
+              "slug": "Concept_Attainment_Model",
+              "folder": "Micro_02_Concept_Attainment_Model",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_ST03_M03",
+              "slug": "Inquiry_Model",
+              "folder": "Micro_03_Inquiry_Model",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "slug": "Inclusive_Education_Philosophy",
+      "title_hi": "समावेशी शिक्षा का दर्शन",
+      "order": 17,
+      "folder": "Topic_17_Inclusive_Education_Philosophy",
+      "subtopics": [
+        {
+          "id": "T17_ST01",
+          "slug": "Inclusive_Education",
+          "order": 1,
+          "folder": "Subtopic_01_Inclusive_Education",
+          "micro_topics": [
+            {
+              "id": "T17_ST01_M01",
+              "slug": "Meaning_of_Inclusion",
+              "folder": "Micro_01_Meaning_of_Inclusion",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_ST01_M02",
+              "slug": "Principles_of_Inclusion",
+              "folder": "Micro_02_Principles_of_Inclusion",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_ST01_M03",
+              "slug": "Inclusive_Classroom",
+              "folder": "Micro_03_Inclusive_Classroom",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_ST01_M04",
+              "slug": "Teacher_Role",
+              "folder": "Micro_04_Teacher_Role",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T17_ST02",
+          "slug": "Diversity_in_Classroom",
+          "order": 2,
+          "folder": "Subtopic_02_Diversity_in_Classroom",
+          "micro_topics": [
+            {
+              "id": "T17_ST02_M01",
+              "slug": "Cultural_Diversity",
+              "folder": "Micro_01_Cultural_Diversity",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_ST02_M02",
+              "slug": "Linguistic_Diversity",
+              "folder": "Micro_02_Linguistic_Diversity",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_ST02_M03",
+              "slug": "Socioeconomic_Diversity",
+              "folder": "Micro_03_Socioeconomic_Diversity",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_ST02_M04",
+              "slug": "Learning_Diversity",
+              "folder": "Micro_04_Learning_Diversity",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "slug": "Learning_Disabilities_and_Neurodiversity",
+      "title_hi": "अधिगम अक्षमताएं एवं न्यूरोडायवर्सिटी",
+      "order": 18,
+      "folder": "Topic_18_Learning_Disabilities_and_Neurodiversity",
+      "subtopics": [
+        {
+          "id": "T18_ST01",
+          "slug": "Learning_Disabilities",
+          "order": 1,
+          "folder": "Subtopic_01_Learning_Disabilities",
+          "micro_topics": [
+            {
+              "id": "T18_ST01_M01",
+              "slug": "Dyslexia",
+              "folder": "Micro_01_Dyslexia",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_ST01_M02",
+              "slug": "Dysgraphia",
+              "folder": "Micro_02_Dysgraphia",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_ST01_M03",
+              "slug": "Dyscalculia",
+              "folder": "Micro_03_Dyscalculia",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_ST01_M04",
+              "slug": "Specific_Learning_Disability",
+              "folder": "Micro_04_Specific_Learning_Disability",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T18_ST02",
+          "slug": "Neurodevelopmental_Conditions",
+          "order": 2,
+          "folder": "Subtopic_02_Neurodevelopmental_Conditions",
+          "micro_topics": [
+            {
+              "id": "T18_ST02_M01",
+              "slug": "Autism_Spectrum",
+              "folder": "Micro_01_Autism_Spectrum",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_ST02_M02",
+              "slug": "ADHD",
+              "folder": "Micro_02_ADHD",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_ST02_M03",
+              "slug": "Intellectual_Disability",
+              "folder": "Micro_03_Intellectual_Disability",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_ST02_M04",
+              "slug": "Educational_Support",
+              "folder": "Micro_04_Educational_Support",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "slug": "RPwD_Act_2016_and_Exceptional_Children",
+      "title_hi": "RPwD अधिनियम 2016 एवं विशेष आवश्यकता वाले बच्चे",
+      "order": 19,
+      "folder": "Topic_19_RPwD_Act_2016_and_Exceptional_Children",
+      "subtopics": [
+        {
+          "id": "T19_ST01",
+          "slug": "RPwD_Act_2016",
+          "order": 1,
+          "folder": "Subtopic_01_RPwD_Act_2016",
+          "micro_topics": [
+            {
+              "id": "T19_ST01_M01",
+              "slug": "RPwD_Act_2016_Overview",
+              "folder": "Micro_01_RPwD_Act_2016_Overview",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_ST01_M02",
+              "slug": "Rights_and_Entitlements",
+              "folder": "Micro_02_Rights_and_Entitlements",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_ST01_M03",
+              "slug": "Inclusive_Education_Provisions",
+              "folder": "Micro_03_Inclusive_Education_Provisions",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_ST01_M04",
+              "slug": "Reasonable_Accommodation",
+              "folder": "Micro_04_Reasonable_Accommodation",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T19_ST02",
+          "slug": "Exceptional_Children",
+          "order": 2,
+          "folder": "Subtopic_02_Exceptional_Children",
+          "micro_topics": [
+            {
+              "id": "T19_ST02_M01",
+              "slug": "Gifted_Children",
+              "folder": "Micro_01_Gifted_Children",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_ST02_M02",
+              "slug": "Children_with_Disabilities",
+              "folder": "Micro_02_Children_with_Disabilities",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_ST02_M03",
+              "slug": "Slow_Learners",
+              "folder": "Micro_03_Slow_Learners",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_ST02_M04",
+              "slug": "Educational_Adaptations",
+              "folder": "Micro_04_Educational_Adaptations",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "slug": "Guidance_Counselling_and_UP_Agencies",
+      "title_hi": "निर्देशन, परामर्श एवं उत्तर प्रदेश की शैक्षिक संस्थाएं",
+      "order": 20,
+      "folder": "Topic_20_Guidance_Counselling_and_UP_Agencies",
+      "subtopics": [
+        {
+          "id": "T20_ST01",
+          "slug": "Guidance",
+          "order": 1,
+          "folder": "Subtopic_01_Guidance",
+          "micro_topics": [
+            {
+              "id": "T20_ST01_M01",
+              "slug": "Meaning_of_Guidance",
+              "folder": "Micro_01_Meaning_of_Guidance",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST01_M02",
+              "slug": "Types_of_Guidance",
+              "folder": "Micro_02_Types_of_Guidance",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST01_M03",
+              "slug": "Principles_of_Guidance",
+              "folder": "Micro_03_Principles_of_Guidance",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T20_ST02",
+          "slug": "Counselling",
+          "order": 2,
+          "folder": "Subtopic_02_Counselling",
+          "micro_topics": [
+            {
+              "id": "T20_ST02_M01",
+              "slug": "Meaning_of_Counselling",
+              "folder": "Micro_01_Meaning_of_Counselling",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST02_M02",
+              "slug": "Counselling_Process",
+              "folder": "Micro_02_Counselling_Process",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST02_M03",
+              "slug": "Teacher_as_Counsellor",
+              "folder": "Micro_03_Teacher_as_Counsellor",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T20_ST03",
+          "slug": "Educational_Agencies",
+          "order": 3,
+          "folder": "Subtopic_03_Educational_Agencies",
+          "micro_topics": [
+            {
+              "id": "T20_ST03_M01",
+              "slug": "SCERT",
+              "folder": "Micro_01_SCERT",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST03_M02",
+              "slug": "DIET",
+              "folder": "Micro_02_DIET",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST03_M03",
+              "slug": "NCERT",
+              "folder": "Micro_03_NCERT",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_ST03_M04",
+              "slug": "NCTE",
+              "folder": "Micro_04_NCTE",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "slug": "Measurement_Assessment_and_Evaluation",
+      "title_hi": "मापन, आकलन एवं मूल्यांकन",
+      "order": 21,
+      "folder": "Topic_21_Measurement_Assessment_and_Evaluation",
+      "subtopics": [
+        {
+          "id": "T21_ST01",
+          "slug": "Measurement",
+          "order": 1,
+          "folder": "Subtopic_01_Measurement",
+          "micro_topics": [
+            {
+              "id": "T21_ST01_M01",
+              "slug": "Meaning_of_Measurement",
+              "folder": "Micro_01_Meaning_of_Measurement",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST01_M02",
+              "slug": "Characteristics_of_Measurement",
+              "folder": "Micro_02_Characteristics_of_Measurement",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST01_M03",
+              "slug": "Quantitative_Measurement",
+              "folder": "Micro_03_Quantitative_Measurement",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T21_ST02",
+          "slug": "Assessment",
+          "order": 2,
+          "folder": "Subtopic_02_Assessment",
+          "micro_topics": [
+            {
+              "id": "T21_ST02_M01",
+              "slug": "Assessment_for_Learning",
+              "folder": "Micro_01_Assessment_for_Learning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST02_M02",
+              "slug": "Assessment_of_Learning",
+              "folder": "Micro_02_Assessment_of_Learning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST02_M03",
+              "slug": "Formative_Assessment",
+              "folder": "Micro_03_Formative_Assessment",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST02_M04",
+              "slug": "Summative_Assessment",
+              "folder": "Micro_04_Summative_Assessment",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T21_ST03",
+          "slug": "Evaluation",
+          "order": 3,
+          "folder": "Subtopic_03_Evaluation",
+          "micro_topics": [
+            {
+              "id": "T21_ST03_M01",
+              "slug": "Meaning_of_Evaluation",
+              "folder": "Micro_01_Meaning_of_Evaluation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST03_M02",
+              "slug": "Diagnostic_Evaluation",
+              "folder": "Micro_02_Diagnostic_Evaluation",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_ST03_M03",
+              "slug": "Continuous_Assessment",
+              "folder": "Micro_03_Continuous_Assessment",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "slug": "Test_Standardization_and_Action_Research",
+      "title_hi": "परीक्षण मानकीकरण एवं क्रियात्मक अनुसंधान",
+      "order": 22,
+      "folder": "Topic_22_Test_Standardization_and_Action_Research",
+      "subtopics": [
+        {
+          "id": "T22_ST01",
+          "slug": "Test_Standardization",
+          "order": 1,
+          "folder": "Subtopic_01_Test_Standardization",
+          "micro_topics": [
+            {
+              "id": "T22_ST01_M01",
+              "slug": "Validity",
+              "folder": "Micro_01_Validity",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_ST01_M02",
+              "slug": "Reliability",
+              "folder": "Micro_02_Reliability",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_ST01_M03",
+              "slug": "Objectivity",
+              "folder": "Micro_03_Objectivity",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_ST01_M04",
+              "slug": "Norms",
+              "folder": "Micro_04_Norms",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T22_ST02",
+          "slug": "Action_Research",
+          "order": 2,
+          "folder": "Subtopic_02_Action_Research",
+          "micro_topics": [
+            {
+              "id": "T22_ST02_M01",
+              "slug": "Meaning_of_Action_Research",
+              "folder": "Micro_01_Meaning_of_Action_Research",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_ST02_M02",
+              "slug": "Steps_of_Action_Research",
+              "folder": "Micro_02_Steps_of_Action_Research",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_ST02_M03",
+              "slug": "Teacher_as_Researcher",
+              "folder": "Micro_03_Teacher_as_Researcher",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "slug": "NEP_2020_and_NCF_Frameworks",
+      "title_hi": "राष्ट्रीय शिक्षा नीति 2020 एवं NCF ढांचे",
+      "order": 23,
+      "folder": "Topic_23_NEP_2020_and_NCF_Frameworks",
+      "subtopics": [
+        {
+          "id": "T23_ST01",
+          "slug": "NEP_2020",
+          "order": 1,
+          "folder": "Subtopic_01_NEP_2020",
+          "micro_topics": [
+            {
+              "id": "T23_ST01_M01",
+              "slug": "NEP_2020_Overview",
+              "folder": "Micro_01_NEP_2020_Overview",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_ST01_M02",
+              "slug": "Foundational_Literacy_and_Numeracy",
+              "folder": "Micro_02_Foundational_Literacy_and_Numeracy",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_ST01_M03",
+              "slug": "School_Education_Structure",
+              "folder": "Micro_03_School_Education_Structure",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_ST01_M04",
+              "slug": "Competency_Based_Education",
+              "folder": "Micro_04_Competency_Based_Education",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T23_ST02",
+          "slug": "NCF_Frameworks",
+          "order": 2,
+          "folder": "Subtopic_02_NCF_Frameworks",
+          "micro_topics": [
+            {
+              "id": "T23_ST02_M01",
+              "slug": "NCF_Overview",
+              "folder": "Micro_01_NCF_Overview",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_ST02_M02",
+              "slug": "Curriculum_Principles",
+              "folder": "Micro_02_Curriculum_Principles",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_ST02_M03",
+              "slug": "Child_Centered_Education",
+              "folder": "Micro_03_Child_Centered_Education",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "slug": "RTE_Act_2009_and_Child_Rights",
+      "title_hi": "RTE अधिनियम 2009 एवं बाल अधिकार",
+      "order": 24,
+      "folder": "Topic_24_RTE_Act_2009_and_Child_Rights",
+      "subtopics": [
+        {
+          "id": "T24_ST01",
+          "slug": "RTE_Act_2009",
+          "order": 1,
+          "folder": "Subtopic_01_RTE_Act_2009",
+          "micro_topics": [
+            {
+              "id": "T24_ST01_M01",
+              "slug": "RTE_Act_Overview",
+              "folder": "Micro_01_RTE_Act_Overview",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_ST01_M02",
+              "slug": "Right_to_Free_and_Compulsory_Education",
+              "folder": "Micro_02_Right_to_Free_and_Compulsory_Education",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_ST01_M03",
+              "slug": "School_Responsibilities",
+              "folder": "Micro_03_School_Responsibilities",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_ST01_M04",
+              "slug": "Teacher_Responsibilities",
+              "folder": "Micro_04_Teacher_Responsibilities",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T24_ST02",
+          "slug": "Child_Rights",
+          "order": 2,
+          "folder": "Subtopic_02_Child_Rights",
+          "micro_topics": [
+            {
+              "id": "T24_ST02_M01",
+              "slug": "Child_Rights_Concept",
+              "folder": "Micro_01_Child_Rights_Concept",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_ST02_M02",
+              "slug": "Protection_of_Children",
+              "folder": "Micro_02_Protection_of_Children",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_ST02_M03",
+              "slug": "Child_Centered_Education",
+              "folder": "Micro_03_Child_Centered_Education",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "slug": "Historical_Evolution_of_Indian_Education",
+      "title_hi": "भारतीय शिक्षा का ऐतिहासिक विकास",
+      "order": 25,
+      "folder": "Topic_25_Historical_Evolution_of_Indian_Education",
+      "subtopics": [
+        {
+          "id": "T25_ST01",
+          "slug": "Ancient_Indian_Education",
+          "order": 1,
+          "folder": "Subtopic_01_Ancient_Indian_Education",
+          "micro_topics": [
+            {
+              "id": "T25_ST01_M01",
+              "slug": "Gurukul_System",
+              "folder": "Micro_01_Gurukul_System",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST01_M02",
+              "slug": "Buddhist_Education",
+              "folder": "Micro_02_Buddhist_Education",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST01_M03",
+              "slug": "Medieval_Education",
+              "folder": "Micro_03_Medieval_Education",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T25_ST02",
+          "slug": "Modern_Indian_Education",
+          "order": 2,
+          "folder": "Subtopic_02_Modern_Indian_Education",
+          "micro_topics": [
+            {
+              "id": "T25_ST02_M01",
+              "slug": "Wood_Despatch",
+              "folder": "Micro_01_Wood_Despatch",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST02_M02",
+              "slug": "Hunter_Commission",
+              "folder": "Micro_02_Hunter_Commission",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST02_M03",
+              "slug": "Sadler_Commission",
+              "folder": "Micro_03_Sadler_Commission",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST02_M04",
+              "slug": "Wardha_Scheme",
+              "folder": "Micro_04_Wardha_Scheme",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T25_ST03",
+          "slug": "Post_Independence_Education",
+          "order": 3,
+          "folder": "Subtopic_03_Post_Independence_Education",
+          "micro_topics": [
+            {
+              "id": "T25_ST03_M01",
+              "slug": "Kothari_Commission",
+              "folder": "Micro_01_Kothari_Commission",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST03_M02",
+              "slug": "National_Policy_on_Education_1968",
+              "folder": "Micro_02_National_Policy_on_Education_1968",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T25_ST03_M03",
+              "slug": "National_Policy_on_Education_1986",
+              "folder": "Micro_03_National_Policy_on_Education_1986",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "slug": "Philosophical_Schools_and_Thinkers",
+      "title_hi": "दार्शनिक विचारधाराएं एवं शिक्षाविद",
+      "order": 26,
+      "folder": "Topic_26_Philosophical_Schools_and_Thinkers",
+      "subtopics": [
+        {
+          "id": "T26_ST01",
+          "slug": "Indian_Philosophers",
+          "order": 1,
+          "folder": "Subtopic_01_Indian_Philosophers",
+          "micro_topics": [
+            {
+              "id": "T26_ST01_M01",
+              "slug": "Swami_Vivekananda",
+              "folder": "Micro_01_Swami_Vivekananda",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST01_M02",
+              "slug": "Mahatma_Gandhi",
+              "folder": "Micro_02_Mahatma_Gandhi",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST01_M03",
+              "slug": "Rabindranath_Tagore",
+              "folder": "Micro_03_Rabindranath_Tagore",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST01_M04",
+              "slug": "Sri_Aurobindo",
+              "folder": "Micro_04_Sri_Aurobindo",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T26_ST02",
+          "slug": "Western_Philosophers",
+          "order": 2,
+          "folder": "Subtopic_02_Western_Philosophers",
+          "micro_topics": [
+            {
+              "id": "T26_ST02_M01",
+              "slug": "Socrates",
+              "folder": "Micro_01_Socrates",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST02_M02",
+              "slug": "Plato",
+              "folder": "Micro_02_Plato",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST02_M03",
+              "slug": "Aristotle",
+              "folder": "Micro_03_Aristotle",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST02_M04",
+              "slug": "John_Dewey",
+              "folder": "Micro_04_John_Dewey",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST02_M05",
+              "slug": "Rousseau",
+              "folder": "Micro_05_Rousseau",
+              "order": 5,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T26_ST03",
+          "slug": "Educational_Philosophy",
+          "order": 3,
+          "folder": "Subtopic_03_Educational_Philosophy",
+          "micro_topics": [
+            {
+              "id": "T26_ST03_M01",
+              "slug": "Idealism",
+              "folder": "Micro_01_Idealism",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST03_M02",
+              "slug": "Naturalism",
+              "folder": "Micro_02_Naturalism",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST03_M03",
+              "slug": "Pragmatism",
+              "folder": "Micro_03_Pragmatism",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T26_ST03_M04",
+              "slug": "Realism",
+              "folder": "Micro_04_Realism",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "slug": "National_Schemes_and_UP_Structure_UPTET",
+      "title_hi": "प्रारंभिक शिक्षा की प्रमुख योजनाएं एवं संस्थागत संरचना",
+      "order": 27,
+      "folder": "Topic_27_National_Schemes_and_UP_Structure_UPTET",
+      "subtopics": [
+        {
+          "id": "T27_ST01",
+          "slug": "National_Education_Schemes",
+          "order": 1,
+          "folder": "Subtopic_01_National_Education_Schemes",
+          "micro_topics": [
+            {
+              "id": "T27_ST01_M01",
+              "slug": "Mid_Day_Meal",
+              "folder": "Micro_01_Mid_Day_Meal",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T27_ST01_M02",
+              "slug": "Samagra_Shiksha",
+              "folder": "Micro_02_Samagra_Shiksha",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T27_ST01_M03",
+              "slug": "Sarva_Shiksha_Abhiyan",
+              "folder": "Micro_03_Sarva_Shiksha_Abhiyan",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T27_ST01_M04",
+              "slug": "NIPUN_Bharat",
+              "folder": "Micro_04_NIPUN_Bharat",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T27_ST02",
+          "slug": "UP_Education_Structure",
+          "order": 2,
+          "folder": "Subtopic_02_UP_Education_Structure",
+          "micro_topics": [
+            {
+              "id": "T27_ST02_M01",
+              "slug": "Basic_Education_Department",
+              "folder": "Micro_01_Basic_Education_Department",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T27_ST02_M02",
+              "slug": "DIET_Structure",
+              "folder": "Micro_02_DIET_Structure",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T27_ST02_M03",
+              "slug": "SCERT_Uttar_Pradesh",
+              "folder": "Micro_03_SCERT_Uttar_Pradesh",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T27_ST02_M04",
+              "slug": "UP_Exam_Authorities",
+              "folder": "Micro_04_UP_Exam_Authorities",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

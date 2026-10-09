@@ -1,0 +1,1893 @@
+{
+  "schema_version": "0.1.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
+  "status": "scaffolded",
+  "exam_scope": [
+    "UPTET",
+    "CTET"
+  ],
+  "paper_scope": [
+    "Paper_1",
+    "Paper_2"
+  ],
+  "subject": {
+    "id": "MATH",
+    "type": "mathematics_pedagogy",
+    "name_en": "Mathematics and Pedagogy",
+    "name_hi": "गणित एवं शिक्षण शास्त्र"
+  },
+  "total_topics": 24,
+  "total_subtopics": 51,
+  "total_microtopics": 105,
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice"
+  ],
+  "topics": [
+    {
+      "id": "T01_Number_System",
+      "slug": "Number_System",
+      "title_hi": "संख्या पद्धति",
+      "order": 1,
+      "subtopics": [
+        {
+          "id": "T01_Number_System_ST01_Number_Types_and_Place_Value",
+          "slug": "Number_Types_and_Place_Value",
+          "title_hi": "संख्याओं के प्रकार एवं स्थानीय मान",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T01_Number_System_ST01_Number_Types_and_Place_Value_M01_Natural_Whole_Integers_Rational_Reals",
+              "slug": "Natural_Whole_Integers_Rational_Reals",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_Number_System_ST01_Number_Types_and_Place_Value_M02_Place_Value_Face_Value_Expanded_Form",
+              "slug": "Place_Value_Face_Value_Expanded_Form",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T01_Number_System_ST02_Divisibility_and_Remainders",
+          "slug": "Divisibility_and_Remainders",
+          "title_hi": "विभाज्यता एवं शेषफल",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T01_Number_System_ST02_Divisibility_and_Remainders_M01_Divisibility_Rules_and_Remainder_Theorem",
+              "slug": "Divisibility_Rules_and_Remainder_Theorem",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_Number_System_ST02_Divisibility_and_Remainders_M02_Unit_Digit_and_Trailing_Zeros",
+              "slug": "Unit_Digit_and_Trailing_Zeros",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T01_Number_System_ST03_Prime_Factors_and_Factor_Counting",
+          "slug": "Prime_Factors_and_Factor_Counting",
+          "title_hi": "अभाज्य गुणनखंड एवं गुणनखंड गणना",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "T01_Number_System_ST03_Prime_Factors_and_Factor_Counting_M01_Prime_Composite_CoPrime_Properties",
+              "slug": "Prime_Composite_CoPrime_Properties",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T01_Number_System_ST03_Prime_Factors_and_Factor_Counting_M02_Factor_Counting_and_Sum_of_Factors",
+              "slug": "Factor_Counting_and_Sum_of_Factors",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T02_Fractions_and_Decimals",
+      "slug": "Fractions_and_Decimals",
+      "title_hi": "भिन्न एवं दशमलव",
+      "order": 2,
+      "subtopics": [
+        {
+          "id": "T02_Fractions_and_Decimals_ST01_Types_and_Operations",
+          "slug": "Types_and_Operations",
+          "title_hi": "प्रकार एवं संक्रियाएँ",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T02_Fractions_and_Decimals_ST01_Types_and_Operations_M01_Proper_Improper_Mixed_Comparison",
+              "slug": "Proper_Improper_Mixed_Comparison",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_Fractions_and_Decimals_ST01_Types_and_Operations_M02_Fundamental_Operations_on_Fractions",
+              "slug": "Fundamental_Operations_on_Fractions",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T02_Fractions_and_Decimals_ST02_Decimal_Numbers",
+          "slug": "Decimal_Numbers",
+          "title_hi": "दशमलव संख्याएँ",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T02_Fractions_and_Decimals_ST02_Decimal_Numbers_M01_Terminating_NonTerminating_Decimals",
+              "slug": "Terminating_NonTerminating_Decimals",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T02_Fractions_and_Decimals_ST02_Decimal_Numbers_M02_Pure_Mixed_Recurring_to_Fractions",
+              "slug": "Pure_Mixed_Recurring_to_Fractions",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T03_HCF_and_LCM",
+      "slug": "HCF_and_LCM",
+      "title_hi": "महत्तम समापवर्तक एवं लघुत्तम समापवर्त्य",
+      "order": 3,
+      "subtopics": [
+        {
+          "id": "T03_HCF_and_LCM_ST01_Methods_of_HCF_LCM",
+          "slug": "Methods_of_HCF_LCM",
+          "title_hi": "HCF एवं LCM की विधियाँ",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T03_HCF_and_LCM_ST01_Methods_of_HCF_LCM_M01_Factor_and_Division_Methods",
+              "slug": "Factor_and_Division_Methods",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_HCF_and_LCM_ST01_Methods_of_HCF_LCM_M02_HCF_LCM_of_Fractions_Decimals",
+              "slug": "HCF_LCM_of_Fractions_Decimals",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T03_HCF_and_LCM_ST02_Applications",
+          "slug": "Applications",
+          "title_hi": "अनुप्रयोग",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T03_HCF_and_LCM_ST02_Applications_M01_Product_Formula_LCM_HCF_Relation",
+              "slug": "Product_Formula_LCM_HCF_Relation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T03_HCF_and_LCM_ST02_Applications_M02_Bells_Circular_Tracks_Equal_Remainder",
+              "slug": "Bells_Circular_Tracks_Equal_Remainder",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T04_Simplification_Surds_Indices",
+      "slug": "Simplification_Surds_Indices",
+      "title_hi": "सरलीकरण, करणी एवं घातांक",
+      "order": 4,
+      "subtopics": [
+        {
+          "id": "T04_Simplification_Surds_Indices_ST01_Simplification_and_Roots",
+          "slug": "Simplification_and_Roots",
+          "title_hi": "सरलीकरण एवं वर्ग/घनमूल",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T04_Simplification_Surds_Indices_ST01_Simplification_and_Roots_M01_VBODMAS_Rule_and_Brackets",
+              "slug": "VBODMAS_Rule_and_Brackets",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_Simplification_Surds_Indices_ST01_Simplification_and_Roots_M02_Algebraic_Identity_Simplifications",
+              "slug": "Algebraic_Identity_Simplifications",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T04_Simplification_Surds_Indices_ST02_Square_and_Cube_Roots",
+          "slug": "Square_and_Cube_Roots",
+          "title_hi": "वर्गमूल एवं घनमूल",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T04_Simplification_Surds_Indices_ST02_Square_and_Cube_Roots_M01_Square_and_Cube_Root_Methods",
+              "slug": "Square_and_Cube_Root_Methods",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_Simplification_Surds_Indices_ST02_Square_and_Cube_Roots_M02_Approximation_and_Decimal_Roots",
+              "slug": "Approximation_and_Decimal_Roots",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T04_Simplification_Surds_Indices_ST03_Indices_and_Surds",
+          "slug": "Indices_and_Surds",
+          "title_hi": "घातांक एवं करणी",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "T04_Simplification_Surds_Indices_ST03_Indices_and_Surds_M01_Laws_of_Indices_Unknown_Powers",
+              "slug": "Laws_of_Indices_Unknown_Powers",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T04_Simplification_Surds_Indices_ST03_Indices_and_Surds_M02_Surds_Comparison_and_Rationalization",
+              "slug": "Surds_Comparison_and_Rationalization",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T05_Percentage",
+      "slug": "Percentage",
+      "title_hi": "प्रतिशत",
+      "order": 5,
+      "subtopics": [
+        {
+          "id": "T05_Percentage_ST01_Percentage_Basics",
+          "slug": "Percentage_Basics",
+          "title_hi": "प्रतिशत की मूल अवधारणाएँ",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T05_Percentage_ST01_Percentage_Basics_M01_Fraction_Decimal_Percent_Conversion",
+              "slug": "Fraction_Decimal_Percent_Conversion",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_Percentage_ST01_Percentage_Basics_M02_Successive_Percentage_Change",
+              "slug": "Successive_Percentage_Change",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T05_Percentage_ST02_Applications_of_Percentage",
+          "slug": "Applications_of_Percentage",
+          "title_hi": "प्रतिशत के अनुप्रयोग",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T05_Percentage_ST02_Applications_of_Percentage_M01_Income_Expenditure_Consumption_Price",
+              "slug": "Income_Expenditure_Consumption_Price",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T05_Percentage_ST02_Applications_of_Percentage_M02_Exam_Scores_Election_Population_Problems",
+              "slug": "Exam_Scores_Election_Population_Problems",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T06_Profit_Loss_and_Discount",
+      "slug": "Profit_Loss_and_Discount",
+      "title_hi": "लाभ, हानि एवं बट्टा",
+      "order": 6,
+      "subtopics": [
+        {
+          "id": "T06_Profit_Loss_and_Discount_ST01_Profit_and_Loss",
+          "slug": "Profit_and_Loss",
+          "title_hi": "लाभ एवं हानि",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T06_Profit_Loss_and_Discount_ST01_Profit_and_Loss_M01_Cost_Selling_Price_Margin_Calculations",
+              "slug": "Cost_Selling_Price_Margin_Calculations",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_Profit_Loss_and_Discount_ST01_Profit_and_Loss_M02_Equal_SP_and_Cost_Ratio_Cases",
+              "slug": "Equal_SP_and_Cost_Ratio_Cases",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T06_Profit_Loss_and_Discount_ST02_Discount_and_Marked_Price",
+          "slug": "Discount_and_Marked_Price",
+          "title_hi": "बट्टा एवं अंकित मूल्य",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T06_Profit_Loss_and_Discount_ST02_Discount_and_Marked_Price_M01_Marked_Price_and_Successive_Discounts",
+              "slug": "Marked_Price_and_Successive_Discounts",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T06_Profit_Loss_and_Discount_ST02_Discount_and_Marked_Price_M02_Dishonest_Trader_Faulty_Weights",
+              "slug": "Dishonest_Trader_Faulty_Weights",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T07_Simple_and_Compound_Interest",
+      "slug": "Simple_and_Compound_Interest",
+      "title_hi": "साधारण एवं चक्रवृद्धि ब्याज",
+      "order": 7,
+      "subtopics": [
+        {
+          "id": "T07_Simple_and_Compound_Interest_ST01_Simple_Interest",
+          "slug": "Simple_Interest",
+          "title_hi": "साधारण ब्याज",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T07_Simple_and_Compound_Interest_ST01_Simple_Interest_M01_Principal_Rate_Time_Amount_Formulas",
+              "slug": "Principal_Rate_Time_Amount_Formulas",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_Simple_and_Compound_Interest_ST01_Simple_Interest_M02_Installment_Problems_Varying_Rates",
+              "slug": "Installment_Problems_Varying_Rates",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T07_Simple_and_Compound_Interest_ST02_Compound_Interest",
+          "slug": "Compound_Interest",
+          "title_hi": "चक्रवृद्धि ब्याज",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T07_Simple_and_Compound_Interest_ST02_Compound_Interest_M01_Annual_HalfYearly_Compounding",
+              "slug": "Annual_HalfYearly_Compounding",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T07_Simple_and_Compound_Interest_ST02_Compound_Interest_M02_Difference_Between_CI_and_SI",
+              "slug": "Difference_Between_CI_and_SI",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T08_Ratio_Proportion_Unitary_Method",
+      "slug": "Ratio_Proportion_Unitary_Method",
+      "title_hi": "अनुपात, समानुपात एवं एकक विधि",
+      "order": 8,
+      "subtopics": [
+        {
+          "id": "T08_Ratio_Proportion_Unitary_Method_ST01_Ratio_and_Proportion",
+          "slug": "Ratio_and_Proportion",
+          "title_hi": "अनुपात एवं समानुपात",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T08_Ratio_Proportion_Unitary_Method_ST01_Ratio_and_Proportion_M01_Simple_Compound_Continued_Ratios",
+              "slug": "Simple_Compound_Continued_Ratios",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_Ratio_Proportion_Unitary_Method_ST01_Ratio_and_Proportion_M02_Mean_Third_Fourth_Proportional_Coins",
+              "slug": "Mean_Third_Fourth_Proportional_Coins",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T08_Ratio_Proportion_Unitary_Method_ST02_Unitary_Method_and_Variation",
+          "slug": "Unitary_Method_and_Variation",
+          "title_hi": "एकक विधि एवं परिवर्तन",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T08_Ratio_Proportion_Unitary_Method_ST02_Unitary_Method_and_Variation_M01_Direct_and_Inverse_Variation",
+              "slug": "Direct_and_Inverse_Variation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T08_Ratio_Proportion_Unitary_Method_ST02_Unitary_Method_and_Variation_M02_Partnership_Profit_Sharing_Time",
+              "slug": "Partnership_Profit_Sharing_Time",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T09_Work_Time_Pipes_Cisterns_UPTET",
+      "slug": "Work_Time_Pipes_Cisterns_UPTET",
+      "title_hi": "कार्य, समय, नल एवं टंकी",
+      "order": 9,
+      "subtopics": [
+        {
+          "id": "T09_Work_Time_Pipes_Cisterns_UPTET_ST01_Work_and_Efficiency",
+          "slug": "Work_and_Efficiency",
+          "title_hi": "कार्य एवं दक्षता",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T09_Work_Time_Pipes_Cisterns_UPTET_ST01_Work_and_Efficiency_M01_Individual_Group_Work_Efficiency",
+              "slug": "Individual_Group_Work_Efficiency",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_Work_Time_Pipes_Cisterns_UPTET_ST01_Work_and_Efficiency_M02_Alternate_Days_Leaving_Joining_Work",
+              "slug": "Alternate_Days_Leaving_Joining_Work",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T09_Work_Time_Pipes_Cisterns_UPTET_ST02_Pipes_and_Cisterns",
+          "slug": "Pipes_and_Cisterns",
+          "title_hi": "नल एवं टंकी",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T09_Work_Time_Pipes_Cisterns_UPTET_ST02_Pipes_and_Cisterns_M01_Inlet_Outlet_Net_Efficiency",
+              "slug": "Inlet_Outlet_Net_Efficiency",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T09_Work_Time_Pipes_Cisterns_UPTET_ST02_Pipes_and_Cisterns_M02_Leakage_and_Sequential_Opening_Problems",
+              "slug": "Leakage_and_Sequential_Opening_Problems",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T10_Speed_Time_Distance",
+      "slug": "Speed_Time_Distance",
+      "title_hi": "चाल, समय एवं दूरी",
+      "order": 10,
+      "subtopics": [
+        {
+          "id": "T10_Speed_Time_Distance_ST01_Speed_Time_Basics",
+          "slug": "Speed_Time_Basics",
+          "title_hi": "चाल एवं समय की मूल अवधारणाएँ",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T10_Speed_Time_Distance_ST01_Speed_Time_Basics_M01_Unit_Conversion_and_Average_Speed",
+              "slug": "Unit_Conversion_and_Average_Speed",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_Speed_Time_Distance_ST01_Speed_Time_Basics_M02_Relative_Speed_Concepts",
+              "slug": "Relative_Speed_Concepts",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T10_Speed_Time_Distance_ST02_Applications",
+          "slug": "Applications",
+          "title_hi": "अनुप्रयोग",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T10_Speed_Time_Distance_ST02_Applications_M01_Train_Passing_Poles_Platforms",
+              "slug": "Train_Passing_Poles_Platforms",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T10_Speed_Time_Distance_ST02_Applications_M02_Boats_Upstream_Downstream_Flow",
+              "slug": "Boats_Upstream_Downstream_Flow",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T11_Measurement_Money_Time_CTET",
+      "slug": "Measurement_Money_Time_CTET",
+      "title_hi": "मापन, धन एवं समय",
+      "order": 11,
+      "subtopics": [
+        {
+          "id": "T11_Measurement_Money_Time_CTET_ST01_Measurement",
+          "slug": "Measurement",
+          "title_hi": "मापन",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T11_Measurement_Money_Time_CTET_ST01_Measurement_M01_Length_Mass_Capacity_Conversions",
+              "slug": "Length_Mass_Capacity_Conversions",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_Measurement_Money_Time_CTET_ST01_Measurement_M02_NonStandard_to_Standard_Metric_Transition",
+              "slug": "NonStandard_to_Standard_Metric_Transition",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T11_Measurement_Money_Time_CTET_ST02_Money_and_Time",
+          "slug": "Money_and_Time",
+          "title_hi": "धन एवं समय",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T11_Measurement_Money_Time_CTET_ST02_Money_and_Time_M01_Currency_Billing_Transactions",
+              "slug": "Currency_Billing_Transactions",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T11_Measurement_Money_Time_CTET_ST02_Money_and_Time_M02_Time_Intervals_Railway_Schedules_Calendar",
+              "slug": "Time_Intervals_Railway_Schedules_Calendar",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T12_Shapes_Spatial_Understanding_Geometry",
+      "slug": "Shapes_Spatial_Understanding_Geometry",
+      "title_hi": "आकृतियाँ, स्थानिक समझ एवं ज्यामिति",
+      "order": 12,
+      "subtopics": [
+        {
+          "id": "T12_Shapes_Spatial_Understanding_Geometry_ST01_Lines_and_Angles",
+          "slug": "Lines_and_Angles",
+          "title_hi": "रेखाएँ एवं कोण",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T12_Shapes_Spatial_Understanding_Geometry_ST01_Lines_and_Angles_M01_Lines_Rays_Angles_Types",
+              "slug": "Lines_Rays_Angles_Types",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_Shapes_Spatial_Understanding_Geometry_ST01_Lines_and_Angles_M02_Parallel_Lines_Transversal_Theorems",
+              "slug": "Parallel_Lines_Transversal_Theorems",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T12_Shapes_Spatial_Understanding_Geometry_ST02_Triangles_and_Quadrilaterals",
+          "slug": "Triangles_and_Quadrilaterals",
+          "title_hi": "त्रिभुज एवं चतुर्भुज",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T12_Shapes_Spatial_Understanding_Geometry_ST02_Triangles_and_Quadrilaterals_M01_Triangle_Angle_Sum_Congruence_Similarity",
+              "slug": "Triangle_Angle_Sum_Congruence_Similarity",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_Shapes_Spatial_Understanding_Geometry_ST02_Triangles_and_Quadrilaterals_M02_Quadrilateral_Types_Diagonal_Properties",
+              "slug": "Quadrilateral_Types_Diagonal_Properties",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T12_Shapes_Spatial_Understanding_Geometry_ST03_Circle_Geometry",
+          "slug": "Circle_Geometry",
+          "title_hi": "वृत्त ज्यामिति",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "T12_Shapes_Spatial_Understanding_Geometry_ST03_Circle_Geometry_M01_Radius_Chord_Arc_Sector_Properties",
+              "slug": "Radius_Chord_Arc_Sector_Properties",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T12_Shapes_Spatial_Understanding_Geometry_ST03_Circle_Geometry_M02_Central_Inscribed_Angles_Cyclic_Quads",
+              "slug": "Central_Inscribed_Angles_Cyclic_Quads",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T13_Mensuration_2D",
+      "slug": "Mensuration_2D",
+      "title_hi": "समतलीय क्षेत्रमिति",
+      "order": 13,
+      "subtopics": [
+        {
+          "id": "T13_Mensuration_2D_ST01_Triangle_and_Circle_Mensuration",
+          "slug": "Triangle_and_Circle_Mensuration",
+          "title_hi": "त्रिभुज एवं वृत्त की क्षेत्रमिति",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T13_Mensuration_2D_ST01_Triangle_and_Circle_Mensuration_M01_Equilateral_Isosceles_Heron_Formula",
+              "slug": "Equilateral_Isosceles_Heron_Formula",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_Mensuration_2D_ST01_Triangle_and_Circle_Mensuration_M02_Circle_Circumference_Area_Ring",
+              "slug": "Circle_Circumference_Area_Ring",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T13_Mensuration_2D_ST02_Quadrilateral_Mensuration",
+          "slug": "Quadrilateral_Mensuration",
+          "title_hi": "चतुर्भुज की क्षेत्रमिति",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T13_Mensuration_2D_ST02_Quadrilateral_Mensuration_M01_Rectangle_Square_Diagonals_Pathways",
+              "slug": "Rectangle_Square_Diagonals_Pathways",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T13_Mensuration_2D_ST02_Quadrilateral_Mensuration_M02_Parallelogram_Rhombus_Trapezium_Area",
+              "slug": "Parallelogram_Rhombus_Trapezium_Area",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T14_Mensuration_3D_UPTET_Paper2",
+      "slug": "Mensuration_3D_UPTET_Paper2",
+      "title_hi": "ठोस आकृतियों की क्षेत्रमिति",
+      "order": 14,
+      "subtopics": [
+        {
+          "id": "T14_Mensuration_3D_UPTET_Paper2_ST01_Cuboid_and_Cube",
+          "slug": "Cuboid_and_Cube",
+          "title_hi": "घनाभ एवं घन",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T14_Mensuration_3D_UPTET_Paper2_ST01_Cuboid_and_Cube_M01_Surface_Area_Volume_Diagonal_Formulae",
+              "slug": "Surface_Area_Volume_Diagonal_Formulae",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_Mensuration_3D_UPTET_Paper2_ST01_Cuboid_and_Cube_M02_Four_Walls_Area_Hollow_Boxes",
+              "slug": "Four_Walls_Area_Hollow_Boxes",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T14_Mensuration_3D_UPTET_Paper2_ST02_Cylinder_Cone_Sphere",
+          "slug": "Cylinder_Cone_Sphere",
+          "title_hi": "बेलन, शंकु एवं गोला",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T14_Mensuration_3D_UPTET_Paper2_ST02_Cylinder_Cone_Sphere_M01_Right_Circular_Cylinder_Surface_Volume",
+              "slug": "Right_Circular_Cylinder_Surface_Volume",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_Mensuration_3D_UPTET_Paper2_ST02_Cylinder_Cone_Sphere_M02_Right_Circular_Cone_Slant_Height",
+              "slug": "Right_Circular_Cone_Slant_Height",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T14_Mensuration_3D_UPTET_Paper2_ST02_Cylinder_Cone_Sphere_M03_Solid_Hollow_Sphere_Hemisphere",
+              "slug": "Solid_Hollow_Sphere_Hemisphere",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T15_Algebra_UPTET_Paper2",
+      "slug": "Algebra_UPTET_Paper2",
+      "title_hi": "बीजगणित",
+      "order": 15,
+      "subtopics": [
+        {
+          "id": "T15_Algebra_UPTET_Paper2_ST01_Expressions_and_Polynomials",
+          "slug": "Expressions_and_Polynomials",
+          "title_hi": "व्यंजक एवं बहुपद",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T15_Algebra_UPTET_Paper2_ST01_Expressions_and_Polynomials_M01_Variables_Coefficients_Polynomial_Operations",
+              "slug": "Variables_Coefficients_Polynomial_Operations",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_Algebra_UPTET_Paper2_ST01_Expressions_and_Polynomials_M02_Standard_Algebraic_Identities_Applications",
+              "slug": "Standard_Algebraic_Identities_Applications",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T15_Algebra_UPTET_Paper2_ST02_Equations_and_Factorization",
+          "slug": "Equations_and_Factorization",
+          "title_hi": "समीकरण एवं गुणनखंड",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T15_Algebra_UPTET_Paper2_ST02_Equations_and_Factorization_M01_Linear_Equations_One_Two_Variables",
+              "slug": "Linear_Equations_One_Two_Variables",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T15_Algebra_UPTET_Paper2_ST02_Equations_and_Factorization_M02_Polynomial_Factorization_Quadratic_Roots",
+              "slug": "Polynomial_Factorization_Quadratic_Roots",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T16_Statistics_and_Probability",
+      "slug": "Statistics_and_Probability",
+      "title_hi": "सांख्यिकी एवं प्रायिकता",
+      "order": 16,
+      "subtopics": [
+        {
+          "id": "T16_Statistics_and_Probability_ST01_Statistics",
+          "slug": "Statistics",
+          "title_hi": "सांख्यिकी",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T16_Statistics_and_Probability_ST01_Statistics_M01_Mean_Median_Mode_Ungrouped_Grouped",
+              "slug": "Mean_Median_Mode_Ungrouped_Grouped",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_Statistics_and_Probability_ST01_Statistics_M02_Range_and_Empirical_Relationship",
+              "slug": "Range_and_Empirical_Relationship",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T16_Statistics_and_Probability_ST02_Data_Representation_and_Probability",
+          "slug": "Data_Representation_and_Probability",
+          "title_hi": "आँकड़ा निरूपण एवं प्रायिकता",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T16_Statistics_and_Probability_ST02_Data_Representation_and_Probability_M01_Bar_Graph_Histogram_Pie_Chart",
+              "slug": "Bar_Graph_Histogram_Pie_Chart",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T16_Statistics_and_Probability_ST02_Data_Representation_and_Probability_M02_Classical_Probability_Coins_Dice_Cards",
+              "slug": "Classical_Probability_Coins_Dice_Cards",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T17_Patterns_Symmetry_Nets_CTET",
+      "slug": "Patterns_Symmetry_Nets_CTET",
+      "title_hi": "प्रतिरूप, सममिति एवं जाल",
+      "order": 17,
+      "subtopics": [
+        {
+          "id": "T17_Patterns_Symmetry_Nets_CTET_ST01_Symmetry_and_Patterns",
+          "slug": "Symmetry_and_Patterns",
+          "title_hi": "सममिति एवं प्रतिरूप",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T17_Patterns_Symmetry_Nets_CTET_ST01_Symmetry_and_Patterns_M01_Line_Symmetry_Axes_Counting",
+              "slug": "Line_Symmetry_Axes_Counting",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_Patterns_Symmetry_Nets_CTET_ST01_Symmetry_and_Patterns_M02_Rotational_Symmetry_Order_Angle",
+              "slug": "Rotational_Symmetry_Order_Angle",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T17_Patterns_Symmetry_Nets_CTET_ST02_Patterns_and_Nets",
+          "slug": "Patterns_and_Nets",
+          "title_hi": "प्रतिरूप एवं ठोस आकृतियों के जाल",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T17_Patterns_Symmetry_Nets_CTET_ST02_Patterns_and_Nets_M01_Number_Shape_Patterns_Generalization",
+              "slug": "Number_Shape_Patterns_Generalization",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T17_Patterns_Symmetry_Nets_CTET_ST02_Patterns_and_Nets_M02_TwoD_Nets_of_3D_Solids_Tessellation",
+              "slug": "TwoD_Nets_of_3D_Solids_Tessellation",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET",
+      "slug": "Nature_of_Mathematics_Logical_Thinking_CTET",
+      "title_hi": "गणित की प्रकृति एवं तार्किक चिंतन",
+      "order": 18,
+      "subtopics": [
+        {
+          "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET_ST01_Nature_and_Reasoning",
+          "slug": "Nature_and_Reasoning",
+          "title_hi": "गणित की प्रकृति एवं तर्क",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET_ST01_Nature_and_Reasoning_M01_Abstract_Hierarchical_Logical_Nature",
+              "slug": "Abstract_Hierarchical_Logical_Nature",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET_ST01_Nature_and_Reasoning_M02_Inductive_vs_Deductive_Reasoning",
+              "slug": "Inductive_vs_Deductive_Reasoning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET_ST02_Mathematical_Language",
+          "slug": "Mathematical_Language",
+          "title_hi": "गणितीय भाषा एवं संकल्पनाएँ",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET_ST02_Mathematical_Language_M01_Mathematical_Symbols_Terms_Definitions",
+              "slug": "Mathematical_Symbols_Terms_Definitions",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T18_Nature_of_Mathematics_Logical_Thinking_CTET_ST02_Mathematical_Language_M02_Axioms_Postulates_Conjectures_Theorems",
+              "slug": "Axioms_Postulates_Conjectures_Theorems",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T19_Curriculum_Place_and_Objectives",
+      "slug": "Curriculum_Place_and_Objectives",
+      "title_hi": "गणित पाठ्यचर्या, स्थान एवं उद्देश्य",
+      "order": 19,
+      "subtopics": [
+        {
+          "id": "T19_Curriculum_Place_and_Objectives_ST01_Aims_and_Objectives",
+          "slug": "Aims_and_Objectives",
+          "title_hi": "उद्देश्य एवं गणितीकरण",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T19_Curriculum_Place_and_Objectives_ST01_Aims_and_Objectives_M01_Narrow_vs_Higher_Aims_Mathematization",
+              "slug": "Narrow_vs_Higher_Aims_Mathematization",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_Curriculum_Place_and_Objectives_ST01_Aims_and_Objectives_M02_Revised_Bloom_Taxonomy_in_Math",
+              "slug": "Revised_Bloom_Taxonomy_in_Math",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T19_Curriculum_Place_and_Objectives_ST02_Curriculum_Frameworks",
+          "slug": "Curriculum_Frameworks",
+          "title_hi": "पाठ्यचर्या एवं नीतिगत दृष्टिकोण",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T19_Curriculum_Place_and_Objectives_ST02_Curriculum_Frameworks_M01_NCF_2005_Vision_for_Mathematics",
+              "slug": "NCF_2005_Vision_for_Mathematics",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T19_Curriculum_Place_and_Objectives_ST02_Curriculum_Frameworks_M02_NEP_2020_Computational_Mathematical_Thinking",
+              "slug": "NEP_2020_Computational_Mathematical_Thinking",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T20_Teaching_Methods_and_Van_Hiele_Model",
+      "slug": "Teaching_Methods_and_Van_Hiele_Model",
+      "title_hi": "गणित शिक्षण विधियाँ एवं वान हिले मॉडल",
+      "order": 20,
+      "subtopics": [
+        {
+          "id": "T20_Teaching_Methods_and_Van_Hiele_Model_ST01_Teaching_Methods",
+          "slug": "Teaching_Methods",
+          "title_hi": "शिक्षण विधियाँ",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T20_Teaching_Methods_and_Van_Hiele_Model_ST01_Teaching_Methods_M01_Inductive_Deductive_Analytic_Synthetic",
+              "slug": "Inductive_Deductive_Analytic_Synthetic",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_Teaching_Methods_and_Van_Hiele_Model_ST01_Teaching_Methods_M02_Problem_Solving_Heuristic_Project_Method",
+              "slug": "Problem_Solving_Heuristic_Project_Method",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T20_Teaching_Methods_and_Van_Hiele_Model_ST02_Van_Hiele_Model",
+          "slug": "Van_Hiele_Model",
+          "title_hi": "वान हिले मॉडल",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T20_Teaching_Methods_and_Van_Hiele_Model_ST02_Van_Hiele_Model_M01_Level_0_Visualization_and_Level_1_Analysis",
+              "slug": "Level_0_Visualization_and_Level_1_Analysis",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T20_Teaching_Methods_and_Van_Hiele_Model_ST02_Van_Hiele_Model_M02_Level_2_Informal_Level_3_Deduction_Rigor",
+              "slug": "Level_2_Informal_Level_3_Deduction_Rigor",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T21_Math_Manipulatives_TLM_ICT_CTET",
+      "slug": "Math_Manipulatives_TLM_ICT_CTET",
+      "title_hi": "गणितीय उपकरण, TLM एवं ICT",
+      "order": 21,
+      "subtopics": [
+        {
+          "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST01_Manipulatives_and_TLM",
+          "slug": "Manipulatives_and_TLM",
+          "title_hi": "गणितीय उपकरण एवं शिक्षण सामग्री",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST01_Manipulatives_and_TLM_M01_Geoboard_for_Shapes_Perimeter_Area",
+              "slug": "Geoboard_for_Shapes_Perimeter_Area",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST01_Manipulatives_and_TLM_M02_Abacus_Place_Value_Visually_Impaired",
+              "slug": "Abacus_Place_Value_Visually_Impaired",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST01_Manipulatives_and_TLM_M03_Tangram_and_Dienes_Base_10_Blocks",
+              "slug": "Tangram_and_Dienes_Base_10_Blocks",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST01_Manipulatives_and_TLM_M04_Grid_Paper_Dot_Paper_Decimals_Symmetry",
+              "slug": "Grid_Paper_Dot_Paper_Decimals_Symmetry",
+              "order": 4,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST02_ICT_and_Math_Lab",
+          "slug": "ICT_and_Math_Lab",
+          "title_hi": "ICT एवं गणित प्रयोगशाला",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST02_ICT_and_Math_Lab_M01_Math_Lab_Activities_Low_Cost_TLM",
+              "slug": "Math_Lab_Activities_Low_Cost_TLM",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T21_Math_Manipulatives_TLM_ICT_CTET_ST02_ICT_and_Math_Lab_M02_GeoGebra_DIKSHA_Simulations",
+              "slug": "GeoGebra_DIKSHA_Simulations",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T22_Error_Analysis_Alternative_Conceptions",
+      "slug": "Error_Analysis_Alternative_Conceptions",
+      "title_hi": "त्रुटि विश्लेषण एवं वैकल्पिक अवधारणाएँ",
+      "order": 22,
+      "subtopics": [
+        {
+          "id": "T22_Error_Analysis_Alternative_Conceptions_ST01_Mathematical_Errors",
+          "slug": "Mathematical_Errors",
+          "title_hi": "गणितीय त्रुटियाँ",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T22_Error_Analysis_Alternative_Conceptions_ST01_Mathematical_Errors_M01_Procedural_vs_Conceptual_Errors",
+              "slug": "Procedural_vs_Conceptual_Errors",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_Error_Analysis_Alternative_Conceptions_ST01_Mathematical_Errors_M02_Careless_Errors_and_Language_Barriers",
+              "slug": "Careless_Errors_and_Language_Barriers",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T22_Error_Analysis_Alternative_Conceptions_ST02_Alternative_Conceptions",
+          "slug": "Alternative_Conceptions",
+          "title_hi": "वैकल्पिक अवधारणाएँ",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T22_Error_Analysis_Alternative_Conceptions_ST02_Alternative_Conceptions_M01_Child_Math_Thinking_Naive_Theories",
+              "slug": "Child_Math_Thinking_Naive_Theories",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T22_Error_Analysis_Alternative_Conceptions_ST02_Alternative_Conceptions_M02_Error_Guided_Remedial_Design",
+              "slug": "Error_Guided_Remedial_Design",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T23_Assessment_Evaluation_Remedial_Teaching",
+      "slug": "Assessment_Evaluation_Remedial_Teaching",
+      "title_hi": "आकलन, मूल्यांकन एवं उपचारात्मक शिक्षण",
+      "order": 23,
+      "subtopics": [
+        {
+          "id": "T23_Assessment_Evaluation_Remedial_Teaching_ST01_Assessment_and_Evaluation",
+          "slug": "Assessment_and_Evaluation",
+          "title_hi": "आकलन एवं मूल्यांकन",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T23_Assessment_Evaluation_Remedial_Teaching_ST01_Assessment_and_Evaluation_M01_Formative_Summative_Math_Assessment",
+              "slug": "Formative_Summative_Math_Assessment",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_Assessment_Evaluation_Remedial_Teaching_ST01_Assessment_and_Evaluation_M02_Math_Rubrics_Portfolios_Open_Ended_Tasks",
+              "slug": "Math_Rubrics_Portfolios_Open_Ended_Tasks",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T23_Assessment_Evaluation_Remedial_Teaching_ST02_Diagnostic_and_Remedial",
+          "slug": "Diagnostic_and_Remedial",
+          "title_hi": "नैदानिक एवं उपचारात्मक शिक्षण",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T23_Assessment_Evaluation_Remedial_Teaching_ST02_Diagnostic_and_Remedial_M01_Diagnostic_Testing_Gap_Identification",
+              "slug": "Diagnostic_Testing_Gap_Identification",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T23_Assessment_Evaluation_Remedial_Teaching_ST02_Diagnostic_and_Remedial_M02_Remedial_Lesson_Planning_Individualized",
+              "slug": "Remedial_Lesson_Planning_Individualized",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T24_FLN_and_National_Math_Missions",
+      "slug": "FLN_and_National_Math_Missions",
+      "title_hi": "FLN एवं राष्ट्रीय गणितीय पहल",
+      "order": 24,
+      "subtopics": [
+        {
+          "id": "T24_FLN_and_National_Math_Missions_ST01_Foundational_Numeracy",
+          "slug": "Foundational_Numeracy",
+          "title_hi": "आधारभूत संख्यात्मकता",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "T24_FLN_and_National_Math_Missions_ST01_Foundational_Numeracy_M01_Foundational_Numeracy_Milestones",
+              "slug": "Foundational_Numeracy_Milestones",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_FLN_and_National_Math_Missions_ST01_Foundational_Numeracy_M02_Pre_Number_Concepts_Operations_Grades_1_3",
+              "slug": "Pre_Number_Concepts_Operations_Grades_1_3",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "T24_FLN_and_National_Math_Missions_ST02_Activity_Based_Math_and_Anxiety",
+          "slug": "Activity_Based_Math_and_Anxiety",
+          "title_hi": "गतिविधि आधारित गणित एवं गणितीय चिंता",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "T24_FLN_and_National_Math_Missions_ST02_Activity_Based_Math_and_Anxiety_M01_Toy_and_Activity_Based_Math_Pedagogy",
+              "slug": "Toy_and_Activity_Based_Math_Pedagogy",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "T24_FLN_and_National_Math_Missions_ST02_Activity_Based_Math_and_Anxiety_M02_Overcoming_Math_Anxiety_and_Phobia",
+              "slug": "Overcoming_Math_Anxiety_and_Phobia",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

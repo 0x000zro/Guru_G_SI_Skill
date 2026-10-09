@@ -1,0 +1,19 @@
+{
+  "brand_name": "SISKILL",
+  "full_title": "SISKILL: Super Intelligence Skill",
+  "tagline": "Super Intelligence Skill to Crack CTET & UPTET",
+  "domain": "siskill.in",
+  "website_url": "https://siskill.in",
+  "support_email": "support@siskill.in",
+  "android": {
+    "package_name": "in.siskill.app",
+    "app_name": "SISKILL Exam Prep",
+    "deep_link_scheme": "https",
+    "deep_link_host": "siskill.in"
+  },
+  "api_endpoints": {
+    "content_base_url": "https://siskill.in/content/",
+    "sync_manifest_url": "https://raw.githubusercontent.com/0x000zro/SISKILL_TET_Prep/main/app/src/main/assets/bundled_content/master_manifest.json",
+    "github_mirror_fallback": "https://raw.githubusercontent.com/0x000zro/SISKILL_TET_Prep/main/app/src/main/assets/bundled_content/"
+  }
+}

@@ -1,0 +1,1513 @@
+{
+  "name_en": "English Language and Pedagogy",
+  "name_hi": "अंग्रेजी भाषा एवं शिक्षण शास्त्र",
+  "total_topics": 21,
+  "topics": [
+    {
+      "id": "T01",
+      "code": "Topic_01_Unseen_Comprehension_Prose_and_Poetry",
+      "name_hi": "Unseen Comprehension — Prose and Poetry",
+      "subtopics": [
+        {
+          "id": "ST01_01",
+          "code": "Subtopic_01_Unseen_Prose_Passages",
+          "micro_topics": [
+            {
+              "micro_id": "ST01_01_M01",
+              "folder": "Micro_01_Factual_Inferential_Global_Comprehension",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST01_01_M02",
+              "folder": "Micro_02_Contextual_Vocabulary_Reference_Words",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST01_02",
+          "code": "Subtopic_02_Unseen_Poetry_Stanza_Analysis",
+          "micro_topics": [
+            {
+              "micro_id": "ST01_02_M01",
+              "folder": "Micro_01_Poetic_Emotion_Theme_Tone_Central_Idea",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST01_02_M02",
+              "folder": "Micro_02_Poetic_Devices_Rhyme_Scheme_Imagery",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "code": "Topic_02_Phonetics_Sounds_and_Spelling_Rules_UPTET",
+      "name_hi": "Phonetics, English Sounds and Spelling Rules",
+      "subtopics": [
+        {
+          "id": "ST02_01",
+          "code": "Subtopic_01_English_Sound_System_Phonology",
+          "micro_topics": [
+            {
+              "micro_id": "ST02_01_M01",
+              "folder": "Micro_01_FortyFour_Phonemes_Monophthongs_Diphthongs",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST02_01_M02",
+              "folder": "Micro_02_TwentyFour_Consonant_Sounds_Voiced_Voiceless",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST02_02",
+          "code": "Subtopic_02_Stress_Intonation_Orthography",
+          "micro_topics": [
+            {
+              "micro_id": "ST02_02_M01",
+              "folder": "Micro_01_Word_Sentence_Stress_Intonation_Patterns",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST02_02_M02",
+              "folder": "Micro_02_Silent_Letters_Spelling_Rules_Errors",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "code": "Topic_03_Parts_of_Speech_Nouns_Pronouns_Cases",
+      "name_hi": "Parts of Speech — Nouns, Pronouns and Cases",
+      "subtopics": [
+        {
+          "id": "ST03_01",
+          "code": "Subtopic_01_Nouns_Gender_Number_Cases",
+          "micro_topics": [
+            {
+              "micro_id": "ST03_01_M01",
+              "folder": "Micro_01_Noun_Types_Countable_Uncountable",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST03_01_M02",
+              "folder": "Micro_02_Irregular_Foreign_Plurals_Gender_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST03_01_M03",
+              "folder": "Micro_03_Nominative_Objective_Possessive_Apostrophe_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST03_02",
+          "code": "Subtopic_02_Pronouns_and_Syntactic_Agreement",
+          "micro_topics": [
+            {
+              "micro_id": "ST03_02_M01",
+              "folder": "Micro_01_Personal_Pronouns_Order_Case_Concord",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST03_02_M02",
+              "folder": "Micro_02_Relative_Pronouns_Antecedent_Agreement",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST03_02_M03",
+              "folder": "Micro_03_Demonstrative_Indefinite_Reflexive_Pronouns",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "code": "Topic_04_Adjectives_Degrees_and_Determiners",
+      "name_hi": "Adjectives, Degrees of Comparison and Determiners",
+      "subtopics": [
+        {
+          "id": "ST04_01",
+          "code": "Subtopic_01_Adjectives_Classification_Order",
+          "micro_topics": [
+            {
+              "micro_id": "ST04_01_M01",
+              "folder": "Micro_01_Adjective_Types_Attributive_Predicative",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST04_01_M02",
+              "folder": "Micro_02_Order_of_Adjectives_Participial_Adjectives",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST04_02",
+          "code": "Subtopic_02_Degrees_and_Determiners",
+          "micro_topics": [
+            {
+              "micro_id": "ST04_02_M01",
+              "folder": "Micro_01_Comparison_Degrees_Irregular_Forms",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST04_02_M02",
+              "folder": "Micro_02_Quantifiers_Few_Little_Some_Any",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST04_02_M03",
+              "folder": "Micro_03_Articles_Definite_Indefinite_Zero_Article",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "code": "Topic_05_Verbs_NonFinites_Modals_Concord",
+      "name_hi": "Verbs, Non-Finites, Modals and Subject-Verb Concord",
+      "subtopics": [
+        {
+          "id": "ST05_01",
+          "code": "Subtopic_01_Finite_Verbs_and_Agreement",
+          "micro_topics": [
+            {
+              "micro_id": "ST05_01_M01",
+              "folder": "Micro_01_Transitive_Intransitive_Linking_Verbs",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST05_01_M02",
+              "folder": "Micro_02_Subject_Verb_Agreement_Rules_Concord",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST05_02",
+          "code": "Subtopic_02_Non_Finite_Verbs_UPTET",
+          "micro_topics": [
+            {
+              "micro_id": "ST05_02_M01",
+              "folder": "Micro_01_Infinitives_Bare_Infinitive_Usage",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST05_02_M02",
+              "folder": "Micro_02_Gerund_vs_Present_Participle_Dangling_Modifiers",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST05_03",
+          "code": "Subtopic_03_Auxiliaries_and_Modals",
+          "micro_topics": [
+            {
+              "micro_id": "ST05_03_M01",
+              "folder": "Micro_01_Primary_Auxiliaries_vs_Modal_Auxiliaries",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST05_03_M02",
+              "folder": "Micro_02_Modal_Functions_Ability_Obligation_Probability",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "code": "Topic_06_Adverbs_Prepositions_Conjunctions",
+      "name_hi": "Adverbs, Prepositions and Conjunctions",
+      "subtopics": [
+        {
+          "id": "ST06_01",
+          "code": "Subtopic_01_Adverbs_Position_Inversion",
+          "micro_topics": [
+            {
+              "micro_id": "ST06_01_M01",
+              "folder": "Micro_01_Adverb_Types_Manner_Place_Time_Degree",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST06_01_M02",
+              "folder": "Micro_02_Position_of_Adverbs_and_Negative_Inversion",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST06_02",
+          "code": "Subtopic_02_Prepositions_Functional_Fixed_UPTET",
+          "micro_topics": [
+            {
+              "micro_id": "ST06_02_M01",
+              "folder": "Micro_01_Prepositions_Time_Place_Direction",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST06_02_M02",
+              "folder": "Micro_02_Fixed_Prepositions_with_Verbs_Adjectives",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST06_03",
+          "code": "Subtopic_03_Conjunctions_Coordination_Subordination",
+          "micro_topics": [
+            {
+              "micro_id": "ST06_03_M01",
+              "folder": "Micro_01_Coordinating_and_Subordinating_Conjunctions",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST06_03_M02",
+              "folder": "Micro_02_Correlative_Conjunctions_and_Parallelism",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "code": "Topic_07_Tenses_Aspects_and_Conditionals",
+      "name_hi": "Tenses, Aspects and Conditional Sentences",
+      "subtopics": [
+        {
+          "id": "ST07_01",
+          "code": "Subtopic_01_Tense_Forms_and_Sequence",
+          "micro_topics": [
+            {
+              "micro_id": "ST07_01_M01",
+              "folder": "Micro_01_Twelve_Tense_Aspect_Structures",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST07_01_M02",
+              "folder": "Micro_02_Stative_vs_Dynamic_Verbs_in_Aspects",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST07_01_M03",
+              "folder": "Micro_03_Sequence_of_Tenses_in_Complex_Sentences",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST07_02",
+          "code": "Subtopic_02_Conditional_Sentences_UPTET",
+          "micro_topics": [
+            {
+              "micro_id": "ST07_02_M01",
+              "folder": "Micro_01_Zero_First_Second_Third_Conditionals",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST07_02_M02",
+              "folder": "Micro_02_Mixed_Conditionals_and_Subjunctive_Mood",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "code": "Topic_08_Voice_Active_Passive_Transformations_UPTET",
+      "name_hi": "Active and Passive Voice Transformations",
+      "subtopics": [
+        {
+          "id": "ST08_01",
+          "code": "Subtopic_01_General_Tense_Voice_Conversion",
+          "micro_topics": [
+            {
+              "micro_id": "ST08_01_M01",
+              "folder": "Micro_01_Transitivity_Constraints_Voice_Basics",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST08_01_M02",
+              "folder": "Micro_02_Voice_Conversion_across_All_Tenses",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST08_02",
+          "code": "Subtopic_02_Special_Voice_Structures",
+          "micro_topics": [
+            {
+              "micro_id": "ST08_02_M01",
+              "folder": "Micro_01_Imperative_Sentences_Voice_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST08_02_M02",
+              "folder": "Micro_02_Interrogative_and_Quasi_Passive_Constructions",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "code": "Topic_09_Narration_Direct_Indirect_Speech_UPTET",
+      "name_hi": "Direct and Indirect Speech / Narration",
+      "subtopics": [
+        {
+          "id": "ST09_01",
+          "code": "Subtopic_01_Basic_Narration_Rules",
+          "micro_topics": [
+            {
+              "micro_id": "ST09_01_M01",
+              "folder": "Micro_01_Reporting_Verb_Tense_Backshift_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST09_01_M02",
+              "folder": "Micro_02_Pronoun_Changes_Adverbials_of_Time_Place",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST09_02",
+          "code": "Subtopic_02_Sentence_Specific_Transformations",
+          "micro_topics": [
+            {
+              "micro_id": "ST09_02_M01",
+              "folder": "Micro_01_Assertive_and_Interrogative_Speech_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST09_02_M02",
+              "folder": "Micro_02_Imperative_Exclamatory_Optative_Narration",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "code": "Topic_10_Sentence_Types_Clauses_Synthesis",
+      "name_hi": "Sentence Types, Clause Analysis and Synthesis",
+      "subtopics": [
+        {
+          "id": "ST10_01",
+          "code": "Subtopic_01_Sentence_Elements_and_Moods",
+          "micro_topics": [
+            {
+              "micro_id": "ST10_01_M01",
+              "folder": "Micro_01_Sentence_Components_Subject_Predicate_Objects",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST10_01_M02",
+              "folder": "Micro_02_Declarative_Interrogative_Imperative_Question_Tags",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST10_02",
+          "code": "Subtopic_02_Clauses_and_Synthesis_UPTET",
+          "micro_topics": [
+            {
+              "micro_id": "ST10_02_M01",
+              "folder": "Micro_01_Noun_Adjective_Adverbial_Clauses",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST10_02_M02",
+              "folder": "Micro_02_Simple_Compound_Complex_Transformations",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "code": "Topic_11_Vocabulary_Word_Formation_Idioms",
+      "name_hi": "Vocabulary, Word Formation, Idioms and Phrasal Verbs",
+      "subtopics": [
+        {
+          "id": "ST11_01",
+          "code": "Subtopic_01_Lexical_Relations_and_Confusion",
+          "micro_topics": [
+            {
+              "micro_id": "ST11_01_M01",
+              "folder": "Micro_01_Synonyms_Antonyms_Homophones_Homographs",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST11_01_M02",
+              "folder": "Micro_02_One_Word_Substitutes_Confusable_Words",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST11_02",
+          "code": "Subtopic_02_Morphology_Idioms_Phrasal_Verbs",
+          "micro_topics": [
+            {
+              "micro_id": "ST11_02_M01",
+              "folder": "Micro_01_Roots_Prefixes_Suffixes_Word_Formation",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST11_02_M02",
+              "folder": "Micro_02_Idioms_Proverbs_Separable_Phrasal_Verbs",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "code": "Topic_12_Figures_of_Speech_Poetic_Devices_UPTET",
+      "name_hi": "Figures of Speech and Poetic Devices",
+      "subtopics": [
+        {
+          "id": "ST12_01",
+          "code": "Subtopic_01_Classical_Figures_of_Speech",
+          "micro_topics": [
+            {
+              "micro_id": "ST12_01_M01",
+              "folder": "Micro_01_Simile_Metaphor_Personification_Apostrophe",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST12_01_M02",
+              "folder": "Micro_02_Hyperbole_Oxymoron_Onomatopoeia_Alliteration",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST12_02",
+          "code": "Subtopic_02_Poetic_Devices_and_Metrics",
+          "micro_topics": [
+            {
+              "micro_id": "ST12_02_M01",
+              "folder": "Micro_01_Irony_Antithesis_Understatement_Pun",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST12_02_M02",
+              "folder": "Micro_02_Stanza_Forms_Sonnet_Rhyme_Meter_Basics",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "code": "Topic_13_Language_Learning_and_Acquisition_CTET",
+      "name_hi": "Language Learning and Language Acquisition",
+      "subtopics": [
+        {
+          "id": "ST13_01",
+          "code": "Subtopic_01_L1_Acquisition_vs_L2_Learning",
+          "micro_topics": [
+            {
+              "micro_id": "ST13_01_M01",
+              "folder": "Micro_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST13_01_M02",
+              "folder": "Micro_02_Affective_Filter_and_Contextual_Variables",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST13_02",
+          "code": "Subtopic_02_Theories_of_Language_Acquisition",
+          "micro_topics": [
+            {
+              "micro_id": "ST13_02_M01",
+              "folder": "Micro_01_Krashen_Monitor_Model_Input_Hypothesis",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST13_02_M02",
+              "folder": "Micro_02_Chomsky_LAD_Universal_Grammar",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST13_02_M03",
+              "folder": "Micro_03_Skinner_Operant_vs_Vygotsky_Socio_Cultural",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "code": "Topic_14_Principles_and_Maxims_of_Language_Teaching",
+      "name_hi": "Principles of Language Teaching and Pedagogical Maxims",
+      "subtopics": [
+        {
+          "id": "ST14_01",
+          "code": "Subtopic_01_Principles_of_Teaching_English",
+          "micro_topics": [
+            {
+              "micro_id": "ST14_01_M01",
+              "folder": "Micro_01_Habit_Formation_Motivation_Natural_Order",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST14_01_M02",
+              "folder": "Micro_02_Selection_and_Gradation_Criteria",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST14_02",
+          "code": "Subtopic_02_Pedagogical_Maxims_in_English",
+          "micro_topics": [
+            {
+              "micro_id": "ST14_02_M01",
+              "folder": "Micro_01_Known_to_Unknown_Concrete_to_Abstract",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST14_02_M02",
+              "folder": "Micro_02_Induction_to_Deduction_Whole_to_Part",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "code": "Topic_15_Approaches_and_Methods_of_Teaching_English",
+      "name_hi": "Approaches and Methods of Teaching English",
+      "subtopics": [
+        {
+          "id": "ST15_01",
+          "code": "Subtopic_01_Traditional_Structural_Methods",
+          "micro_topics": [
+            {
+              "micro_id": "ST15_01_M01",
+              "folder": "Micro_01_Grammar_Translation_Method_GTM_Analysis",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_01_M02",
+              "folder": "Micro_02_Direct_Method_Principles_and_Limitations",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_01_M03",
+              "folder": "Micro_03_Dr_West_Method_and_Bilingual_Method_Dodson",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST15_02",
+          "code": "Subtopic_02_Communicative_Modern_Approaches_CTET",
+          "micro_topics": [
+            {
+              "micro_id": "ST15_02_M01",
+              "folder": "Micro_01_Structural_Situational_Approach_Patterns",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_02_M02",
+              "folder": "Micro_02_Communicative_Language_Teaching_CLT",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_02_M03",
+              "folder": "Micro_03_Task_Based_Language_Teaching_and_Eclectic",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "code": "Topic_16_Language_Skills_Listening_Speaking_CTET",
+      "name_hi": "Language Skills — Listening and Speaking (Aural-Oral)",
+      "subtopics": [
+        {
+          "id": "ST16_01",
+          "code": "Subtopic_01_Listening_Comprehension_Aural",
+          "micro_topics": [
+            {
+              "micro_id": "ST16_01_M01",
+              "folder": "Micro_01_Subskills_of_Listening_Gist_Detail",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST16_01_M02",
+              "folder": "Micro_02_TopDown_vs_BottomUp_Listening_Processes",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST16_02",
+          "code": "Subtopic_02_Speaking_and_Oral_Fluency",
+          "micro_topics": [
+            {
+              "micro_id": "ST16_02_M01",
+              "folder": "Micro_01_Subskills_of_Speaking_Pronunciation_Fluency",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST16_02_M02",
+              "folder": "Micro_02_Classroom_Speaking_Tasks_Role_Play_Dialogues",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "code": "Topic_17_Language_Skills_Reading_Writing_CTET",
+      "name_hi": "Language Skills — Reading and Writing (Literacy)",
+      "subtopics": [
+        {
+          "id": "ST17_01",
+          "code": "Subtopic_01_Reading_Pedagogy_and_Techniques",
+          "micro_topics": [
+            {
+              "micro_id": "ST17_01_M01",
+              "folder": "Micro_01_Loud_vs_Silent_Extensive_vs_Intensive_Reading",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST17_01_M02",
+              "folder": "Micro_02_Skimming_Scanning_and_Dyslexia_Remediation",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST17_02",
+          "code": "Subtopic_02_Writing_Pedagogy_and_Composition",
+          "micro_topics": [
+            {
+              "micro_id": "ST17_02_M01",
+              "folder": "Micro_01_Mechanics_of_Writing_Handwriting_Styles",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST17_02_M02",
+              "folder": "Micro_02_Controlled_Guided_Free_Creative_Writing",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST17_02_M03",
+              "folder": "Micro_03_Process_Approach_to_Writing_and_Dysgraphia",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "code": "Topic_18_Grammar_in_Context_and_Multilingualism_CTET",
+      "name_hi": "Grammar in Context and Diverse Multilingual Classrooms",
+      "subtopics": [
+        {
+          "id": "ST18_01",
+          "code": "Subtopic_01_Grammar_Pedagogy_Context",
+          "micro_topics": [
+            {
+              "micro_id": "ST18_01_M01",
+              "folder": "Micro_01_Inductive_vs_Deductive_Grammar_Teaching",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST18_01_M02",
+              "folder": "Micro_02_Teaching_Grammar_in_Meaningful_Context",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST18_02",
+          "code": "Subtopic_02_Multilingualism_as_Resource",
+          "micro_topics": [
+            {
+              "micro_id": "ST18_02_M01",
+              "folder": "Micro_01_L1_Interference_vs_Cognitive_Scaffold",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST18_02_M02",
+              "folder": "Micro_02_Translanguaging_and_Classroom_Diversity",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "code": "Topic_19_Teaching_Learning_Materials_and_Digital_Aids",
+      "name_hi": "Teaching-Learning Materials (TLM) and Digital Aids",
+      "subtopics": [
+        {
+          "id": "ST19_01",
+          "code": "Subtopic_01_Authentic_Materials_Textbooks",
+          "micro_topics": [
+            {
+              "micro_id": "ST19_01_M01",
+              "folder": "Micro_01_Authentic_ESL_Materials_Realia_Menus",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST19_01_M02",
+              "folder": "Micro_02_Criteria_for_Ideal_English_Textbook",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST19_02",
+          "code": "Subtopic_02_MultiSensory_and_Digital_Tools",
+          "micro_topics": [
+            {
+              "micro_id": "ST19_02_M01",
+              "folder": "Micro_01_AudioVisual_Aids_Puppets_Flashcards",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST19_02_M02",
+              "folder": "Micro_02_Language_Lab_DIKSHA_Podcasts_ESL_Apps",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "code": "Topic_20_Assessment_Evaluation_Remedial_Teaching",
+      "name_hi": "Language Assessment, Evaluation and Remedial Teaching",
+      "subtopics": [
+        {
+          "id": "ST20_01",
+          "code": "Subtopic_01_CCE_and_Language_Testing",
+          "micro_topics": [
+            {
+              "micro_id": "ST20_01_M01",
+              "folder": "Micro_01_Formative_Summative_Assessment_as_Learning",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST20_01_M02",
+              "folder": "Micro_02_Assessment_Tools_Rubrics_Portfolios_Records",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST20_02",
+          "code": "Subtopic_02_Diagnostic_and_Remedial_Teaching",
+          "micro_topics": [
+            {
+              "micro_id": "ST20_02_M01",
+              "folder": "Micro_01_Diagnostic_Testing_in_LSRW_Skills",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST20_02_M02",
+              "folder": "Micro_02_Error_Analysis_Learner_Developmental_Windows",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST20_02_M03",
+              "folder": "Micro_03_Designing_Individual_Remedial_Interventions",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "code": "Topic_21_English_in_Indian_Education_Policies",
+      "name_hi": "English in Indian Education — Constitution, NEP 2020 & NCF",
+      "subtopics": [
+        {
+          "id": "ST21_01",
+          "code": "Subtopic_01_Constitutional_Status_Formulas",
+          "micro_topics": [
+            {
+              "micro_id": "ST21_01_M01",
+              "folder": "Micro_01_Associate_Official_Language_Status_Article343",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST21_01_M02",
+              "folder": "Micro_02_Three_Language_Formula_Kothari_NPE1986",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST21_02",
+          "code": "Subtopic_02_NEP_2020_and_NCF_Guidelines",
+          "micro_topics": [
+            {
+              "micro_id": "ST21_02_M01",
+              "folder": "Micro_01_Mother_Tongue_Primary_Instruction_NEP2020",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST21_02_M02",
+              "folder": "Micro_02_NCF_FS_and_NCF_SE_Multilingual_Competencies",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "schema_version": "1.0.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
+  "status": "scaffolded",
+  "exam_scope": [
+    "UPTET",
+    "CTET"
+  ],
+  "paper_scope": [
+    "Paper1",
+    "Paper2"
+  ],
+  "subject": {
+    "id": "ENG",
+    "name_en": "English Language and Pedagogy",
+    "name_hi": "अंग्रेजी भाषा एवं शिक्षण शास्त्र",
+    "type": "language_pedagogy"
+  },
+  "total_subtopics": 44,
+  "total_microtopics": 97,
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice"
+  ]
+}

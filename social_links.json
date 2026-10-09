@@ -1,0 +1,29 @@
+{
+  "support_email": "support@siskill.in",
+  "channels": [
+    {
+      "platform": "Website",
+      "handle_name": "Official Portal",
+      "url": "https://siskill.in",
+      "is_official": true
+    },
+    {
+      "platform": "Telegram",
+      "handle_name": "SISKILL Official",
+      "url": "https://t.me/siskill_official",
+      "is_official": true
+    },
+    {
+      "platform": "YouTube",
+      "handle_name": "SISKILL Academy",
+      "url": "https://youtube.com/@siskill",
+      "is_official": true
+    },
+    {
+      "platform": "WhatsApp",
+      "handle_name": "SISKILL Alerts",
+      "url": "https://whatsapp.com/channel/siskill",
+      "is_official": true
+    }
+  ]
+}

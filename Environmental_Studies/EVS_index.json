@@ -1,0 +1,1969 @@
+{
+  "schema_version": "1.0.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
+  "status": "scaffolded",
+  "exam_scope": [
+    "UPTET",
+    "CTET"
+  ],
+  "paper_scope": [
+    "Paper_1",
+    "Paper_2"
+  ],
+  "subject": {
+    "id": "EVS",
+    "name_en": "Environmental Studies and Pedagogy",
+    "name_hi": "पर्यावरण अध्ययन एवं शिक्षण शास्त्र",
+    "type": "environmental_studies_pedagogy"
+  },
+  "total_topics": 24,
+  "total_subtopics": 52,
+  "total_microtopics": 115,
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice"
+  ],
+  "topics": [
+    {
+      "id": "T01",
+      "slug": "Family_and_Friends_Relations_Work_Play",
+      "title_hi": "परिवार एवं मित्र — संबंध, कार्य एवं खेल",
+      "order": 1,
+      "subtopics": [
+        {
+          "id": "ST01_01",
+          "slug": "Family_Structure_Social_Aspects",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST01_01_M01",
+              "slug": "Nuclear_Joint_Family_Dynamics",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST01_01_M02",
+              "slug": "Family_Relations_Child_Marriage_Abolition",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST01_02",
+          "slug": "Work_Play_Child_Labor",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST01_02_M01",
+              "slug": "Traditional_Games_Child_Development",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST01_02_M02",
+              "slug": "Work_Occupations_Child_Labor_Laws",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "slug": "Animals_Fauna_and_Adaptations",
+      "title_hi": "जंतु एवं प्राणी जगत",
+      "order": 2,
+      "subtopics": [
+        {
+          "id": "ST02_01",
+          "slug": "Mammals_Birds_Reptiles_CTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST02_01_M01",
+              "slug": "Animal_Traits_Sloth_Tiger_Elephant_Snakes",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST02_01_M02",
+              "slug": "Bird_Characteristics_Beaks_Nests_Vision",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST02_02",
+          "slug": "Insects_and_Microorganisms",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST02_02_M01",
+              "slug": "Social_Insects_Honeybees_Ants_Termites",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST02_02_M02",
+              "slug": "Silkworm_Earthworm_Sensory_Adaptations",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "slug": "Plants_Flora_Natural_Vegetation",
+      "title_hi": "पादप एवं वनस्पति जगत",
+      "order": 3,
+      "subtopics": [
+        {
+          "id": "ST03_01",
+          "slug": "Plant_Anatomy_Special_Plants_CTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST03_01_M01",
+              "slug": "Roots_Stems_Leaves_Photosynthesis_Transpiration",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST03_01_M02",
+              "slug": "Insectivorous_Nepenthes_Desert_Oak_Banyan",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST03_02",
+          "slug": "Seeds_Dispersal_Agriculture",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST03_02_M01",
+              "slug": "Seed_Germination_Dispersal_Foreign_Seeds",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST03_02_M02",
+              "slug": "Cropping_Patterns_Jhum_Organic_Farming",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "slug": "Food_Nutrition_Cooking_Diseases",
+      "title_hi": "भोजन, पोषण एवं स्वास्थ्य",
+      "order": 4,
+      "subtopics": [
+        {
+          "id": "ST04_01",
+          "slug": "Nutrition_and_Preservation_CTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST04_01_M01",
+              "slug": "Nutrients_Deficiency_Diseases_Vitamins",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST04_01_M02",
+              "slug": "Food_Preservation_Techniques_Mamidi_Tandra",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST04_01_M03",
+              "slug": "Regional_Cuisines_Ling_hu_fen_Tapioca_Fish",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST04_02",
+          "slug": "Digestion_and_Infectious_Diseases",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST04_02_M01",
+              "slug": "Human_Digestion_Dr_Beaumont_Experiments",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST04_02_M02",
+              "slug": "Water_Mosquito_Borne_Diseases_Malaria_Ross",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "slug": "Shelter_Regional_Habitats_Architecture_CTET",
+      "title_hi": "आश्रय, बस्तियां एवं आवास विविधता",
+      "order": 5,
+      "subtopics": [
+        {
+          "id": "ST05_01",
+          "slug": "Geographical_Shelter_Diversity",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST05_01_M01",
+              "slug": "Ladakh_Stone_Houses_Changpa_Rebo_Tents",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST05_01_M02",
+              "slug": "Assam_Bamboo_Stilt_Manali_Houses",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST05_01_M03",
+              "slug": "Rajasthan_Mud_Houses_Kashmir_Houseboats",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST05_02",
+          "slug": "Shelter_Types_Sanitation_Waste",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST05_02_M01",
+              "slug": "Temporary_Permanent_Public_Housing",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST05_02_M02",
+              "slug": "Sanitation_Waste_Management_Uninvited_Pests",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "slug": "Water_Resources_Cycles_Conservation",
+      "title_hi": "जल संसाधन, जल चक्र एवं संरक्षण",
+      "order": 6,
+      "subtopics": [
+        {
+          "id": "ST06_01",
+          "slug": "Water_Sources_Historic_Management_CTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST06_01_M01",
+              "slug": "Water_Sources_Groundwater_Depletion_Pollution",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST06_01_M02",
+              "slug": "Traditional_Stepwells_Bawri_Ghadsisar_AlBiruni",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST06_02",
+          "slug": "Properties_and_Movements",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST06_02_M01",
+              "slug": "Water_Properties_Dead_Sea_Density_Buoyancy",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST06_02_M02",
+              "slug": "Water_Movements_Tarun_Bharat_Bhima_Sangh",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "slug": "Travel_Transport_Mapping_Space_CTET",
+      "title_hi": "यात्रा, परिवहन, मानचित्रण एवं अंतरिक्ष",
+      "order": 7,
+      "subtopics": [
+        {
+          "id": "ST07_01",
+          "slug": "Mapping_Direction_Scale_Skills",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST07_01_M01",
+              "slug": "Indian_Map_States_Coastal_Relative_Position",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST07_01_M02",
+              "slug": "Direction_Distance_Problems_Train_Timetables",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST07_02",
+          "slug": "Mountaineering_Space_Transport",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST07_02_M01",
+              "slug": "Bachendri_Pal_Mount_Everest_Expedition",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST07_02_M02",
+              "slug": "Sunita_Williams_Kalpana_Chawla_Space",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST07_02_M03",
+              "slug": "Local_Transport_Vallam_Ferry_Jugaad_Tickets",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "slug": "Things_We_Make_and_Do_Crafts_Heritage",
+      "title_hi": "वस्तुएं जो हम बनाते और करते हैं",
+      "order": 8,
+      "subtopics": [
+        {
+          "id": "ST08_01",
+          "slug": "Traditional_Arts_and_Textiles_CTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST08_01_M01",
+              "slug": "Folk_Paintings_Madhubani_Warli_Pattachitra",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST08_01_M02",
+              "slug": "Textiles_Pochampally_Pashmina_Chikankari",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST08_02",
+          "slug": "Metals_Minerals_Pottery_Tools",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST08_02_M01",
+              "slug": "Bronze_Alloy_Copper_Tin_Pottery_Making",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST08_02_M02",
+              "slug": "Traditional_Occupations_Agricultural_Tools",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "slug": "Ecology_Ecosystems_Biomes_UPTET",
+      "title_hi": "पर्यावरण एवं पारिस्थितिकी तंत्र",
+      "order": 9,
+      "subtopics": [
+        {
+          "id": "ST09_01",
+          "slug": "Ecosystem_Structure",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST09_01_M01",
+              "slug": "Ecology_Haaeckel_Ecosystem_Tansley_Concepts",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST09_01_M02",
+              "slug": "Biotic_Abiotic_Producers_Consumers_Decomposers",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST09_02",
+          "slug": "Food_Chains_and_Pyramids",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST09_02_M01",
+              "slug": "Food_Chains_Webs_Lindeman_Ten_Percent_Law",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST09_02_M02",
+              "slug": "Ecological_Pyramids_Energy_Biomass_Numbers",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST09_03",
+          "slug": "Global_Biomes_and_Aquatic_Systems",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST09_03_M01",
+              "slug": "Terrestrial_Biomes_Tundra_Taiga_Grasslands",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST09_03_M02",
+              "slug": "Aquatic_Coral_Reefs_Mangrove_Ecosystems",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "slug": "Biodiversity_and_Wildlife_Conservation_UPTET",
+      "title_hi": "जैव विविधता एवं वन्यजीव संरक्षण",
+      "order": 10,
+      "subtopics": [
+        {
+          "id": "ST10_01",
+          "slug": "Biodiversity_Concepts_Hotspots",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST10_01_M01",
+              "slug": "Biodiversity_Rosen_Alpha_Beta_Gamma_Diversity",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_01_M02",
+              "slug": "Hotspots_Western_Ghats_Eastern_Himalayas",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST10_02",
+          "slug": "IUCN_Red_List_Conservation_Modes",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST10_02_M01",
+              "slug": "IUCN_Red_Data_Book_Endangered_Categories",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_02_M02",
+              "slug": "Insitu_vs_Exsitu_Conservation_Sanctuaries",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST10_03",
+          "slug": "Flagship_Projects_and_Institutes",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST10_03_M01",
+              "slug": "Project_Tiger_Elephant_Rhino_Crocodile",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_03_M02",
+              "slug": "Major_National_Parks_Jim_Corbett_Kaziranga",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_03_M03",
+              "slug": "Wildlife_Institute_of_India_FRI_NGT",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "slug": "Pollution_Global_Warming_Ozone_Depletion",
+      "title_hi": "पर्यावरण प्रदूषण, वैश्विक तापन एवं ओजोन क्षरण",
+      "order": 11,
+      "subtopics": [
+        {
+          "id": "ST11_01",
+          "slug": "Air_Water_Soil_Noise_Pollution",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST11_01_M01",
+              "slug": "Air_Pollutants_PM25_Smog_Acid_Rain_Gases",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST11_01_M02",
+              "slug": "Water_Pollution_BOD_COD_Eutrophication_Diseases",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST11_01_M03",
+              "slug": "Noise_Decibel_Standards_Soil_Degradation",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST11_02",
+          "slug": "Greenhouse_Ozone_Depletion",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST11_02_M01",
+              "slug": "Greenhouse_Gases_Global_Warming_Dynamics",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST11_02_M02",
+              "slug": "Ozone_Depletion_Dobson_Montreal_Protocol",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "slug": "Environmental_Movements_Laws_Treaties",
+      "title_hi": "पर्यावरण संरक्षण आंदोलन, कानून एवं अंतरराष्ट्रीय सम्मेलन",
+      "order": 12,
+      "subtopics": [
+        {
+          "id": "ST12_01",
+          "slug": "Indian_Environmental_Movements_UPTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST12_01_M01",
+              "slug": "Chipko_Movement_Bahuguna_Gaura_Devi",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST12_01_M02",
+              "slug": "Bishnoi_Appiko_Narmada_Bachao_Andolan",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST12_02",
+          "slug": "Environmental_Legislations_India",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST12_02_M01",
+              "slug": "Wildlife_Protection_Act_1972_Forest_1980",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST12_02_M02",
+              "slug": "Environment_Protection_Act_1986_Umbrella_Act",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST12_03",
+          "slug": "Global_Conferences_Protocols",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST12_03_M01",
+              "slug": "Stockholm_1972_Earth_Summit_1992_Agenda21",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST12_03_M02",
+              "slug": "Kyoto_Protocol_Carbon_Credits_Paris_Agreement",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "slug": "Solar_System_and_Earth_Dynamics_UPTET",
+      "title_hi": "सौरमंडल, पृथ्वी की गतियां एवं खगोलिकी",
+      "order": 13,
+      "subtopics": [
+        {
+          "id": "ST13_01",
+          "slug": "Solar_System_Planets",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST13_01_M01",
+              "slug": "Sun_Eight_Planets_Classification_Traits",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST13_01_M02",
+              "slug": "Satellites_Asteroids_Meteors_Comets",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST13_02",
+          "slug": "Earth_Motions_Coordinates_Eclipses",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST13_02_M01",
+              "slug": "Rotation_Revolution_Seasons_Perihelion_Aphelion",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST13_02_M02",
+              "slug": "Latitudes_Longitudes_IDL_GMT_IST_Calculations",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST13_02_M03",
+              "slug": "Tropics_Equator_Solar_Lunar_Eclipses",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "slug": "Physical_Geography_of_India_UPTET",
+      "title_hi": "भारत का भौतिक भूगोल — पर्वत, पठार, नदियां एवं झीलें",
+      "order": 14,
+      "subtopics": [
+        {
+          "id": "ST14_01",
+          "slug": "Physiography_Mountains_Plateaus",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST14_01_M01",
+              "slug": "Himalayan_Ranges_Passes_Major_Peaks",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST14_01_M02",
+              "slug": "Peninsular_Plateau_Western_Eastern_Ghats_Coasts",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST14_02",
+          "slug": "Drainage_Systems_and_Lakes",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST14_02_M01",
+              "slug": "Himalayan_Rivers_Ganga_Yamuna_Brahmaputra",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST14_02_M02",
+              "slug": "Peninsular_Rivers_Arabian_Sea_Bay_of_Bengal",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST14_02_M03",
+              "slug": "Major_Lakes_Wular_Chilika_Sambhar_Waterfalls",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "slug": "Climate_Soils_Agriculture_Minerals_UPTET",
+      "title_hi": "भारत की जलवायु, मृदा, कृषि एवं खनिज",
+      "order": 15,
+      "subtopics": [
+        {
+          "id": "ST15_01",
+          "slug": "Monsoon_Climate_Soils",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST15_01_M01",
+              "slug": "Southwest_Northeast_Monsoon_Rainfall",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST15_01_M02",
+              "slug": "ICAR_Soil_Classification_Alluvial_Black_Laterite",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST15_02",
+          "slug": "Agriculture_and_Minerals",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST15_02_M01",
+              "slug": "Crops_Green_Revolution_Swaminathan_White_Rev",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST15_02_M02",
+              "slug": "Conventional_Renewable_Energy_Mineral_Belts",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "slug": "Uttar_Pradesh_Comprehensive_EVS_UPTET",
+      "title_hi": "उत्तर प्रदेश — भूगोल, संस्कृति, मेले, नदियां एवं अभयारण्य",
+      "order": 16,
+      "subtopics": [
+        {
+          "id": "ST16_01",
+          "slug": "UP_Physiography_Drainage",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST16_01_M01",
+              "slug": "Boundaries_Bhabhar_Terai_Bundelkhand_Plateau",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST16_01_M02",
+              "slug": "UP_Rivers_Ganga_Yamuna_Gomti_Saryu_Canals",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST16_02",
+          "slug": "UP_Wildlife_Sanctuaries",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST16_02_M01",
+              "slug": "Dudhwa_National_Park_Chandraprabha_Katarniaghat",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST16_02_M02",
+              "slug": "Bird_Sanctuaries_Nawabganj_LakhBahosi_Bakhira",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST16_03",
+          "slug": "UP_Culture_Fairs_Tribes",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST16_03_M01",
+              "slug": "Kumbh_Nauchandi_Bateshwar_DewaSharif_Fairs",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST16_03_M02",
+              "slug": "Folk_Dances_Charkula_Nautanki_Kajri_Alha",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST16_03_M03",
+              "slug": "UP_Tribes_Tharu_Diwali_Mourning_Buksa",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "slug": "Constitution_Preamble_Citizenship_UPTET",
+      "title_hi": "भारतीय संविधान — ऐतिहासिक विकास, प्रस्तावना एवं नागरिकता",
+      "order": 17,
+      "subtopics": [
+        {
+          "id": "ST17_01",
+          "slug": "Constituent_Assembly_Making",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST17_01_M01",
+              "slug": "Cabinet_Mission_Drafting_Committee_Ambedkar",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST17_01_M02",
+              "slug": "Constitutional_Sources_Borrowed_Features",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST17_02",
+          "slug": "Preamble_and_Citizenship",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST17_02_M01",
+              "slug": "Preamble_Core_Philosophy_42nd_Amendment",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST17_02_M02",
+              "slug": "Citizenship_Provisions_Articles_5_to_11",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "slug": "Fundamental_Rights_Duties_DPSP_UPTET",
+      "title_hi": "मौलिक अधिकार, मूल कर्तव्य एवं नीति निदेशक तत्व",
+      "order": 18,
+      "subtopics": [
+        {
+          "id": "ST18_01",
+          "slug": "Fundamental_Rights_Part3",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST18_01_M01",
+              "slug": "Six_Fundamental_Rights_Articles_14_to_30",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST18_01_M02",
+              "slug": "Article_32_Writs_Article_21A_RTE_Amendment",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST18_02",
+          "slug": "DPSP_and_Duties",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST18_02_M01",
+              "slug": "DPSP_Panchayats_Art40_UCC_Art44_Environment_48A",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST18_02_M02",
+              "slug": "Fundamental_Duties_Swaran_Singh_Art51A_g",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "slug": "Governance_and_Local_Self_Govt_UPTET",
+      "title_hi": "शासन प्रणाली — कार्यपालिका, विधायिका, न्यायपालिका एवं स्थानीय स्वशासन",
+      "order": 19,
+      "subtopics": [
+        {
+          "id": "ST19_01",
+          "slug": "Union_Governance_Judiciary",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST19_01_M01",
+              "slug": "President_Powers_Emergency_Articles_352_356_360",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST19_01_M02",
+              "slug": "Parliament_Lok_Sabha_Rajya_Sabha_Prime_Minister",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST19_01_M03",
+              "slug": "Supreme_Court_Jurisdiction_Public_Interest_Litigation",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST19_02",
+          "slug": "State_Govt_Panchayati_Raj",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST19_02_M01",
+              "slug": "Governor_Chief_Minister_State_Legislature",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST19_02_M02",
+              "slug": "73rd_Amendment_11th_Schedule_Balwant_Rai_Mehta",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST19_02_M03",
+              "slug": "74th_Amendment_12th_Schedule_Municipalities",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "slug": "Concept_Scope_Integrated_Nature_CTET",
+      "title_hi": "पर्यावरण अध्ययन की संकल्पना, प्रकृति एवं एकीकृत उपागम",
+      "order": 20,
+      "subtopics": [
+        {
+          "id": "ST20_01",
+          "slug": "Integrated_EVS_Concept",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST20_01_M01",
+              "slug": "EVS_Concept_Scope_Grades_3_to_5",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST20_01_M02",
+              "slug": "Integration_of_Science_Social_Science_Environment",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST20_01_M03",
+              "slug": "No_Textbook_in_Grades_1_2_Contextual_Teaching",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST20_02",
+          "slug": "Thematic_vs_Topic_Approach",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST20_02_M01",
+              "slug": "Six_Core_NCERT_Themes_Rationale",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST20_02_M02",
+              "slug": "Connecting_Immediate_Environment_to_Global",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "slug": "Learning_Principles_Science_Social_Interrelation_CTET",
+      "title_hi": "EVS अधिगम के सिद्धांत एवं विज्ञान/सामाजिक विज्ञान से अंतर्संबंध",
+      "order": 21,
+      "subtopics": [
+        {
+          "id": "ST21_01",
+          "slug": "Child_Centered_Principles",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST21_01_M01",
+              "slug": "Concrete_to_Abstract_Known_to_Unknown",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST21_01_M02",
+              "slug": "Local_to_Global_Learning_by_Doing",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST21_02",
+          "slug": "Interdisciplinary_Linkages",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST21_02_M01",
+              "slug": "Correlation_with_Science_Social_Science",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST21_02_M02",
+              "slug": "Multidisciplinary_Holistic_Understanding",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "slug": "Pedagogical_Methods_Activities_Inquiry_CTET",
+      "title_hi": "शिक्षण विधियां, क्रियाकलाप, प्रयोग एवं अन्वेषण",
+      "order": 22,
+      "subtopics": [
+        {
+          "id": "ST22_01",
+          "slug": "Inquiry_Project_Discussions",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST22_01_M01",
+              "slug": "Inquiry_Discovery_Problem_Solving_Projects",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST22_01_M02",
+              "slug": "Classroom_Discussions_Collaborative_Learning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST22_02",
+          "slug": "Experiments_and_Field_Trips",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST22_02_M01",
+              "slug": "Simple_Experiments_Observation_Classification",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST22_02_M02",
+              "slug": "Field_Trips_Educational_Excursions_Planning",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "slug": "TLM_Textbooks_and_ICT_in_EVS_CTET",
+      "title_hi": "शिक्षण अधिगम सामग्री, पाठ्यपुस्तकें एवं आईसीटी",
+      "order": 23,
+      "subtopics": [
+        {
+          "id": "ST23_01",
+          "slug": "NCERT_Textbook_Philosophy",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST23_01_M01",
+              "slug": "Child_Centered_Narratives_Debiasing_Gender_Caste",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST23_01_M02",
+              "slug": "Avoiding_Definitions_Rote_Encouraging_Critique",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST23_02",
+          "slug": "TLM_and_Digital_Integration",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST23_02_M01",
+              "slug": "Local_No_Cost_TLM_Real_Objects_Models_Globe",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST23_02_M02",
+              "slug": "Audio_Visual_Aids_DIKSHA_Simulations",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "slug": "Assessment_Evaluation_Diagnostics_in_EVS_CTET",
+      "title_hi": "सतत एवं समग्र मूल्यांकन, रूब्रिक्स एवं उपचारात्मक शिक्षण",
+      "order": 24,
+      "subtopics": [
+        {
+          "id": "ST24_01",
+          "slug": "CCE_and_Assessment_Tools",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST24_01_M01",
+              "slug": "Formative_Summative_Assessment_as_Learning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST24_01_M02",
+              "slug": "Portfolios_Anecdotal_Records_Checklists_Rubrics",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST24_02",
+          "slug": "Diagnostic_and_Remedial_Design",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST24_02_M01",
+              "slug": "Identifying_Alternative_Conceptions_Misconceptions",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST24_02_M02",
+              "slug": "Inclusive_Remediation_for_SEDG_and_CWSN",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

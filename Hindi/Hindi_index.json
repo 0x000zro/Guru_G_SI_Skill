@@ -1,0 +1,1805 @@
+{
+  "schema_version": "1.0.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
+  "subject": {
+    "id": "HINDI",
+    "type": "language",
+    "name_en": "Hindi Language and Pedagogy",
+    "name_hi": "हिन्दी भाषा एवं शिक्षण शास्त्र"
+  },
+  "status": "scaffolded",
+  "exam_scope": [
+    "UPTET",
+    "CTET"
+  ],
+  "paper_scope": [
+    "Paper_1",
+    "Paper_2"
+  ],
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice"
+  ],
+  "total_topics": 18,
+  "total_subtopics": 42,
+  "total_microtopics": 88,
+  "topics": [
+    {
+      "id": "T01",
+      "slug": "Unseen_Comprehension_Prose_and_Poetry",
+      "name_hi": "अपठित बोध (गद्यांश एवं पद्यांश)",
+      "folder": "Topic_01_Unseen_Comprehension_Prose_and_Poetry",
+      "order": 1,
+      "subtopics": [
+        {
+          "id": "ST01_01",
+          "slug": "Unseen_Prose",
+          "name_hi": "अपठित गद्य",
+          "folder": "Subtopic_01_Unseen_Prose",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST01_01_M01",
+              "slug": "Literary_Expository_Comprehension",
+              "name_hi": "साहित्यिक एवं विवेचनात्मक बोध",
+              "folder": "Micro_01_Literary_Expository_Comprehension",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST01_01_M02",
+              "slug": "Contextual_Grammar_Vocabulary",
+              "name_hi": "संदर्भानुसार व्याकरण एवं शब्दावली",
+              "folder": "Micro_02_Contextual_Grammar_Vocabulary",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST01_02",
+          "slug": "Unseen_Poetry",
+          "name_hi": "अपठित पद्य",
+          "folder": "Subtopic_02_Unseen_Poetry",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST01_02_M01",
+              "slug": "Poetic_Emotion_Rasa_Appreciation",
+              "name_hi": "काव्य भाव एवं रस बोध",
+              "folder": "Micro_01_Poetic_Emotion_Rasa_Appreciation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST01_02_M02",
+              "slug": "Alankara_Imagery_Word_Power",
+              "name_hi": "अलंकार, बिंब एवं शब्द शक्ति",
+              "folder": "Micro_02_Alankara_Imagery_Word_Power",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "slug": "Phonetics_Alphabet_and_Orthography",
+      "name_hi": "वर्ण विचार एवं वर्तनी",
+      "folder": "Topic_02_Phonetics_Alphabet_and_Orthography",
+      "order": 2,
+      "subtopics": [
+        {
+          "id": "ST02_01",
+          "slug": "Hindi_Alphabet_and_Sounds",
+          "name_hi": "हिन्दी वर्णमाला एवं ध्वनियाँ",
+          "folder": "Subtopic_01_Hindi_Alphabet_and_Sounds_UPTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST02_01_M01",
+              "slug": "Vowels_Consonants_Conjuncts",
+              "name_hi": "स्वर, व्यंजन एवं संयुक्ताक्षर",
+              "folder": "Micro_01_Vowels_Consonants_Conjuncts",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST02_01_M02",
+              "slug": "Ayogavaha_Anusvara_Visarga_Nuqta",
+              "name_hi": "अयोगवाह, अनुस्वार, विसर्ग एवं नुक्ता",
+              "folder": "Micro_02_Ayogavaha_Anusvara_Visarga_Nuqta",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST02_02",
+          "slug": "Articulation_and_Effort",
+          "name_hi": "उच्चारण एवं प्रयत्न",
+          "folder": "Subtopic_02_Articulation_and_Effort_UPTET",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST02_02_M01",
+              "slug": "Places_of_Articulation_Kanthya_Talavya",
+              "name_hi": "उच्चारण स्थान",
+              "folder": "Micro_01_Places_of_Articulation_Kanthya_Talavya",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST02_02_M02",
+              "slug": "Voicing_and_Aspiration_Ghosh_Pran",
+              "name_hi": "घोष, अघोष, अल्पप्राण एवं महाप्राण",
+              "folder": "Micro_02_Voicing_and_Aspiration_Ghosh_Pran",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST02_03",
+          "slug": "Orthography_and_Spelling",
+          "name_hi": "वर्तनी एवं लेखन मानक",
+          "folder": "Subtopic_03_Orthography_and_Spelling",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST02_03_M01",
+              "slug": "Standard_Spelling_Rules_Errors",
+              "name_hi": "मानक वर्तनी एवं सामान्य अशुद्धियाँ",
+              "folder": "Micro_01_Standard_Spelling_Rules_Errors",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST02_03_M02",
+              "slug": "Phonetic_Confusion_Remediation",
+              "name_hi": "ध्वन्यात्मक भ्रम एवं सुधार",
+              "folder": "Micro_02_Phonetic_Confusion_Remediation",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "slug": "Etymology_Word_Formation_Vocabulary",
+      "name_hi": "शब्द विचार एवं शब्द संपदा",
+      "folder": "Topic_03_Etymology_Word_Formation_Vocabulary",
+      "order": 3,
+      "subtopics": [
+        {
+          "id": "ST03_01",
+          "slug": "Word_Origins",
+          "name_hi": "शब्द उत्पत्ति एवं वर्गीकरण",
+          "folder": "Subtopic_01_Word_Origins_UPTET",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST03_01_M01",
+              "slug": "Tatsam_and_Tadbhav_Transformations",
+              "name_hi": "तत्सम एवं तद्भव",
+              "folder": "Micro_01_Tatsam_and_Tadbhav_Transformations",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST03_01_M02",
+              "slug": "Deshaj_Videshaj_Hybrid_Words",
+              "name_hi": "देशज, विदेशज एवं संकर शब्द",
+              "folder": "Micro_02_Deshaj_Videshaj_Hybrid_Words",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST03_02",
+          "slug": "Semantic_Vocabulary",
+          "name_hi": "शब्दार्थ एवं शब्द संपदा",
+          "folder": "Subtopic_02_Semantic_Vocabulary",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST03_02_M01",
+              "slug": "Rudh_Yaugik_Yogruda_Words",
+              "name_hi": "रूढ़, यौगिक एवं योगरूढ़ शब्द",
+              "folder": "Micro_01_Rudh_Yaugik_Yogruda_Words",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST03_02_M02",
+              "slug": "Synonyms_Antonyms_One_Word_Substitutes",
+              "name_hi": "पर्यायवाची, विलोम एवं एकार्थक शब्द",
+              "folder": "Micro_02_Synonyms_Antonyms_One_Word_Substitutes",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "slug": "Sandhi_Rules_and_Classification",
+      "name_hi": "संधि एवं संधि-विच्छेद",
+      "folder": "Topic_04_Sandhi_Rules_and_Classification_UPTET",
+      "order": 4,
+      "subtopics": [
+        {
+          "id": "ST04_01",
+          "slug": "Swar_Sandhi",
+          "name_hi": "स्वर संधि",
+          "folder": "Subtopic_01_Swar_Sandhi",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST04_01_M01",
+              "slug": "Dirgha_Guna_Vriddhi_Sandhi",
+              "name_hi": "दीर्घ, गुण एवं वृद्धि संधि",
+              "folder": "Micro_01_Dirgha_Guna_Vriddhi_Sandhi",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST04_01_M02",
+              "slug": "Yan_and_Ayadi_Sandhi_Exceptions",
+              "name_hi": "यण एवं अयादि संधि",
+              "folder": "Micro_02_Yan_and_Ayadi_Sandhi_Exceptions",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST04_02",
+          "slug": "Vyanjan_Sandhi",
+          "name_hi": "व्यंजन संधि",
+          "folder": "Subtopic_02_Vyanjan_Sandhi",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST04_02_M01",
+              "slug": "Consonant_Transformation_Rules",
+              "name_hi": "व्यंजन परिवर्तन के नियम",
+              "folder": "Micro_01_Consonant_Transformation_Rules",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST04_02_M02",
+              "slug": "Ta_Ma_Sa_Chha_Rules",
+              "name_hi": "व्यंजन संधि के प्रमुख नियम",
+              "folder": "Micro_02_Ta_Ma_Sa_Chha_Rules",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST04_03",
+          "slug": "Visarga_Sandhi",
+          "name_hi": "विसर्ग संधि",
+          "folder": "Subtopic_03_Visarga_Sandhi",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST04_03_M01",
+              "slug": "Visarga_Transformation_Rules",
+              "name_hi": "विसर्ग परिवर्तन के नियम",
+              "folder": "Micro_01_Visarga_Transformation_Rules",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST04_03_M02",
+              "slug": "Visarga_Elision_Rules",
+              "name_hi": "विसर्ग लोप एवं प्रयोग",
+              "folder": "Micro_02_Visarga_Elision_Rules",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "slug": "Samas_Compound_Words",
+      "name_hi": "समास एवं समास-विग्रह",
+      "folder": "Topic_05_Samas_Compound_Words_UPTET",
+      "order": 5,
+      "subtopics": [
+        {
+          "id": "ST05_01",
+          "slug": "Avyayibhav_and_Tatpurush",
+          "name_hi": "अव्ययीभाव एवं तत्पुरुष",
+          "folder": "Subtopic_01_Avyayibhav_and_Tatpurush",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST05_01_M01",
+              "slug": "Avyayibhav_Compounds",
+              "name_hi": "अव्ययीभाव समास",
+              "folder": "Micro_01_Avyayibhav_Compounds",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST05_01_M02",
+              "slug": "Tatpurush_Subtypes_and_Nan",
+              "name_hi": "तत्पुरुष एवं नञ् तत्पुरुष",
+              "folder": "Micro_02_Tatpurush_Subtypes_and_Nan",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST05_02",
+          "slug": "Karmadharaya_Dvigu_Dvandva_Bahuvrihi",
+          "name_hi": "कर्मधारय, द्विगु, द्वंद्व एवं बहुव्रीहि",
+          "folder": "Subtopic_02_Karmadharaya_Dvigu_Dvandva_Bahuvrihi",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST05_02_M01",
+              "slug": "Karmadharaya_and_Dvigu_Compounds",
+              "name_hi": "कर्मधारय एवं द्विगु",
+              "folder": "Micro_01_Karmadharaya_and_Dvigu_Compounds",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST05_02_M02",
+              "slug": "Dvandva_and_Bahuvrihi_Distinctions",
+              "name_hi": "द्वंद्व एवं बहुव्रीहि",
+              "folder": "Micro_02_Dvandva_and_Bahuvrihi_Distinctions",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "slug": "Parts_of_Speech_Declinable_Words",
+      "name_hi": "पद विचार — विकारी शब्द",
+      "folder": "Topic_06_Parts_of_Speech_Declinable_Words",
+      "order": 6,
+      "subtopics": [
+        {
+          "id": "ST06_01",
+          "slug": "Noun_and_Pronoun",
+          "name_hi": "संज्ञा एवं सर्वनाम",
+          "folder": "Subtopic_01_Noun_and_Pronoun",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST06_01_M01",
+              "slug": "Noun_Types_and_Formation",
+              "name_hi": "संज्ञा के प्रकार एवं निर्माण",
+              "folder": "Micro_01_Noun_Types_and_Formation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST06_01_M02",
+              "slug": "Pronoun_Types_and_Usage",
+              "name_hi": "सर्वनाम के प्रकार एवं प्रयोग",
+              "folder": "Micro_02_Pronoun_Types_and_Usage",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST06_02",
+          "slug": "Adjective_and_Verb",
+          "name_hi": "विशेषण एवं क्रिया",
+          "folder": "Subtopic_02_Adjective_and_Verb",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST06_02_M01",
+              "slug": "Adjective_Types_and_Usage",
+              "name_hi": "विशेषण के प्रकार एवं प्रयोग",
+              "folder": "Micro_01_Adjective_Types_and_Usage",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST06_02_M02",
+              "slug": "Transitive_Intransitive_Causative_Verbs",
+              "name_hi": "सकर्मक, अकर्मक एवं प्रेरणार्थक क्रिया",
+              "folder": "Micro_02_Transitive_Intransitive_Causative_Verbs",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "slug": "Indeclinable_Words_Avyay",
+      "name_hi": "पद विचार — अविकारी शब्द/अव्यय",
+      "folder": "Topic_07_Indeclinable_Words_Avyay_UPTET",
+      "order": 7,
+      "subtopics": [
+        {
+          "id": "ST07_01",
+          "slug": "Adverbs_and_Postpositions",
+          "name_hi": "क्रियाविशेषण एवं संबंधबोधक",
+          "folder": "Subtopic_01_Adverbs_and_Postpositions",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST07_01_M01",
+              "slug": "Adverb_Types_Riti_Kaal_Sthan_Pariman",
+              "name_hi": "रीतिवाचक, कालवाचक, स्थानवाचक एवं परिमाणवाचक",
+              "folder": "Micro_01_Adverb_Types_Riti_Kaal_Sthan_Pariman",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST07_01_M02",
+              "slug": "Sambandhbodhak_Usage",
+              "name_hi": "संबंधबोधक का प्रयोग",
+              "folder": "Micro_02_Sambandhbodhak_Usage",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST07_02",
+          "slug": "Conjunctions_Interjections_Nipat",
+          "name_hi": "समुच्चयबोधक, विस्मयादिबोधक एवं निपात",
+          "folder": "Subtopic_02_Conjunctions_Interjections_Nipat",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST07_02_M01",
+              "slug": "Samuccaybodhak_Subtypes",
+              "name_hi": "समुच्चयबोधक के प्रकार",
+              "folder": "Micro_01_Samuccaybodhak_Subtypes",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST07_02_M02",
+              "slug": "Interjections_and_Nipat_Particles",
+              "name_hi": "विस्मयादिबोधक एवं निपात",
+              "folder": "Micro_02_Interjections_and_Nipat_Particles",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "slug": "Grammatical_Categories",
+      "name_hi": "व्याकरणिक कोटियाँ",
+      "folder": "Topic_08_Grammatical_Categories",
+      "order": 8,
+      "subtopics": [
+        {
+          "id": "ST08_01",
+          "slug": "Gender_Number_Case",
+          "name_hi": "लिंग, वचन एवं कारक",
+          "folder": "Subtopic_01_Gender_Number_Case",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST08_01_M01",
+              "slug": "Gender_Rules_and_Exceptions",
+              "name_hi": "लिंग के नियम एवं अपवाद",
+              "folder": "Micro_01_Gender_Rules_and_Exceptions",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST08_01_M02",
+              "slug": "Number_Rules_Singular_Plural",
+              "name_hi": "वचन के नियम",
+              "folder": "Micro_02_Number_Rules_Singular_Plural",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST08_01_M03",
+              "slug": "Case_Vibhakti_and_Syntactic_Errors",
+              "name_hi": "कारक, विभक्ति एवं प्रयोगगत अशुद्धियाँ",
+              "folder": "Micro_03_Case_Vibhakti_and_Syntactic_Errors",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST08_02",
+          "slug": "Tense_Voice_Affixes",
+          "name_hi": "काल, वाच्य, उपसर्ग एवं प्रत्यय",
+          "folder": "Subtopic_02_Tense_Voice_Affixes",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST08_02_M01",
+              "slug": "Tense_Subtypes_Past_Present_Future",
+              "name_hi": "काल के प्रमुख प्रकार",
+              "folder": "Micro_01_Tense_Subtypes_Past_Present_Future",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST08_02_M02",
+              "slug": "Voice_Kartrivachya_Karmavachya_Bhavavachya",
+              "name_hi": "कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य",
+              "folder": "Micro_02_Voice_Kartrivachya_Karmavachya_Bhavavachya",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST08_02_M03",
+              "slug": "Prefixes_and_Suffixes_Krit_Taddhit",
+              "name_hi": "उपसर्ग एवं प्रत्यय",
+              "folder": "Micro_03_Prefixes_and_Suffixes_Krit_Taddhit",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "slug": "Syntax_and_Punctuation",
+      "name_hi": "वाक्य विचार एवं विराम चिह्न",
+      "folder": "Topic_09_Syntax_and_Punctuation",
+      "order": 9,
+      "subtopics": [
+        {
+          "id": "ST09_01",
+          "slug": "Sentence_Structure_and_Types",
+          "name_hi": "वाक्य संरचना एवं प्रकार",
+          "folder": "Subtopic_01_Sentence_Structure_and_Types",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST09_01_M01",
+              "slug": "Subject_Predicate_Structure",
+              "name_hi": "उद्देश्य एवं विधेय",
+              "folder": "Micro_01_Subject_Predicate_Structure",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST09_01_M02",
+              "slug": "Simple_Compound_Complex_Sentences",
+              "name_hi": "सरल, संयुक्त एवं मिश्र वाक्य",
+              "folder": "Micro_02_Simple_Compound_Complex_Sentences",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST09_01_M03",
+              "slug": "Semantic_Sentence_Types_and_Correction",
+              "name_hi": "अर्थ के आधार पर वाक्य एवं शुद्धि",
+              "folder": "Micro_03_Semantic_Sentence_Types_and_Correction",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST09_02",
+          "slug": "Punctuation_Marks",
+          "name_hi": "विराम चिह्न",
+          "folder": "Subtopic_02_Punctuation_Marks",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST09_02_M01",
+              "slug": "Punctuation_Rules_and_Usage",
+              "name_hi": "विराम चिह्नों के नियम एवं प्रयोग",
+              "folder": "Micro_01_Punctuation_Rules_and_Usage",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST09_02_M02",
+              "slug": "Quotation_Hyphen_Ellipsis_Usage",
+              "name_hi": "उद्धरण, योजक एवं लोप चिह्न का प्रयोग",
+              "folder": "Micro_02_Quotation_Hyphen_Ellipsis_Usage",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "slug": "Poetics_Rasa_Chhand_Alankara",
+      "name_hi": "काव्यशास्त्र — रस, छंद एवं अलंकार",
+      "folder": "Topic_10_Poetics_Rasa_Chhand_Alankara_UPTET",
+      "order": 10,
+      "subtopics": [
+        {
+          "id": "ST10_01",
+          "slug": "Rasa_Theory",
+          "name_hi": "रस सिद्धांत",
+          "folder": "Subtopic_01_Rasa_Theory",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST10_01_M01",
+              "slug": "Rasa_Components",
+              "name_hi": "स्थायी भाव, विभाव, अनुभाव एवं संचारी भाव",
+              "folder": "Micro_01_Rasa_Components",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_01_M02",
+              "slug": "Rasa_Classifications_and_Examples",
+              "name_hi": "रस के वर्गीकरण एवं उदाहरण",
+              "folder": "Micro_02_Rasa_Classifications_and_Examples",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST10_02",
+          "slug": "Chhand_Prosody",
+          "name_hi": "छंद एवं छंदशास्त्र",
+          "folder": "Subtopic_02_Chhand_Prosody",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST10_02_M01",
+              "slug": "Matra_Varna_Scansion_Rules",
+              "name_hi": "मात्रा, वर्ण एवं गणना",
+              "folder": "Micro_01_Matra_Varna_Scansion_Rules",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_02_M02",
+              "slug": "Matrik_Chhand_Doha_Soratha_Chaupai_Rola",
+              "name_hi": "मात्रिक छंद एवं प्रमुख उदाहरण",
+              "folder": "Micro_02_Matrik_Chhand_Doha_Soratha_Chaupai_Rola",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST10_03",
+          "slug": "Alankara_Figures_of_Speech",
+          "name_hi": "अलंकार",
+          "folder": "Subtopic_03_Alankara_Figures_of_Speech",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST10_03_M01",
+              "slug": "Shabdalankara_Anupras_Yamak_Shlesh",
+              "name_hi": "शब्दालंकार",
+              "folder": "Micro_01_Shabdalankara_Anupras_Yamak_Shlesh",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST10_03_M02",
+              "slug": "Arthalankara_Upama_Rupak_Utpreksha_Atishayokti",
+              "name_hi": "अर्थालंकार",
+              "folder": "Micro_02_Arthalankara_Upama_Rupak_Utpreksha_Atishayokti",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "slug": "Linguistics_and_Hindi_Dialects",
+      "name_hi": "भाषा का उद्भव, बोलियाँ एवं देवनागरी लिपि",
+      "folder": "Topic_11_Linguistics_and_Hindi_Dialects_UPTET",
+      "order": 11,
+      "subtopics": [
+        {
+          "id": "ST11_01",
+          "slug": "Evolution_and_Dialects",
+          "name_hi": "भाषा विकास एवं क्षेत्रीय विविधता",
+          "folder": "Subtopic_01_Evolution_and_Dialects",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST11_01_M01",
+              "slug": "Apabhramsha_to_Modern_Languages",
+              "name_hi": "भाषा विकास की प्रमुख अवस्थाएँ",
+              "folder": "Micro_01_Apabhramsha_to_Modern_Languages",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST11_01_M02",
+              "slug": "Hindi_Dialects_and_Variation",
+              "name_hi": "हिन्दी की बोलियाँ एवं भाषाई विविधता",
+              "folder": "Micro_02_Hindi_Dialects_and_Variation",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST11_02",
+          "slug": "Devanagari_and_Official_Hindi",
+          "name_hi": "देवनागरी एवं राजभाषा हिन्दी",
+          "folder": "Subtopic_02_Devanagari_and_Official_Hindi",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST11_02_M01",
+              "slug": "Devanagari_Features_and_Standardization",
+              "name_hi": "देवनागरी की विशेषताएँ एवं मानकीकरण",
+              "folder": "Micro_01_Devanagari_Features_and_Standardization",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST11_02_M02",
+              "slug": "Constitutional_Provisions_Articles_343_351",
+              "name_hi": "राजभाषा संबंधी संवैधानिक प्रावधान",
+              "folder": "Micro_02_Constitutional_Provisions_Articles_343_351",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "slug": "Hindi_Literature_Eras_Writers_Awards",
+      "name_hi": "हिंदी साहित्य — प्रमुख युग, रचनाएँ एवं पुरस्कार",
+      "folder": "Topic_12_Hindi_Literature_Eras_Writers_Awards_UPTET",
+      "order": 12,
+      "subtopics": [
+        {
+          "id": "ST12_01",
+          "slug": "Literary_Eras_and_Trends",
+          "name_hi": "साहित्यिक युग एवं प्रवृत्तियाँ",
+          "folder": "Subtopic_01_Literary_Eras_and_Trends",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST12_01_M01",
+              "slug": "Adikaal_Bhaktikaal_Reetikaal",
+              "name_hi": "आदिकाल, भक्तिकाल एवं रीतिकाल",
+              "folder": "Micro_01_Adikaal_Bhaktikaal_Reetikaal",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST12_01_M02",
+              "slug": "Modern_Era_and_Major_Trends",
+              "name_hi": "आधुनिक काल एवं प्रमुख साहित्यिक प्रवृत्तियाँ",
+              "folder": "Micro_02_Modern_Era_and_Major_Trends",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST12_02",
+          "slug": "Major_Writers_and_Genres",
+          "name_hi": "प्रमुख साहित्यकार एवं विधाएँ",
+          "folder": "Subtopic_02_Major_Writers_and_Genres",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST12_02_M01",
+              "slug": "Prominent_Poets_and_Writers",
+              "name_hi": "प्रमुख कवि एवं साहित्यकार",
+              "folder": "Micro_01_Prominent_Poets_and_Writers",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST12_02_M02",
+              "slug": "Major_Prose_Genres",
+              "name_hi": "प्रमुख गद्य विधाएँ",
+              "folder": "Micro_02_Major_Prose_Genres",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST12_03",
+          "slug": "Awards_and_Magazines",
+          "name_hi": "पुरस्कार एवं पत्र-पत्रिकाएँ",
+          "folder": "Subtopic_03_Awards_and_Magazines",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST12_03_M01",
+              "slug": "Major_Literary_Awards",
+              "name_hi": "प्रमुख साहित्यिक पुरस्कार",
+              "folder": "Micro_01_Major_Literary_Awards",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST12_03_M02",
+              "slug": "Historical_Hindi_Journals",
+              "name_hi": "प्रमुख ऐतिहासिक हिन्दी पत्र-पत्रिकाएँ",
+              "folder": "Micro_02_Historical_Hindi_Journals",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "slug": "Language_Learning_and_Acquisition",
+      "name_hi": "भाषा अधिगम एवं भाषा अर्जन",
+      "folder": "Topic_13_Language_Learning_and_Acquisition_CTET",
+      "order": 13,
+      "subtopics": [
+        {
+          "id": "ST13_01",
+          "slug": "Acquisition_vs_Learning",
+          "name_hi": "भाषा अर्जन एवं अधिगम",
+          "folder": "Subtopic_01_Acquisition_vs_Learning",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST13_01_M01",
+              "slug": "Natural_L1_Acquisition_vs_Formal_L2_Learning",
+              "name_hi": "प्राकृतिक भाषा अर्जन एवं औपचारिक भाषा अधिगम",
+              "folder": "Micro_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST13_01_M02",
+              "slug": "Affective_Filter_and_Environmental_Factors",
+              "name_hi": "भावात्मक एवं पर्यावरणीय कारक",
+              "folder": "Micro_02_Affective_Filter_and_Environmental_Factors",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST13_02",
+          "slug": "Theories_of_Language_Development",
+          "name_hi": "भाषा विकास के सिद्धांत",
+          "folder": "Subtopic_02_Theories_of_Language_Development",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST13_02_M01",
+              "slug": "Chomsky_LAD_Universal_Grammar",
+              "name_hi": "चॉम्स्की एवं भाषा अर्जन",
+              "folder": "Micro_01_Chomsky_LAD_Universal_Grammar",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST13_02_M02",
+              "slug": "Skinner_Imitation_Reinforcement_Model",
+              "name_hi": "स्किनर एवं व्यवहारवादी दृष्टिकोण",
+              "folder": "Micro_02_Skinner_Imitation_Reinforcement_Model",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST13_02_M03",
+              "slug": "Piaget_vs_Vygotsky_Language_Development",
+              "name_hi": "पियाजे एवं वायगोत्स्की के दृष्टिकोण",
+              "folder": "Micro_03_Piaget_vs_Vygotsky_Language_Development",
+              "order": 3,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "slug": "Principles_and_Methods_of_Language_Teaching",
+      "name_hi": "भाषा शिक्षण के सिद्धांत, सूत्र एवं उपागम",
+      "folder": "Topic_14_Principles_and_Methods_of_Language_Teaching",
+      "order": 14,
+      "subtopics": [
+        {
+          "id": "ST14_01",
+          "slug": "Pedagogical_Principles_and_Maxims",
+          "name_hi": "भाषा शिक्षण के सिद्धांत एवं सूत्र",
+          "folder": "Subtopic_01_Pedagogical_Principles_and_Maxims",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST14_01_M01",
+              "slug": "Activity_Motivation_Individual_Difference_Principles",
+              "name_hi": "क्रियाशीलता, प्रेरणा एवं व्यक्तिगत भिन्नता",
+              "folder": "Micro_01_Activity_Motivation_Individual_Difference_Principles",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST14_01_M02",
+              "slug": "Concrete_to_Abstract_Maxims",
+              "name_hi": "मूर्त से अमूर्त एवं अन्य शिक्षण सूत्र",
+              "folder": "Micro_02_Concrete_to_Abstract_Maxims",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST14_02",
+          "slug": "Language_Teaching_Methods",
+          "name_hi": "भाषा शिक्षण की विधियाँ",
+          "folder": "Subtopic_02_Language_Teaching_Methods",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST14_02_M01",
+              "slug": "Grammar_Translation_vs_Direct_Method",
+              "name_hi": "व्याकरण-अनुवाद एवं प्रत्यक्ष विधि",
+              "folder": "Micro_01_Grammar_Translation_vs_Direct_Method",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST14_02_M02",
+              "slug": "Communicative_Language_Teaching",
+              "name_hi": "संचारात्मक भाषा शिक्षण",
+              "folder": "Micro_02_Communicative_Language_Teaching",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "slug": "Language_Skills_LSRW_Development",
+      "name_hi": "भाषाई कौशल — सुनना, बोलना, पढ़ना, लिखना",
+      "folder": "Topic_15_Language_Skills_LSRW_Development_CTET",
+      "order": 15,
+      "subtopics": [
+        {
+          "id": "ST15_01",
+          "slug": "Listening_and_Speaking",
+          "name_hi": "सुनना एवं बोलना",
+          "folder": "Subtopic_01_Listening_and_Speaking",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST15_01_M01",
+              "slug": "Listening_Comprehension_Strategies",
+              "name_hi": "श्रवण बोध की रणनीतियाँ",
+              "folder": "Micro_01_Listening_Comprehension_Strategies",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST15_01_M02",
+              "slug": "Oral_Expression_Pronunciation_Defects",
+              "name_hi": "मौखिक अभिव्यक्ति एवं उच्चारण",
+              "folder": "Micro_02_Oral_Expression_Pronunciation_Defects",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST15_02",
+          "slug": "Reading_Skills",
+          "name_hi": "पठन कौशल",
+          "folder": "Subtopic_02_Reading_Skills",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST15_02_M01",
+              "slug": "Oral_vs_Silent_Reading_Skimming_Scanning",
+              "name_hi": "सस्वर, मौन, स्किमिंग एवं स्कैनिंग",
+              "folder": "Micro_01_Oral_vs_Silent_Reading_Skimming_Scanning",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST15_02_M02",
+              "slug": "Reading_Comprehension_and_Dyslexia",
+              "name_hi": "पठन बोध एवं पठन कठिनाइयाँ",
+              "folder": "Micro_02_Reading_Comprehension_and_Dyslexia",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST15_03",
+          "slug": "Writing_Skills",
+          "name_hi": "लेखन कौशल",
+          "folder": "Subtopic_03_Writing_Skills",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST15_03_M01",
+              "slug": "Calligraphy_Dictation_Creative_Writing",
+              "name_hi": "लेखन, श्रुतलेख एवं सृजनात्मक लेखन",
+              "folder": "Micro_01_Calligraphy_Dictation_Creative_Writing",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST15_03_M02",
+              "slug": "Spelling_Correctness_and_Dysgraphia",
+              "name_hi": "वर्तनी शुद्धता एवं लेखन कठिनाइयाँ",
+              "folder": "Micro_02_Spelling_Correctness_and_Dysgraphia",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "slug": "Multilingualism_and_Classroom_Diversity",
+      "name_hi": "बहुभाषिकता एवं भाषाई विविधता",
+      "folder": "Topic_16_Multilingualism_and_Classroom_Diversity_CTET",
+      "order": 16,
+      "subtopics": [
+        {
+          "id": "ST16_01",
+          "slug": "Multilingualism_as_Resource",
+          "name_hi": "बहुभाषिकता एक संसाधन के रूप में",
+          "folder": "Subtopic_01_Multilingualism_as_Resource",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST16_01_M01",
+              "slug": "Asset_Based_Multilingual_Pedagogy",
+              "name_hi": "बहुभाषिकता आधारित समावेशी शिक्षण",
+              "folder": "Micro_01_Asset_Based_Multilingual_Pedagogy",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST16_01_M02",
+              "slug": "Mother_Tongue_Cognitive_Advantages",
+              "name_hi": "मातृभाषा एवं संज्ञानात्मक विकास",
+              "folder": "Micro_02_Mother_Tongue_Cognitive_Advantages",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST16_02",
+          "slug": "Diversity_Challenges_and_Inclusion",
+          "name_hi": "भाषाई विविधता एवं समावेशन",
+          "folder": "Subtopic_02_Diversity_Challenges_and_Inclusion",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST16_02_M01",
+              "slug": "L1_Interference_Remediation",
+              "name_hi": "प्रथम भाषा अंतरण एवं सुधार",
+              "folder": "Micro_01_L1_Interference_Remediation",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST16_02_M02",
+              "slug": "Socio_Cultural_Inclusion_in_Language_Class",
+              "name_hi": "भाषा कक्षा में सामाजिक-सांस्कृतिक समावेशन",
+              "folder": "Micro_02_Socio_Cultural_Inclusion_in_Language_Class",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "slug": "Grammar_Role_TLM_and_Textbooks",
+      "name_hi": "व्याकरण की भूमिका एवं शिक्षण सामग्री",
+      "folder": "Topic_17_Grammar_Role_TLM_and_Textbooks",
+      "order": 17,
+      "subtopics": [
+        {
+          "id": "ST17_01",
+          "slug": "Grammar_in_Context",
+          "name_hi": "संदर्भ में व्याकरण शिक्षण",
+          "folder": "Subtopic_01_Grammar_in_Context",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST17_01_M01",
+              "slug": "Contextual_Grammar_vs_Rote_Rules",
+              "name_hi": "संदर्भित व्याकरण एवं रटने की प्रवृत्ति",
+              "folder": "Micro_01_Contextual_Grammar_vs_Rote_Rules",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST17_01_M02",
+              "slug": "Inductive_vs_Deductive_Grammar_Teaching",
+              "name_hi": "आगमनात्मक एवं निगमनात्मक व्याकरण शिक्षण",
+              "folder": "Micro_02_Inductive_vs_Deductive_Grammar_Teaching",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST17_02",
+          "slug": "TLM_and_Reading_Materials",
+          "name_hi": "शिक्षण-अधिगम सामग्री एवं पठन सामग्री",
+          "folder": "Subtopic_02_TLM_and_Reading_Materials",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST17_02_M01",
+              "slug": "Textbook_Design_and_Child_Literature",
+              "name_hi": "पाठ्यपुस्तक एवं बाल साहित्य",
+              "folder": "Micro_01_Textbook_Design_and_Child_Literature",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST17_02_M02",
+              "slug": "Audio_Visual_Language_Resources",
+              "name_hi": "श्रव्य-दृश्य एवं डिजिटल भाषा संसाधन",
+              "folder": "Micro_02_Audio_Visual_Language_Resources",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "slug": "Language_Assessment_Remedial_Teaching_Policies",
+      "name_hi": "भाषाई आकलन, मूल्यांकन एवं नीतियाँ",
+      "folder": "Topic_18_Language_Assessment_Remedial_Teaching_Policies",
+      "order": 18,
+      "subtopics": [
+        {
+          "id": "ST18_01",
+          "slug": "Continuous_Assessment_in_Language",
+          "name_hi": "भाषा में सतत आकलन",
+          "folder": "Subtopic_01_Continuous_Assessment_in_Language",
+          "order": 1,
+          "micro_topics": [
+            {
+              "id": "ST18_01_M01",
+              "slug": "Formative_and_Summative_Language_Assessment",
+              "name_hi": "रचनात्मक एवं संकलनात्मक आकलन",
+              "folder": "Micro_01_Formative_and_Summative_Language_Assessment",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST18_01_M02",
+              "slug": "Language_Rubrics_Portfolios_Checklists",
+              "name_hi": "रूब्रिक, पोर्टफोलियो एवं चेकलिस्ट",
+              "folder": "Micro_02_Language_Rubrics_Portfolios_Checklists",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST18_02",
+          "slug": "Diagnostic_and_Remedial_Teaching",
+          "name_hi": "नैदानिक एवं उपचारात्मक शिक्षण",
+          "folder": "Subtopic_02_Diagnostic_and_Remedial_Teaching",
+          "order": 2,
+          "micro_topics": [
+            {
+              "id": "ST18_02_M01",
+              "slug": "Language_Error_Analysis_and_Diagnosis",
+              "name_hi": "भाषाई त्रुटि विश्लेषण एवं निदान",
+              "folder": "Micro_01_Language_Error_Analysis_and_Diagnosis",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST18_02_M02",
+              "slug": "Remedial_Intervention_Modules",
+              "name_hi": "उपचारात्मक हस्तक्षेप",
+              "folder": "Micro_02_Remedial_Intervention_Modules",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST18_03",
+          "slug": "NEP_2020_and_NCF_Language_Directives",
+          "name_hi": "NEP 2020 एवं NCF भाषा संबंधी दृष्टिकोण",
+          "folder": "Subtopic_03_NEP_2020_and_NCF_Language_Directives",
+          "order": 3,
+          "micro_topics": [
+            {
+              "id": "ST18_03_M01",
+              "slug": "NEP_2020_FLN_and_Language",
+              "name_hi": "NEP 2020, FLN एवं भाषा",
+              "folder": "Micro_01_NEP_2020_FLN_and_Language",
+              "order": 1,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "id": "ST18_03_M02",
+              "slug": "NCF_Language_Frameworks",
+              "name_hi": "NCF के भाषा संबंधी ढाँचे",
+              "folder": "Micro_02_NCF_Language_Frameworks",
+              "order": 2,
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

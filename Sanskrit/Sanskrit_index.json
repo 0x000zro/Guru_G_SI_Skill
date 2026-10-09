@@ -1,0 +1,1642 @@
+{
+  "schema_version": "1.0.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
+  "status": "scaffolded",
+  "exam_scope": [
+    "UPTET",
+    "CTET"
+  ],
+  "paper_scope": [
+    "Paper_1",
+    "Paper_2"
+  ],
+  "subject": {
+    "id": "SAN",
+    "name_en": "Sanskrit Language and Pedagogy",
+    "name_hi": "संस्कृत भाषा एवं शिक्षण शास्त्र",
+    "type": "language_pedagogy"
+  },
+  "total_topics": 22,
+  "total_subtopics": 50,
+  "total_microtopics": 105,
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice"
+  ],
+  "topics": [
+    {
+      "id": "T01",
+      "code": "Topic_01_Unseen_Comprehension_Prose_and_Poetry",
+      "name_hi": "अपठित अवबोधनम् — गद्यम् एवं पद्यम्",
+      "subtopics": [
+        {
+          "id": "ST01_01",
+          "code": "Subtopic_01_Unseen_Prose_Passages",
+          "micro_topics": [
+            {
+              "micro_id": "ST01_01_M01",
+              "folder": "MicroTopic_01_Factual_Moral_Expository_Comprehension",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST01_01_M02",
+              "folder": "MicroTopic_02_Contextual_Grammar_Sandhi_Samasa_Vibhakti",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST01_02",
+          "code": "Subtopic_02_Unseen_Poetry_Stanzas",
+          "micro_topics": [
+            {
+              "micro_id": "ST01_02_M01",
+              "folder": "MicroTopic_01_Poetic_Emotion_Anvaya_Subhashita",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST01_02_M02",
+              "folder": "MicroTopic_02_Chhand_Alankara_Word_Explanations",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "code": "Topic_02_Maheshwar_Sutras_Pratyahara_Alphabet_UPTET",
+      "name_hi": "माहेश्वर सूत्राणि, प्रत्याहार एवं वर्ण विचार",
+      "subtopics": [
+        {
+          "id": "ST02_01",
+          "code": "Subtopic_01_Maheshwar_Sutras_and_Pratyahara",
+          "micro_topics": [
+            {
+              "micro_id": "ST02_01_M01",
+              "folder": "MicroTopic_01_Fourteen_Maheshwar_Sutras_It_Samjna",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST02_01_M02",
+              "folder": "MicroTopic_02_FortyTwo_Pratyahara_Construction_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST02_02",
+          "code": "Subtopic_02_Varna_Classification",
+          "micro_topics": [
+            {
+              "micro_id": "ST02_02_M01",
+              "folder": "MicroTopic_01_Swar_Ach_Hrasva_Dirgha_Pluta",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST02_02_M02",
+              "folder": "MicroTopic_02_Vyanjan_Hal_Sparsha_Antastha_Ushma_Ayogavaha",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "code": "Topic_03_Places_of_Articulation_Efforts_UPTET",
+      "name_hi": "उच्चारण स्थानानि एवं आभ्यन्तर-बाह्य प्रयत्नाः",
+      "subtopics": [
+        {
+          "id": "ST03_01",
+          "code": "Subtopic_01_Places_of_Articulation_Sutras",
+          "micro_topics": [
+            {
+              "micro_id": "ST03_01_M01",
+              "folder": "MicroTopic_01_Kanthya_Talavya_Murdhanya_Dantya_Osthya",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST03_01_M02",
+              "folder": "MicroTopic_02_Dantosthya_Nasika_Paninian_Formulae",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST03_02",
+          "code": "Subtopic_02_Yatna_Abhyantara_Bahya_Efforts",
+          "micro_topics": [
+            {
+              "micro_id": "ST03_02_M01",
+              "folder": "MicroTopic_01_Five_Abhyantara_Prayatna_Sprishta_Vivrita",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST03_02_M02",
+              "folder": "MicroTopic_02_Eleven_Bahya_Prayatna_Ghosh_Pran_Swarita",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "code": "Topic_04_Sandhi_Rules_and_Sutras_UPTET",
+      "name_hi": "संधि विचार — अच्, हल् एवं विसर्ग संधि",
+      "subtopics": [
+        {
+          "id": "ST04_01",
+          "code": "Subtopic_01_Ach_Swar_Sandhi",
+          "micro_topics": [
+            {
+              "micro_id": "ST04_01_M01",
+              "folder": "MicroTopic_01_Dirgha_Guna_Vriddhi_Yan_Ayadi_Sutras",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST04_01_M02",
+              "folder": "MicroTopic_02_Purvarupa_Pararupa_Sandhi_Exceptions",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST04_02",
+          "code": "Subtopic_02_Hal_Vyanjan_Sandhi",
+          "micro_topics": [
+            {
+              "micro_id": "ST04_02_M01",
+              "folder": "MicroTopic_01_Schutva_Shtutva_Jashtva_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST04_02_M02",
+              "folder": "MicroTopic_02_Charva_Anusvara_Parasavarna_Sutras",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST04_03",
+          "code": "Subtopic_03_Visarga_Sandhi",
+          "micro_topics": [
+            {
+              "micro_id": "ST04_03_M01",
+              "folder": "MicroTopic_01_Sattva_Utva_Rutva_Modifications",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST04_03_M02",
+              "folder": "MicroTopic_02_Visarga_Elision_Ror_Ri_Dhralopa",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "code": "Topic_05_Samasa_Compounds_and_Vigraha_UPTET",
+      "name_hi": "समास विचार एवं विग्रह",
+      "subtopics": [
+        {
+          "id": "ST05_01",
+          "code": "Subtopic_01_Samasa_Basics_Avyayibhav",
+          "micro_topics": [
+            {
+              "micro_id": "ST05_01_M01",
+              "folder": "MicroTopic_01_Samasa_Types_Laukika_Alaukika_Vigraha",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST05_01_M02",
+              "folder": "MicroTopic_02_Avyayibhav_Prefixes_Nadibhishcha_Sutra",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST05_02",
+          "code": "Subtopic_02_Tatpurush_Karmadharaya_Dvigu",
+          "micro_topics": [
+            {
+              "micro_id": "ST05_02_M01",
+              "folder": "MicroTopic_01_Vibhakti_Tatpurush_Upapada_Nan_Tatpurush",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST05_02_M02",
+              "folder": "MicroTopic_02_Karmadharaya_and_Sankhyapurvo_Dvigu",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST05_03",
+          "code": "Subtopic_03_Dvandva_and_Bahuvrihi",
+          "micro_topics": [
+            {
+              "micro_id": "ST05_03_M01",
+              "folder": "MicroTopic_01_Itaretara_Samahara_Ekashesha_Dvandva",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST05_03_M02",
+              "folder": "MicroTopic_02_Samanadhikarana_Vyadhikarana_Bahuvrihi",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "code": "Topic_06_Noun_Declensions_and_Pronouns_UPTET",
+      "name_hi": "शब्द रूपाणि — अजन्त, हलन्त एवं सर्वनाम",
+      "subtopics": [
+        {
+          "id": "ST06_01",
+          "code": "Subtopic_01_Ajanta_Vowel_Endings",
+          "micro_topics": [
+            {
+              "micro_id": "ST06_01_M01",
+              "folder": "MicroTopic_01_Masculine_Rama_Hari_Guru_Pitri",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST06_01_M02",
+              "folder": "MicroTopic_02_Feminine_Neuter_Rama_Nadi_Phala_Vari_Madhu",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST06_02",
+          "code": "Subtopic_02_Halanta_Consonant_Endings",
+          "micro_topics": [
+            {
+              "micro_id": "ST06_02_M01",
+              "folder": "MicroTopic_01_Rajan_Atman_Marut_Vidvas_Payas",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST06_02_M02",
+              "folder": "MicroTopic_02_Declension_Patterns_and_Irregularities",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST06_03",
+          "code": "Subtopic_03_Pronouns_and_Number_Words",
+          "micro_topics": [
+            {
+              "micro_id": "ST06_03_M01",
+              "folder": "MicroTopic_01_Asmad_Yushmad_Tad_Yad_Kim_Sarva",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST06_03_M02",
+              "folder": "MicroTopic_02_Eka_Dvi_Tri_Chatur_Declensions",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "code": "Topic_07_Verb_Conjugations_Five_Lakaras_UPTET",
+      "name_hi": "धातु रूपाणि — लकाराः एवं पदम्",
+      "subtopics": [
+        {
+          "id": "ST07_01",
+          "code": "Subtopic_01_Five_Major_Lakaras",
+          "micro_topics": [
+            {
+              "micro_id": "ST07_01_M01",
+              "folder": "MicroTopic_01_Lat_Lot_Lang_Vidhiling_Lrit_Structures",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST07_01_M02",
+              "folder": "MicroTopic_02_Purusha_and_Vachana_Concord_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST07_02",
+          "code": "Subtopic_02_Parasmaipada_Atmanepada_Roots",
+          "micro_topics": [
+            {
+              "micro_id": "ST07_02_M01",
+              "folder": "MicroTopic_01_Bhu_Path_Gam_Drish_Stha_Pa_As_Kri",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST07_02_M02",
+              "folder": "MicroTopic_02_Atmanepada_Roots_Sev_Labh_Conjugations",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "code": "Topic_08_Karakas_Vibhakti_Syntax_UPTET",
+      "name_hi": "कारक विचार एवं उपपद विभक्तयः",
+      "subtopics": [
+        {
+          "id": "ST08_01",
+          "code": "Subtopic_01_Prathama_Dvitiya_Vibhakti",
+          "micro_topics": [
+            {
+              "micro_id": "ST08_01_M01",
+              "folder": "MicroTopic_01_Karta_Karman_Pratipadika_Sutras",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST08_01_M02",
+              "folder": "MicroTopic_02_Upapada_Dvitiya_Abhitah_Paritah_Prati",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST08_02",
+          "code": "Subtopic_02_Tritiya_Chaturthi_Panchami",
+          "micro_topics": [
+            {
+              "micro_id": "ST08_02_M01",
+              "folder": "MicroTopic_01_Yenangavikarah_Sahayukte_Tritiya",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST08_02_M02",
+              "folder": "MicroTopic_02_Ruchyarthanam_Namah_Swasti_Chaturthi",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST08_02_M03",
+              "folder": "MicroTopic_03_Apadana_Bhitrarthanam_Jugupsi_Panchami",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST08_03",
+          "code": "Subtopic_03_Shashthi_Saptami_Vibhakti",
+          "micro_topics": [
+            {
+              "micro_id": "ST08_03_M01",
+              "folder": "MicroTopic_01_Shashthi_Sheshe_Yatashcha_Nirdharanam",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST08_03_M02",
+              "folder": "MicroTopic_02_Adharodhikaranam_Yasya_Cha_Bhavena_Saptami",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "code": "Topic_09_Suffixes_Kridanta_Taddhita_Stri_UPTET",
+      "name_hi": "प्रत्यय विचार — कृत्, तद्धित एवं स्त्री प्रत्ययाः",
+      "subtopics": [
+        {
+          "id": "ST09_01",
+          "code": "Subtopic_01_Krit_Pratyaya_Kridanta",
+          "micro_topics": [
+            {
+              "micro_id": "ST09_01_M01",
+              "folder": "MicroTopic_01_Ktva_Lyap_Tumun_Indeclinable_Suffixes",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST09_01_M02",
+              "folder": "MicroTopic_02_Kta_Ktavatu_Shatri_Shanach_Participles",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST09_01_M03",
+              "folder": "MicroTopic_03_Tavyat_Aniyar_Yat_Nyat_Potential_Suffixes",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST09_02",
+          "code": "Subtopic_02_Taddhita_and_Stri_Pratyaya",
+          "micro_topics": [
+            {
+              "micro_id": "ST09_02_M01",
+              "folder": "MicroTopic_01_Matup_In_Thak_Tal_Tva_Taddhita_Suffixes",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST09_02_M02",
+              "folder": "MicroTopic_02_Tap_Dheep_Dheesh_Dheen_Feminine_Affixes",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "code": "Topic_10_Indeclinables_Prefixes_Numerals_UPTET",
+      "name_hi": "अव्ययानि, उपसर्गाः एवं संस्कृत संख्याः",
+      "subtopics": [
+        {
+          "id": "ST10_01",
+          "code": "Subtopic_01_Avyaya_and_Upasarga",
+          "micro_topics": [
+            {
+              "micro_id": "ST10_01_M01",
+              "folder": "MicroTopic_01_Sadresham_Trishu_Lingeshu_Common_Avyayas",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST10_01_M02",
+              "folder": "MicroTopic_02_TwentyTwo_Upasargas_and_Semantic_Shifts",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST10_02",
+          "code": "Subtopic_02_Sanskrit_Numerals_1_to_100",
+          "micro_topics": [
+            {
+              "micro_id": "ST10_02_M01",
+              "folder": "MicroTopic_01_Gender_Rules_for_Numbers_1_to_4",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST10_02_M02",
+              "folder": "MicroTopic_02_Ekonatrimshat_Navatishcha_Complex_Numerals",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST10_02_M03",
+              "folder": "MicroTopic_03_Shatam_Sahasram_Laksham_Kotih_Values",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "code": "Topic_11_Voice_Transformation_and_Correction_UPTET",
+      "name_hi": "वाच्य परिवर्तनम् एवं अशुद्धि-संशोधनम्",
+      "subtopics": [
+        {
+          "id": "ST11_01",
+          "code": "Subtopic_01_Voice_Transformations",
+          "micro_topics": [
+            {
+              "micro_id": "ST11_01_M01",
+              "folder": "MicroTopic_01_Kartrivachya_Karmavachya_Bhavavachya_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST11_01_M02",
+              "folder": "MicroTopic_02_Yak_Atmanepada_Conjugations_in_Passive",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST11_02",
+          "code": "Subtopic_02_Sentence_Correction_Translation",
+          "micro_topics": [
+            {
+              "micro_id": "ST11_02_M01",
+              "folder": "MicroTopic_01_Concord_Number_Gender_Case_Error_Correction",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST11_02_M02",
+              "folder": "MicroTopic_02_Hindi_to_Sanskrit_Translation_Rules",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "code": "Topic_12_Proverbs_Moral_Maxims_Subhashita",
+      "name_hi": "सूक्तयः, नीतयः एवं सुभाषितानि",
+      "subtopics": [
+        {
+          "id": "ST12_01",
+          "code": "Subtopic_01_Celebrated_Sanskrit_Suktis_UPTET",
+          "micro_topics": [
+            {
+              "micro_id": "ST12_01_M01",
+              "folder": "MicroTopic_01_Hitam_Manohari_Durlabham_Vachah_Analysis",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST12_01_M02",
+              "folder": "MicroTopic_02_Satyam_Eva_Jayate_Vasudhaiva_Kutumbakam",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST12_02",
+          "code": "Subtopic_02_Niti_Texts_and_Subhashita",
+          "micro_topics": [
+            {
+              "micro_id": "ST12_02_M01",
+              "folder": "MicroTopic_01_Bhartrihari_Niti_Shatakam_Verses",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST12_02_M02",
+              "folder": "MicroTopic_02_Panchatantra_Hitopadesha_Moral_Lessons",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "code": "Topic_13_Prosody_and_Figures_of_Speech_UPTET",
+      "name_hi": "छन्दः एवं अलङ्कार परिचयः",
+      "subtopics": [
+        {
+          "id": "ST13_01",
+          "code": "Subtopic_01_Sanskrit_Chhand_Prosody",
+          "micro_topics": [
+            {
+              "micro_id": "ST13_01_M01",
+              "folder": "MicroTopic_01_Laghu_Guru_Scansion_Rules_in_Sanskrit",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST13_01_M02",
+              "folder": "MicroTopic_02_Anushtup_Indravajra_Upendravajra_Vasantatilaka",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST13_02",
+          "code": "Subtopic_02_Sanskrit_Alankara_Poetics",
+          "micro_topics": [
+            {
+              "micro_id": "ST13_02_M01",
+              "folder": "MicroTopic_01_Shabdalankara_Anuprasa_Yamaka_Shlesha",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST13_02_M02",
+              "folder": "MicroTopic_02_Arthalankara_Upama_Rupaka_Utpreksha_Atishayokti",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "code": "Topic_14_Sanskrit_Literature_Epics_Poets_UPTET",
+      "name_hi": "संस्कृत साहित्यम् — प्रमुख रचनाकाराः एवं कृतयः",
+      "subtopics": [
+        {
+          "id": "ST14_01",
+          "code": "Subtopic_01_Epics_Ramayana_Mahabharata",
+          "micro_topics": [
+            {
+              "micro_id": "ST14_01_M01",
+              "folder": "MicroTopic_01_Valmiki_Ramayana_Adikavya_Structure",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST14_01_M02",
+              "folder": "MicroTopic_02_Vyasa_Mahabharata_Parvas_Puranas",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST14_02",
+          "code": "Subtopic_02_Kalidasa_and_Brihattrayi_Laghuttrayi",
+          "micro_topics": [
+            {
+              "micro_id": "ST14_02_M01",
+              "folder": "MicroTopic_01_Kalidasa_Seven_Masterpieces_Shakuntalam",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST14_02_M02",
+              "folder": "MicroTopic_02_Brihattrayi_Kiratarjuniya_Sisupalavadha_Naishadhiyacharita",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST14_02_M03",
+              "folder": "MicroTopic_03_Laghutrayi_Raghuvamsham_Kumarasambhavam_Meghaduta",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST14_03",
+          "code": "Subtopic_03_Dramatists_and_Prose_Masters",
+          "micro_topics": [
+            {
+              "micro_id": "ST14_03_M01",
+              "folder": "MicroTopic_01_Banabhatta_Kadambari_Dandin_Subandhu",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST14_03_M02",
+              "folder": "MicroTopic_02_Bhasa_Thirteen_Plays_Bhavabhuti_Shudraka",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "code": "Topic_15_Language_Learning_and_Acquisition_CTET",
+      "name_hi": "भाषाधिगमः एवं भाषाऽर्जनम्",
+      "subtopics": [
+        {
+          "id": "ST15_01",
+          "code": "Subtopic_01_Acquisition_vs_Learning_Sanskrit",
+          "micro_topics": [
+            {
+              "micro_id": "ST15_01_M01",
+              "folder": "MicroTopic_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_01_M02",
+              "folder": "MicroTopic_02_Affective_Filter_and_Contextual_Environment",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST15_02",
+          "code": "Subtopic_02_Psychological_Language_Theories",
+          "micro_topics": [
+            {
+              "micro_id": "ST15_02_M01",
+              "folder": "MicroTopic_01_Chomsky_LAD_Universal_Grammar_in_Sanskrit",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_02_M02",
+              "folder": "MicroTopic_02_Skinner_Operant_Conditioning_Imitation",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST15_02_M03",
+              "folder": "MicroTopic_03_Vygotsky_Socio_Cultural_Private_Speech_ZPD",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "code": "Topic_16_Principles_and_Maxims_of_Teaching_CTET",
+      "name_hi": "भाषाशिक्षणस्य सिद्धान्ताः, सूत्राणि च",
+      "subtopics": [
+        {
+          "id": "ST16_01",
+          "code": "Subtopic_01_Pedagogical_Principles",
+          "micro_topics": [
+            {
+              "micro_id": "ST16_01_M01",
+              "folder": "MicroTopic_01_Naturalness_Habit_Formation_Active_Practice",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST16_01_M02",
+              "folder": "MicroTopic_02_Interest_Motivation_Individual_Differences",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST16_02",
+          "code": "Subtopic_02_Pedagogical_Maxims_in_Sanskrit",
+          "micro_topics": [
+            {
+              "micro_id": "ST16_02_M01",
+              "folder": "MicroTopic_01_Known_to_Unknown_Simple_to_Complex_Concrete",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST16_02_M02",
+              "folder": "MicroTopic_02_Induction_to_Deduction_Whole_to_Part",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "code": "Topic_17_Methods_and_Approaches_of_Teaching_Sanskrit",
+      "name_hi": "भाषाशिक्षण पद्धतयः एवं उपागमाः",
+      "subtopics": [
+        {
+          "id": "ST17_01",
+          "code": "Subtopic_01_Traditional_Gurukul_Bhandarkar_Methods",
+          "micro_topics": [
+            {
+              "micro_id": "ST17_01_M01",
+              "folder": "MicroTopic_01_Gurukul_Pathshala_Rote_Oral_Tradition",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST17_01_M02",
+              "folder": "MicroTopic_02_Grammar_Translation_Method_Bhandarkar_Vidhi",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST17_02",
+          "code": "Subtopic_02_Modern_Direct_Communicative_Methods",
+          "micro_topics": [
+            {
+              "micro_id": "ST17_02_M01",
+              "folder": "MicroTopic_01_Direct_Method_Nirbadha_Teaching_in_Sanskrit",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST17_02_M02",
+              "folder": "MicroTopic_02_Communicative_Language_Teaching_CLT_Eclectic",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "code": "Topic_18_Language_Skills_LSRW_Pedagogy_CTET",
+      "name_hi": "भाषाकौशलानि — श्रवणम्, भाषणम्, पठनम्, लेखनम्",
+      "subtopics": [
+        {
+          "id": "ST18_01",
+          "code": "Subtopic_01_Aural_Oral_Listening_Speaking",
+          "micro_topics": [
+            {
+              "micro_id": "ST18_01_M01",
+              "folder": "MicroTopic_01_Listening_Comprehension_Development_Defects",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST18_01_M02",
+              "folder": "MicroTopic_02_Speaking_Pronunciation_Recitation_Dialogues",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST18_02",
+          "code": "Subtopic_02_Reading_Skills_and_Dyslexia",
+          "micro_topics": [
+            {
+              "micro_id": "ST18_02_M01",
+              "folder": "MicroTopic_01_Loud_Reading_Silent_Intensive_Extensive",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST18_02_M02",
+              "folder": "MicroTopic_02_Reading_Comprehension_and_Dyslexia_Remediation",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST18_03",
+          "code": "Subtopic_03_Writing_Skills_and_Dysgraphia",
+          "micro_topics": [
+            {
+              "micro_id": "ST18_03_M01",
+              "folder": "MicroTopic_01_Calligraphy_Transcription_Dictation_Sulekha",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST18_03_M02",
+              "folder": "MicroTopic_02_Creative_Writing_Orthography_Dysgraphia",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "code": "Topic_19_Teaching_Prose_Poetry_Grammar_Drama",
+      "name_hi": "विशिष्ट विधाशिक्षणम् — गद्य, पद्य, व्याकरण एवं नाटक शिक्षणम्",
+      "subtopics": [
+        {
+          "id": "ST19_01",
+          "code": "Subtopic_01_Teaching_Prose_and_Poetry",
+          "micro_topics": [
+            {
+              "micro_id": "ST19_01_M01",
+              "folder": "MicroTopic_01_Prose_Kathinya_Nivarana_Udbodhana_Methods",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST19_01_M02",
+              "folder": "MicroTopic_02_Poetry_Dandanvaya_Khandanvaya_Rasanubhuti",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST19_02",
+          "code": "Subtopic_02_Teaching_Grammar_and_Drama",
+          "micro_topics": [
+            {
+              "micro_id": "ST19_02_M01",
+              "folder": "MicroTopic_01_Grammar_Inductive_Deductive_Sutra_Method",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST19_02_M02",
+              "folder": "MicroTopic_02_Drama_Classroom_Dramatization_Rangamancha",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "code": "Topic_20_TLM_Textbooks_and_Multilingualism_CTET",
+      "name_hi": "शिक्षण-अधिगम-सामग्री, पाठ्यपुस्तकम् एवं बहुभाषिकता",
+      "subtopics": [
+        {
+          "id": "ST20_01",
+          "code": "Subtopic_01_Teaching_Learning_Materials_Sanskrit",
+          "micro_topics": [
+            {
+              "micro_id": "ST20_01_M01",
+              "folder": "MicroTopic_01_Visual_Aids_Blackboard_Flashcards_Models",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST20_01_M02",
+              "folder": "MicroTopic_02_Audio_Visual_Language_Lab_Digital_Aids",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST20_02",
+          "code": "Subtopic_02_Textbooks_and_Multilingualism",
+          "micro_topics": [
+            {
+              "micro_id": "ST20_02_M01",
+              "folder": "MicroTopic_01_Criteria_for_Ideal_Sanskrit_Textbooks",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST20_02_M02",
+              "folder": "MicroTopic_02_Multilingualism_as_Resource_in_Sanskrit_Class",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "code": "Topic_21_Assessment_Diagnostics_Remedial_Teaching_CTET",
+      "name_hi": "मूल्याङ्कनम्, निदानात्मकं परीक्षणम् एवं उपचारात्मकं शिक्षणम्",
+      "subtopics": [
+        {
+          "id": "ST21_01",
+          "code": "Subtopic_01_Continuous_Comprehensive_Evaluation",
+          "micro_topics": [
+            {
+              "micro_id": "ST21_01_M01",
+              "folder": "MicroTopic_01_Formative_Summative_Assessment_as_Learning",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST21_01_M02",
+              "folder": "MicroTopic_02_Rubrics_Portfolios_Anecdotal_Records",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST21_02",
+          "code": "Subtopic_02_Diagnostic_and_Remedial_Teaching",
+          "micro_topics": [
+            {
+              "micro_id": "ST21_02_M01",
+              "folder": "MicroTopic_01_Error_Analysis_in_Sanskrit_Learning_Windows",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST21_02_M02",
+              "folder": "MicroTopic_02_Diagnostic_Testing_and_Remedial_Interventions",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "code": "Topic_22_Policies_NEP_2020_and_NCF_Directives",
+      "name_hi": "नीतयः, आयोगानि एवं संस्कृतभाषायाः स्थानम्",
+      "subtopics": [
+        {
+          "id": "ST22_01",
+          "code": "Subtopic_01_Constitutional_Status_Three_Language_Formula",
+          "micro_topics": [
+            {
+              "micro_id": "ST22_01_M01",
+              "folder": "MicroTopic_01_Eighth_Schedule_Classical_Language_Status",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST22_01_M02",
+              "folder": "MicroTopic_02_Three_Language_Formula_Kothari_Commission",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ST22_02",
+          "code": "Subtopic_02_NEP_2020_and_NCF_Directives",
+          "micro_topics": [
+            {
+              "micro_id": "ST22_02_M01",
+              "folder": "MicroTopic_01_NEP_2020_and_Simple_Standard_Sanskrit",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            },
+            {
+              "micro_id": "ST22_02_M02",
+              "folder": "MicroTopic_02_NCF_FS_NCF_SE_Panchakosha_Indian_Knowledge_Systems",
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

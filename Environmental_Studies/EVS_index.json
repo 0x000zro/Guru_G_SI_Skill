@@ -14,9 +14,10 @@
   ],
   "subject": {
     "id": "EVS",
+    "type": "environmental_studies_pedagogy",
     "name_en": "Environmental Studies and Pedagogy",
     "name_hi": "पर्यावरण अध्ययन एवं शिक्षण शास्त्र",
-    "type": "environmental_studies_pedagogy"
+    "directory": "Environmental_Studies"
   },
   "total_topics": 24,
   "total_subtopics": 52,
@@ -26,74 +27,87 @@
     "Short_Notes",
     "PYQ",
     "MCQ",
-    "Practice"
+    "Practice",
+    "Mock_Test"
   ],
+  "mock_test_config": {
+    "topic_wise": {
+      "default_questions": 30,
+      "pyq_ratio": 0.70,
+      "mcq_ratio": 0.30,
+      "negative_marking": false,
+      "time_minutes": 30
+    },
+    "subject_wise": {
+      "default_questions": 30,
+      "pyq_ratio": 0.70,
+      "mcq_ratio": 0.30,
+      "negative_marking": false,
+      "time_minutes": 30
+    }
+  },
   "topics": [
     {
       "id": "T01",
       "slug": "Family_and_Friends_Relations_Work_Play",
-      "title_hi": "परिवार एवं मित्र — संबंध, कार्य एवं खेल",
+      "name_en": "Family and Friends — Relations, Work and Play",
+      "name_hi": "परिवार एवं मित्र — संबंध, कार्य एवं खेल",
+      "folder": "Topic_01_Family_and_Friends_Relations_Work_Play",
       "order": 1,
       "subtopics": [
         {
           "id": "ST01_01",
           "slug": "Family_Structure_Social_Aspects",
+          "name_en": "Family Structure and Social Aspects",
+          "name_hi": "पारिवारिक संरचना एवं सामाजिक पहलू",
+          "folder": "Subtopic_01_Family_Structure_Social_Aspects",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST01_01_M01",
               "slug": "Nuclear_Joint_Family_Dynamics",
+              "name_en": "Nuclear and Joint Family Dynamics",
+              "name_hi": "एकल एवं संयुक्त परिवार की गतिकी व विशेषताएं",
+              "folder": "Micro_01_Nuclear_Joint_Family_Dynamics",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST01_01_M02",
               "slug": "Family_Relations_Child_Marriage_Abolition",
+              "name_en": "Family Relations & Child Marriage Restraint",
+              "name_hi": "पारिवारिक संबंध एवं बाल विवाह निषेध अधिनियम",
+              "folder": "Micro_02_Family_Relations_Child_Marriage_Abolition",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST01_02",
           "slug": "Work_Play_Child_Labor",
+          "name_en": "Work, Play and Child Labor Laws",
+          "name_hi": "कार्य, खेल एवं बाल श्रम कानून",
+          "folder": "Subtopic_02_Work_Play_Child_Labor",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST01_02_M01",
               "slug": "Traditional_Games_Child_Development",
+              "name_en": "Traditional Games and Child Development",
+              "name_hi": "पारंपरिक खेल, शारीरिक व मानसिक विकास",
+              "folder": "Micro_01_Traditional_Games_Child_Development",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST01_02_M02",
               "slug": "Work_Occupations_Child_Labor_Laws",
+              "name_en": "Work, Occupations and Child Labor Laws",
+              "name_hi": "कार्य, व्यवसाय एवं बाल श्रम (निषेध व नियमन) कानून",
+              "folder": "Micro_02_Work_Occupations_Child_Labor_Laws",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -102,68 +116,64 @@
     {
       "id": "T02",
       "slug": "Animals_Fauna_and_Adaptations",
-      "title_hi": "जंतु एवं प्राणी जगत",
+      "name_en": "Animals, Fauna and Adaptations",
+      "name_hi": "जंतु, प्राणी जगत एवं अनुकूलन",
+      "folder": "Topic_02_Animals_Fauna_and_Adaptations",
       "order": 2,
       "subtopics": [
         {
           "id": "ST02_01",
           "slug": "Mammals_Birds_Reptiles_CTET",
+          "name_en": "Mammals, Birds and Reptiles",
+          "name_hi": "स्तनधारी, पक्षी एवं सरीसृप",
+          "folder": "Subtopic_01_Mammals_Birds_Reptiles_CTET",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST02_01_M01",
               "slug": "Animal_Traits_Sloth_Tiger_Elephant_Snakes",
+              "name_en": "Animal Traits (Sloth, Tiger, Elephant & Snakes)",
+              "name_hi": "जंतु विशेषताएं (स्लॉथ, बाघ, हाथी एवं सांप)",
+              "folder": "Micro_01_Animal_Traits_Sloth_Tiger_Elephant_Snakes",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST02_01_M02",
               "slug": "Bird_Characteristics_Beaks_Nests_Vision",
+              "name_en": "Bird Characteristics, Beaks, Nests & Vision",
+              "name_hi": "पक्षियों की विशेषताएं, चोंच, घोंसले एवं दृष्टि विस्तार",
+              "folder": "Micro_02_Bird_Characteristics_Beaks_Nests_Vision",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST02_02",
           "slug": "Insects_and_Microorganisms",
+          "name_en": "Insects and Microorganisms",
+          "name_hi": "कीट-पतंगे एवं सूक्ष्मजीव",
+          "folder": "Subtopic_02_Insects_and_Microorganisms",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST02_02_M01",
               "slug": "Social_Insects_Honeybees_Ants_Termites",
+              "name_en": "Social Insects (Honeybees, Ants & Termites)",
+              "name_hi": "सामाजिक कीट (मधुमक्खियां, चींटियां एवं दीमक)",
+              "folder": "Micro_01_Social_Insects_Honeybees_Ants_Termites",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST02_02_M02",
               "slug": "Silkworm_Earthworm_Sensory_Adaptations",
+              "name_en": "Silkworm, Earthworm & Sensory Adaptations",
+              "name_hi": "रेशम कीट, केंचुआ एवं संवेदी अनुकूलन",
+              "folder": "Micro_02_Silkworm_Earthworm_Sensory_Adaptations",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -172,68 +182,64 @@
     {
       "id": "T03",
       "slug": "Plants_Flora_Natural_Vegetation",
-      "title_hi": "पादप एवं वनस्पति जगत",
+      "name_en": "Plants, Flora and Natural Vegetation",
+      "name_hi": "पादप, वनस्पति जगत एवं कृषि",
+      "folder": "Topic_03_Plants_Flora_Natural_Vegetation",
       "order": 3,
       "subtopics": [
         {
           "id": "ST03_01",
           "slug": "Plant_Anatomy_Special_Plants_CTET",
+          "name_en": "Plant Anatomy and Special Plants",
+          "name_hi": "पादप संरचना एवं विशिष्ट पौधे",
+          "folder": "Subtopic_01_Plant_Anatomy_Special_Plants_CTET",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST03_01_M01",
               "slug": "Roots_Stems_Leaves_Photosynthesis_Transpiration",
+              "name_en": "Roots, Stems, Leaves, Photosynthesis & Transpiration",
+              "name_hi": "जड़, तना, पत्तियां, प्रकाश संश्लेषण एवं वाष्पोत्सर्जन",
+              "folder": "Micro_01_Roots_Stems_Leaves_Photosynthesis_Transpiration",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST03_01_M02",
               "slug": "Insectivorous_Nepenthes_Desert_Oak_Banyan",
+              "name_en": "Special Plants (Nepenthes, Desert Oak & Banyan)",
+              "name_hi": "विशिष्ट पौधे (कीटभक्षी/नेपेंथिस, रेगिस्तानी ओक एवं बरगद)",
+              "folder": "Micro_02_Insectivorous_Nepenthes_Desert_Oak_Banyan",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST03_02",
           "slug": "Seeds_Dispersal_Agriculture",
+          "name_en": "Seeds, Dispersal and Agriculture",
+          "name_hi": "बीज, प्रकीर्णन एवं कृषि पद्धतियां",
+          "folder": "Subtopic_02_Seeds_Dispersal_Agriculture",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST03_02_M01",
               "slug": "Seed_Germination_Dispersal_Foreign_Seeds",
+              "name_en": "Seed Germination, Dispersal & Foreign Seeds",
+              "name_hi": "बीज अंकुरण, प्रकीर्णन एवं भारत में आए विदेशी बीज",
+              "folder": "Micro_01_Seed_Germination_Dispersal_Foreign_Seeds",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST03_02_M02",
               "slug": "Cropping_Patterns_Jhum_Organic_Farming",
+              "name_en": "Cropping Patterns, Jhum & Organic Farming",
+              "name_hi": "फसल चक्र, झूम खेती (मिजोरम) एवं जैविक कृषि",
+              "folder": "Micro_02_Cropping_Patterns_Jhum_Organic_Farming",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -242,80 +248,73 @@
     {
       "id": "T04",
       "slug": "Food_Nutrition_Cooking_Diseases",
-      "title_hi": "भोजन, पोषण एवं स्वास्थ्य",
+      "name_en": "Food, Nutrition, Cooking and Diseases",
+      "name_hi": "भोजन, पोषण, पाक कला एवं स्वास्थ्य",
+      "folder": "Topic_04_Food_Nutrition_Cooking_Diseases",
       "order": 4,
       "subtopics": [
         {
           "id": "ST04_01",
           "slug": "Nutrition_and_Preservation_CTET",
+          "name_en": "Nutrition, Preservation and Regional Cuisines",
+          "name_hi": "पोषण, खाद्य परिरक्षण एवं क्षेत्रीय व्यंजन",
+          "folder": "Subtopic_01_Nutrition_and_Preservation_CTET",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST04_01_M01",
               "slug": "Nutrients_Deficiency_Diseases_Vitamins",
+              "name_en": "Nutrients, Deficiency Diseases & Vitamins",
+              "name_hi": "पोषक तत्व, हीनताजन्य रोग, विटामिन एवं खनिज",
+              "folder": "Micro_01_Nutrients_Deficiency_Diseases_Vitamins",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST04_01_M02",
               "slug": "Food_Preservation_Techniques_Mamidi_Tandra",
+              "name_en": "Food Preservation Techniques & Mamidi Tandra",
+              "name_hi": "खाद्य संरक्षण विधियां एवं मामिडी तांड्रा (आम पापड़)",
+              "folder": "Micro_02_Food_Preservation_Techniques_Mamidi_Tandra",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST04_01_M03",
               "slug": "Regional_Cuisines_Ling_hu_fen_Tapioca_Fish",
+              "name_en": "Regional Cuisines (Ling-hu-fen, Tapioca & Fish)",
+              "name_hi": "क्षेत्रीय खान-पान (लिंग-हू-फेन, टैपिओका एवं मछली)",
+              "folder": "Micro_03_Regional_Cuisines_Ling_hu_fen_Tapioca_Fish",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST04_02",
           "slug": "Digestion_and_Infectious_Diseases",
+          "name_en": "Digestion and Infectious Diseases",
+          "name_hi": "पाचन क्रिया एवं संक्रामक रोग",
+          "folder": "Subtopic_02_Digestion_and_Infectious_Diseases",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST04_02_M01",
               "slug": "Human_Digestion_Dr_Beaumont_Experiments",
+              "name_en": "Human Digestion & Dr. Beaumont's Experiments",
+              "name_hi": "मानव पाचन तंत्र एवं डॉ. ब्यूमोंट के पेट के प्रयोग",
+              "folder": "Micro_01_Human_Digestion_Dr_Beaumont_Experiments",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST04_02_M02",
               "slug": "Water_Mosquito_Borne_Diseases_Malaria_Ross",
+              "name_en": "Water & Mosquito-Borne Diseases (Malaria, Ronald Ross)",
+              "name_hi": "जल व मच्छर जनित रोग (मलेरिया, रोनाल्ड रॉस की खोज)",
+              "folder": "Micro_02_Water_Mosquito_Borne_Diseases_Malaria_Ross",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -324,80 +323,73 @@
     {
       "id": "T05",
       "slug": "Shelter_Regional_Habitats_Architecture_CTET",
-      "title_hi": "आश्रय, बस्तियां एवं आवास विविधता",
+      "name_en": "Shelter, Regional Habitats and Architecture",
+      "name_hi": "आश्रय, क्षेत्रीय आवास एवं वास्तुकला विविधता",
+      "folder": "Topic_05_Shelter_Regional_Habitats_Architecture_CTET",
       "order": 5,
       "subtopics": [
         {
           "id": "ST05_01",
           "slug": "Geographical_Shelter_Diversity",
+          "name_en": "Geographical Shelter Diversity",
+          "name_hi": "भौगोलिक आवास विविधता",
+          "folder": "Subtopic_01_Geographical_Shelter_Diversity",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST05_01_M01",
               "slug": "Ladakh_Stone_Houses_Changpa_Rebo_Tents",
+              "name_en": "Ladakh Stone Houses & Changpa Rebo Tents",
+              "name_hi": "लद्दाख के पत्थरों के घर एवं चांगपा के रेबो (Rebo) टेंट",
+              "folder": "Micro_01_Ladakh_Stone_Houses_Changpa_Rebo_Tents",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST05_01_M02",
               "slug": "Assam_Bamboo_Stilt_Manali_Houses",
+              "name_en": "Assam Bamboo Stilt & Manali Sloping Houses",
+              "name_hi": "असम के बांस के खंभों पर बने घर एवं मनाली के ढलवां मकान",
+              "folder": "Micro_02_Assam_Bamboo_Stilt_Manali_Houses",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST05_01_M03",
               "slug": "Rajasthan_Mud_Houses_Kashmir_Houseboats",
+              "name_en": "Rajasthan Mud Houses & Kashmir Houseboats",
+              "name_hi": "राजस्थान के मिट्टी के घर एवं कश्मीर की हाउसबोट (शिकारा)",
+              "folder": "Micro_03_Rajasthan_Mud_Houses_Kashmir_Houseboats",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST05_02",
           "slug": "Shelter_Types_Sanitation_Waste",
+          "name_en": "Shelter Types, Sanitation and Waste Management",
+          "name_hi": "आवास के प्रकार, स्वच्छता एवं अपशिष्ट प्रबंधन",
+          "folder": "Subtopic_02_Shelter_Types_Sanitation_Waste",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST05_02_M01",
               "slug": "Temporary_Permanent_Public_Housing",
+              "name_en": "Temporary, Permanent and Public Housing",
+              "name_hi": "अस्थायी, स्थायी एवं सार्वजनिक आश्रय स्थल",
+              "folder": "Micro_01_Temporary_Permanent_Public_Housing",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST05_02_M02",
               "slug": "Sanitation_Waste_Management_Uninvited_Pests",
+              "name_en": "Sanitation, Waste Management & Uninvited Animals",
+              "name_hi": "स्वच्छता, अपशिष्ट प्रबंधन एवं बिन बुलाए जीव (Uninvited Pests)",
+              "folder": "Micro_02_Sanitation_Waste_Management_Uninvited_Pests",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -406,68 +398,64 @@
     {
       "id": "T06",
       "slug": "Water_Resources_Cycles_Conservation",
-      "title_hi": "जल संसाधन, जल चक्र एवं संरक्षण",
+      "name_en": "Water Resources, Cycles and Conservation",
+      "name_hi": "जल संसाधन, जल चक्र एवं संरक्षण",
+      "folder": "Topic_06_Water_Resources_Cycles_Conservation",
       "order": 6,
       "subtopics": [
         {
           "id": "ST06_01",
           "slug": "Water_Sources_Historic_Management_CTET",
+          "name_en": "Water Sources and Historic Water Management",
+          "name_hi": "जल के स्रोत एवं ऐतिहासिक जल प्रबंधन",
+          "folder": "Subtopic_01_Water_Sources_Historic_Management_CTET",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST06_01_M01",
               "slug": "Water_Sources_Groundwater_Depletion_Pollution",
+              "name_en": "Water Sources, Groundwater Depletion & Pollution",
+              "name_hi": "जल के स्रोत, भूजल दोहन एवं जल प्रदूषण",
+              "folder": "Micro_01_Water_Sources_Groundwater_Depletion_Pollution",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST06_01_M02",
               "slug": "Traditional_Stepwells_Bawri_Ghadsisar_AlBiruni",
+              "name_en": "Traditional Stepwells (Bawri), Ghadsisar & Al-Biruni",
+              "name_hi": "पारंपरिक बावड़ियां, घड़सीसर सरोवर एवं अल-बिरूनी का विवरण",
+              "folder": "Micro_02_Traditional_Stepwells_Bawri_Ghadsisar_AlBiruni",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST06_02",
           "slug": "Properties_and_Movements",
+          "name_en": "Water Properties and Conservation Movements",
+          "name_hi": "जल के भौतिक गुण एवं जल संरक्षण आंदोलन",
+          "folder": "Subtopic_02_Properties_and_Movements",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST06_02_M01",
               "slug": "Water_Properties_Dead_Sea_Density_Buoyancy",
+              "name_en": "Water Properties, Dead Sea, Density & Buoyancy",
+              "name_hi": "जल के गुण, मृत सागर (Dead Sea), घनत्व एवं उत्प्लावन",
+              "folder": "Micro_01_Water_Properties_Dead_Sea_Density_Buoyancy",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST06_02_M02",
               "slug": "Water_Movements_Tarun_Bharat_Bhima_Sangh",
+              "name_en": "Water Movements (Tarun Bharat Sangh & Bhima Sangh)",
+              "name_hi": "जल आंदोलन: तरुण भारत संघ (राजेंद्र सिंह) एवं भीमा संघ",
+              "folder": "Micro_02_Water_Movements_Tarun_Bharat_Bhima_Sangh",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -476,80 +464,73 @@
     {
       "id": "T07",
       "slug": "Travel_Transport_Mapping_Space_CTET",
-      "title_hi": "यात्रा, परिवहन, मानचित्रण एवं अंतरिक्ष",
+      "name_en": "Travel, Transport, Mapping and Space Exploration",
+      "name_hi": "यात्रा, परिवहन, मानचित्रण एवं अंतरिक्ष अन्वेषण",
+      "folder": "Topic_07_Travel_Transport_Mapping_Space_CTET",
       "order": 7,
       "subtopics": [
         {
           "id": "ST07_01",
           "slug": "Mapping_Direction_Scale_Skills",
+          "name_en": "Mapping, Direction and Scale Skills",
+          "name_hi": "मानचित्रण, दिशा एवं पैमाना कौशल",
+          "folder": "Subtopic_01_Mapping_Direction_Scale_Skills",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST07_01_M01",
               "slug": "Indian_Map_States_Coastal_Relative_Position",
+              "name_en": "Indian Map, States, Coastal Boundaries & Positions",
+              "name_hi": "भारत का मानचित्र: राज्य, तटीय सीमाएं एवं सापेक्ष स्थिति",
+              "folder": "Micro_01_Indian_Map_States_Coastal_Relative_Position",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST07_01_M02",
               "slug": "Direction_Distance_Problems_Train_Timetables",
+              "name_en": "Direction-Distance Problems & Train Timetable Analysis",
+              "name_hi": "दिशा व दूरी संबंधी प्रश्न एवं रेलगाड़ी समय-सारणी विश्लेषण",
+              "folder": "Micro_02_Direction_Distance_Problems_Train_Timetables",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST07_02",
           "slug": "Mountaineering_Space_Transport",
+          "name_en": "Mountaineering, Space and Local Transport",
+          "name_hi": "पर्वतारोहण, अंतरिक्ष यात्रा एवं स्थानीय परिवहन",
+          "folder": "Subtopic_02_Mountaineering_Space_Transport",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST07_02_M01",
               "slug": "Bachendri_Pal_Mount_Everest_Expedition",
+              "name_en": "Bachendri Pal & Mount Everest Expedition",
+              "name_hi": "बछेंद्री पाल एवं माउंट एवरेस्ट पर्वतारोहण अभियान",
+              "folder": "Micro_01_Bachendri_Pal_Mount_Everest_Expedition",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST07_02_M02",
               "slug": "Sunita_Williams_Kalpana_Chawla_Space",
+              "name_en": "Sunita Williams & Kalpana Chawla in Space",
+              "name_hi": "सुनीता विलियम्स, कल्पना चावला एवं अंतरिक्ष अनुभव",
+              "folder": "Micro_02_Sunita_Williams_Kalpana_Chawla_Space",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST07_02_M03",
               "slug": "Local_Transport_Vallam_Ferry_Jugaad_Tickets",
+              "name_en": "Local Transport (Vallam, Ferry, Jugaad) & Rail Tickets",
+              "name_hi": "स्थानीय परिवहन (वल्लम, फेरी, जुगाड़) एवं रेल टिकट विवरण",
+              "folder": "Micro_03_Local_Transport_Vallam_Ferry_Jugaad_Tickets",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -558,68 +539,64 @@
     {
       "id": "T08",
       "slug": "Things_We_Make_and_Do_Crafts_Heritage",
-      "title_hi": "वस्तुएं जो हम बनाते और करते हैं",
+      "name_en": "Things We Make and Do — Crafts, Heritage and Tools",
+      "name_hi": "वस्तुएं जो हम बनाते और करते हैं — हस्तशिल्प, धरोहर एवं औजार",
+      "folder": "Topic_08_Things_We_Make_and_Do_Crafts_Heritage",
       "order": 8,
       "subtopics": [
         {
           "id": "ST08_01",
           "slug": "Traditional_Arts_and_Textiles_CTET",
+          "name_en": "Traditional Arts and Textiles",
+          "name_hi": "पारंपरिक कलाएं एवं वस्त्र उद्योग",
+          "folder": "Subtopic_01_Traditional_Arts_and_Textiles_CTET",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST08_01_M01",
               "slug": "Folk_Paintings_Madhubani_Warli_Pattachitra",
+              "name_en": "Folk Paintings (Madhubani, Warli & Pattachitra)",
+              "name_hi": "लोक चित्रकला (मधुबनी, वर्ली, पट्टचित्र एवं कलमकारी)",
+              "folder": "Micro_01_Folk_Paintings_Madhubani_Warli_Pattachitra",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST08_01_M02",
               "slug": "Textiles_Pochampally_Pashmina_Chikankari",
+              "name_en": "Traditional Textiles (Pochampally, Pashmina, Chikankari)",
+              "name_hi": "पारंपरिक वस्त्र (पोचमपल्ली, पश्मीना शॉल एवं चिकनकारी)",
+              "folder": "Micro_02_Textiles_Pochampally_Pashmina_Chikankari",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST08_02",
           "slug": "Metals_Minerals_Pottery_Tools",
+          "name_en": "Metals, Pottery and Traditional Tools",
+          "name_hi": "धातुएं, मृदभांड एवं पारंपरिक औजार",
+          "folder": "Subtopic_02_Metals_Minerals_Pottery_Tools",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST08_02_M01",
               "slug": "Bronze_Alloy_Copper_Tin_Pottery_Making",
+              "name_en": "Bronze Alloy (Copper & Tin) and Pottery Making",
+              "name_hi": "कांसा/कांस्य मिश्रधातु (तांबा व टिन) एवं मिट्टी के बर्तन निर्माण",
+              "folder": "Micro_01_Bronze_Alloy_Copper_Tin_Pottery_Making",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST08_02_M02",
               "slug": "Traditional_Occupations_Agricultural_Tools",
+              "name_en": "Traditional Occupations and Agricultural Tools",
+              "name_hi": "पारंपरिक व्यवसाय एवं कृषि यंत्र (कुरीगे, खूंटी, इलिगे)",
+              "folder": "Micro_02_Traditional_Occupations_Agricultural_Tools",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -628,99 +605,92 @@
     {
       "id": "T09",
       "slug": "Ecology_Ecosystems_Biomes_UPTET",
-      "title_hi": "पर्यावरण एवं पारिस्थितिकी तंत्र",
+      "name_en": "Ecology, Ecosystems and Global Biomes",
+      "name_hi": "पर्यावरण, पारिस्थितिकी तंत्र एवं वैश्विक बायोम",
+      "folder": "Topic_09_Ecology_Ecosystems_Biomes_UPTET",
       "order": 9,
       "subtopics": [
         {
           "id": "ST09_01",
           "slug": "Ecosystem_Structure",
+          "name_en": "Ecosystem Structure and Components",
+          "name_hi": "पारिस्थितिकी तंत्र की संरचना एवं घटक",
+          "folder": "Subtopic_01_Ecosystem_Structure",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST09_01_M01",
               "slug": "Ecology_Haaeckel_Ecosystem_Tansley_Concepts",
+              "name_en": "Ecology (Haeckel) & Ecosystem (Tansley) Concepts",
+              "name_hi": "पारिस्थितिकी (हेकल) एवं पारिस्थितिकी तंत्र (टांसले) की संकल्पना",
+              "folder": "Micro_01_Ecology_Haaeckel_Ecosystem_Tansley_Concepts",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST09_01_M02",
               "slug": "Biotic_Abiotic_Producers_Consumers_Decomposers",
+              "name_en": "Biotic, Abiotic, Producers, Consumers & Decomposers",
+              "name_hi": "जैविक व अजैविक घटक, उत्पादक, उपभोक्ता एवं अपघटक",
+              "folder": "Micro_02_Biotic_Abiotic_Producers_Consumers_Decomposers",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST09_02",
           "slug": "Food_Chains_and_Pyramids",
+          "name_en": "Food Chains, Food Webs and Ecological Pyramids",
+          "name_hi": "खाद्य श्रृंखला, खाद्य जाल एवं पारिस्थितिक पिरामिड",
+          "folder": "Subtopic_02_Food_Chains_and_Pyramids",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST09_02_M01",
               "slug": "Food_Chains_Webs_Lindeman_Ten_Percent_Law",
+              "name_en": "Food Chains, Food Webs & Lindeman's 10% Energy Law",
+              "name_hi": "खाद्य श्रृंखला, खाद्य जाल एवं लिंडेमैन का 10% ऊर्जा नियम",
+              "folder": "Micro_01_Food_Chains_Webs_Lindeman_Ten_Percent_Law",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST09_02_M02",
               "slug": "Ecological_Pyramids_Energy_Biomass_Numbers",
+              "name_en": "Ecological Pyramids (Energy, Biomass and Numbers)",
+              "name_hi": "पारिस्थितिक पिरामिड (ऊर्जा, जैवभार एवं संख्या का पिरामिड)",
+              "folder": "Micro_02_Ecological_Pyramids_Energy_Biomass_Numbers",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST09_03",
           "slug": "Global_Biomes_and_Aquatic_Systems",
+          "name_en": "Global Biomes and Aquatic Systems",
+          "name_hi": "वैश्विक बायोम एवं जलीय पारिस्थितिकी तंत्र",
+          "folder": "Subtopic_03_Global_Biomes_and_Aquatic_Systems",
           "order": 3,
           "micro_topics": [
             {
               "id": "ST09_03_M01",
               "slug": "Terrestrial_Biomes_Tundra_Taiga_Grasslands",
+              "name_en": "Terrestrial Biomes (Tundra, Taiga & Grasslands)",
+              "name_hi": "स्थलीय बायोम (टुंड्रा, टैगा, सवाना एवं घास के मैदान)",
+              "folder": "Micro_01_Terrestrial_Biomes_Tundra_Taiga_Grasslands",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST09_03_M02",
               "slug": "Aquatic_Coral_Reefs_Mangrove_Ecosystems",
+              "name_en": "Aquatic, Coral Reefs & Mangrove Ecosystems",
+              "name_hi": "जलीय पारिस्थितिकी तंत्र, प्रवाल भित्तियाँ एवं मैंग्रोव वन",
+              "folder": "Micro_02_Aquatic_Coral_Reefs_Mangrove_Ecosystems",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -729,111 +699,101 @@
     {
       "id": "T10",
       "slug": "Biodiversity_and_Wildlife_Conservation_UPTET",
-      "title_hi": "जैव विविधता एवं वन्यजीव संरक्षण",
+      "name_en": "Biodiversity and Wildlife Conservation",
+      "name_hi": "जैव विविधता एवं वन्यजीव संरक्षण",
+      "folder": "Topic_10_Biodiversity_and_Wildlife_Conservation_UPTET",
       "order": 10,
       "subtopics": [
         {
           "id": "ST10_01",
           "slug": "Biodiversity_Concepts_Hotspots",
+          "name_en": "Biodiversity Concepts and Global Hotspots",
+          "name_hi": "जैव विविधता की संकल्पना एवं हॉटस्पॉट",
+          "folder": "Subtopic_01_Biodiversity_Concepts_Hotspots",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST10_01_M01",
               "slug": "Biodiversity_Rosen_Alpha_Beta_Gamma_Diversity",
+              "name_en": "Biodiversity (Rosen) & Alpha, Beta, Gamma Diversity",
+              "name_hi": "जैव विविधता (वाल्टर रोसेन) एवं अल्फा, बीटा, गामा विविधता",
+              "folder": "Micro_01_Biodiversity_Rosen_Alpha_Beta_Gamma_Diversity",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST10_01_M02",
               "slug": "Hotspots_Western_Ghats_Eastern_Himalayas",
+              "name_en": "Biodiversity Hotspots (Western Ghats & Himalayas)",
+              "name_hi": "भारत के जैव विविधता हॉटस्पॉट (पश्चिमी घाट एवं पूर्वी हिमालय)",
+              "folder": "Micro_02_Hotspots_Western_Ghats_Eastern_Himalayas",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST10_02",
           "slug": "IUCN_Red_List_Conservation_Modes",
+          "name_en": "IUCN Red List and Conservation Modes",
+          "name_hi": "IUCN रेड डाटा बुक एवं संरक्षण की विधियां",
+          "folder": "Subtopic_02_IUCN_Red_List_Conservation_Modes",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST10_02_M01",
               "slug": "IUCN_Red_Data_Book_Endangered_Categories",
+              "name_en": "IUCN Red Data Book & Endangered Categories",
+              "name_hi": "IUCN रेड डाटा बुक, संकटग्रस्त प्रजातियां एवं गुलाबी पृष्ठ",
+              "folder": "Micro_01_IUCN_Red_Data_Book_Endangered_Categories",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST10_02_M02",
               "slug": "Insitu_vs_Exsitu_Conservation_Sanctuaries",
+              "name_en": "In-situ vs Ex-situ Conservation & Sanctuaries",
+              "name_hi": "स्व-स्थाने (In-situ) बनाम बाह्य-स्थाने (Ex-situ) संरक्षण",
+              "folder": "Micro_02_Insitu_vs_Exsitu_Conservation_Sanctuaries",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST10_03",
           "slug": "Flagship_Projects_and_Institutes",
+          "name_en": "Flagship Wildlife Projects and Conservation Institutes",
+          "name_hi": "प्रमुख वन्यजीव परियोजनाएं एवं पर्यावरण संस्थान",
+          "folder": "Subtopic_03_Flagship_Projects_and_Institutes",
           "order": 3,
           "micro_topics": [
             {
               "id": "ST10_03_M01",
               "slug": "Project_Tiger_Elephant_Rhino_Crocodile",
+              "name_en": "Project Tiger, Elephant, Rhino & Crocodile",
+              "name_hi": "प्रोजेक्ट टाइगर (1973), हाथी, गैंडा एवं घड़ियाल परियोजना",
+              "folder": "Micro_01_Project_Tiger_Elephant_Rhino_Crocodile",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST10_03_M02",
               "slug": "Major_National_Parks_Jim_Corbett_Kaziranga",
+              "name_en": "Major National Parks (Jim Corbett, Kaziranga, Gir)",
+              "name_hi": "प्रमुख राष्ट्रीय उद्यान एवं अभयारण्य (जिम कॉर्बेट, काजीरंगा, गिर)",
+              "folder": "Micro_02_Major_National_Parks_Jim_Corbett_Kaziranga",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST10_03_M03",
               "slug": "Wildlife_Institute_of_India_FRI_NGT",
+              "name_en": "Wildlife Institutes (WII, FRI, BSI, ZSI & NGT)",
+              "name_hi": "प्रमुख संस्थान: भारतीय वन्यजीव संस्थान, FRI, NGT एवं CPCB",
+              "folder": "Micro_03_Wildlife_Institute_of_India_FRI_NGT",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -842,80 +802,73 @@
     {
       "id": "T11",
       "slug": "Pollution_Global_Warming_Ozone_Depletion",
-      "title_hi": "पर्यावरण प्रदूषण, वैश्विक तापन एवं ओजोन क्षरण",
+      "name_en": "Pollution, Global Warming and Ozone Depletion",
+      "name_hi": "पर्यावरण प्रदूषण, वैश्विक तापन एवं ओजोन क्षरण",
+      "folder": "Topic_11_Pollution_Global_Warming_Ozone_Depletion",
       "order": 11,
       "subtopics": [
         {
           "id": "ST11_01",
           "slug": "Air_Water_Soil_Noise_Pollution",
+          "name_en": "Air, Water, Soil and Noise Pollution",
+          "name_hi": "वायु, जल, मृदा एवं ध्वनि प्रदूषण",
+          "folder": "Subtopic_01_Air_Water_Soil_Noise_Pollution",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST11_01_M01",
               "slug": "Air_Pollutants_PM25_Smog_Acid_Rain_Gases",
+              "name_en": "Air Pollutants, PM2.5, Smog & Acid Rain",
+              "name_hi": "वायु प्रदूषक, PM2.5, स्मॉग, अम्ल वर्षा एवं ताजमहल क्षरण",
+              "folder": "Micro_01_Air_Pollutants_PM25_Smog_Acid_Rain_Gases",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST11_01_M02",
               "slug": "Water_Pollution_BOD_COD_Eutrophication_Diseases",
+              "name_en": "Water Pollution, BOD, COD, Eutrophication & Diseases",
+              "name_hi": "जल प्रदूषण, BOD, COD, सुपोषण (Eutrophication) एवं जलजनित रोग",
+              "folder": "Micro_02_Water_Pollution_BOD_COD_Eutrophication_Diseases",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST11_01_M03",
               "slug": "Noise_Decibel_Standards_Soil_Degradation",
+              "name_en": "Noise Pollution (Decibel Standards) & Soil Degradation",
+              "name_hi": "ध्वनि प्रदूषण (डेसिबल मानक) एवं मृदा प्रदूषण व क्षरण",
+              "folder": "Micro_03_Noise_Decibel_Standards_Soil_Degradation",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST11_02",
           "slug": "Greenhouse_Ozone_Depletion",
+          "name_en": "Greenhouse Effect and Ozone Layer Depletion",
+          "name_hi": "हरितगृह प्रभाव एवं ओजोन परत क्षरण",
+          "folder": "Subtopic_02_Greenhouse_Ozone_Depletion",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST11_02_M01",
               "slug": "Greenhouse_Gases_Global_Warming_Dynamics",
+              "name_en": "Greenhouse Gases & Global Warming Dynamics",
+              "name_hi": "ग्रीनहाउस गैसें, वैश्विक तापमान वृद्धि एवं जलवायु परिवर्तन",
+              "folder": "Micro_01_Greenhouse_Gases_Global_Warming_Dynamics",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST11_02_M02",
               "slug": "Ozone_Depletion_Dobson_Montreal_Protocol",
+              "name_en": "Ozone Depletion, Dobson Unit & Montreal Protocol",
+              "name_hi": "ओजोन छिद्र, डॉबसन इकाई, पराबैंगनी किरणें एवं मॉन्ट्रियल प्रोटोकॉल",
+              "folder": "Micro_02_Ozone_Depletion_Dobson_Montreal_Protocol",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -924,99 +877,92 @@
     {
       "id": "T12",
       "slug": "Environmental_Movements_Laws_Treaties",
-      "title_hi": "पर्यावरण संरक्षण आंदोलन, कानून एवं अंतरराष्ट्रीय सम्मेलन",
+      "name_en": "Environmental Movements, Laws and International Treaties",
+      "name_hi": "पर्यावरण आंदोलन, भारतीय पर्यावरण कानून एवं वैश्विक संधियां",
+      "folder": "Topic_12_Environmental_Movements_Laws_Treaties",
       "order": 12,
       "subtopics": [
         {
           "id": "ST12_01",
           "slug": "Indian_Environmental_Movements_UPTET",
+          "name_en": "Indian Environmental Movements",
+          "name_hi": "भारत के प्रमुख पर्यावरण आंदोलन",
+          "folder": "Subtopic_01_Indian_Environmental_Movements_UPTET",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST12_01_M01",
               "slug": "Chipko_Movement_Bahuguna_Gaura_Devi",
+              "name_en": "Chipko Movement (Sunderlal Bahuguna & Gaura Devi)",
+              "name_hi": "चिपको आंदोलन (सुंदरलाल बहुगुणा, चंडी प्रसाद भट्ट, गौरा देवी)",
+              "folder": "Micro_01_Chipko_Movement_Bahuguna_Gaura_Devi",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST12_01_M02",
               "slug": "Bishnoi_Appiko_Narmada_Bachao_Andolan",
+              "name_en": "Bishnoi, Appiko Movement & Narmada Bachao Andolan",
+              "name_hi": "बिश्नोई आंदोलन (अमृता देवी), अप्पिको आंदोलन एवं नर्मदा बचाओ आंदोलन",
+              "folder": "Micro_02_Bishnoi_Appiko_Narmada_Bachao_Andolan",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST12_02",
           "slug": "Environmental_Legislations_India",
+          "name_en": "Environmental Legislations in India",
+          "name_hi": "भारत में पर्यावरण संरक्षण विधियां एवं अधिनियम",
+          "folder": "Subtopic_02_Environmental_Legislations_India",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST12_02_M01",
               "slug": "Wildlife_Protection_Act_1972_Forest_1980",
+              "name_en": "Wildlife Protection Act 1972 & Forest Conservation 1980",
+              "name_hi": "वन्यजीव संरक्षण अधिनियम 1972 एवं वन संरक्षण अधिनियम 1980",
+              "folder": "Micro_01_Wildlife_Protection_Act_1972_Forest_1980",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST12_02_M02",
               "slug": "Environment_Protection_Act_1986_Umbrella_Act",
+              "name_en": "Environment (Protection) Act 1986 (Umbrella Act)",
+              "name_hi": "पर्यावरण (संरक्षण) अधिनियम 1986 (छाता विधान / Umbrella Act)",
+              "folder": "Micro_02_Environment_Protection_Act_1986_Umbrella_Act",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST12_03",
           "slug": "Global_Conferences_Protocols",
+          "name_en": "Global Environmental Conferences and Treaties",
+          "name_hi": "वैश्विक पर्यावरण सम्मेलन एवं संधियां",
+          "folder": "Subtopic_03_Global_Conferences_Protocols",
           "order": 3,
           "micro_topics": [
             {
               "id": "ST12_03_M01",
               "slug": "Stockholm_1972_Earth_Summit_1992_Agenda21",
+              "name_en": "Stockholm 1972, Earth Summit 1992 & Agenda 21",
+              "name_hi": "स्टॉकहोम सम्मेलन 1972, पृथ्वी शिखर सम्मेलन 1992 एवं एजेंडा-21",
+              "folder": "Micro_01_Stockholm_1972_Earth_Summit_1992_Agenda21",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST12_03_M02",
               "slug": "Kyoto_Protocol_Carbon_Credits_Paris_Agreement",
+              "name_en": "Kyoto Protocol, Carbon Credits & Paris Agreement",
+              "name_hi": "क्योटो प्रोटोकॉल (1997), कार्बन क्रेडिट एवं पेरिस जलवायु समझौता",
+              "folder": "Micro_02_Kyoto_Protocol_Carbon_Credits_Paris_Agreement",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1025,80 +971,73 @@
     {
       "id": "T13",
       "slug": "Solar_System_and_Earth_Dynamics_UPTET",
-      "title_hi": "सौरमंडल, पृथ्वी की गतियां एवं खगोलिकी",
+      "name_en": "Solar System, Earth Dynamics and Astronomy",
+      "name_hi": "सौरमंडल, पृथ्वी की गतियां एवं खगोलिकी",
+      "folder": "Topic_13_Solar_System_and_Earth_Dynamics_UPTET",
       "order": 13,
       "subtopics": [
         {
           "id": "ST13_01",
           "slug": "Solar_System_Planets",
+          "name_en": "Solar System and Planetary System",
+          "name_hi": "सौरमंडल एवं ग्रह व्यवस्था",
+          "folder": "Subtopic_01_Solar_System_Planets",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST13_01_M01",
               "slug": "Sun_Eight_Planets_Classification_Traits",
+              "name_en": "Sun & Eight Planets Classification & Characteristics",
+              "name_hi": "सूर्य एवं आठ ग्रहों का वर्गीकरण व भौतिक विशेषताएं",
+              "folder": "Micro_01_Sun_Eight_Planets_Classification_Traits",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST13_01_M02",
               "slug": "Satellites_Asteroids_Meteors_Comets",
+              "name_en": "Satellites, Asteroids, Meteors and Comets",
+              "name_hi": "उपग्रह (चंद्रमा), क्षुद्रग्रह, उल्कापिंड एवं धूमकेतु",
+              "folder": "Micro_02_Satellites_Asteroids_Meteors_Comets",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST13_02",
           "slug": "Earth_Motions_Coordinates_Eclipses",
+          "name_en": "Earth's Motions, Coordinates and Eclipses",
+          "name_hi": "पृथ्वी की गतियां, अक्षांश-देशांतर एवं ग्रहण",
+          "folder": "Subtopic_02_Earth_Motions_Coordinates_Eclipses",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST13_02_M01",
               "slug": "Rotation_Revolution_Seasons_Perihelion_Aphelion",
+              "name_en": "Rotation, Revolution, Seasons, Perihelion & Aphelion",
+              "name_hi": "घूर्णन, परिक्रमण, ऋतु परिवर्तन, उपसौर एवं अपसौर",
+              "folder": "Micro_01_Rotation_Revolution_Seasons_Perihelion_Aphelion",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST13_02_M02",
               "slug": "Latitudes_Longitudes_IDL_GMT_IST_Calculations",
+              "name_en": "Latitudes, Longitudes, IDL, GMT & IST Time Calculations",
+              "name_hi": "अक्षांश, देशांतर रेखाएं, ग्रीनविच (GMT) एवं भारतीय मानक समय (IST)",
+              "folder": "Micro_02_Latitudes_Longitudes_IDL_GMT_IST_Calculations",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST13_02_M03",
               "slug": "Tropics_Equator_Solar_Lunar_Eclipses",
+              "name_en": "Tropics, Equator, Solar & Lunar Eclipses",
+              "name_hi": "कर्क-मकर रेखाएं, विषुवत वृत्त, सूर्य ग्रहण एवं चंद्र ग्रहण",
+              "folder": "Micro_03_Tropics_Equator_Solar_Lunar_Eclipses",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1107,80 +1046,73 @@
     {
       "id": "T14",
       "slug": "Physical_Geography_of_India_UPTET",
-      "title_hi": "भारत का भौतिक भूगोल — पर्वत, पठार, नदियां एवं झीलें",
+      "name_en": "Physical Geography of India — Mountains, Plateaus, Rivers & Lakes",
+      "name_hi": "भारत का भौतिक भूगोल — पर्वत, पठार, नदियां एवं झीलें",
+      "folder": "Topic_14_Physical_Geography_of_India_UPTET",
       "order": 14,
       "subtopics": [
         {
           "id": "ST14_01",
           "slug": "Physiography_Mountains_Plateaus",
+          "name_en": "Indian Physiography, Mountains and Plateaus",
+          "name_hi": "भारत की भू-आकृति, पर्वतमालाएं एवं पठार",
+          "folder": "Subtopic_01_Physiography_Mountains_Plateaus",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST14_01_M01",
               "slug": "Himalayan_Ranges_Passes_Major_Peaks",
+              "name_en": "Himalayan Ranges, Mountain Passes & Peaks",
+              "name_hi": "हिमालय पर्वतमाला (शिवालिक, हिमाद्रि), दर्रे एवं प्रमुख चोटियां",
+              "folder": "Micro_01_Himalayan_Ranges_Passes_Major_Peaks",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST14_01_M02",
               "slug": "Peninsular_Plateau_Western_Eastern_Ghats_Coasts",
+              "name_en": "Peninsular Plateau, Ghats & Coastal Plains",
+              "name_hi": "प्रायद्वीपीय पठार, पश्चिमी-पूर्वी घाट एवं तटीय मैदान",
+              "folder": "Micro_02_Peninsular_Plateau_Western_Eastern_Ghats_Coasts",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST14_02",
           "slug": "Drainage_Systems_and_Lakes",
+          "name_en": "Indian Drainage Systems, Rivers and Lakes",
+          "name_hi": "भारत का अपवाह तंत्र, नदियां एवं प्रमुख झीलें",
+          "folder": "Subtopic_02_Drainage_Systems_and_Lakes",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST14_02_M01",
               "slug": "Himalayan_Rivers_Ganga_Yamuna_Brahmaputra",
+              "name_en": "Himalayan River System (Ganga, Yamuna, Brahmaputra)",
+              "name_hi": "हिमालयी अपवाह तंत्र (गंगा, यमुना, सिंधु एवं ब्रह्मपुत्र)",
+              "folder": "Micro_01_Himalayan_Rivers_Ganga_Yamuna_Brahmaputra",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST14_02_M02",
               "slug": "Peninsular_Rivers_Arabian_Sea_Bay_of_Bengal",
+              "name_en": "Peninsular Rivers (Arabian Sea & Bay of Bengal Drainage)",
+              "name_hi": "प्रायद्वीपीय नदियां (नर्मदा, ताप्ती, गोदावरी, कृष्णा, कावेरी)",
+              "folder": "Micro_02_Peninsular_Rivers_Arabian_Sea_Bay_of_Bengal",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST14_02_M03",
               "slug": "Major_Lakes_Wular_Chilika_Sambhar_Waterfalls",
+              "name_en": "Major Lakes (Wular, Chilika, Sambhar) & Waterfalls",
+              "name_hi": "प्रमुख झीलें (वुलर, चिल्का, सांभर, लोकटक) एवं जलप्रपात",
+              "folder": "Micro_03_Major_Lakes_Wular_Chilika_Sambhar_Waterfalls",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1189,68 +1121,64 @@
     {
       "id": "T15",
       "slug": "Climate_Soils_Agriculture_Minerals_UPTET",
-      "title_hi": "भारत की जलवायु, मृदा, कृषि एवं खनिज",
+      "name_en": "Climate, Soils, Agriculture and Minerals of India",
+      "name_hi": "भारत की जलवायु, मृदा, कृषि एवं खनिज संसाधन",
+      "folder": "Topic_15_Climate_Soils_Agriculture_Minerals_UPTET",
       "order": 15,
       "subtopics": [
         {
           "id": "ST15_01",
           "slug": "Monsoon_Climate_Soils",
+          "name_en": "Monsoon Climate and Soil Classification",
+          "name_hi": "मानसूनी जलवायु एवं मृदा वर्गीकरण",
+          "folder": "Subtopic_01_Monsoon_Climate_Soils",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST15_01_M01",
               "slug": "Southwest_Northeast_Monsoon_Rainfall",
+              "name_en": "Monsoon Mechanisms (Southwest & Northeast) and Rainfall",
+              "name_hi": "भारतीय मानसून की क्रियाविधि एवं वर्षा का वितरण",
+              "folder": "Micro_01_Southwest_Northeast_Monsoon_Rainfall",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST15_01_M02",
               "slug": "ICAR_Soil_Classification_Alluvial_Black_Laterite",
+              "name_en": "ICAR Soil Types (Alluvial, Black, Red & Laterite)",
+              "name_hi": "ICAR मृदा वर्गीकरण (जलोढ़, काली/रेगुर, लाल एवं लैटेराइट)",
+              "folder": "Micro_02_ICAR_Soil_Classification_Alluvial_Black_Laterite",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST15_02",
           "slug": "Agriculture_and_Minerals",
+          "name_en": "Agriculture Patterns, Revolutions and Mineral Belts",
+          "name_hi": "भारतीय कृषि, कृषि क्रांतियां एवं खनिज पेटियां",
+          "folder": "Subtopic_02_Agriculture_and_Minerals",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST15_02_M01",
               "slug": "Crops_Green_Revolution_Swaminathan_White_Rev",
+              "name_en": "Crops (Rabi, Kharif, Zaid) & Agricultural Revolutions",
+              "name_hi": "फसलें (रबी, खरीफ, जायद), हरित क्रांति (स्वामीनाथन) एवं श्वेत क्रांति",
+              "folder": "Micro_01_Crops_Green_Revolution_Swaminathan_White_Rev",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST15_02_M02",
               "slug": "Conventional_Renewable_Energy_Mineral_Belts",
+              "name_en": "Energy Resources (Renewable & Non-Renewable) & Minerals",
+              "name_hi": "ऊर्जा संसाधन (पारंपरिक व गैर-पारंपरिक) एवं प्रमुख खनिज क्षेत्र",
+              "folder": "Micro_02_Conventional_Renewable_Energy_Mineral_Belts",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1259,111 +1187,101 @@
     {
       "id": "T16",
       "slug": "Uttar_Pradesh_Comprehensive_EVS_UPTET",
-      "title_hi": "उत्तर प्रदेश — भूगोल, संस्कृति, मेले, नदियां एवं अभयारण्य",
+      "name_en": "Uttar Pradesh — Geography, Culture, Fairs, Rivers & Wildlife",
+      "name_hi": "उत्तर प्रदेश विशेष — भूगोल, संस्कृति, मेले, नदियां एवं वन्यजीव",
+      "folder": "Topic_16_Uttar_Pradesh_Comprehensive_EVS_UPTET",
       "order": 16,
       "subtopics": [
         {
           "id": "ST16_01",
           "slug": "UP_Physiography_Drainage",
+          "name_en": "UP Physiography and Drainage System",
+          "name_hi": "उत्तर प्रदेश की भौगोलिक संरचना एवं नदियां",
+          "folder": "Subtopic_01_UP_Physiography_Drainage",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST16_01_M01",
               "slug": "Boundaries_Bhabhar_Terai_Bundelkhand_Plateau",
+              "name_en": "UP Geographical Regions (Bhabhar, Terai & Bundelkhand)",
+              "name_hi": "उत्तर प्रदेश की सीमाएं, भाभर, तराई एवं बुंदेलखंड पठार",
+              "folder": "Micro_01_Boundaries_Bhabhar_Terai_Bundelkhand_Plateau",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST16_01_M02",
               "slug": "UP_Rivers_Ganga_Yamuna_Gomti_Saryu_Canals",
+              "name_en": "UP Rivers (Ganga, Yamuna, Gomti, Saryu) & Canal Systems",
+              "name_hi": "उत्तर प्रदेश की नदियां (गंगा, यमुना, गोमती, सरयू) एवं नहरें",
+              "folder": "Micro_02_UP_Rivers_Ganga_Yamuna_Gomti_Saryu_Canals",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST16_02",
           "slug": "UP_Wildlife_Sanctuaries",
+          "name_en": "UP National Parks and Wildlife Sanctuaries",
+          "name_hi": "उत्तर प्रदेश के राष्ट्रीय उद्यान एवं वन्यजीव विहार",
+          "folder": "Subtopic_02_UP_Wildlife_Sanctuaries",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST16_02_M01",
               "slug": "Dudhwa_National_Park_Chandraprabha_Katarniaghat",
+              "name_en": "Dudhwa National Park, Chandraprabha & Katarniaghat",
+              "name_hi": "दुधवा राष्ट्रीय उद्यान, चंद्रप्रभा एवं कतरनियाघाट वन्यजीव विहार",
+              "folder": "Micro_01_Dudhwa_National_Park_Chandraprabha_Katarniaghat",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST16_02_M02",
               "slug": "Bird_Sanctuaries_Nawabganj_LakhBahosi_Bakhira",
+              "name_en": "UP Bird Sanctuaries (Nawabganj, Lakh Bahosi, Bakhira)",
+              "name_hi": "पक्षी विहार (नवाबगंज/शहीद चंद्रशेखर, लाख बहोसी, बखिरा, सुरहाताल)",
+              "folder": "Micro_02_Bird_Sanctuaries_Nawabganj_LakhBahosi_Bakhira",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST16_03",
           "slug": "UP_Culture_Fairs_Tribes",
+          "name_en": "UP Culture, Traditional Fairs, Folk Arts and Tribes",
+          "name_hi": "उत्तर प्रदेश की संस्कृति, मेले, लोकनृत्य एवं जनजातियां",
+          "folder": "Subtopic_03_UP_Culture_Fairs_Tribes",
           "order": 3,
           "micro_topics": [
             {
               "id": "ST16_03_M01",
               "slug": "Kumbh_Nauchandi_Bateshwar_DewaSharif_Fairs",
+              "name_en": "UP Traditional Fairs (Kumbh, Nauchandi, Bateshwar)",
+              "name_hi": "उत्तर प्रदेश के प्रमुख मेले (कुंभ, नौचंडी, बटेश्वर, देवा शरीफ)",
+              "folder": "Micro_01_Kumbh_Nauchandi_Bateshwar_DewaSharif_Fairs",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST16_03_M02",
               "slug": "Folk_Dances_Charkula_Nautanki_Kajri_Alha",
+              "name_en": "UP Folk Dances & Music (Charkula, Nautanki, Kajri, Alha)",
+              "name_hi": "लोकनृत्य एवं लोकगायन (चरकुला, नौटंकी, कजरी, आल्हा, रासलीला)",
+              "folder": "Micro_02_Folk_Dances_Charkula_Nautanki_Kajri_Alha",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST16_03_M03",
               "slug": "UP_Tribes_Tharu_Diwali_Mourning_Buksa",
+              "name_en": "Tribes of UP (Tharu, Buksa, Jaunsari & Traditions)",
+              "name_hi": "उत्तर प्रदेश की जनजातियां (थारू/दीपावली को शोक पर्व, बुक्सा)",
+              "folder": "Micro_03_UP_Tribes_Tharu_Diwali_Mourning_Buksa",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1372,68 +1290,64 @@
     {
       "id": "T17",
       "slug": "Constitution_Preamble_Citizenship_UPTET",
-      "title_hi": "भारतीय संविधान — ऐतिहासिक विकास, प्रस्तावना एवं नागरिकता",
+      "name_en": "Indian Constitution — Making, Preamble and Citizenship",
+      "name_hi": "भारतीय संविधान — निर्माण, प्रस्तावना एवं नागरिकता",
+      "folder": "Topic_17_Constitution_Preamble_Citizenship_UPTET",
       "order": 17,
       "subtopics": [
         {
           "id": "ST17_01",
           "slug": "Constituent_Assembly_Making",
+          "name_en": "Constituent Assembly and Sources of Constitution",
+          "name_hi": "संविधान सभा का गठन एवं संविधान के विदेशी स्रोत",
+          "folder": "Subtopic_01_Constituent_Assembly_Making",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST17_01_M01",
               "slug": "Cabinet_Mission_Drafting_Committee_Ambedkar",
+              "name_en": "Cabinet Mission, Drafting Committee & Dr. Ambedkar",
+              "name_hi": "कैबिनेट मिशन, प्रारूप समिति, डॉ. आंबेडकर एवं निर्माण यात्रा",
+              "folder": "Micro_01_Cabinet_Mission_Drafting_Committee_Ambedkar",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST17_01_M02",
               "slug": "Constitutional_Sources_Borrowed_Features",
+              "name_en": "Constitutional Sources and Borrowed Provisions",
+              "name_hi": "भारतीय संविधान के विभिन्न विदेशी स्रोत व विशेषताएं",
+              "folder": "Micro_02_Constitutional_Sources_Borrowed_Features",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST17_02",
           "slug": "Preamble_and_Citizenship",
+          "name_en": "Preamble Philosophy and Citizenship Provisions",
+          "name_hi": "संविधान की प्रस्तावना एवं नागरिकता के प्रावधान",
+          "folder": "Subtopic_02_Preamble_and_Citizenship",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST17_02_M01",
               "slug": "Preamble_Core_Philosophy_42nd_Amendment",
+              "name_en": "Preamble Core Philosophy & 42nd Amendment (1976)",
+              "name_hi": "प्रस्तावना के मूल आदर्श एवं 42वां संविधान संशोधन (1976)",
+              "folder": "Micro_01_Preamble_Core_Philosophy_42nd_Amendment",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST17_02_M02",
               "slug": "Citizenship_Provisions_Articles_5_to_11",
+              "name_en": "Citizenship Constitutional Provisions (Articles 5 to 11)",
+              "name_hi": "नागरिकता संबंधी संवैधानिक प्रावधान (अनुच्छेद 5 से 11)",
+              "folder": "Micro_02_Citizenship_Provisions_Articles_5_to_11",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1442,68 +1356,64 @@
     {
       "id": "T18",
       "slug": "Fundamental_Rights_Duties_DPSP_UPTET",
-      "title_hi": "मौलिक अधिकार, मूल कर्तव्य एवं नीति निदेशक तत्व",
+      "name_en": "Fundamental Rights, Fundamental Duties and DPSP",
+      "name_hi": "मौलिक अधिकार, मूल कर्तव्य एवं नीति निदेशक तत्व",
+      "folder": "Topic_18_Fundamental_Rights_Duties_DPSP_UPTET",
       "order": 18,
       "subtopics": [
         {
           "id": "ST18_01",
           "slug": "Fundamental_Rights_Part3",
+          "name_en": "Fundamental Rights (Part III)",
+          "name_hi": "मौलिक अधिकार (संविधान भाग-3)",
+          "folder": "Subtopic_01_Fundamental_Rights_Part3",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST18_01_M01",
               "slug": "Six_Fundamental_Rights_Articles_14_to_30",
+              "name_en": "Six Fundamental Rights (Articles 14 to 30)",
+              "name_hi": "छह मौलिक अधिकार (समानता, स्वतंत्रता, शोषण विरुद्ध, धर्म, शिक्षा)",
+              "folder": "Micro_01_Six_Fundamental_Rights_Articles_14_to_30",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST18_01_M02",
               "slug": "Article_32_Writs_Article_21A_RTE_Amendment",
+              "name_en": "Article 32 (Constitutional Remedies, Writs) & Article 21A",
+              "name_hi": "संवैधानिक उपचार (अनुच्छेद 32, 5 रिटें) एवं अनुच्छेद 21A (86वां संशोधन)",
+              "folder": "Micro_02_Article_32_Writs_Article_21A_RTE_Amendment",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST18_02",
           "slug": "DPSP_and_Duties",
+          "name_en": "Directive Principles of State Policy & Fundamental Duties",
+          "name_hi": "राज्य के नीति निदेशक तत्व एवं मौलिक कर्तव्य",
+          "folder": "Subtopic_02_DPSP_and_Duties",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST18_02_M01",
               "slug": "DPSP_Panchayats_Art40_UCC_Art44_Environment_48A",
+              "name_en": "DPSP (Panchayats Art. 40, UCC Art. 44, Environment Art. 48A)",
+              "name_hi": "नीति निदेशक तत्व (ग्राम पंचायत अनु. 40, समान नागरिक संहिता 44, पर्यावरण 48A)",
+              "folder": "Micro_01_DPSP_Panchayats_Art40_UCC_Art44_Environment_48A",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST18_02_M02",
               "slug": "Fundamental_Duties_Swaran_Singh_Art51A_g",
+              "name_en": "Fundamental Duties (Swaran Singh Committee, Art. 51A/51A(g))",
+              "name_hi": "मूल कर्तव्य (स्वर्ण सिंह समिति, अनु. 51A एवं 51A(g) वन्यजीव/पर्यावरण)",
+              "folder": "Micro_02_Fundamental_Duties_Swaran_Singh_Art51A_g",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1512,92 +1422,82 @@
     {
       "id": "T19",
       "slug": "Governance_and_Local_Self_Govt_UPTET",
-      "title_hi": "शासन प्रणाली — कार्यपालिका, विधायिका, न्यायपालिका एवं स्थानीय स्वशासन",
+      "name_en": "Governance System and Local Self-Government",
+      "name_hi": "शासन प्रणाली — कार्यपालिका, न्यायपालिका एवं स्थानीय स्वशासन",
+      "folder": "Topic_19_Governance_and_Local_Self_Govt_UPTET",
       "order": 19,
       "subtopics": [
         {
           "id": "ST19_01",
           "slug": "Union_Governance_Judiciary",
+          "name_en": "Union Governance and Supreme Judiciary",
+          "name_hi": "संघीय शासन व्यवस्था एवं न्यायपालिका",
+          "folder": "Subtopic_01_Union_Governance_Judiciary",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST19_01_M01",
               "slug": "President_Powers_Emergency_Articles_352_356_360",
+              "name_en": "President of India, Powers & Emergency (Art. 352, 356, 360)",
+              "name_hi": "भारत के राष्ट्रपति, शक्तियां एवं आपातकालीन उपबंध (अनु. 352, 356, 360)",
+              "folder": "Micro_01_President_Powers_Emergency_Articles_352_356_360",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST19_01_M02",
               "slug": "Parliament_Lok_Sabha_Rajya_Sabha_Prime_Minister",
+              "name_en": "Indian Parliament (Lok Sabha, Rajya Sabha & Prime Minister)",
+              "name_hi": "संसद (लोकसभा, राज्यसभा), मंत्रिमंडल एवं प्रधानमंत्री",
+              "folder": "Micro_02_Parliament_Lok_Sabha_Rajya_Sabha_Prime_Minister",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST19_01_M03",
               "slug": "Supreme_Court_Jurisdiction_Public_Interest_Litigation",
+              "name_en": "Supreme Court Jurisdiction, Judicial Review & PIL",
+              "name_hi": "सर्वोच्च न्यायालय की अधिकारिता, न्यायिक पुनरावलोकन एवं PIL",
+              "folder": "Micro_03_Supreme_Court_Jurisdiction_Public_Interest_Litigation",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST19_02",
           "slug": "State_Govt_Panchayati_Raj",
+          "name_en": "State Government and Panchayati Raj / Urban Governance",
+          "name_hi": "राज्य सरकार एवं पंचायती राज / नगर निकाय प्रणाली",
+          "folder": "Subtopic_02_State_Govt_Panchayati_Raj",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST19_02_M01",
               "slug": "Governor_Chief_Minister_State_Legislature",
+              "name_en": "Governor, Chief Minister and State Legislature",
+              "name_hi": "राज्यपाल, मुख्यमंत्री, विधानसभा एवं विधान परिषद",
+              "folder": "Micro_01_Governor_Chief_Minister_State_Legislature",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST19_02_M02",
               "slug": "73rd_Amendment_11th_Schedule_Balwant_Rai_Mehta",
+              "name_en": "73rd Amendment, 11th Schedule & Balwant Rai Mehta (3-Tier)",
+              "name_hi": "73वां संविधान संशोधन, 11वीं अनुसूची एवं बलवंत राय मेहता समिति (त्रि-स्तरीय)",
+              "folder": "Micro_02_73rd_Amendment_11th_Schedule_Balwant_Rai_Mehta",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST19_02_M03",
               "slug": "74th_Amendment_12th_Schedule_Municipalities",
+              "name_en": "74th Amendment, 12th Schedule & Urban Local Bodies",
+              "name_hi": "74वां संविधान संशोधन, 12वीं अनुसूची एवं नगर पालिका/नगर निगम",
+              "folder": "Micro_03_74th_Amendment_12th_Schedule_Municipalities",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1606,80 +1506,73 @@
     {
       "id": "T20",
       "slug": "Concept_Scope_Integrated_Nature_CTET",
-      "title_hi": "पर्यावरण अध्ययन की संकल्पना, प्रकृति एवं एकीकृत उपागम",
+      "name_en": "Concept, Scope and Integrated Nature of EVS",
+      "name_hi": "पर्यावरण अध्ययन की संकल्पना, व्याप्ति एवं एकीकृत प्रकृति",
+      "folder": "Topic_20_Concept_Scope_Integrated_Nature_CTET",
       "order": 20,
       "subtopics": [
         {
           "id": "ST20_01",
           "slug": "Integrated_EVS_Concept",
+          "name_en": "Integrated EVS Concept (Classes 3-5)",
+          "name_hi": "एकीकृत EVS की संकल्पना (कक्षा 3 से 5)",
+          "folder": "Subtopic_01_Integrated_EVS_Concept",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST20_01_M01",
               "slug": "EVS_Concept_Scope_Grades_3_to_5",
+              "name_en": "EVS Concept and Pedagogical Scope (Grades 3 to 5)",
+              "name_hi": "पर्यावरण अध्ययन की संकल्पना एवं शैक्षिक क्षेत्र (कक्षा 3 से 5)",
+              "folder": "Micro_01_EVS_Concept_Scope_Grades_3_to_5",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST20_01_M02",
               "slug": "Integration_of_Science_Social_Science_Environment",
+              "name_en": "Integration of Science, Social Science & Environmental Ed.",
+              "name_hi": "विज्ञान, सामाजिक विज्ञान एवं पर्यावरण शिक्षा का एकीकरण",
+              "folder": "Micro_02_Integration_of_Science_Social_Science_Environment",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST20_01_M03",
               "slug": "No_Textbook_in_Grades_1_2_Contextual_Teaching",
+              "name_en": "No EVS Textbooks in Grades 1-2 (Language & Math Context)",
+              "name_hi": "कक्षा 1 व 2 में EVS पाठ्यपुस्तक का न होना (भाषा व गणित द्वारा शिक्षण)",
+              "folder": "Micro_03_No_Textbook_in_Grades_1_2_Contextual_Teaching",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST20_02",
           "slug": "Thematic_vs_Topic_Approach",
+          "name_en": "Thematic vs Topic-Based Pedagogical Approach",
+          "name_hi": "थीम-आधारित बनाम प्रकरण-आधारित उपागम",
+          "folder": "Subtopic_02_Thematic_vs_Topic_Approach",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST20_02_M01",
               "slug": "Six_Core_NCERT_Themes_Rationale",
+              "name_en": "Six Core NCERT Themes & Sub-Themes Rationale",
+              "name_hi": "NCERT की 6 मुख्य थीम्स एवं उप-थीम्स का शिक्षाशास्त्रीय आधार",
+              "folder": "Micro_01_Six_Core_NCERT_Themes_Rationale",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST20_02_M02",
               "slug": "Connecting_Immediate_Environment_to_Global",
+              "name_en": "Connecting Child's Immediate Environment to Global Context",
+              "name_hi": "बालक के तात्कालिक परिवेश को वैश्विक संदर्भों से जोड़ना",
+              "folder": "Micro_02_Connecting_Immediate_Environment_to_Global",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1688,68 +1581,64 @@
     {
       "id": "T21",
       "slug": "Learning_Principles_Science_Social_Interrelation_CTET",
-      "title_hi": "EVS अधिगम के सिद्धांत एवं विज्ञान/सामाजिक विज्ञान से अंतर्संबंध",
+      "name_en": "EVS Learning Principles and Interrelation with Science & Social Science",
+      "name_hi": "EVS अधिगम के सिद्धांत एवं विज्ञान/सामाजिक विज्ञान से अंतर्संबंध",
+      "folder": "Topic_21_Learning_Principles_Science_Social_Interrelation_CTET",
       "order": 21,
       "subtopics": [
         {
           "id": "ST21_01",
           "slug": "Child_Centered_Principles",
+          "name_en": "Child-Centered Learning Maxims and Constructivism",
+          "name_hi": "बाल-केंद्रित अधिगम सूत्र एवं रचनावादी सिद्धांत",
+          "folder": "Subtopic_01_Child_Centered_Principles",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST21_01_M01",
               "slug": "Concrete_to_Abstract_Known_to_Unknown",
+              "name_en": "Concrete to Abstract & Known to Unknown in EVS",
+              "name_hi": "मूर्त से अमूर्त एवं ज्ञात से अज्ञात की ओर शिक्षण सूत्र",
+              "folder": "Micro_01_Concrete_to_Abstract_Known_to_Unknown",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST21_01_M02",
               "slug": "Local_to_Global_Learning_by_Doing",
+              "name_en": "Local to Global & Experiential Learning by Doing",
+              "name_hi": "स्थानीय से वैश्विक एवं 'करके सीखना' (Learning by Doing)",
+              "folder": "Micro_02_Local_to_Global_Learning_by_Doing",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST21_02",
           "slug": "Interdisciplinary_Linkages",
+          "name_en": "Interdisciplinary and Multidisciplinary Linkages",
+          "name_hi": "अंतर-विषयक एवं बहु-विषयक संबंध",
+          "folder": "Subtopic_02_Interdisciplinary_Linkages",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST21_02_M01",
               "slug": "Correlation_with_Science_Social_Science",
+              "name_en": "Correlation with Elementary Science & Social Science",
+              "name_hi": "प्राथमिक विज्ञान एवं सामाजिक अध्ययन के साथ सह-संबंध",
+              "folder": "Micro_01_Correlation_with_Science_Social_Science",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST21_02_M02",
               "slug": "Multidisciplinary_Holistic_Understanding",
+              "name_en": "Multidisciplinary Pedagogical Perspectives & Holistic View",
+              "name_hi": "बहु-विषयक समग्र समझ एवं पर्यावरणीय संवेदनशीलता",
+              "folder": "Micro_02_Multidisciplinary_Holistic_Understanding",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1758,68 +1647,64 @@
     {
       "id": "T22",
       "slug": "Pedagogical_Methods_Activities_Inquiry_CTET",
-      "title_hi": "शिक्षण विधियां, क्रियाकलाप, प्रयोग एवं अन्वेषण",
+      "name_en": "Pedagogical Methods, Activities, Experiments and Inquiry",
+      "name_hi": "शिक्षण विधियां, क्रियाकलाप, प्रयोग एवं खोजपूर्ण अन्वेषण",
+      "folder": "Topic_22_Pedagogical_Methods_Activities_Inquiry_CTET",
       "order": 22,
       "subtopics": [
         {
           "id": "ST22_01",
           "slug": "Inquiry_Project_Discussions",
+          "name_en": "Inquiry, Project Method and Classroom Discussions",
+          "name_hi": "खोज विधि, परियोजना विधि एवं कक्षा-कक्ष चर्चा",
+          "folder": "Subtopic_01_Inquiry_Project_Discussions",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST22_01_M01",
               "slug": "Inquiry_Discovery_Problem_Solving_Projects",
+              "name_en": "Inquiry, Discovery, Problem-Solving & Project Method",
+              "name_hi": "अन्वेषण/खोज विधि, समस्या समाधान एवं परियोजना विधि",
+              "folder": "Micro_01_Inquiry_Discovery_Problem_Solving_Projects",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST22_01_M02",
               "slug": "Classroom_Discussions_Collaborative_Learning",
+              "name_en": "Classroom Discussions & Collaborative Peer Learning",
+              "name_hi": "सहयोगात्मक अधिगम, समूह परिचर्चा एवं सहकर्मी संवाद",
+              "folder": "Micro_02_Classroom_Discussions_Collaborative_Learning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST22_02",
           "slug": "Experiments_and_Field_Trips",
+          "name_en": "Practical Experiments and Educational Field Trips",
+          "name_hi": "सरल प्रयोग एवं शैक्षिक क्षेत्र भ्रमण (Field Trips)",
+          "folder": "Subtopic_02_Experiments_and_Field_Trips",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST22_02_M01",
               "slug": "Simple_Experiments_Observation_Classification",
+              "name_en": "Simple Science Experiments, Observation & Classification",
+              "name_hi": "सरल वैज्ञानिक प्रयोग, अवलोकन, वर्गीकरण एवं परिकल्पना",
+              "folder": "Micro_01_Simple_Experiments_Observation_Classification",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST22_02_M02",
               "slug": "Field_Trips_Educational_Excursions_Planning",
+              "name_en": "Field Trips, Excursions Planning & Experiential Visits",
+              "name_hi": "क्षेत्र भ्रमण (Field Trips) का शैक्षिक नियोजन एवं प्रत्यक्ष अनुभव",
+              "folder": "Micro_02_Field_Trips_Educational_Excursions_Planning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1828,68 +1713,64 @@
     {
       "id": "T23",
       "slug": "TLM_Textbooks_and_ICT_in_EVS_CTET",
-      "title_hi": "शिक्षण अधिगम सामग्री, पाठ्यपुस्तकें एवं आईसीटी",
+      "name_en": "Teaching-Learning Materials, Textbooks and ICT in EVS",
+      "name_hi": "शिक्षण अधिगम सामग्री (TLM), पाठ्यपुस्तकें एवं ICT एकीकरण",
+      "folder": "Topic_23_TLM_Textbooks_and_ICT_in_EVS_CTET",
       "order": 23,
       "subtopics": [
         {
           "id": "ST23_01",
           "slug": "NCERT_Textbook_Philosophy",
+          "name_en": "NCERT Textbook Philosophy and Narrative Pedagogies",
+          "name_hi": "NCERT पाठ्यपुस्तक दर्शन एवं कहानी-किस्सा शिक्षाशास्त्र",
+          "folder": "Subtopic_01_NCERT_Textbook_Philosophy",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST23_01_M01",
               "slug": "Child_Centered_Narratives_Debiasing_Gender_Caste",
+              "name_en": "Real-Life Stories, Narratives & Debiasing Stereotypes",
+              "name_hi": "वास्तविक जीवन की कथाएं, जेंडर व जातिगत पूर्वाग्रह मुक्ति",
+              "folder": "Micro_01_Child_Centered_Narratives_Debiasing_Gender_Caste",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST23_01_M02",
               "slug": "Avoiding_Definitions_Rote_Encouraging_Critique",
+              "name_en": "Avoiding Definitions & Rote; Encouraging Critical Thinking",
+              "name_hi": "परिभाषाओं व रटंत प्रणाली का निषेध; आलोचनात्मक चिंतन प्रोत्साहन",
+              "folder": "Micro_02_Avoiding_Definitions_Rote_Encouraging_Critique",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST23_02",
           "slug": "TLM_and_Digital_Integration",
+          "name_en": "Local No-Cost TLMs, Audio-Visual Aids and Digital Tools",
+          "name_hi": "स्थानीय शून्य-लागत TLM, दृश्य-श्रव्य उपकरण एवं डिजिटल तकनीक",
+          "folder": "Subtopic_02_TLM_and_Digital_Integration",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST23_02_M01",
               "slug": "Local_No_Cost_TLM_Real_Objects_Models_Globe",
+              "name_en": "Local No-Cost TLM, Realia, 3D Models, Globe & Maps",
+              "name_hi": "स्थानीय शून्य-लागत TLM, वास्तविक वस्तुएं (Realia), ग्लोब एवं चार्ट",
+              "folder": "Micro_01_Local_No_Cost_TLM_Real_Objects_Models_Globe",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST23_02_M02",
               "slug": "Audio_Visual_Aids_DIKSHA_Simulations",
+              "name_en": "Audio-Visual Media, DIKSHA Portal & Interactive ICT",
+              "name_hi": "दृश्य-श्रव्य सामग्री, दीक्षा (DIKSHA) पोर्टल एवं डिजिटल अनुकरण",
+              "folder": "Micro_02_Audio_Visual_Aids_DIKSHA_Simulations",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1898,68 +1779,64 @@
     {
       "id": "T24",
       "slug": "Assessment_Evaluation_Diagnostics_in_EVS_CTET",
-      "title_hi": "सतत एवं समग्र मूल्यांकन, रूब्रिक्स एवं उपचारात्मक शिक्षण",
+      "name_en": "Continuous Comprehensive Evaluation, Assessment Tools & Remediation",
+      "name_hi": "सतत एवं व्यापक मूल्यांकन (CCE), आकलन उपकरण एवं उपचारात्मक शिक्षण",
+      "folder": "Topic_24_Assessment_Evaluation_Diagnostics_in_EVS_CTET",
       "order": 24,
       "subtopics": [
         {
           "id": "ST24_01",
           "slug": "CCE_and_Assessment_Tools",
+          "name_en": "CCE Framework and Authentic Assessment Tools",
+          "name_hi": "CCE ढांचा एवं प्रामाणिक मूल्यांकन उपकरण",
+          "folder": "Subtopic_01_CCE_and_Assessment_Tools",
           "order": 1,
           "micro_topics": [
             {
               "id": "ST24_01_M01",
               "slug": "Formative_Summative_Assessment_as_Learning",
+              "name_en": "Assessment OF, FOR & AS Learning (Formative vs Summative)",
+              "name_hi": "सीखने के लिए, का एवं रूप में आकलन (रचनात्मक व योगात्मक)",
+              "folder": "Micro_01_Formative_Summative_Assessment_as_Learning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST24_01_M02",
               "slug": "Portfolios_Anecdotal_Records_Checklists_Rubrics",
+              "name_en": "Portfolios, Anecdotal Records, Rating Scales & Rubrics",
+              "name_hi": "पोर्टफोलियो, उपाख्यानात्मक अभिलेख (Anecdotal Records), रूब्रिक्स",
+              "folder": "Micro_02_Portfolios_Anecdotal_Records_Checklists_Rubrics",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST24_02",
           "slug": "Diagnostic_and_Remedial_Design",
+          "name_en": "Diagnostic Testing and Inclusive Remedial Teaching",
+          "name_hi": "निदानात्मक परीक्षण एवं समावेशी उपचारात्मक शिक्षण",
+          "folder": "Subtopic_02_Diagnostic_and_Remedial_Design",
           "order": 2,
           "micro_topics": [
             {
               "id": "ST24_02_M01",
               "slug": "Identifying_Alternative_Conceptions_Misconceptions",
+              "name_en": "Identifying Children's Alternative Conceptions & Naive Theories",
+              "name_hi": "बच्चों की वैकल्पिक अवधारणाएं (Alternative Conceptions) व भ्रांतियां",
+              "folder": "Micro_01_Identifying_Alternative_Conceptions_Misconceptions",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "ST24_02_M02",
               "slug": "Inclusive_Remediation_for_SEDG_and_CWSN",
+              "name_en": "Inclusive Remediation for CWSN & Diverse Classrooms",
+              "name_hi": "विशेष आवश्यकता वाले बच्चों (CWSN) हेतु समावेशी उपचारात्मक शिक्षण",
+              "folder": "Micro_02_Inclusive_Remediation_for_SEDG_and_CWSN",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }

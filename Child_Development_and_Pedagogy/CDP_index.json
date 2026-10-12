@@ -20,138 +20,119 @@
     "directory": "Child_Development_and_Pedagogy"
   },
   "total_topics": 27,
+  "total_subtopics": 66,
+  "total_microtopics": 255,
   "asset_types": [
     "Concept",
     "Short_Notes",
     "PYQ",
     "MCQ",
-    "Practice"
+    "Practice",
+    "Mock_Test"
   ],
+  "mock_test_config": {
+    "topic_wise": {
+      "default_questions": 30,
+      "pyq_ratio": 0.70,
+      "mcq_ratio": 0.30,
+      "negative_marking": false,
+      "time_minutes": 30
+    },
+    "subject_wise": {
+      "default_questions": 30,
+      "pyq_ratio": 0.70,
+      "mcq_ratio": 0.30,
+      "negative_marking": false,
+      "time_minutes": 30
+    }
+  },
   "topics": [
     {
       "id": "T01",
       "slug": "Growth_and_Development_Concepts",
-      "title_hi": "वृद्धि एवं विकास की संकल्पना",
-      "order": 1,
+      "name_hi": "वृद्धि एवं विकास की संकल्पना",
       "folder": "Topic_01_Growth_and_Development_Concepts",
+      "order": 1,
       "subtopics": [
         {
           "id": "T01_ST01",
           "slug": "Meaning_and_Definitions",
-          "order": 1,
+          "name_hi": "अर्थ एवं परिभाषाएं",
           "folder": "Subtopic_01_Meaning_and_Definitions",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T01_ST01_M01",
               "slug": "Growth_Meaning",
+              "name_hi": "वृद्धि का अर्थ एवं स्वरूप",
               "folder": "Micro_01_Growth_Meaning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T01_ST01_M02",
               "slug": "Development_Meaning",
+              "name_hi": "विकास का अर्थ एवं संकल्पना",
               "folder": "Micro_02_Development_Meaning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T01_ST01_M03",
               "slug": "Growth_vs_Development",
+              "name_hi": "वृद्धि बनाम विकास (तुलनात्मक अंतर)",
               "folder": "Micro_03_Growth_vs_Development",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T01_ST01_M04",
               "slug": "Developmental_Change",
+              "name_hi": "विकासात्मक परिवर्तन के प्रकार",
               "folder": "Micro_04_Developmental_Change",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T01_ST02",
           "slug": "Principles_of_Development",
-          "order": 2,
+          "name_hi": "विकास के आधारभूत सिद्धांत",
           "folder": "Subtopic_02_Principles_of_Development",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T01_ST02_M01",
               "slug": "Development_Is_Continuous",
+              "name_hi": "निरंतरता का सिद्धांत",
               "folder": "Micro_01_Development_Is_Continuous",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T01_ST02_M02",
               "slug": "Development_Follows_Sequence",
+              "name_hi": "क्रमबद्धता एवं दिशा का सिद्धांत",
               "folder": "Micro_02_Development_Follows_Sequence",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T01_ST02_M03",
               "slug": "Individual_Differences",
+              "name_hi": "व्यक्तिगत विभिन्नता का सिद्धांत",
               "folder": "Micro_03_Individual_Differences",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T01_ST02_M04",
               "slug": "General_to_Specific_Development",
+              "name_hi": "सामान्य से विशिष्ट क्रियाओं का सिद्धांत",
               "folder": "Micro_04_General_to_Specific_Development",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -160,114 +141,81 @@
     {
       "id": "T02",
       "slug": "Stages_and_Developmental_Tasks",
-      "title_hi": "विकास की अवस्थाएं एवं विकासात्मक कार्य",
-      "order": 2,
+      "name_hi": "विकास की अवस्थाएं एवं विकासात्मक कार्य",
       "folder": "Topic_02_Stages_and_Developmental_Tasks",
+      "order": 2,
       "subtopics": [
         {
           "id": "T02_ST01",
           "slug": "Stages_of_Development",
-          "order": 1,
+          "name_hi": "विकास की प्रमुख अवस्थाएं",
           "folder": "Subtopic_01_Stages_of_Development",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T02_ST01_M01",
               "slug": "Infancy",
+              "name_hi": "शैशवावस्था (Infancy)",
               "folder": "Micro_01_Infancy",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T02_ST01_M02",
               "slug": "Early_Childhood",
+              "name_hi": "प्रारंभिक बाल्यावस्था (Early Childhood)",
               "folder": "Micro_02_Early_Childhood",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T02_ST01_M03",
               "slug": "Middle_Childhood",
+              "name_hi": "उत्तर / मध्य बाल्यावस्था (Middle Childhood)",
               "folder": "Micro_03_Middle_Childhood",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T02_ST01_M04",
               "slug": "Adolescence",
+              "name_hi": "किशोरावस्था (Adolescence)",
               "folder": "Micro_04_Adolescence",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T02_ST02",
           "slug": "Developmental_Tasks",
-          "order": 2,
+          "name_hi": "विकासात्मक कार्य एवं तत्परता",
           "folder": "Subtopic_02_Developmental_Tasks",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T02_ST02_M01",
               "slug": "Havighurst_Developmental_Tasks",
+              "name_hi": "हैविंगहर्स्ट के विकासात्मक कार्य",
               "folder": "Micro_01_Havighurst_Developmental_Tasks",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T02_ST02_M02",
               "slug": "Age_Specific_Tasks",
+              "name_hi": "आयु-विशिष्ट विकासात्मक कार्य",
               "folder": "Micro_02_Age_Specific_Tasks",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T02_ST02_M03",
               "slug": "Developmental_Readiness",
+              "name_hi": "विकासात्मक तत्परता एवं परिपक्वता",
               "folder": "Micro_03_Developmental_Readiness",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -276,161 +224,114 @@
     {
       "id": "T03",
       "slug": "Heredity_and_Environment",
-      "title_hi": "वंशानुक्रम एवं वातावरण",
-      "order": 3,
+      "name_hi": "वंशानुक्रम एवं वातावरण",
       "folder": "Topic_03_Heredity_and_Environment",
+      "order": 3,
       "subtopics": [
         {
           "id": "T03_ST01",
           "slug": "Heredity",
-          "order": 1,
+          "name_hi": "आनुवंशिकी / वंशानुक्रम",
           "folder": "Subtopic_01_Heredity",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T03_ST01_M01",
               "slug": "Meaning_of_Heredity",
+              "name_hi": "वंशानुक्रम का अर्थ एवं जैविक आधार",
               "folder": "Micro_01_Meaning_of_Heredity",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST01_M02",
               "slug": "Genetic_Influence",
+              "name_hi": "मानव विकास पर जीनों का प्रभाव",
               "folder": "Micro_02_Genetic_Influence",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST01_M03",
               "slug": "Laws_of_Heredity",
+              "name_hi": "वंशानुक्रम के नियम (मेंडल, गाल्टन)",
               "folder": "Micro_03_Laws_of_Heredity",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T03_ST02",
           "slug": "Environment",
-          "order": 2,
+          "name_hi": "पर्यावरण / वातावरण",
           "folder": "Subtopic_02_Environment",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T03_ST02_M01",
               "slug": "Meaning_of_Environment",
+              "name_hi": "वातावरण का अर्थ एवं स्वरूप",
               "folder": "Micro_01_Meaning_of_Environment",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST02_M02",
               "slug": "Family_Environment",
+              "name_hi": "पारिवारिक परिवेश का प्रभाव",
               "folder": "Micro_02_Family_Environment",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST02_M03",
               "slug": "School_Environment",
+              "name_hi": "विद्यालयी वातावरण का प्रभाव",
               "folder": "Micro_03_School_Environment",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST02_M04",
               "slug": "Social_Environment",
+              "name_hi": "सामाजिक-सांस्कृतिक वातावरण",
               "folder": "Micro_04_Social_Environment",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T03_ST03",
           "slug": "Heredity_Environment_Interaction",
-          "order": 3,
+          "name_hi": "वंशानुक्रम एवं वातावरण की अंतःक्रिया",
           "folder": "Subtopic_03_Heredity_Environment_Interaction",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T03_ST03_M01",
               "slug": "Nature_Nurture_Debate",
+              "name_hi": "प्रकृति बनाम पोषण (Nature vs Nurture) विमर्श",
               "folder": "Micro_01_Nature_Nurture_Debate",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST03_M02",
               "slug": "Interaction_of_Heredity_and_Environment",
+              "name_hi": "गत्यात्मक अंतःक्रिया (Dynamic Interaction)",
               "folder": "Micro_02_Interaction_of_Heredity_and_Environment",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T03_ST03_M03",
               "slug": "Educational_Implications",
+              "name_hi": "शैक्षिक निहितार्थ एवं शिक्षक की भूमिका",
               "folder": "Micro_03_Educational_Implications",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -439,140 +340,97 @@
     {
       "id": "T04",
       "slug": "Socialization_Processes",
-      "title_hi": "समाजीकरण की प्रक्रियाएं",
-      "order": 4,
+      "name_hi": "समाजीकरण की प्रक्रियाएं",
       "folder": "Topic_04_Socialization_Processes",
+      "order": 4,
       "subtopics": [
         {
           "id": "T04_ST01",
           "slug": "Social_World_and_Children",
-          "order": 1,
+          "name_hi": "सामाजिक संसार एवं बालक",
           "folder": "Subtopic_01_Social_World_and_Children",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T04_ST01_M01",
               "slug": "Family_and_Socialization",
+              "name_hi": "परिवार एवं प्राथमिक समाजीकरण",
               "folder": "Micro_01_Family_and_Socialization",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST01_M02",
               "slug": "Peer_Group",
+              "name_hi": "सपाटी समूह (Peer Group) की भूमिका",
               "folder": "Micro_02_Peer_Group",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST01_M03",
               "slug": "School_and_Socialization",
+              "name_hi": "विद्यालय एवं द्वितीयक समाजीकरण",
               "folder": "Micro_03_School_and_Socialization",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST01_M04",
               "slug": "Culture_and_Socialization",
+              "name_hi": "संस्कृति और सामाजिक मूल्य",
               "folder": "Micro_04_Culture_and_Socialization",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T04_ST02",
           "slug": "Agents_of_Socialization",
-          "order": 2,
+          "name_hi": "समाजीकरण के अभिकर्ता (Agents)",
           "folder": "Subtopic_02_Agents_of_Socialization",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T04_ST02_M01",
               "slug": "Parents",
+              "name_hi": "माता-पिता एवं पालन-पोषण शैलियां",
               "folder": "Micro_01_Parents",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST02_M02",
               "slug": "Teachers",
+              "name_hi": "शिक्षक की समाजीकरण भूमिका",
               "folder": "Micro_02_Teachers",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST02_M03",
               "slug": "Peers",
+              "name_hi": "सहपाठी संबंध एवं सामाजिक कौशल",
               "folder": "Micro_03_Peers",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST02_M04",
               "slug": "Community",
+              "name_hi": "समुदाय एवं पड़ोस",
               "folder": "Micro_04_Community",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T04_ST02_M05",
               "slug": "Media",
+              "name_hi": "संचार माध्यम (Mass Media) का प्रभाव",
               "folder": "Micro_05_Media",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -581,226 +439,154 @@
     {
       "id": "T05",
       "slug": "Cognitive_Theories_Piaget_Vygotsky_Bruner",
-      "title_hi": "संज्ञानात्मक विकास के सिद्धांत",
-      "order": 5,
+      "name_hi": "संज्ञानात्मक विकास के सिद्धांत",
       "folder": "Topic_05_Cognitive_Theories_Piaget_Vygotsky_Bruner",
+      "order": 5,
       "subtopics": [
         {
           "id": "T05_ST01",
           "slug": "Piaget_Cognitive_Development",
-          "order": 1,
+          "name_hi": "पियाजे का संज्ञानात्मक विकास सिद्धांत",
           "folder": "Subtopic_01_Piaget_Cognitive_Development",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T05_ST01_M01",
               "slug": "Piaget_Theory_Overview",
+              "name_hi": "पियाजे के सिद्धांत की रूपरेखा",
               "folder": "Micro_01_Piaget_Theory_Overview",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST01_M02",
               "slug": "Sensorimotor_Stage",
+              "name_hi": "संवेदी-गामक अवस्था (0-2 वर्ष)",
               "folder": "Micro_02_Sensorimotor_Stage",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST01_M03",
               "slug": "Preoperational_Stage",
+              "name_hi": "पूर्व-संक्रियात्मक अवस्था (2-7 वर्ष)",
               "folder": "Micro_03_Preoperational_Stage",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST01_M04",
               "slug": "Concrete_Operational_Stage",
+              "name_hi": "मूर्त-संक्रियात्मक अवस्था (7-11 वर्ष)",
               "folder": "Micro_04_Concrete_Operational_Stage",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST01_M05",
               "slug": "Formal_Operational_Stage",
+              "name_hi": "औपचारिक / अमूर्त संक्रियात्मक अवस्था (11+ वर्ष)",
               "folder": "Micro_05_Formal_Operational_Stage",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST01_M06",
               "slug": "Schema_Assimilation_Accommodation",
+              "name_hi": "स्कीमा, आत्मसातीकरण, समायोजन एवं साम्यधारण",
               "folder": "Micro_06_Schema_Assimilation_Accommodation",
               "order": 6,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T05_ST02",
           "slug": "Vygotsky_Social_Cultural_Theory",
-          "order": 2,
+          "name_hi": "वाइगोत्स्की का सामाजिक-सांस्कृतिक सिद्धांत",
           "folder": "Subtopic_02_Vygotsky_Social_Cultural_Theory",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T05_ST02_M01",
               "slug": "Social_Cultural_Theory",
+              "name_hi": "सामाजिक रचनावाद एवं सांस्कृतिक उपकरण",
               "folder": "Micro_01_Social_Cultural_Theory",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST02_M02",
               "slug": "Zone_of_Proximal_Development",
+              "name_hi": "समीपस्थ विकास क्षेत्र (ZPD)",
               "folder": "Micro_02_Zone_of_Proximal_Development",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST02_M03",
               "slug": "More_Knowledgeable_Other",
+              "name_hi": "अधिक ज्ञानी अन्य (MKO)",
               "folder": "Micro_03_More_Knowledgeable_Other",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST02_M04",
               "slug": "Scaffolding",
+              "name_hi": "पाड़ / मचान (Scaffolding)",
               "folder": "Micro_04_Scaffolding",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST02_M05",
               "slug": "Language_and_Thought",
+              "name_hi": "निजी वाक् (Private Speech) एवं विचार",
               "folder": "Micro_05_Language_and_Thought",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T05_ST03",
           "slug": "Bruner_Cognitive_Theory",
-          "order": 3,
+          "name_hi": "ब्रूनर का संज्ञानात्मक अधिगम सिद्धांत",
           "folder": "Subtopic_03_Bruner_Cognitive_Theory",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T05_ST03_M01",
               "slug": "Discovery_Learning",
+              "name_hi": "अन्वेषणात्मक अधिगम (Discovery Learning)",
               "folder": "Micro_01_Discovery_Learning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST03_M02",
               "slug": "Modes_of_Representation",
+              "name_hi": "प्रस्तुतीकरण के तीन स्तर (Enactive, Iconic, Symbolic)",
               "folder": "Micro_02_Modes_of_Representation",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST03_M03",
               "slug": "Spiral_Curriculum",
+              "name_hi": "सर्पिलाकार पाठ्यक्रम (Spiral Curriculum)",
               "folder": "Micro_03_Spiral_Curriculum",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T05_ST03_M04",
               "slug": "Scaffolding_in_Bruner",
+              "name_hi": "ब्रूनर के अनुसार स्केफोल्डिंग की संकल्पना",
               "folder": "Micro_04_Scaffolding_in_Bruner",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -809,127 +595,89 @@
     {
       "id": "T06",
       "slug": "Moral_Development_Theories",
-      "title_hi": "नैतिक विकास के सिद्धांत",
-      "order": 6,
+      "name_hi": "नैतिक विकास के सिद्धांत",
       "folder": "Topic_06_Moral_Development_Theories",
+      "order": 6,
       "subtopics": [
         {
           "id": "T06_ST01",
           "slug": "Kohlberg_Moral_Development",
-          "order": 1,
+          "name_hi": "कोहलबर्ग का नैतिक विकास सिद्धांत",
           "folder": "Subtopic_01_Kohlberg_Moral_Development",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T06_ST01_M01",
               "slug": "Kohlberg_Theory",
+              "name_hi": "कोहलबर्ग के सिद्धांत की रूपरेखा एवं पद्धति",
               "folder": "Micro_01_Kohlberg_Theory",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T06_ST01_M02",
               "slug": "Preconventional_Level",
+              "name_hi": "पूर्व-परंपरागत स्तर (चरण 1 व 2)",
               "folder": "Micro_02_Preconventional_Level",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T06_ST01_M03",
               "slug": "Conventional_Level",
+              "name_hi": "परंपरागत स्तर (चरण 3 व 4)",
               "folder": "Micro_03_Conventional_Level",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T06_ST01_M04",
               "slug": "Postconventional_Level",
+              "name_hi": "उत्तर-परंपरागत स्तर (चरण 5 व 6)",
               "folder": "Micro_04_Postconventional_Level",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T06_ST01_M05",
               "slug": "Moral_Dilemmas",
+              "name_hi": "नैतिक दुविधा (Heinz Dilemma) एवं तर्कणा",
               "folder": "Micro_05_Moral_Dilemmas",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T06_ST02",
           "slug": "Piaget_Moral_Development",
-          "order": 2,
+          "name_hi": "पियाजे का नैतिक विकास सिद्धांत",
           "folder": "Subtopic_02_Piaget_Moral_Development",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T06_ST02_M01",
               "slug": "Heteronomous_Morality",
+              "name_hi": "परतंत्र नैतिकता (Heteronomous Morality)",
               "folder": "Micro_01_Heteronomous_Morality",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T06_ST02_M02",
               "slug": "Autonomous_Morality",
+              "name_hi": "स्वायत्त नैतिकता (Autonomous Morality)",
               "folder": "Micro_02_Autonomous_Morality",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T06_ST02_M03",
               "slug": "Moral_Reasoning",
+              "name_hi": "नैतिक यथार्थवाद बनाम सहयोग की नैतिकता",
               "folder": "Micro_03_Moral_Reasoning",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -938,166 +686,113 @@
     {
       "id": "T07",
       "slug": "Psychosocial_and_Psychoanalytic_Theories",
-      "title_hi": "मनोसामाजिक एवं मनोविश्लेषणात्मक सिद्धांत",
-      "order": 7,
+      "name_hi": "मनोसामाजिक एवं मनोविश्लेषणात्मक सिद्धांत",
       "folder": "Topic_07_Psychosocial_and_Psychoanalytic_Theories",
+      "order": 7,
       "subtopics": [
         {
           "id": "T07_ST01",
           "slug": "Erikson_Psychosocial_Theory",
-          "order": 1,
+          "name_hi": "एरिक्सन का मनोसामाजिक विकास सिद्धांत",
           "folder": "Subtopic_01_Erikson_Psychosocial_Theory",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T07_ST01_M01",
               "slug": "Erikson_Theory",
+              "name_hi": "एरिक्सन के सिद्धांत के मूल संप्रत्यय",
               "folder": "Micro_01_Erikson_Theory",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST01_M02",
               "slug": "Psychosocial_Stages",
+              "name_hi": "मनोसामाजिक विकास के 8 चरण",
               "folder": "Micro_02_Psychosocial_Stages",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST01_M03",
               "slug": "Trust_vs_Mistrust",
+              "name_hi": "विश्वास बनाम अविश्वास (Trust vs Mistrust)",
               "folder": "Micro_03_Trust_vs_Mistrust",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST01_M04",
               "slug": "Autonomy_vs_Shame",
+              "name_hi": "स्वायत्तता बनाम लज्जा/संदेह (Autonomy vs Shame)",
               "folder": "Micro_04_Autonomy_vs_Shame",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST01_M05",
               "slug": "Initiative_vs_Guilt",
+              "name_hi": "पहल बनाम अपराधबोध (Initiative vs Guilt)",
               "folder": "Micro_05_Initiative_vs_Guilt",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST01_M06",
               "slug": "Industry_vs_Inferiority",
+              "name_hi": "उद्योग बनाम हीनता (Industry vs Inferiority)",
               "folder": "Micro_06_Industry_vs_Inferiority",
               "order": 6,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST01_M07",
               "slug": "Identity_vs_Role_Confusion",
+              "name_hi": "पहचान बनाम भूमिका संभ्रांति (Identity vs Role Confusion)",
               "folder": "Micro_07_Identity_vs_Role_Confusion",
               "order": 7,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T07_ST02",
           "slug": "Freud_Psychoanalysis",
-          "order": 2,
+          "name_hi": "फ्रायड का मनोविश्लेषण सिद्धांत",
           "folder": "Subtopic_02_Freud_Psychoanalysis",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T07_ST02_M01",
               "slug": "Freud_Theory",
+              "name_hi": "मनोविश्लेषण के आधारभूत तत्व",
               "folder": "Micro_01_Freud_Theory",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST02_M02",
               "slug": "Id_Ego_Superego",
+              "name_hi": "व्यक्तित्व संरचना: इड, ईगो, सुपर-ईगो",
               "folder": "Micro_02_Id_Ego_Superego",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST02_M03",
               "slug": "Psychosexual_Stages",
+              "name_hi": "मनोलैंगिक विकास की अवस्थाएं (Psychosexual Stages)",
               "folder": "Micro_03_Psychosexual_Stages",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T07_ST02_M04",
               "slug": "Educational_Implications",
+              "name_hi": "मनोविश्लेषण के शैक्षिक निहितार्थ एवं रक्षा युक्तियाँ",
               "folder": "Micro_04_Educational_Implications",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1106,114 +801,81 @@
     {
       "id": "T08",
       "slug": "Language_and_Thought",
-      "title_hi": "भाषा एवं चिंतन",
-      "order": 8,
+      "name_hi": "भाषा एवं चिंतन",
       "folder": "Topic_08_Language_and_Thought",
+      "order": 8,
       "subtopics": [
         {
           "id": "T08_ST01",
           "slug": "Language_Development",
-          "order": 1,
+          "name_hi": "भाषाई विकास की प्रक्रिया",
           "folder": "Subtopic_01_Language_Development",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T08_ST01_M01",
               "slug": "Language_Development_Stages",
+              "name_hi": "भाषा विकास के प्रमुख चरण",
               "folder": "Micro_01_Language_Development_Stages",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T08_ST01_M02",
               "slug": "Language_Acquisition",
+              "name_hi": "भाषा अर्जन बनाम अधिगम (चॉम्स्की का LAD सिद्धांत)",
               "folder": "Micro_02_Language_Acquisition",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T08_ST01_M03",
               "slug": "Bilingualism",
+              "name_hi": "द्विभाषिकता (Bilingualism) एवं संज्ञानात्मक लाभ",
               "folder": "Micro_03_Bilingualism",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T08_ST01_M04",
               "slug": "Multilingualism",
+              "name_hi": "बहुभाषिकता एक संसाधन के रूप में",
               "folder": "Micro_04_Multilingualism",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T08_ST02",
           "slug": "Language_Thought_Relationship",
-          "order": 2,
+          "name_hi": "भाषा एवं चिंतन का अंतर्संबंध",
           "folder": "Subtopic_02_Language_Thought_Relationship",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T08_ST02_M01",
               "slug": "Language_and_Cognition",
+              "name_hi": "भाषा एवं संज्ञान का पारस्परिक संबंध",
               "folder": "Micro_01_Language_and_Cognition",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T08_ST02_M02",
               "slug": "Vygotsky_Language_Thought",
+              "name_hi": "वाइगोत्स्की का भाषा-चिंतन परिप्रेक्ष्य",
               "folder": "Micro_02_Vygotsky_Language_Thought",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T08_ST02_M03",
               "slug": "Piaget_Language_Thought",
+              "name_hi": "पियाजे का भाषा-चिंतन परिप्रेक्ष्य",
               "folder": "Micro_03_Piaget_Language_Thought",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1222,174 +884,122 @@
     {
       "id": "T09",
       "slug": "Cognition_Emotion_and_Motivation",
-      "title_hi": "संज्ञान, संवेग एवं अभिप्रेरणा",
-      "order": 9,
+      "name_hi": "संज्ञान, संवेग एवं अभिप्रेरणा",
       "folder": "Topic_09_Cognition_Emotion_and_Motivation",
+      "order": 9,
       "subtopics": [
         {
           "id": "T09_ST01",
           "slug": "Cognition",
-          "order": 1,
+          "name_hi": "संज्ञानात्मक प्रक्रियाएं",
           "folder": "Subtopic_01_Cognition",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T09_ST01_M01",
               "slug": "Cognitive_Processes",
+              "name_hi": "संज्ञान का अर्थ एवं मानसिक प्रक्रियाएं",
               "folder": "Micro_01_Cognitive_Processes",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST01_M02",
               "slug": "Attention",
+              "name_hi": "अवधान / ध्यान (Attention) एवं विस्तार",
               "folder": "Micro_02_Attention",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST01_M03",
               "slug": "Memory",
+              "name_hi": "स्मृति (कार्यकारी एवं दीर्घकालिक स्मृति)",
               "folder": "Micro_03_Memory",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST01_M04",
               "slug": "Perception",
+              "name_hi": "प्रत्यक्षीकरण (Perception) एवं अर्थ-निर्माण",
               "folder": "Micro_04_Perception",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T09_ST02",
           "slug": "Emotion",
-          "order": 2,
+          "name_hi": "संवेग एवं संवेगात्मक विकास",
           "folder": "Subtopic_02_Emotion",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T09_ST02_M01",
               "slug": "Meaning_of_Emotion",
+              "name_hi": "संवेग का अर्थ, प्रकृति एवं प्रकार",
               "folder": "Micro_01_Meaning_of_Emotion",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST02_M02",
               "slug": "Emotional_Development",
+              "name_hi": "संवेगात्मक विकास के प्रतिमान",
               "folder": "Micro_02_Emotional_Development",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST02_M03",
               "slug": "Emotional_Intelligence",
+              "name_hi": "संवेगात्मक बुद्धि (गोलमैन का मॉडल)",
               "folder": "Micro_03_Emotional_Intelligence",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T09_ST03",
           "slug": "Motivation",
-          "order": 3,
+          "name_hi": "अभिप्रेरणा एवं अधिगम",
           "folder": "Subtopic_03_Motivation",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T09_ST03_M01",
               "slug": "Intrinsic_Motivation",
+              "name_hi": "आंतरिक अभिप्रेरणा (Intrinsic Motivation)",
               "folder": "Micro_01_Intrinsic_Motivation",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST03_M02",
               "slug": "Extrinsic_Motivation",
+              "name_hi": "बाह्य अभिप्रेरणा (Extrinsic Motivation)",
               "folder": "Micro_02_Extrinsic_Motivation",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST03_M03",
               "slug": "Achievement_Motivation",
+              "name_hi": "उपलब्धि अभिप्रेरणा एवं मैस्लो का पदानुक्रम",
               "folder": "Micro_03_Achievement_Motivation",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T09_ST03_M04",
               "slug": "Teacher_Role_in_Motivation",
+              "name_hi": "विद्यार्थियों को अभिप्रेरित करने में शिक्षक की रणनीतियाँ",
               "folder": "Micro_04_Teacher_Role_in_Motivation",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1398,174 +1008,122 @@
     {
       "id": "T10",
       "slug": "Personality_Theories_and_Assessment",
-      "title_hi": "व्यक्तित्व के सिद्धांत एवं मापन",
-      "order": 10,
+      "name_hi": "व्यक्तित्व के सिद्धांत एवं मापन",
       "folder": "Topic_10_Personality_Theories_and_Assessment",
+      "order": 10,
       "subtopics": [
         {
           "id": "T10_ST01",
           "slug": "Personality_Concept",
-          "order": 1,
+          "name_hi": "व्यक्तित्व की संकल्पना",
           "folder": "Subtopic_01_Personality_Concept",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T10_ST01_M01",
               "slug": "Meaning_of_Personality",
+              "name_hi": "व्यक्तित्व का अर्थ एवं परिभाषाएं (ऑलपोर्ट)",
               "folder": "Micro_01_Meaning_of_Personality",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST01_M02",
               "slug": "Characteristics_of_Personality",
+              "name_hi": "व्यक्तित्व की विशेषताएं",
               "folder": "Micro_02_Characteristics_of_Personality",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST01_M03",
               "slug": "Determinants_of_Personality",
+              "name_hi": "व्यक्तित्व के निर्धारक तत्व (जैविक एवं सामाजिक)",
               "folder": "Micro_03_Determinants_of_Personality",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T10_ST02",
           "slug": "Personality_Theories",
-          "order": 2,
+          "name_hi": "व्यक्तित्व के प्रमुख सिद्धांत",
           "folder": "Subtopic_02_Personality_Theories",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T10_ST02_M01",
               "slug": "Trait_Theory",
+              "name_hi": "शीलभंग सिद्धांत (ऑलपोर्ट एवं कैटेल)",
               "folder": "Micro_01_Trait_Theory",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST02_M02",
               "slug": "Type_Theory",
+              "name_hi": "प्रकार सिद्धांत (युंग, क्रेशमर, शेल्डन)",
               "folder": "Micro_02_Type_Theory",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST02_M03",
               "slug": "Psychoanalytic_View",
+              "name_hi": "मनोविश्लेषणात्मक दृष्टिकोण",
               "folder": "Micro_03_Psychoanalytic_View",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST02_M04",
               "slug": "Humanistic_View",
+              "name_hi": "मानवतावादी दृष्टिकोण (रोजर्स एवं मैस्लो)",
               "folder": "Micro_04_Humanistic_View",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T10_ST03",
           "slug": "Personality_Assessment",
-          "order": 3,
+          "name_hi": "व्यक्तित्व का मापन एवं मूल्यांकन",
           "folder": "Subtopic_03_Personality_Assessment",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T10_ST03_M01",
               "slug": "Objective_Tests",
+              "name_hi": "वस्तुनिष्ठ परीक्षण (प्रश्नावली, MMPI)",
               "folder": "Micro_01_Objective_Tests",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST03_M02",
               "slug": "Projective_Tests",
+              "name_hi": "प्रक्षेपी विधियां (TAT, CAT, Rorschach Inkblot)",
               "folder": "Micro_02_Projective_Tests",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST03_M03",
               "slug": "Observation_Method",
+              "name_hi": "अवलोकन एवं व्यवहारपरक विधियां",
               "folder": "Micro_03_Observation_Method",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T10_ST03_M04",
               "slug": "Interview_Method",
+              "name_hi": "साक्षात्कार एवं व्यक्ति-इतिहास विधि",
               "folder": "Micro_04_Interview_Method",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1574,187 +1132,130 @@
     {
       "id": "T11",
       "slug": "Intelligence_Theories_and_Testing",
-      "title_hi": "बुद्धि के सिद्धांत एवं परीक्षण",
-      "order": 11,
+      "name_hi": "बुद्धि के सिद्धांत एवं परीक्षण",
       "folder": "Topic_11_Intelligence_Theories_and_Testing",
+      "order": 11,
       "subtopics": [
         {
           "id": "T11_ST01",
           "slug": "Intelligence_Concept",
-          "order": 1,
+          "name_hi": "बुद्धि की संकल्पना",
           "folder": "Subtopic_01_Intelligence_Concept",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T11_ST01_M01",
               "slug": "Meaning_of_Intelligence",
+              "name_hi": "बुद्धि का अर्थ एवं परिभाषाएं",
               "folder": "Micro_01_Meaning_of_Intelligence",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST01_M02",
               "slug": "Nature_of_Intelligence",
+              "name_hi": "बुद्धि की प्रकृति एवं विशेषताएं",
               "folder": "Micro_02_Nature_of_Intelligence",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST01_M03",
               "slug": "Intelligence_and_Learning",
+              "name_hi": "बुद्धि एवं अधिगम क्षमता का संबंध",
               "folder": "Micro_03_Intelligence_and_Learning",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T11_ST02",
           "slug": "Intelligence_Theories",
-          "order": 2,
+          "name_hi": "बुद्धि के प्रमुख सिद्धांत",
           "folder": "Subtopic_02_Intelligence_Theories",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T11_ST02_M01",
               "slug": "Spearman_Two_Factor_Theory",
+              "name_hi": "स्पीयरमैन का द्विकारक सिद्धांत (G एवं S कारक)",
               "folder": "Micro_01_Spearman_Two_Factor_Theory",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST02_M02",
               "slug": "Thurstone_Primary_Mental_Abilities",
+              "name_hi": "थर्स्टन का प्राथमिक मानसिक योग्यता (PMA) सिद्धांत",
               "folder": "Micro_02_Thurstone_Primary_Mental_Abilities",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST02_M03",
               "slug": "Guilford_Structure_of_Intellect",
+              "name_hi": "गिलफोर्ड का त्रिविमीय बुद्धि मॉडल (SOI)",
               "folder": "Micro_03_Guilford_Structure_of_Intellect",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST02_M04",
               "slug": "Gardner_Multiple_Intelligences",
+              "name_hi": "गार्डनर का बहुबुद्धि सिद्धांत (Multiple Intelligences)",
               "folder": "Micro_04_Gardner_Multiple_Intelligences",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST02_M05",
               "slug": "Sternberg_Triarchic_Theory",
+              "name_hi": "स्टर्नबर्ग का त्रितंत्रीय सिद्धांत (Triarchic Theory)",
               "folder": "Micro_05_Sternberg_Triarchic_Theory",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T11_ST03",
           "slug": "Intelligence_Testing",
-          "order": 3,
+          "name_hi": "बुद्धि परीक्षण एवं लब्धि (IQ)",
           "folder": "Subtopic_03_Intelligence_Testing",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T11_ST03_M01",
               "slug": "IQ_Concept",
+              "name_hi": "बुद्धिलब्धि (IQ) की संकल्पना एवं सूत्र (बिने, स्टर्न, टर्मन)",
               "folder": "Micro_01_IQ_Concept",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST03_M02",
               "slug": "Individual_Intelligence_Tests",
+              "name_hi": "व्यक्तिगत बुद्धि परीक्षण (बिने-साइमन, स्टैनफोर्ड-बिने)",
               "folder": "Micro_02_Individual_Intelligence_Tests",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST03_M03",
               "slug": "Group_Intelligence_Tests",
+              "name_hi": "सामूहिक बुद्धि परीक्षण (आर्मी अल्फा एवं बीटा)",
               "folder": "Micro_03_Group_Intelligence_Tests",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T11_ST03_M04",
               "slug": "Verbal_and_Nonverbal_Tests",
+              "name_hi": "शाब्दिक, अशाब्दिक एवं निष्पादन परीक्षण (भाटिया बैटरी)",
               "folder": "Micro_04_Verbal_and_Nonverbal_Tests",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1763,127 +1264,89 @@
     {
       "id": "T12",
       "slug": "Individual_Differences_and_Gender",
-      "title_hi": "व्यक्तिगत विभिन्नताएं एवं जेंडर",
-      "order": 12,
+      "name_hi": "व्यक्तिगत विभिन्नताएं एवं जेंडर",
       "folder": "Topic_12_Individual_Differences_and_Gender",
+      "order": 12,
       "subtopics": [
         {
           "id": "T12_ST01",
           "slug": "Individual_Differences",
-          "order": 1,
+          "name_hi": "शिक्षार्थियों में व्यक्तिगत विभिन्नताएं",
           "folder": "Subtopic_01_Individual_Differences",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T12_ST01_M01",
               "slug": "Meaning_of_Individual_Differences",
+              "name_hi": "व्यक्तिगत विभिन्नता का अर्थ एवं प्रकार",
               "folder": "Micro_01_Meaning_of_Individual_Differences",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T12_ST01_M02",
               "slug": "Cognitive_Differences",
+              "name_hi": "संज्ञानात्मक एवं बौद्धिक अंतर",
               "folder": "Micro_02_Cognitive_Differences",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T12_ST01_M03",
               "slug": "Learning_Differences",
+              "name_hi": "अधिगम शैलियाँ (Learning Styles) एवं गति में अंतर",
               "folder": "Micro_03_Learning_Differences",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T12_ST01_M04",
               "slug": "Personality_Differences",
+              "name_hi": "अभिरुचि, अभिवृत्ति एवं स्वभावगत अंतर",
               "folder": "Micro_04_Personality_Differences",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T12_ST02",
           "slug": "Gender_and_Education",
-          "order": 2,
+          "name_hi": "जेंडर एक सामाजिक संरचना के रूप में",
           "folder": "Subtopic_02_Gender_and_Education",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T12_ST02_M01",
               "slug": "Gender_Roles",
+              "name_hi": "लैंगिक भूमिकाएं (Gender Roles) एवं समाजीकरण",
               "folder": "Micro_01_Gender_Roles",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T12_ST02_M02",
               "slug": "Gender_Stereotypes",
+              "name_hi": "लैंगिक रूढ़िवादिता (Gender Stereotypes)",
               "folder": "Micro_02_Gender_Stereotypes",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T12_ST02_M03",
               "slug": "Gender_Bias",
+              "name_hi": "लैंगिक पक्षपात (Gender Bias) एवं असमानता",
               "folder": "Micro_03_Gender_Bias",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T12_ST02_M04",
               "slug": "Gender_Sensitive_Classroom",
+              "name_hi": "जेंडर-संवेदनशील कक्षा-कक्ष एवं शिक्षक दृष्टिकोण",
               "folder": "Micro_04_Gender_Sensitive_Classroom",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1892,174 +1355,122 @@
     {
       "id": "T13",
       "slug": "Thinking_Problem_Solving_and_Creativity",
-      "title_hi": "चिंतन, समस्या समाधान एवं सृजनात्मकता",
-      "order": 13,
+      "name_hi": "चिंतन, समस्या समाधान एवं सृजनात्मकता",
       "folder": "Topic_13_Thinking_Problem_Solving_and_Creativity",
+      "order": 13,
       "subtopics": [
         {
           "id": "T13_ST01",
           "slug": "Thinking",
-          "order": 1,
+          "name_hi": "चिंतन की प्रक्रिया एवं प्रकार",
           "folder": "Subtopic_01_Thinking",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T13_ST01_M01",
               "slug": "Meaning_of_Thinking",
+              "name_hi": "चिंतन का अर्थ एवं प्रकृति",
               "folder": "Micro_01_Meaning_of_Thinking",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST01_M02",
               "slug": "Convergent_Thinking",
+              "name_hi": "अभिसारी चिंतन (Convergent Thinking)",
               "folder": "Micro_02_Convergent_Thinking",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST01_M03",
               "slug": "Divergent_Thinking",
+              "name_hi": "अपसारी चिंतन (Divergent Thinking)",
               "folder": "Micro_03_Divergent_Thinking",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST01_M04",
               "slug": "Critical_Thinking",
+              "name_hi": "आलोचनात्मक चिंतन (Critical Thinking) एवं परासंज्ञान",
               "folder": "Micro_04_Critical_Thinking",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T13_ST02",
           "slug": "Problem_Solving",
-          "order": 2,
+          "name_hi": "समस्या समाधान उपागम",
           "folder": "Subtopic_02_Problem_Solving",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T13_ST02_M01",
               "slug": "Problem_Solving_Process",
+              "name_hi": "समस्या समाधान के चरण एवं प्रक्रिया",
               "folder": "Micro_01_Problem_Solving_Process",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST02_M02",
               "slug": "Strategies_of_Problem_Solving",
+              "name_hi": "समस्या समाधान की रणनीतियाँ (एल्गोरिदम एवं ह्यूरिस्टिक्स)",
               "folder": "Micro_02_Strategies_of_Problem_Solving",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST02_M03",
               "slug": "Teacher_Role",
+              "name_hi": "बालक को समस्या समाधानकर्ता बनाने में शिक्षक की भूमिका",
               "folder": "Micro_03_Teacher_Role",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T13_ST03",
           "slug": "Creativity",
-          "order": 3,
+          "name_hi": "सृजनात्मकता (Creativity)",
           "folder": "Subtopic_03_Creativity",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T13_ST03_M01",
               "slug": "Meaning_of_Creativity",
+              "name_hi": "सृजनात्मकता का अर्थ एवं घटक (टॉरेंस मॉडल)",
               "folder": "Micro_01_Meaning_of_Creativity",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST03_M02",
               "slug": "Characteristics_of_Creative_Children",
+              "name_hi": "सृजनशील बालकों की पहचान एवं लक्षण",
               "folder": "Micro_02_Characteristics_of_Creative_Children",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST03_M03",
               "slug": "Creative_Thinking",
+              "name_hi": "सृजनात्मक चिंतन के चरण (तैयारी, उद्भवन, प्रदीप्ति, सत्यापन)",
               "folder": "Micro_03_Creative_Thinking",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T13_ST03_M04",
               "slug": "Encouraging_Creativity",
+              "name_hi": "सृजनात्मकता संवर्धन: विचारमंथन (Brainstorming) तकनीक",
               "folder": "Micro_04_Encouraging_Creativity",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2068,114 +1479,81 @@
     {
       "id": "T14",
       "slug": "Learning_Concepts_and_Laws",
-      "title_hi": "अधिगम की संकल्पना एवं नियम",
-      "order": 14,
+      "name_hi": "अधिगम की संकल्पना एवं नियम",
       "folder": "Topic_14_Learning_Concepts_and_Laws",
+      "order": 14,
       "subtopics": [
         {
           "id": "T14_ST01",
           "slug": "Learning_Concept",
-          "order": 1,
+          "name_hi": "अधिगम का अर्थ एवं स्वरूप",
           "folder": "Subtopic_01_Learning_Concept",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T14_ST01_M01",
               "slug": "Meaning_of_Learning",
+              "name_hi": "अधिगम का अर्थ एवं प्रमुख परिभाषाएं",
               "folder": "Micro_01_Meaning_of_Learning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T14_ST01_M02",
               "slug": "Characteristics_of_Learning",
+              "name_hi": "अधिगम की विशेषताएं एवं पठार",
               "folder": "Micro_02_Characteristics_of_Learning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T14_ST01_M03",
               "slug": "Factors_Affecting_Learning",
+              "name_hi": "अधिगम को प्रभावित करने वाले कारक",
               "folder": "Micro_03_Factors_Affecting_Learning",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T14_ST02",
           "slug": "Laws_of_Learning",
-          "order": 2,
+          "name_hi": "थार्नडाइक के अधिगम के नियम",
           "folder": "Subtopic_02_Laws_of_Learning",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T14_ST02_M01",
               "slug": "Thorndike_Laws",
+              "name_hi": "थार्नडाइक का प्रयास एवं त्रुटि सिद्धांत",
               "folder": "Micro_01_Thorndike_Laws",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T14_ST02_M02",
               "slug": "Law_of_Readiness",
+              "name_hi": "तत्परता का नियम (Law of Readiness)",
               "folder": "Micro_02_Law_of_Readiness",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T14_ST02_M03",
               "slug": "Law_of_Exercise",
+              "name_hi": "अभ्यास का नियम (उपयोग व अनुपयोग का नियम)",
               "folder": "Micro_03_Law_of_Exercise",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T14_ST02_M04",
               "slug": "Law_of_Effect",
+              "name_hi": "प्रभाव / संतोष का नियम (Law of Effect)",
               "folder": "Micro_04_Law_of_Effect",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2184,187 +1562,130 @@
     {
       "id": "T15",
       "slug": "Learning_Theories_and_Pedagogy",
-      "title_hi": "अधिगम के सिद्धांत एवं शिक्षाशास्त्र",
-      "order": 15,
+      "name_hi": "अधिगम के सिद्धांत एवं शिक्षाशास्त्र",
       "folder": "Topic_15_Learning_Theories_and_Pedagogy",
+      "order": 15,
       "subtopics": [
         {
           "id": "T15_ST01",
           "slug": "Behaviorist_Conditioning",
-          "order": 1,
+          "name_hi": "व्यवहारवादी अनुबंधन सिद्धांत",
           "folder": "Subtopic_01_Behaviorist_Conditioning",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T15_ST01_M01",
               "slug": "Classical_Conditioning",
+              "name_hi": "शास्त्रीय अनुबंधन सिद्धांत",
               "folder": "Micro_01_Classical_Conditioning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST01_M02",
               "slug": "Pavlov",
+              "name_hi": "इवान पावलोव का प्रयोग एवं शैक्षिक अनुप्रयोग",
               "folder": "Micro_02_Pavlov",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST01_M03",
               "slug": "Operant_Conditioning",
+              "name_hi": "क्रिया-प्रसूत अनुबंधन सिद्धांत (Operant Conditioning)",
               "folder": "Micro_03_Operant_Conditioning",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST01_M04",
               "slug": "Skinner",
+              "name_hi": "बी.एफ. स्किनर का प्रयोग एवं अभिक्रमित अनुदेशन",
               "folder": "Micro_04_Skinner",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST01_M05",
               "slug": "Reinforcement_and_Punishment",
+              "name_hi": "पुनर्बलन अनुसूचियां (Schedules) एवं दंड",
               "folder": "Micro_05_Reinforcement_and_Punishment",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T15_ST02",
           "slug": "Cognitive_Learning",
-          "order": 2,
+          "name_hi": "संज्ञानात्मक एवं गेस्टाल्ट अधिगम",
           "folder": "Subtopic_02_Cognitive_Learning",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T15_ST02_M01",
               "slug": "Insight_Learning",
+              "name_hi": "सूझ या अंतर्दृष्टि का सिद्धांत (कोहलर)",
               "folder": "Micro_01_Insight_Learning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST02_M02",
               "slug": "Gestalt_Learning",
+              "name_hi": "गेस्टाल्ट सिद्धांत के मूल नियम",
               "folder": "Micro_02_Gestalt_Learning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST02_M03",
               "slug": "Cognitive_Maps",
+              "name_hi": "टॉलमैन का चिन्ह अधिगम एवं संज्ञानात्मक मानचित्र",
               "folder": "Micro_03_Cognitive_Maps",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T15_ST03",
           "slug": "Constructivist_Learning",
-          "order": 3,
+          "name_hi": "रचनावादी अधिगम एवं बाल-केंद्रित शिक्षा",
           "folder": "Subtopic_03_Constructivist_Learning",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T15_ST03_M01",
               "slug": "Constructivism",
+              "name_hi": "रचनावाद के मूल सिद्धांत एवं ज्ञान-सृजन",
               "folder": "Micro_01_Constructivism",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST03_M02",
               "slug": "Learner_Centered_Learning",
+              "name_hi": "शिक्षार्थी-केंद्रित शिक्षण दृष्टिकोण",
               "folder": "Micro_02_Learner_Centered_Learning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST03_M03",
               "slug": "Active_Learning",
+              "name_hi": "सक्रिय सहभागिता एवं अनुभवात्मक अधिगम",
               "folder": "Micro_03_Active_Learning",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T15_ST03_M04",
               "slug": "Collaborative_Learning",
+              "name_hi": "सहयोगात्मक एवं सहकर्मी अधिगम",
               "folder": "Micro_04_Collaborative_Learning",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2373,187 +1694,130 @@
     {
       "id": "T16",
       "slug": "Teaching_Methods_Skills_and_Models",
-      "title_hi": "शिक्षण विधियां, कौशल एवं मॉडल",
-      "order": 16,
+      "name_hi": "शिक्षण विधियां, कौशल एवं मॉडल",
       "folder": "Topic_16_Teaching_Methods_Skills_and_Models",
+      "order": 16,
       "subtopics": [
         {
           "id": "T16_ST01",
           "slug": "Teaching_Methods",
-          "order": 1,
+          "name_hi": "प्रमुख शिक्षण विधियां",
           "folder": "Subtopic_01_Teaching_Methods",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T16_ST01_M01",
               "slug": "Lecture_Method",
+              "name_hi": "व्याख्यान विधि एवं उसकी सीमाएं",
               "folder": "Micro_01_Lecture_Method",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST01_M02",
               "slug": "Discussion_Method",
+              "name_hi": "वाद-विवाद एवं विचार-विमर्श विधि",
               "folder": "Micro_02_Discussion_Method",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST01_M03",
               "slug": "Project_Method",
+              "name_hi": "परियोजना विधि (Project Method - किलपैट्रिक)",
               "folder": "Micro_03_Project_Method",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST01_M04",
               "slug": "Demonstration_Method",
+              "name_hi": "प्रदर्शन विधि (Demonstration Method)",
               "folder": "Micro_04_Demonstration_Method",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST01_M05",
               "slug": "Problem_Solving_Method",
+              "name_hi": "समस्या समाधान शिक्षण विधि",
               "folder": "Micro_05_Problem_Solving_Method",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T16_ST02",
           "slug": "Teaching_Skills",
-          "order": 2,
+          "name_hi": "सूक्ष्म शिक्षण एवं शिक्षण कौशल",
           "folder": "Subtopic_02_Teaching_Skills",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T16_ST02_M01",
               "slug": "Questioning_Skill",
+              "name_hi": "प्रश्नोत्तर एवं खोजपूर्ण प्रश्न कौशल",
               "folder": "Micro_01_Questioning_Skill",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST02_M02",
               "slug": "Explanation_Skill",
+              "name_hi": "स्पष्टीकरण एवं दृष्टांत कौशल",
               "folder": "Micro_02_Explanation_Skill",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST02_M03",
               "slug": "Reinforcement_Skill",
+              "name_hi": "पुनर्बलन कौशल (Reinforcement Skill)",
               "folder": "Micro_03_Reinforcement_Skill",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST02_M04",
               "slug": "Stimulus_Variation",
+              "name_hi": "उद्दीपन परिवर्तन कौशल (Stimulus Variation)",
               "folder": "Micro_04_Stimulus_Variation",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T16_ST03",
           "slug": "Teaching_Models",
-          "order": 3,
+          "name_hi": "शिक्षण के प्रमुख प्रतिमान (Models)",
           "folder": "Subtopic_03_Teaching_Models",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T16_ST03_M01",
               "slug": "Advance_Organizer_Model",
+              "name_hi": "अग्रिम संगठक प्रतिमान (आसुबेल)",
               "folder": "Micro_01_Advance_Organizer_Model",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST03_M02",
               "slug": "Concept_Attainment_Model",
+              "name_hi": "संप्रत्यय संप्राप्ति प्रतिमान (ब्रूनर)",
               "folder": "Micro_02_Concept_Attainment_Model",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T16_ST03_M03",
               "slug": "Inquiry_Model",
+              "name_hi": "पृच्छा प्रशिक्षण प्रतिमान (सुचमैन)",
               "folder": "Micro_03_Inquiry_Model",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2562,127 +1826,89 @@
     {
       "id": "T17",
       "slug": "Inclusive_Education_Philosophy",
-      "title_hi": "समावेशी शिक्षा का दर्शन",
-      "order": 17,
+      "name_hi": "समावेषी शिक्षा का दर्शन",
       "folder": "Topic_17_Inclusive_Education_Philosophy",
+      "order": 17,
       "subtopics": [
         {
           "id": "T17_ST01",
           "slug": "Inclusive_Education",
-          "order": 1,
+          "name_hi": "समावेषी शिक्षा की संकल्पना",
           "folder": "Subtopic_01_Inclusive_Education",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T17_ST01_M01",
               "slug": "Meaning_of_Inclusion",
+              "name_hi": "समावेशन का अर्थ, उद्देश्य एवं ऐतिहासिक परिप्रेक्ष्य",
               "folder": "Micro_01_Meaning_of_Inclusion",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T17_ST01_M02",
               "slug": "Principles_of_Inclusion",
+              "name_hi": "समावेशन के मूल सिद्धांत (समानता बनाम समता)",
               "folder": "Micro_02_Principles_of_Inclusion",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T17_ST01_M03",
               "slug": "Inclusive_Classroom",
+              "name_hi": "समावेशी कक्षा वातावरण एवं बाधा-मुक्त परिवेश",
               "folder": "Micro_03_Inclusive_Classroom",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T17_ST01_M04",
               "slug": "Teacher_Role",
+              "name_hi": "समावेशी शिक्षक के गुण, कौशल एवं दृष्टिकोण",
               "folder": "Micro_04_Teacher_Role",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T17_ST02",
           "slug": "Diversity_in_Classroom",
-          "order": 2,
+          "name_hi": "कक्षा-कक्ष में विविधता का प्रबंधन",
           "folder": "Subtopic_02_Diversity_in_Classroom",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T17_ST02_M01",
               "slug": "Cultural_Diversity",
+              "name_hi": "सांस्कृतिक विविधता का आदर एवं समावेशन",
               "folder": "Micro_01_Cultural_Diversity",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T17_ST02_M02",
               "slug": "Linguistic_Diversity",
+              "name_hi": "भाषाई विविधता एवं मातृभाषा का उपयोग",
               "folder": "Micro_02_Linguistic_Diversity",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T17_ST02_M03",
               "slug": "Socioeconomic_Diversity",
+              "name_hi": "सामाजिक-आर्थिक रूप से वंचित वर्ग का समावेशन",
               "folder": "Micro_03_Socioeconomic_Diversity",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T17_ST02_M04",
               "slug": "Learning_Diversity",
+              "name_hi": "विभेदित अनुदेशन (Differentiated Instruction) एवं UDL",
               "folder": "Micro_04_Learning_Diversity",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2691,127 +1917,89 @@
     {
       "id": "T18",
       "slug": "Learning_Disabilities_and_Neurodiversity",
-      "title_hi": "अधिगम अक्षमताएं एवं न्यूरोडायवर्सिटी",
-      "order": 18,
+      "name_hi": "अधिगम अक्षमताएं एवं न्यूरोडायवर्सिटी",
       "folder": "Topic_18_Learning_Disabilities_and_Neurodiversity",
+      "order": 18,
       "subtopics": [
         {
           "id": "T18_ST01",
           "slug": "Learning_Disabilities",
-          "order": 1,
+          "name_hi": "विशिष्ट अधिगम अक्षमताएं (SLD)",
           "folder": "Subtopic_01_Learning_Disabilities",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T18_ST01_M01",
               "slug": "Dyslexia",
+              "name_hi": "डिस्लेक्सिया (पठन वैकल्य / Reading Disability)",
               "folder": "Micro_01_Dyslexia",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T18_ST01_M02",
               "slug": "Dysgraphia",
+              "name_hi": "डिस्ग्राफिया (लेखन वैकल्य / Writing Disability)",
               "folder": "Micro_02_Dysgraphia",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T18_ST01_M03",
               "slug": "Dyscalculia",
+              "name_hi": "डिस्कैल्कुलिया (गणितीय वैकल्य / Math Disability)",
               "folder": "Micro_03_Dyscalculia",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T18_ST01_M04",
               "slug": "Specific_Learning_Disability",
+              "name_hi": "डिस्प्रेक्सिया एवं डिस्फ़ेसिया का निदान",
               "folder": "Micro_04_Specific_Learning_Disability",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T18_ST02",
           "slug": "Neurodevelopmental_Conditions",
-          "order": 2,
+          "name_hi": "न्यूरोडेवलपमेंटल स्थितियां",
           "folder": "Subtopic_02_Neurodevelopmental_Conditions",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T18_ST02_M01",
               "slug": "Autism_Spectrum",
+              "name_hi": "ऑटिज्म स्पेक्ट्रम विकार (ASD)",
               "folder": "Micro_01_Autism_Spectrum",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T18_ST02_M02",
               "slug": "ADHD",
+              "name_hi": "ध्यान-अभाव एवं अतिसक्रियता विकार (ADHD)",
               "folder": "Micro_02_ADHD",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T18_ST02_M03",
               "slug": "Intellectual_Disability",
+              "name_hi": "बौद्धिक अक्षमता (Intellectual Disability)",
               "folder": "Micro_03_Intellectual_Disability",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T18_ST02_M04",
               "slug": "Educational_Support",
+              "name_hi": "कक्षा-कक्ष समर्थन एवं अनुकूलन रणनीतियाँ",
               "folder": "Micro_04_Educational_Support",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2820,127 +2008,89 @@
     {
       "id": "T19",
       "slug": "RPwD_Act_2016_and_Exceptional_Children",
-      "title_hi": "RPwD अधिनियम 2016 एवं विशेष आवश्यकता वाले बच्चे",
-      "order": 19,
+      "name_hi": "RPwD अधिनियम 2016 एवं विशेष आवश्यकता वाले बच्चे",
       "folder": "Topic_19_RPwD_Act_2016_and_Exceptional_Children",
+      "order": 19,
       "subtopics": [
         {
           "id": "T19_ST01",
           "slug": "RPwD_Act_2016",
-          "order": 1,
+          "name_hi": "दिव्यांगजन अधिकार अधिनियम 2016",
           "folder": "Subtopic_01_RPwD_Act_2016",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T19_ST01_M01",
               "slug": "RPwD_Act_2016_Overview",
+              "name_hi": "RPwD Act 2016: 21 दिव्यांगताओं का वर्गीकरण",
               "folder": "Micro_01_RPwD_Act_2016_Overview",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T19_ST01_M02",
               "slug": "Rights_and_Entitlements",
+              "name_hi": "अधिकार, संरक्षण एवं कानूनी हकदारी",
               "folder": "Micro_02_Rights_and_Entitlements",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T19_ST01_M03",
               "slug": "Inclusive_Education_Provisions",
+              "name_hi": "अधिनियम में समावेशी शिक्षा के विशेष प्रावधान",
               "folder": "Micro_03_Inclusive_Education_Provisions",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T19_ST01_M04",
               "slug": "Reasonable_Accommodation",
+              "name_hi": "उचित समायोजन (Reasonable Accommodation) की अवधारणा",
               "folder": "Micro_04_Reasonable_Accommodation",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T19_ST02",
           "slug": "Exceptional_Children",
-          "order": 2,
+          "name_hi": "विशिष्ट आवश्यकता वाले बच्चे",
           "folder": "Subtopic_02_Exceptional_Children",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T19_ST02_M01",
               "slug": "Gifted_Children",
+              "name_hi": "प्रतिभाशाली बालक (रेनजुली का त्रिवृत्तीय मॉडल)",
               "folder": "Micro_01_Gifted_Children",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T19_ST02_M02",
               "slug": "Children_with_Disabilities",
+              "name_hi": "दृष्टि, श्रवण एवं गत्यात्मक बाधित बालकों का समावेशन",
               "folder": "Micro_02_Children_with_Disabilities",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T19_ST02_M03",
               "slug": "Slow_Learners",
+              "name_hi": "मंद गति से सीखने वाले (Slow Learners) एवं उपचारात्मक शिक्षण",
               "folder": "Micro_03_Slow_Learners",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T19_ST02_M04",
               "slug": "Educational_Adaptations",
+              "name_hi": "पाठ्यचर्या अनुकूलन एवं सहायक प्रौद्योगिकियां (Assistive Tech)",
               "folder": "Micro_04_Educational_Adaptations",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -2949,161 +2099,114 @@
     {
       "id": "T20",
       "slug": "Guidance_Counselling_and_UP_Agencies",
-      "title_hi": "निर्देशन, परामर्श एवं उत्तर प्रदेश की शैक्षिक संस्थाएं",
-      "order": 20,
+      "name_hi": "निर्देशन, परामर्श एवं उत्तर प्रदेश की शैक्षिक संस्थाएं",
       "folder": "Topic_20_Guidance_Counselling_and_UP_Agencies",
+      "order": 20,
       "subtopics": [
         {
           "id": "T20_ST01",
           "slug": "Guidance",
-          "order": 1,
+          "name_hi": "शैक्षिक एवं व्यावसायिक निर्देशन",
           "folder": "Subtopic_01_Guidance",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T20_ST01_M01",
               "slug": "Meaning_of_Guidance",
+              "name_hi": "निर्देशन का अर्थ, परिभाषा एवं आवश्यकता",
               "folder": "Micro_01_Meaning_of_Guidance",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST01_M02",
               "slug": "Types_of_Guidance",
+              "name_hi": "निर्देशन के प्रकार (शैक्षिक, व्यावसायिक, व्यक्तिगत)",
               "folder": "Micro_02_Types_of_Guidance",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST01_M03",
               "slug": "Principles_of_Guidance",
+              "name_hi": "निर्देशन के सिद्धांत एवं विद्यालयी सेवाएं",
               "folder": "Micro_03_Principles_of_Guidance",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T20_ST02",
           "slug": "Counselling",
-          "order": 2,
+          "name_hi": "परामर्श की प्रक्रिया",
           "folder": "Subtopic_02_Counselling",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T20_ST02_M01",
               "slug": "Meaning_of_Counselling",
+              "name_hi": "परामर्श का अर्थ, प्रकृति एवं उपागम (निर्देशात्मक/अनिदेशात्मक)",
               "folder": "Micro_01_Meaning_of_Counselling",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST02_M02",
               "slug": "Counselling_Process",
+              "name_hi": "परामर्श की प्रक्रिया एवं साक्षात्कार तकनीक",
               "folder": "Micro_02_Counselling_Process",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST02_M03",
               "slug": "Teacher_as_Counsellor",
+              "name_hi": "परामर्शदाता के रूप में प्राथमिक शिक्षक की भूमिका",
               "folder": "Micro_03_Teacher_as_Counsellor",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T20_ST03",
           "slug": "Educational_Agencies",
-          "order": 3,
+          "name_hi": "शैक्षिक संस्थागत ढांचा (UP & National)",
           "folder": "Subtopic_03_Educational_Agencies",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T20_ST03_M01",
               "slug": "SCERT",
+              "name_hi": "राज्य शैक्षिक अनुसंधान एवं प्रशिक्षण परिषद (SCERT UP)",
               "folder": "Micro_01_SCERT",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST03_M02",
               "slug": "DIET",
+              "name_hi": "जिला शिक्षा एवं प्रशिक्षण संस्थान (DIET) की कार्यप्रणाली",
               "folder": "Micro_02_DIET",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST03_M03",
               "slug": "NCERT",
+              "name_hi": "राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद (NCERT)",
               "folder": "Micro_03_NCERT",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T20_ST03_M04",
               "slug": "NCTE",
+              "name_hi": "राष्ट्रीय शिक्षक शिक्षा परिषद (NCTE) के मानक",
               "folder": "Micro_04_NCTE",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3112,161 +2215,114 @@
     {
       "id": "T21",
       "slug": "Measurement_Assessment_and_Evaluation",
-      "title_hi": "मापन, आकलन एवं मूल्यांकन",
-      "order": 21,
+      "name_hi": "मापन, आकलन एवं मूल्यांकन",
       "folder": "Topic_21_Measurement_Assessment_and_Evaluation",
+      "order": 21,
       "subtopics": [
         {
           "id": "T21_ST01",
           "slug": "Measurement",
-          "order": 1,
+          "name_hi": "शैक्षिक मापन",
           "folder": "Subtopic_01_Measurement",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T21_ST01_M01",
               "slug": "Meaning_of_Measurement",
+              "name_hi": "मापन का अर्थ एवं संप्रत्यय",
               "folder": "Micro_01_Meaning_of_Measurement",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST01_M02",
               "slug": "Characteristics_of_Measurement",
+              "name_hi": "मापन के स्तर (नामित, क्रमिक, अंतराल, अनुपात)",
               "folder": "Micro_02_Characteristics_of_Measurement",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST01_M03",
               "slug": "Quantitative_Measurement",
+              "name_hi": "मात्रात्मक बनाम गुणात्मक मापन",
               "folder": "Micro_03_Quantitative_Measurement",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T21_ST02",
           "slug": "Assessment",
-          "order": 2,
+          "name_hi": "अधिगम का आकलन (Assessment)",
           "folder": "Subtopic_02_Assessment",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T21_ST02_M01",
               "slug": "Assessment_for_Learning",
+              "name_hi": "अधिगम के लिए आकलन (Assessment for Learning)",
               "folder": "Micro_01_Assessment_for_Learning",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST02_M02",
               "slug": "Assessment_of_Learning",
+              "name_hi": "अधिगम का आकलन (Assessment of Learning)",
               "folder": "Micro_02_Assessment_of_Learning",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST02_M03",
               "slug": "Formative_Assessment",
+              "name_hi": "रचनात्मक / निर्माणात्मक आकलन (Formative Assessment)",
               "folder": "Micro_03_Formative_Assessment",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST02_M04",
               "slug": "Summative_Assessment",
+              "name_hi": "योगात्मक / संकलनात्मक आकलन (Summative Assessment)",
               "folder": "Micro_04_Summative_Assessment",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T21_ST03",
           "slug": "Evaluation",
-          "order": 3,
+          "name_hi": "शैक्षिक मूल्यांकन एवं CCE",
           "folder": "Subtopic_03_Evaluation",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T21_ST03_M01",
               "slug": "Meaning_of_Evaluation",
+              "name_hi": "मूल्यांकन का अर्थ एवं ब्लूम का मूल्यांकन त्रिकोण",
               "folder": "Micro_01_Meaning_of_Evaluation",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST03_M02",
               "slug": "Diagnostic_Evaluation",
+              "name_hi": "निदानात्मक परीक्षण एवं उपचारात्मक शिक्षण (Diagnostic & Remedial)",
               "folder": "Micro_02_Diagnostic_Evaluation",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T21_ST03_M03",
               "slug": "Continuous_Assessment",
+              "name_hi": "सतत एवं व्यापक मूल्यांकन (CCE) प्रणाली",
               "folder": "Micro_03_Continuous_Assessment",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3275,114 +2331,81 @@
     {
       "id": "T22",
       "slug": "Test_Standardization_and_Action_Research",
-      "title_hi": "परीक्षण मानकीकरण एवं क्रियात्मक अनुसंधान",
-      "order": 22,
+      "name_hi": "परीक्षण मानकीकरण एवं क्रियात्मक अनुसंधान",
       "folder": "Topic_22_Test_Standardization_and_Action_Research",
+      "order": 22,
       "subtopics": [
         {
           "id": "T22_ST01",
           "slug": "Test_Standardization",
-          "order": 1,
+          "name_hi": "उत्तम परीक्षण की विशेषताएं",
           "folder": "Subtopic_01_Test_Standardization",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T22_ST01_M01",
               "slug": "Validity",
+              "name_hi": "वैधता (Validity) के प्रकार एवं मापन",
               "folder": "Micro_01_Validity",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T22_ST01_M02",
               "slug": "Reliability",
+              "name_hi": "विश्वसनीयता (Reliability) की विधियां",
               "folder": "Micro_02_Reliability",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T22_ST01_M03",
               "slug": "Objectivity",
+              "name_hi": "वस्तुनिष्ठता (Objectivity) एवं उपयोगिता",
               "folder": "Micro_03_Objectivity",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T22_ST01_M04",
               "slug": "Norms",
+              "name_hi": "मानक (Norms) एवं मानकीकृत परीक्षण निर्माण",
               "folder": "Micro_04_Norms",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T22_ST02",
           "slug": "Action_Research",
-          "order": 2,
+          "name_hi": "क्रियात्मक अनुसंधान (Action Research)",
           "folder": "Subtopic_02_Action_Research",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T22_ST02_M01",
               "slug": "Meaning_of_Action_Research",
+              "name_hi": "क्रियात्मक अनुसंधान का अर्थ, उत्पत्ति (स्टीफन एम. कोरे)",
               "folder": "Micro_01_Meaning_of_Action_Research",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T22_ST02_M02",
               "slug": "Steps_of_Action_Research",
+              "name_hi": "क्रियात्मक अनुसंधान के 7 सोपान / चरण",
               "folder": "Micro_02_Steps_of_Action_Research",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T22_ST02_M03",
               "slug": "Teacher_as_Researcher",
+              "name_hi": "विद्यालयी समस्याओं के समाधान में शिक्षक-शोधकर्ता",
               "folder": "Micro_03_Teacher_as_Researcher",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3391,114 +2414,81 @@
     {
       "id": "T23",
       "slug": "NEP_2020_and_NCF_Frameworks",
-      "title_hi": "राष्ट्रीय शिक्षा नीति 2020 एवं NCF ढांचे",
-      "order": 23,
+      "name_hi": "राष्ट्रीय शिक्षा नीति 2020 एवं NCF ढांचे",
       "folder": "Topic_23_NEP_2020_and_NCF_Frameworks",
+      "order": 23,
       "subtopics": [
         {
           "id": "T23_ST01",
           "slug": "NEP_2020",
-          "order": 1,
+          "name_hi": "राष्ट्रीय शिक्षा नीति 2020 (NEP 2020)",
           "folder": "Subtopic_01_NEP_2020",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T23_ST01_M01",
               "slug": "NEP_2020_Overview",
+              "name_hi": "NEP 2020 के मूल मार्गदर्शक सिद्धांत",
               "folder": "Micro_01_NEP_2020_Overview",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T23_ST01_M02",
               "slug": "Foundational_Literacy_and_Numeracy",
+              "name_hi": "बुनियादी साक्षरता एवं संख्याज्ञान (FLN & NIPUN)",
               "folder": "Micro_02_Foundational_Literacy_and_Numeracy",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T23_ST01_M03",
               "slug": "School_Education_Structure",
+              "name_hi": "5+3+3+4 विद्यालयी शैक्षिक संरचना",
               "folder": "Micro_03_School_Education_Structure",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T23_ST01_M04",
               "slug": "Competency_Based_Education",
+              "name_hi": "योग्यता-आधारित शिक्षा एवं PARAKH (360° HPC)",
               "folder": "Micro_04_Competency_Based_Education",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T23_ST02",
           "slug": "NCF_Frameworks",
-          "order": 2,
+          "name_hi": "राष्ट्रीय पाठ्यचर्या की रूपरेखा (NCF)",
           "folder": "Subtopic_02_NCF_Frameworks",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T23_ST02_M01",
               "slug": "NCF_Overview",
+              "name_hi": "NCF 2005 के 5 मार्गदर्शक सिद्धांत",
               "folder": "Micro_01_NCF_Overview",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T23_ST02_M02",
               "slug": "Curriculum_Principles",
+              "name_hi": "NCF-FS एवं NCF-SE 2023 की रूपरेखा",
               "folder": "Micro_02_Curriculum_Principles",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T23_ST02_M03",
               "slug": "Child_Centered_Education",
+              "name_hi": "पाठ्यक्रम भार मुक्ति (Learning Without Burden)",
               "folder": "Micro_03_Child_Centered_Education",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3507,114 +2497,81 @@
     {
       "id": "T24",
       "slug": "RTE_Act_2009_and_Child_Rights",
-      "title_hi": "RTE अधिनियम 2009 एवं बाल अधिकार",
-      "order": 24,
+      "name_hi": "RTE अधिनियम 2009 एवं बाल अधिकार",
       "folder": "Topic_24_RTE_Act_2009_and_Child_Rights",
+      "order": 24,
       "subtopics": [
         {
           "id": "T24_ST01",
           "slug": "RTE_Act_2009",
-          "order": 1,
+          "name_hi": "निःशुल्क एवं अनिवार्य बाल शिक्षा अधिकार (RTE Act)",
           "folder": "Subtopic_01_RTE_Act_2009",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T24_ST01_M01",
               "slug": "RTE_Act_Overview",
+              "name_hi": "RTE 2009 की ऐतिहासिक पृष्ठभूमि एवं संरचना",
               "folder": "Micro_01_RTE_Act_Overview",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T24_ST01_M02",
               "slug": "Right_to_Free_and_Compulsory_Education",
+              "name_hi": "धारा 3 व 4: निःशुल्क शिक्षा एवं आयु-अनुरूप प्रवेश",
               "folder": "Micro_02_Right_to_Free_and_Compulsory_Education",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T24_ST01_M03",
               "slug": "School_Responsibilities",
+              "name_hi": "छात्र-शिक्षक अनुपात (PTR) एवं विद्यालयी मानक",
               "folder": "Micro_03_School_Responsibilities",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T24_ST01_M04",
               "slug": "Teacher_Responsibilities",
+              "name_hi": "धारा 24, 27, 28: शिक्षक दायित्व, प्रतिबंध एवं कार्यघंटे",
               "folder": "Micro_04_Teacher_Responsibilities",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T24_ST02",
           "slug": "Child_Rights",
-          "order": 2,
+          "name_hi": "बाल अधिकार एवं बाल संरक्षण",
           "folder": "Subtopic_02_Child_Rights",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T24_ST02_M01",
               "slug": "Child_Rights_Concept",
+              "name_hi": "संयुक्त राष्ट्र बाल अधिकार अभिसमय (UNCRC)",
               "folder": "Micro_01_Child_Rights_Concept",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T24_ST02_M02",
               "slug": "Protection_of_Children",
+              "name_hi": "पॉक्सो अधिनियम (POCSO Act) एवं विद्यालयी सुरक्षा",
               "folder": "Micro_02_Protection_of_Children",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T24_ST02_M03",
               "slug": "Child_Centered_Education",
+              "name_hi": "शारीरिक दंड का निषेध (धारा 17) एवं भयमुक्त वातावरण",
               "folder": "Micro_03_Child_Centered_Education",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3623,161 +2580,114 @@
     {
       "id": "T25",
       "slug": "Historical_Evolution_of_Indian_Education",
-      "title_hi": "भारतीय शिक्षा का ऐतिहासिक विकास",
-      "order": 25,
+      "name_hi": "भारतीय शिक्षा का ऐतिहासिक विकास",
       "folder": "Topic_25_Historical_Evolution_of_Indian_Education",
+      "order": 25,
       "subtopics": [
         {
           "id": "T25_ST01",
           "slug": "Ancient_Indian_Education",
-          "order": 1,
+          "name_hi": "प्राचीन एवं मध्यकालीन भारतीय शिक्षा",
           "folder": "Subtopic_01_Ancient_Indian_Education",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T25_ST01_M01",
               "slug": "Gurukul_System",
+              "name_hi": "वैदिक शिक्षा प्रणाली (उपनयन, समावर्तन संस्कार)",
               "folder": "Micro_01_Gurukul_System",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST01_M02",
               "slug": "Buddhist_Education",
+              "name_hi": "बौद्ध शिक्षा प्रणाली (पब्बज्जा, उपसंपदा संस्कार)",
               "folder": "Micro_02_Buddhist_Education",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST01_M03",
               "slug": "Medieval_Education",
+              "name_hi": "मुस्लिम कालीन शिक्षा (मकतब, मदरसा, बिस्मिल्लाह रस्म)",
               "folder": "Micro_03_Medieval_Education",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T25_ST02",
           "slug": "Modern_Indian_Education",
-          "order": 2,
+          "name_hi": "ब्रिटिश कालीन भारतीय शिक्षा आयोग",
           "folder": "Subtopic_02_Modern_Indian_Education",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T25_ST02_M01",
               "slug": "Wood_Despatch",
+              "name_hi": "वुड का घोषणापत्र 1854 (मैग्नाकार्टा)",
               "folder": "Micro_01_Wood_Despatch",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST02_M02",
               "slug": "Hunter_Commission",
+              "name_hi": "हंटर आयोग 1882 (भारतीय शिक्षा आयोग)",
               "folder": "Micro_02_Hunter_Commission",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST02_M03",
               "slug": "Sadler_Commission",
+              "name_hi": "सैडलर आयोग 1917 (कलकत्ता विश्वविद्यालय आयोग)",
               "folder": "Micro_03_Sadler_Commission",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST02_M04",
               "slug": "Wardha_Scheme",
+              "name_hi": "वर्धा शिक्षा योजना 1937 (बुनियादी शिक्षा / नई तालीम)",
               "folder": "Micro_04_Wardha_Scheme",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T25_ST03",
           "slug": "Post_Independence_Education",
-          "order": 3,
+          "name_hi": "स्वतंत्रतोत्तर भारतीय शिक्षा नीतियां",
           "folder": "Subtopic_03_Post_Independence_Education",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T25_ST03_M01",
               "slug": "Kothari_Commission",
+              "name_hi": "कोठारी आयोग 1964-66 (राष्ट्रीय शिक्षा आयोग)",
               "folder": "Micro_01_Kothari_Commission",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST03_M02",
               "slug": "National_Policy_on_Education_1968",
+              "name_hi": "राष्ट्रीय शिक्षा नीति 1968 (NPE 1968)",
               "folder": "Micro_02_National_Policy_on_Education_1968",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T25_ST03_M03",
               "slug": "National_Policy_on_Education_1986",
+              "name_hi": "राष्ट्रीय शिक्षा नीति 1986 एवं POA 1992",
               "folder": "Micro_03_National_Policy_on_Education_1986",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3786,200 +2696,138 @@
     {
       "id": "T26",
       "slug": "Philosophical_Schools_and_Thinkers",
-      "title_hi": "दार्शनिक विचारधाराएं एवं शिक्षाविद",
-      "order": 26,
+      "name_hi": "दार्शनिक विचारधाराएं एवं शिक्षाविद",
       "folder": "Topic_26_Philosophical_Schools_and_Thinkers",
+      "order": 26,
       "subtopics": [
         {
           "id": "T26_ST01",
           "slug": "Indian_Philosophers",
-          "order": 1,
+          "name_hi": "प्रमुख भारतीय शिक्षा दार्शनिक",
           "folder": "Subtopic_01_Indian_Philosophers",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T26_ST01_M01",
               "slug": "Swami_Vivekananda",
+              "name_hi": "स्वामी विवेकानंद: मानव-निर्माण एवं अंतर्निहित पूर्णता",
               "folder": "Micro_01_Swami_Vivekananda",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST01_M02",
               "slug": "Mahatma_Gandhi",
+              "name_hi": "महात्मा गांधी: 3H (Head, Heart, Hand) एवं स्वावलंबन",
               "folder": "Micro_02_Mahatma_Gandhi",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST01_M03",
               "slug": "Rabindranath_Tagore",
+              "name_hi": "रवींद्रनाथ टैगोर: प्रकृतिवाद एवं शांतिनिकेतन",
               "folder": "Micro_03_Rabindranath_Tagore",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST01_M04",
               "slug": "Sri_Aurobindo",
+              "name_hi": "श्री अरविंद: सर्वांग शिक्षा (Integral Education)",
               "folder": "Micro_04_Sri_Aurobindo",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T26_ST02",
           "slug": "Western_Philosophers",
-          "order": 2,
+          "name_hi": "प्रमुख पाश्चात्य शिक्षा विचारक",
           "folder": "Subtopic_02_Western_Philosophers",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T26_ST02_M01",
               "slug": "Socrates",
+              "name_hi": "सुकरात: प्रश्नोत्तर विधि (Dialectic Method)",
               "folder": "Micro_01_Socrates",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST02_M02",
               "slug": "Plato",
+              "name_hi": "प्लेटो: आदर्श राज्य एवं दार्शनिक शिक्षा",
               "folder": "Micro_02_Plato",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST02_M03",
               "slug": "Aristotle",
+              "name_hi": "अरस्तू: आगमनात्मक तर्कणा एवं यथार्थवाद",
               "folder": "Micro_03_Aristotle",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST02_M04",
               "slug": "John_Dewey",
+              "name_hi": "जॉन डीवी: प्रगतिशील शिक्षा एवं करके सीखना (Learning by Doing)",
               "folder": "Micro_04_John_Dewey",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST02_M05",
               "slug": "Rousseau",
+              "name_hi": "रूसो: नकारात्मक शिक्षा एवं प्रकृति की ओर लौटो",
               "folder": "Micro_05_Rousseau",
               "order": 5,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T26_ST03",
           "slug": "Educational_Philosophy",
-          "order": 3,
+          "name_hi": "शिक्षा के प्रमुख दार्शनिक संप्रदाय",
           "folder": "Subtopic_03_Educational_Philosophy",
+          "order": 3,
           "micro_topics": [
             {
               "id": "T26_ST03_M01",
               "slug": "Idealism",
+              "name_hi": "आदर्शवाद (Idealism): विचार एवं शाश्वत मूल्य",
               "folder": "Micro_01_Idealism",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST03_M02",
               "slug": "Naturalism",
+              "name_hi": "प्रकृतिवाद (Naturalism): बालक एवं प्रकृति",
               "folder": "Micro_02_Naturalism",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST03_M03",
               "slug": "Pragmatism",
+              "name_hi": "प्रयोजनवाद (Pragmatism): उपयोगिता एवं अनुभव",
               "folder": "Micro_03_Pragmatism",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T26_ST03_M04",
               "slug": "Realism",
+              "name_hi": "यथार्थवाद (Realism): वस्तुगत संसार एवं वैज्ञानिक दृष्टिकोण",
               "folder": "Micro_04_Realism",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -3988,127 +2836,89 @@
     {
       "id": "T27",
       "slug": "National_Schemes_and_UP_Structure_UPTET",
-      "title_hi": "प्रारंभिक शिक्षा की प्रमुख योजनाएं एवं संस्थागत संरचना",
-      "order": 27,
+      "name_hi": "प्रारंभिक शिक्षा की प्रमुख योजनाएं एवं संस्थागत संरचना",
       "folder": "Topic_27_National_Schemes_and_UP_Structure_UPTET",
+      "order": 27,
       "subtopics": [
         {
           "id": "T27_ST01",
           "slug": "National_Education_Schemes",
-          "order": 1,
+          "name_hi": "राष्ट्रीय स्तर की प्रमुख शैक्षिक योजनाएं",
           "folder": "Subtopic_01_National_Education_Schemes",
+          "order": 1,
           "micro_topics": [
             {
               "id": "T27_ST01_M01",
               "slug": "Mid_Day_Meal",
+              "name_hi": "पीएम पोषण / मध्याह्न भोजन योजना (MDM)",
               "folder": "Micro_01_Mid_Day_Meal",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T27_ST01_M02",
               "slug": "Samagra_Shiksha",
+              "name_hi": "समग्र शिक्षा अभियान (SSA + RMSA + TE)",
               "folder": "Micro_02_Samagra_Shiksha",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T27_ST01_M03",
               "slug": "Sarva_Shiksha_Abhiyan",
+              "name_hi": "सर्व शिक्षा अभियान (SSA) एवं कस्तूरबा गांधी विद्यालय (KGBV)",
               "folder": "Micro_03_Sarva_Shiksha_Abhiyan",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T27_ST01_M04",
               "slug": "NIPUN_Bharat",
+              "name_hi": "निपुण भारत मिशन (NIPUN Bharat) एवं बुनियादी लक्ष्य",
               "folder": "Micro_04_NIPUN_Bharat",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "T27_ST02",
           "slug": "UP_Education_Structure",
-          "order": 2,
+          "name_hi": "उत्तर प्रदेश बेसिक शिक्षा का प्रशासनिक ढांचा",
           "folder": "Subtopic_02_UP_Education_Structure",
+          "order": 2,
           "micro_topics": [
             {
               "id": "T27_ST02_M01",
               "slug": "Basic_Education_Department",
+              "name_hi": "बेसिक शिक्षा विभाग उत्तर प्रदेश: ब्लॉक एवं संकुल स्तर (BEO, BRC, ARP)",
               "folder": "Micro_01_Basic_Education_Department",
               "order": 1,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T27_ST02_M02",
               "slug": "DIET_Structure",
+              "name_hi": "डायट (DIET) की 7 शाखाएं एवं प्राथमिक शिक्षक प्रशिक्षण",
               "folder": "Micro_02_DIET_Structure",
               "order": 2,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T27_ST02_M03",
               "slug": "SCERT_Uttar_Pradesh",
+              "name_hi": "एससीईआरटी लखनऊ (SCERT UP) की विशिष्ट भूमिका",
               "folder": "Micro_03_SCERT_Uttar_Pradesh",
               "order": 3,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
               "id": "T27_ST02_M04",
               "slug": "UP_Exam_Authorities",
+              "name_hi": "परीक्षा नियामक प्राधिकारी (PNP प्रयागराज) एवं उत्तर प्रदेश शिक्षा सेवा चयन आयोग",
               "folder": "Micro_04_UP_Exam_Authorities",
               "order": 4,
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }

@@ -14,9 +14,10 @@
   ],
   "subject": {
     "id": "SAN",
+    "type": "language_pedagogy",
     "name_en": "Sanskrit Language and Pedagogy",
     "name_hi": "संस्कृत भाषा एवं शिक्षण शास्त्र",
-    "type": "language_pedagogy"
+    "directory": "Sanskrit"
   },
   "total_topics": 22,
   "total_subtopics": 50,
@@ -26,67 +27,87 @@
     "Short_Notes",
     "PYQ",
     "MCQ",
-    "Practice"
+    "Practice",
+    "Mock_Test"
   ],
+  "mock_test_config": {
+    "topic_wise": {
+      "default_questions": 30,
+      "pyq_ratio": 0.70,
+      "mcq_ratio": 0.30,
+      "negative_marking": false,
+      "time_minutes": 30
+    },
+    "subject_wise": {
+      "default_questions": 30,
+      "pyq_ratio": 0.70,
+      "mcq_ratio": 0.30,
+      "negative_marking": false,
+      "time_minutes": 30
+    }
+  },
   "topics": [
     {
       "id": "T01",
-      "code": "Topic_01_Unseen_Comprehension_Prose_and_Poetry",
+      "slug": "Unseen_Comprehension_Prose_and_Poetry",
+      "name_en": "Unseen Comprehension — Prose and Poetry",
       "name_hi": "अपठित अवबोधनम् — गद्यम् एवं पद्यम्",
+      "folder": "Topic_01_Unseen_Comprehension_Prose_and_Poetry",
+      "order": 1,
       "subtopics": [
         {
           "id": "ST01_01",
-          "code": "Subtopic_01_Unseen_Prose_Passages",
+          "slug": "Unseen_Prose_Passages",
+          "name_en": "Unseen Prose Passages",
+          "name_hi": "अपठित गद्यांश अवबोधनम्",
+          "folder": "Subtopic_01_Unseen_Prose_Passages",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST01_01_M01",
-              "folder": "MicroTopic_01_Factual_Moral_Expository_Comprehension",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST01_01_M01",
+              "slug": "Factual_Moral_Expository_Comprehension",
+              "name_en": "Factual, Moral & Expository Comprehension",
+              "name_hi": "तथ्यात्मक, नीतिपरक एवं विवरणात्मक गद्य बोध",
+              "folder": "Micro_01_Factual_Moral_Expository_Comprehension",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST01_01_M02",
-              "folder": "MicroTopic_02_Contextual_Grammar_Sandhi_Samasa_Vibhakti",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST01_01_M02",
+              "slug": "Contextual_Grammar_Sandhi_Samasa_Vibhakti",
+              "name_en": "Contextual Grammar (Sandhi, Samasa, Vibhakti, Pratyaya)",
+              "name_hi": "संदर्भगत व्याकरण (संधि, समास, विभक्ति एवं प्रत्यय)",
+              "folder": "Micro_02_Contextual_Grammar_Sandhi_Samasa_Vibhakti",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST01_02",
-          "code": "Subtopic_02_Unseen_Poetry_Stanzas",
+          "slug": "Unseen_Poetry_Stanzas",
+          "name_en": "Unseen Poetry Stanzas and Subhashitas",
+          "name_hi": "अपठित पद्यांश एवं सुभाषित श्लोक",
+          "folder": "Subtopic_02_Unseen_Poetry_Stanzas",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST01_02_M01",
-              "folder": "MicroTopic_01_Poetic_Emotion_Anvaya_Subhashita",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST01_02_M01",
+              "slug": "Poetic_Emotion_Anvaya_Subhashita",
+              "name_en": "Poetic Emotion, Anvaya and Moral Meaning",
+              "name_hi": "काव्य भाव, अन्वय एवं सुभाषित नीतिपरक अर्थ",
+              "folder": "Micro_01_Poetic_Emotion_Anvaya_Subhashita",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST01_02_M02",
-              "folder": "MicroTopic_02_Chhand_Alankara_Word_Explanations",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST01_02_M02",
+              "slug": "Chhand_Alankara_Word_Explanations",
+              "name_en": "Chhand, Alankara and Verse Word Explanations",
+              "name_hi": "छंद, अलंकार एवं पद-व्याख्या",
+              "folder": "Micro_02_Chhand_Alankara_Word_Explanations",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -94,62 +115,65 @@
     },
     {
       "id": "T02",
-      "code": "Topic_02_Maheshwar_Sutras_Pratyahara_Alphabet_UPTET",
+      "slug": "Maheshwar_Sutras_Pratyahara_Alphabet_UPTET",
+      "name_en": "Maheshwar Sutras, Pratyahara and Alphabet",
       "name_hi": "माहेश्वर सूत्राणि, प्रत्याहार एवं वर्ण विचार",
+      "folder": "Topic_02_Maheshwar_Sutras_Pratyahara_Alphabet_UPTET",
+      "order": 2,
       "subtopics": [
         {
           "id": "ST02_01",
-          "code": "Subtopic_01_Maheshwar_Sutras_and_Pratyahara",
+          "slug": "Maheshwar_Sutras_and_Pratyahara",
+          "name_en": "14 Maheshwar Sutras and Pratyahara Formation",
+          "name_hi": "चतुर्दश माहेश्वर सूत्राणि एवं प्रत्याहार निर्माण",
+          "folder": "Subtopic_01_Maheshwar_Sutras_and_Pratyahara",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST02_01_M01",
-              "folder": "MicroTopic_01_Fourteen_Maheshwar_Sutras_It_Samjna",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST02_01_M01",
+              "slug": "Fourteen_Maheshwar_Sutras_It_Samjna",
+              "name_en": "14 Maheshwar Sutras, Origin and It-Samjna Sutras",
+              "name_hi": "14 माहेश्वर सूत्र, उत्पत्ति एवं इत्-संज्ञा (हलन्त्यम्)",
+              "folder": "Micro_01_Fourteen_Maheshwar_Sutras_It_Samjna",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST02_01_M02",
-              "folder": "MicroTopic_02_FortyTwo_Pratyahara_Construction_Rules",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST02_01_M02",
+              "slug": "FortyTwo_Pratyahara_Construction_Rules",
+              "name_en": "42/43 Pratyahara Construction Rules (Adirantyena Saheta)",
+              "name_hi": "42/43 प्रत्याहार निर्माण विधि (आदिरन्त्येन सहेता सूत्र)",
+              "folder": "Micro_02_FortyTwo_Pratyahara_Construction_Rules",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST02_02",
-          "code": "Subtopic_02_Varna_Classification",
+          "slug": "Varna_Classification",
+          "name_en": "Classification of Varnas (Swar and Vyanjan)",
+          "name_hi": "वर्ण वर्गीकरण (अच् एवं हल्)",
+          "folder": "Subtopic_02_Varna_Classification",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST02_02_M01",
-              "folder": "MicroTopic_01_Swar_Ach_Hrasva_Dirgha_Pluta",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST02_02_M01",
+              "slug": "Swar_Ach_Hrasva_Dirgha_Pluta",
+              "name_en": "Swar (Ach): Hrasva, Dirgha and Pluta Vowels",
+              "name_hi": "स्वर (अच्): ह्रस्व, दीर्घ एवं प्लुत स्वर (मात्रा काल)",
+              "folder": "Micro_01_Swar_Ach_Hrasva_Dirgha_Pluta",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST02_02_M02",
-              "folder": "MicroTopic_02_Vyanjan_Hal_Sparsha_Antastha_Ushma_Ayogavaha",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST02_02_M02",
+              "slug": "Vyanjan_Hal_Sparsha_Antastha_Ushma_Ayogavaha",
+              "name_en": "Vyanjan (Hal): Sparsha, Antastha, Ushma & Ayogavaha",
+              "name_hi": "व्यंजन (हल्): स्पर्श, अंतःस्थ, ऊष्म एवं अयोगवाह",
+              "folder": "Micro_02_Vyanjan_Hal_Sparsha_Antastha_Ushma_Ayogavaha",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -157,62 +181,65 @@
     },
     {
       "id": "T03",
-      "code": "Topic_03_Places_of_Articulation_Efforts_UPTET",
+      "slug": "Places_of_Articulation_Efforts_UPTET",
+      "name_en": "Places of Articulation and Efforts (Prayatna)",
       "name_hi": "उच्चारण स्थानानि एवं आभ्यन्तर-बाह्य प्रयत्नाः",
+      "folder": "Topic_03_Places_of_Articulation_Efforts_UPTET",
+      "order": 3,
       "subtopics": [
         {
           "id": "ST03_01",
-          "code": "Subtopic_01_Places_of_Articulation_Sutras",
+          "slug": "Places_of_Articulation_Sutras",
+          "name_en": "Places of Articulation Paninian Sutras",
+          "name_hi": "उच्चारण स्थान एवं पाणिनीय सूत्र",
+          "folder": "Subtopic_01_Places_of_Articulation_Sutras",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST03_01_M01",
-              "folder": "MicroTopic_01_Kanthya_Talavya_Murdhanya_Dantya_Osthya",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST03_01_M01",
+              "slug": "Kanthya_Talavya_Murdhanya_Dantya_Osthya",
+              "name_en": "Kanthya, Talavya, Murdhanya, Dantya and Osthya Sutras",
+              "name_hi": "कंठ्य, तालव्य, मूर्धन्य, दंत्य एवं ओष्ठ्य (अकुह, इचुयश आदि सूत्र)",
+              "folder": "Micro_01_Kanthya_Talavya_Murdhanya_Dantya_Osthya",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST03_01_M02",
-              "folder": "MicroTopic_02_Dantosthya_Nasika_Paninian_Formulae",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST03_01_M02",
+              "slug": "Dantosthya_Nasika_Paninian_Formulae",
+              "name_en": "Dantosthya, Kanthatalavya, Kanthosthya & Nasika Formulae",
+              "name_hi": "दंतोष्ठ्य, कंठतालव्य, कंठोष्ठ्य, नासिका एवं जिह्वामूलीय सूत्र",
+              "folder": "Micro_02_Dantosthya_Nasika_Paninian_Formulae",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST03_02",
-          "code": "Subtopic_02_Yatna_Abhyantara_Bahya_Efforts",
+          "slug": "Yatna_Abhyantara_Bahya_Efforts",
+          "name_en": "Abhyantara and Bahya Prayatna (Efforts)",
+          "name_hi": "यत्न विचार: आभ्यन्तर एवं बाह्य प्रयत्न",
+          "folder": "Subtopic_02_Yatna_Abhyantara_Bahya_Efforts",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST03_02_M01",
-              "folder": "MicroTopic_01_Five_Abhyantara_Prayatna_Sprishta_Vivrita",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST03_02_M01",
+              "slug": "Five_Abhyantara_Prayatna_Sprishta_Vivrita",
+              "name_en": "5 Abhyantara Prayatna (Sprishta, Ishatsprishta, Vivrita etc.)",
+              "name_hi": "पञ्च आभ्यन्तर प्रयत्न (स्पृष्ट, ईषत्स्पृष्ट, विवृत, ईषद्विवृत, संवृत)",
+              "folder": "Micro_01_Five_Abhyantara_Prayatna_Sprishta_Vivrita",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST03_02_M02",
-              "folder": "MicroTopic_02_Eleven_Bahya_Prayatna_Ghosh_Pran_Swarita",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST03_02_M02",
+              "slug": "Eleven_Bahya_Prayatna_Ghosh_Pran_Swarita",
+              "name_en": "11 Bahya Prayatna (Vivar, Sanvar, Ghosh, Alpaprana, Udatta)",
+              "name_hi": "एकादश बाह्य प्रयत्न (विवार, संवार, घोष, अघोष, अल्पप्राण, उदात्त आदि)",
+              "folder": "Micro_02_Eleven_Bahya_Prayatna_Ghosh_Pran_Swarita",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -220,90 +247,93 @@
     },
     {
       "id": "T04",
-      "code": "Topic_04_Sandhi_Rules_and_Sutras_UPTET",
+      "slug": "Sandhi_Rules_and_Sutras_UPTET",
+      "name_en": "Sandhi Rules and Paninian Sutras",
       "name_hi": "संधि विचार — अच्, हल् एवं विसर्ग संधि",
+      "folder": "Topic_04_Sandhi_Rules_and_Sutras_UPTET",
+      "order": 4,
       "subtopics": [
         {
           "id": "ST04_01",
-          "code": "Subtopic_01_Ach_Swar_Sandhi",
+          "slug": "Ach_Swar_Sandhi",
+          "name_en": "Ach (Vowel) Sandhi Sutras",
+          "name_hi": "अच् (स्वर) संधि एवं पाणिनीय सूत्र",
+          "folder": "Subtopic_01_Ach_Swar_Sandhi",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST04_01_M01",
-              "folder": "MicroTopic_01_Dirgha_Guna_Vriddhi_Yan_Ayadi_Sutras",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST04_01_M01",
+              "slug": "Dirgha_Guna_Vriddhi_Yan_Ayadi_Sutras",
+              "name_en": "Dirgha, Guna, Vriddhi, Yan & Ayadi Sandhi Sutras",
+              "name_hi": "दीर्घ (अकः सवर्णे), गुण (आद्गुणः), वृद्धि, यण् एवं अयादि संधि",
+              "folder": "Micro_01_Dirgha_Guna_Vriddhi_Yan_Ayadi_Sutras",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST04_01_M02",
-              "folder": "MicroTopic_02_Purvarupa_Pararupa_Sandhi_Exceptions",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST04_01_M02",
+              "slug": "Purvarupa_Pararupa_Sandhi_Exceptions",
+              "name_en": "Purvarupa, Pararupa and Prakritibhava Sandhi Exceptions",
+              "name_hi": "पूर्वरूप (एङः पदान्तादति), पररूप एवं प्रकृतिभाव संधि",
+              "folder": "Micro_02_Purvarupa_Pararupa_Sandhi_Exceptions",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST04_02",
-          "code": "Subtopic_02_Hal_Vyanjan_Sandhi",
+          "slug": "Hal_Vyanjan_Sandhi",
+          "name_en": "Hal (Consonant) Sandhi Sutras",
+          "name_hi": "हल् (व्यंजन) संधि एवं प्रमुख सूत्र",
+          "folder": "Subtopic_02_Hal_Vyanjan_Sandhi",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST04_02_M01",
-              "folder": "MicroTopic_01_Schutva_Shtutva_Jashtva_Rules",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST04_02_M01",
+              "slug": "Schutva_Shtutva_Jashtva_Rules",
+              "name_en": "Schutva, Shtutva and Jashtva Sandhi Rules",
+              "name_hi": "श्चुत्व (स्तोः श्चुना श्चुः), ष्टुत्व एवं जश्त्व संधि नियम",
+              "folder": "Micro_01_Schutva_Shtutva_Jashtva_Rules",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST04_02_M02",
-              "folder": "MicroTopic_02_Charva_Anusvara_Parasavarna_Sutras",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST04_02_M02",
+              "slug": "Charva_Anusvara_Parasavarna_Sutras",
+              "name_en": "Charva, Anusvara (Mo'nusvarah) & Parasavarna Sutras",
+              "name_hi": "चर्त्व, अनुस्वार (मोऽनुस्वारः) एवं परसवर्ण संधि सूत्र",
+              "folder": "Micro_02_Charva_Anusvara_Parasavarna_Sutras",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST04_03",
-          "code": "Subtopic_03_Visarga_Sandhi",
+          "slug": "Visarga_Sandhi",
+          "name_en": "Visarga Sandhi Modifications and Elision",
+          "name_hi": "विसर्ग संधि रूपान्तरण एवं लोप",
+          "folder": "Subtopic_03_Visarga_Sandhi",
+          "order": 3,
           "micro_topics": [
             {
-              "micro_id": "ST04_03_M01",
-              "folder": "MicroTopic_01_Sattva_Utva_Rutva_Modifications",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST04_03_M01",
+              "slug": "Sattva_Utva_Rutva_Modifications",
+              "name_en": "Sattva, Utva (Ato Roraplutadaplute) & Rutva Rules",
+              "name_hi": "सत्त्व, उत्त्व (अतो रोरप्लुतादप्लुते) एवं रुत्त्व संधि",
+              "folder": "Micro_01_Sattva_Utva_Rutva_Modifications",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST04_03_M02",
-              "folder": "MicroTopic_02_Visarga_Elision_Ror_Ri_Dhralopa",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST04_03_M02",
+              "slug": "Visarga_Elision_Ror_Ri_Dhralopa",
+              "name_en": "Visarga Elision, 'Ror Ri' & 'Dhralope Purvasya Dirgho'nah'",
+              "name_hi": "विसर्ग लोप, 'रो रि' एवं 'ढ्रलोपे पूर्वस्य दीर्घोऽणः' सूत्र",
+              "folder": "Micro_02_Visarga_Elision_Ror_Ri_Dhralopa",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -311,90 +341,93 @@
     },
     {
       "id": "T05",
-      "code": "Topic_05_Samasa_Compounds_and_Vigraha_UPTET",
+      "slug": "Samasa_Compounds_and_Vigraha_UPTET",
+      "name_en": "Samasa (Compounds) and Vigraha",
       "name_hi": "समास विचार एवं विग्रह",
+      "folder": "Topic_05_Samasa_Compounds_and_Vigraha_UPTET",
+      "order": 5,
       "subtopics": [
         {
           "id": "ST05_01",
-          "code": "Subtopic_01_Samasa_Basics_Avyayibhav",
+          "slug": "Samasa_Basics_Avyayibhav",
+          "name_en": "Samasa Basics and Avyayibhav Compounds",
+          "name_hi": "समास परिचय एवं अव्ययीभाव समास",
+          "folder": "Subtopic_01_Samasa_Basics_Avyayibhav",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST05_01_M01",
-              "folder": "MicroTopic_01_Samasa_Types_Laukika_Alaukika_Vigraha",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST05_01_M01",
+              "slug": "Samasa_Types_Laukika_Alaukika_Vigraha",
+              "name_en": "Samasa Types, Laukika and Alaukika Vigraha Concepts",
+              "name_hi": "समास के 5/6 भेद, लौकिक एवं अलौकिक विग्रह",
+              "folder": "Micro_01_Samasa_Types_Laukika_Alaukika_Vigraha",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST05_01_M02",
-              "folder": "MicroTopic_02_Avyayibhav_Prefixes_Nadibhishcha_Sutra",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST05_01_M02",
+              "slug": "Avyayibhav_Prefixes_Nadibhishcha_Sutra",
+              "name_en": "Avyayibhav Prefixes and 'Nadibhishcha' Special Sutra",
+              "name_hi": "अव्ययीभाव (उप, अनु, प्रति आदि) एवं 'नदीभिश्च' विशेष सूत्र",
+              "folder": "Micro_02_Avyayibhav_Prefixes_Nadibhishcha_Sutra",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST05_02",
-          "code": "Subtopic_02_Tatpurush_Karmadharaya_Dvigu",
+          "slug": "Tatpurush_Karmadharaya_Dvigu",
+          "name_en": "Tatpurush, Karmadharaya and Dvigu Compounds",
+          "name_hi": "तत्पुरुष, कर्मधारय एवं द्विगु समास",
+          "folder": "Subtopic_02_Tatpurush_Karmadharaya_Dvigu",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST05_02_M01",
-              "folder": "MicroTopic_01_Vibhakti_Tatpurush_Upapada_Nan_Tatpurush",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST05_02_M01",
+              "slug": "Vibhakti_Tatpurush_Upapada_Nan_Tatpurush",
+              "name_en": "Vibhakti Tatpurush, Upapada and Nan-Tatpurush",
+              "name_hi": "विभक्ति तत्पुरुष (द्वितीया-सप्तमी), उपपद एवं नञ् तत्पुरुष",
+              "folder": "Micro_01_Vibhakti_Tatpurush_Upapada_Nan_Tatpurush",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST05_02_M02",
-              "folder": "MicroTopic_02_Karmadharaya_and_Sankhyapurvo_Dvigu",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST05_02_M02",
+              "slug": "Karmadharaya_and_Sankhyapurvo_Dvigu",
+              "name_en": "Karmadharaya (Visheshana-Purvapada) & Sankhyapurvo Dvigu",
+              "name_hi": "कर्मधारय (विशेषण-विशेष्य) एवं संख्यापूर्वो द्विगु समास",
+              "folder": "Micro_02_Karmadharaya_and_Sankhyapurvo_Dvigu",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST05_03",
-          "code": "Subtopic_03_Dvandva_and_Bahuvrihi",
+          "slug": "Dvandva_and_Bahuvrihi",
+          "name_en": "Dvandva and Bahuvrihi Compounds",
+          "name_hi": "द्वन्द्व एवं बहुव्रीहि समास",
+          "folder": "Subtopic_03_Dvandva_and_Bahuvrihi",
+          "order": 3,
           "micro_topics": [
             {
-              "micro_id": "ST05_03_M01",
-              "folder": "MicroTopic_01_Itaretara_Samahara_Ekashesha_Dvandva",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST05_03_M01",
+              "slug": "Itaretara_Samahara_Ekashesha_Dvandva",
+              "name_en": "Itaretara, Samahara and Ekashesha Dvandva Compounds",
+              "name_hi": "इतरेतर द्वन्द्व, समाहार द्वन्द्व एवं एकशेष द्वन्द्व",
+              "folder": "Micro_01_Itaretara_Samahara_Ekashesha_Dvandva",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST05_03_M02",
-              "folder": "MicroTopic_02_Samanadhikarana_Vyadhikarana_Bahuvrihi",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST05_03_M02",
+              "slug": "Samanadhikarana_Vyadhikarana_Bahuvrihi",
+              "name_en": "Samanadhikarana and Vyadhikarana Bahuvrihi Compounds",
+              "name_hi": "समानाधिकरण एवं व्यधिकरण बहुव्रीहि (अन्यपदप्रधान)",
+              "folder": "Micro_02_Samanadhikarana_Vyadhikarana_Bahuvrihi",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -402,90 +435,93 @@
     },
     {
       "id": "T06",
-      "code": "Topic_06_Noun_Declensions_and_Pronouns_UPTET",
+      "slug": "Noun_Declensions_and_Pronouns_UPTET",
+      "name_en": "Noun Declensions (Shabda Rupa) and Pronouns",
       "name_hi": "शब्द रूपाणि — अजन्त, हलन्त एवं सर्वनाम",
+      "folder": "Topic_06_Noun_Declensions_and_Pronouns_UPTET",
+      "order": 6,
       "subtopics": [
         {
           "id": "ST06_01",
-          "code": "Subtopic_01_Ajanta_Vowel_Endings",
+          "slug": "Ajanta_Vowel_Endings",
+          "name_en": "Ajanta (Vowel-Ending) Noun Declensions",
+          "name_hi": "अजन्त (स्वरान्त) शब्द रूपाणि",
+          "folder": "Subtopic_01_Ajanta_Vowel_Endings",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST06_01_M01",
-              "folder": "MicroTopic_01_Masculine_Rama_Hari_Guru_Pitri",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST06_01_M01",
+              "slug": "Masculine_Rama_Hari_Guru_Pitri",
+              "name_en": "Masculine Declensions (Rama, Hari, Shambhu, Guru, Pitri)",
+              "name_hi": "पुंल्लिंग शब्द रूप (राम, हरि, शम्भु, गुरु, पितृ)",
+              "folder": "Micro_01_Masculine_Rama_Hari_Guru_Pitri",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST06_01_M02",
-              "folder": "MicroTopic_02_Feminine_Neuter_Rama_Nadi_Phala_Vari_Madhu",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST06_01_M02",
+              "slug": "Feminine_Neuter_Rama_Nadi_Phala_Vari_Madhu",
+              "name_en": "Feminine and Neuter (Ramaa, Mati, Nadi, Phala, Vari, Madhu)",
+              "name_hi": "स्त्रीलिंग व नपुंसकलिंग (रमा, मति, नदी, फल, वारि, मधु)",
+              "folder": "Micro_02_Feminine_Neuter_Rama_Nadi_Phala_Vari_Madhu",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST06_02",
-          "code": "Subtopic_02_Halanta_Consonant_Endings",
+          "slug": "Halanta_Consonant_Endings",
+          "name_en": "Halanta (Consonant-Ending) Noun Declensions",
+          "name_hi": "हलन्त (व्यंजनान्त) शब्द रूपाणि",
+          "folder": "Subtopic_02_Halanta_Consonant_Endings",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST06_02_M01",
-              "folder": "MicroTopic_01_Rajan_Atman_Marut_Vidvas_Payas",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST06_02_M01",
+              "slug": "Rajan_Atman_Marut_Vidvas_Payas",
+              "name_en": "Consonant Endings (Rajan, Atman, Marut, Vidvas, Payas)",
+              "name_hi": "हलन्त रूप (राजन्, आत्मन्, मरुत्, विद्वस्, पयस्)",
+              "folder": "Micro_01_Rajan_Atman_Marut_Vidvas_Payas",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST06_02_M02",
-              "folder": "MicroTopic_02_Declension_Patterns_and_Irregularities",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST06_02_M02",
+              "slug": "Declension_Patterns_and_Irregularities",
+              "name_en": "Declension Patterns, Case Terminations and Irregularities",
+              "name_hi": "सुप् प्रत्यय (21 विभक्ति पद) एवं अनियमित शब्द रूप",
+              "folder": "Micro_02_Declension_Patterns_and_Irregularities",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST06_03",
-          "code": "Subtopic_03_Pronouns_and_Number_Words",
+          "slug": "Pronouns_and_Number_Words",
+          "name_en": "Pronouns and Numerical Declensions",
+          "name_hi": "सर्वनाम एवं संख्यावाचक शब्द रूपाणि",
+          "folder": "Subtopic_03_Pronouns_and_Number_Words",
+          "order": 3,
           "micro_topics": [
             {
-              "micro_id": "ST06_03_M01",
-              "folder": "MicroTopic_01_Asmad_Yushmad_Tad_Yad_Kim_Sarva",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST06_03_M01",
+              "slug": "Asmad_Yushmad_Tad_Yad_Kim_Sarva",
+              "name_en": "Pronouns (Asmad, Yushmad, Tad, Yad, Kim, Sarva)",
+              "name_hi": "सर्वनाम रूप (अस्मद्, युष्मद्, तद्, यद्, किम्, सर्व)",
+              "folder": "Micro_01_Asmad_Yushmad_Tad_Yad_Kim_Sarva",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST06_03_M02",
-              "folder": "MicroTopic_02_Eka_Dvi_Tri_Chatur_Declensions",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST06_03_M02",
+              "slug": "Eka_Dvi_Tri_Chatur_Declensions",
+              "name_en": "Numerical Declensions (Eka, Dvi, Tri, Chatur in 3 Genders)",
+              "name_hi": "संख्या रूप (एक, द्वि, त्रि, चतुर् के त्रिलिंगी रूप)",
+              "folder": "Micro_02_Eka_Dvi_Tri_Chatur_Declensions",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -493,62 +529,65 @@
     },
     {
       "id": "T07",
-      "code": "Topic_07_Verb_Conjugations_Five_Lakaras_UPTET",
-      "name_hi": "धातु रूपाणि — लकाराः एवं पदम्",
+      "slug": "Verb_Conjugations_Five_Lakaras_UPTET",
+      "name_en": "Verb Conjugations (Dhatu Rupa) in 5 Lakaras",
+      "name_hi": "धातु रूपाणि — पञ्च लकाराः एवं पदम्",
+      "folder": "Topic_07_Verb_Conjugations_Five_Lakaras_UPTET",
+      "order": 7,
       "subtopics": [
         {
           "id": "ST07_01",
-          "code": "Subtopic_01_Five_Major_Lakaras",
+          "slug": "Five_Major_Lakaras",
+          "name_en": "Five Major Lakaras and Conjugational Concord",
+          "name_hi": "पञ्च प्रमुख लकाराः एवं पुरुष-वचन अन्विति",
+          "folder": "Subtopic_01_Five_Major_Lakaras",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST07_01_M01",
-              "folder": "MicroTopic_01_Lat_Lot_Lang_Vidhiling_Lrit_Structures",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST07_01_M01",
+              "slug": "Lat_Lot_Lang_Vidhiling_Lrit_Structures",
+              "name_en": "Lat, Lot, Lang, Vidhiling and Lrit Lakara Structures",
+              "name_hi": "लट्, लोट्, लङ्, विधिलिङ् एवं लृट् लकार प्रत्यय संरचना",
+              "folder": "Micro_01_Lat_Lot_Lang_Vidhiling_Lrit_Structures",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST07_01_M02",
-              "folder": "MicroTopic_02_Purusha_and_Vachana_Concord_Rules",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST07_01_M02",
+              "slug": "Purusha_and_Vachana_Concord_Rules",
+              "name_en": "Purusha (Prathama, Madhyama, Uttama) & Vachana Concord",
+              "name_hi": "प्रथम, मध्यम, उत्तम पुरुष एवं एक, द्वि, बहुवचन अन्विति नियम",
+              "folder": "Micro_02_Purusha_and_Vachana_Concord_Rules",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST07_02",
-          "code": "Subtopic_02_Parasmaipada_Atmanepada_Roots",
+          "slug": "Parasmaipada_Atmanepada_Roots",
+          "name_en": "Parasmaipada and Atmanepada Roots Conjugations",
+          "name_hi": "परस्मैपद एवं आत्मनेपद प्रमुख धातु रूपाणि",
+          "folder": "Subtopic_02_Parasmaipada_Atmanepada_Roots",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST07_02_M01",
-              "folder": "MicroTopic_01_Bhu_Path_Gam_Drish_Stha_Pa_As_Kri",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST07_02_M01",
+              "slug": "Bhu_Path_Gam_Drish_Stha_Pa_As_Kri",
+              "name_en": "Parasmaipada (Bhu, Path, Gam, Drish, Stha, Pa, As, Kri)",
+              "name_hi": "परस्मैपद धातुएं (भू, पठ्, गम्, दृश्, स्था, पा, अस्, कृ)",
+              "folder": "Micro_01_Bhu_Path_Gam_Drish_Stha_Pa_As_Kri",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST07_02_M02",
-              "folder": "MicroTopic_02_Atmanepada_Roots_Sev_Labh_Conjugations",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST07_02_M02",
+              "slug": "Atmanepada_Roots_Sev_Labh_Conjugations",
+              "name_en": "Atmanepada Roots (Sev, Labh, Yach) Conjugations",
+              "name_hi": "आत्मनेपद धातुएं (सेव्, लभ्, याच्) एवं उभयपद धातुएं",
+              "folder": "Micro_02_Atmanepada_Roots_Sev_Labh_Conjugations",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -556,101 +595,102 @@
     },
     {
       "id": "T08",
-      "code": "Topic_08_Karakas_Vibhakti_Syntax_UPTET",
+      "slug": "Karakas_Vibhakti_Syntax_UPTET",
+      "name_en": "Karakas, Vibhakti and Upapada Syntax",
       "name_hi": "कारक विचार एवं उपपद विभक्तयः",
+      "folder": "Topic_08_Karakas_Vibhakti_Syntax_UPTET",
+      "order": 8,
       "subtopics": [
         {
           "id": "ST08_01",
-          "code": "Subtopic_01_Prathama_Dvitiya_Vibhakti",
+          "slug": "Prathama_Dvitiya_Vibhakti",
+          "name_en": "Prathama and Dvitiya Vibhakti Sutras",
+          "name_hi": "प्रथमा एवं द्वितीया विभक्ति सूत्र",
+          "folder": "Subtopic_01_Prathama_Dvitiya_Vibhakti",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST08_01_M01",
-              "folder": "MicroTopic_01_Karta_Karman_Pratipadika_Sutras",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_01_M01",
+              "slug": "Karta_Karman_Pratipadika_Sutras",
+              "name_en": "Karta, Pratipadikartha & Karturipsitatamam Karma Sutras",
+              "name_hi": "प्रातिपदिकार्थलिंगपरिमाणवचने प्रथमा एवं कर्तुरीप्सिततमं कर्म",
+              "folder": "Micro_01_Karta_Karman_Pratipadika_Sutras",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST08_01_M02",
-              "folder": "MicroTopic_02_Upapada_Dvitiya_Abhitah_Paritah_Prati",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_01_M02",
+              "slug": "Upapada_Dvitiya_Abhitah_Paritah_Prati",
+              "name_en": "Upapada Dvitiya: Abhitah, Paritah, Samaya, Nikasha, Prati",
+              "name_hi": "उपपद द्वितीया (अभितः, परितः, समया, निकषा, हा, प्रति योगेऽपि)",
+              "folder": "Micro_02_Upapada_Dvitiya_Abhitah_Paritah_Prati",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST08_02",
-          "code": "Subtopic_02_Tritiya_Chaturthi_Panchami",
+          "slug": "Tritiya_Chaturthi_Panchami",
+          "name_en": "Tritiya, Chaturthi and Panchami Vibhakti",
+          "name_hi": "तृतीया, चतुर्थी एवं पञ्चमी विभक्ति",
+          "folder": "Subtopic_02_Tritiya_Chaturthi_Panchami",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST08_02_M01",
-              "folder": "MicroTopic_01_Yenangavikarah_Sahayukte_Tritiya",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_02_M01",
+              "slug": "Yenangavikarah_Sahayukte_Tritiya",
+              "name_en": "Sadhakatamam Karanam, Sahayukte'pradhane & Yenangavikarah",
+              "name_hi": "साधकतमं करणम्, सहयुक्तेऽप्रधाने एवं येनाङ्गविकारः (तृतीया)",
+              "folder": "Micro_01_Yenangavikarah_Sahayukte_Tritiya",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST08_02_M02",
-              "folder": "MicroTopic_02_Ruchyarthanam_Namah_Swasti_Chaturthi",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_02_M02",
+              "slug": "Ruchyarthanam_Namah_Swasti_Chaturthi",
+              "name_en": "Karmana Yamabhipraiti Sampradanam, Ruchyarthanam, Namah",
+              "name_hi": "रुच्यर्थानां प्रीयमाणः एवं नमःस्वस्तिस्वाहास्वधावषड्लं (चतुर्थी)",
+              "folder": "Micro_02_Ruchyarthanam_Namah_Swasti_Chaturthi",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST08_02_M03",
-              "folder": "MicroTopic_03_Apadana_Bhitrarthanam_Jugupsi_Panchami",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_02_M03",
+              "slug": "Apadana_Bhitrarthanam_Jugupsi_Panchami",
+              "name_en": "Dhruvamapaye'padanam, Bhitrarthanam Bhayahetuh (Panchami)",
+              "name_hi": "ध्रुवमपायेऽपादानम् एवं भीत्रार्थानां भयहेतुः (पञ्चमी विभक्ति)",
+              "folder": "Micro_03_Apadana_Bhitrarthanam_Jugupsi_Panchami",
+              "order": 3,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST08_03",
-          "code": "Subtopic_03_Shashthi_Saptami_Vibhakti",
+          "slug": "Shashthi_Saptami_Vibhakti",
+          "name_en": "Shashthi and Saptami Vibhakti Sutras",
+          "name_hi": "षष्ठी एवं सप्तमी विभक्ति सूत्र",
+          "folder": "Subtopic_03_Shashthi_Saptami_Vibhakti",
+          "order": 3,
           "micro_topics": [
             {
-              "micro_id": "ST08_03_M01",
-              "folder": "MicroTopic_01_Shashthi_Sheshe_Yatashcha_Nirdharanam",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_03_M01",
+              "slug": "Shashthi_Sheshe_Yatashcha_Nirdharanam",
+              "name_en": "Shashthi Sheshe and Yatashcha Nirdharanam Sutras",
+              "name_hi": "षष्ठी शेषे एवं यतश्च निर्धारणम् (षष्ठी/सप्तमी उभय प्रयोग)",
+              "folder": "Micro_01_Shashthi_Sheshe_Yatashcha_Nirdharanam",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST08_03_M02",
-              "folder": "MicroTopic_02_Adharodhikaranam_Yasya_Cha_Bhavena_Saptami",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST08_03_M02",
+              "slug": "Adharodhikaranam_Yasya_Cha_Bhavena_Saptami",
+              "name_en": "Adharo'dhikaranam, Saptamyadhikarane & Yasya Cha Bhavena",
+              "name_hi": "आधारेऽधिकरणम् एवं यस्य च भावेन भावलक्षणम् (सप्तमी)",
+              "folder": "Micro_02_Adharodhikaranam_Yasya_Cha_Bhavena_Saptami",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -658,73 +698,74 @@
     },
     {
       "id": "T09",
-      "code": "Topic_09_Suffixes_Kridanta_Taddhita_Stri_UPTET",
+      "slug": "Suffixes_Kridanta_Taddhita_Stri_UPTET",
+      "name_en": "Suffixes — Kridanta, Taddhita and Stri Pratyaya",
       "name_hi": "प्रत्यय विचार — कृत्, तद्धित एवं स्त्री प्रत्ययाः",
+      "folder": "Topic_09_Suffixes_Kridanta_Taddhita_Stri_UPTET",
+      "order": 9,
       "subtopics": [
         {
           "id": "ST09_01",
-          "code": "Subtopic_01_Krit_Pratyaya_Kridanta",
+          "slug": "Krit_Pratyaya_Kridanta",
+          "name_en": "Krit Pratyaya (Kridanta Formations)",
+          "name_hi": "कृत् प्रत्ययाः (कृदन्त पद निर्माण)",
+          "folder": "Subtopic_01_Krit_Pratyaya_Kridanta",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST09_01_M01",
-              "folder": "MicroTopic_01_Ktva_Lyap_Tumun_Indeclinable_Suffixes",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST09_01_M01",
+              "slug": "Ktva_Lyap_Tumun_Indeclinable_Suffixes",
+              "name_en": "Ktva, Lyap and Tumun Indeclinable Suffixes",
+              "name_hi": "क्त्वा, ल्यप् एवं तुमुन् अव्यय प्रत्यय",
+              "folder": "Micro_01_Ktva_Lyap_Tumun_Indeclinable_Suffixes",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST09_01_M02",
-              "folder": "MicroTopic_02_Kta_Ktavatu_Shatri_Shanach_Participles",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST09_01_M02",
+              "slug": "Kta_Ktavatu_Shatri_Shanach_Participles",
+              "name_en": "Kta, Ktavatu (Nishtha), Shatri & Shanach (Sat) Participles",
+              "name_hi": "क्त, क्तवतु (निष्ठा) एवं शतृ, शानच् (सत् संज्ञा) कृदन्त",
+              "folder": "Micro_02_Kta_Ktavatu_Shatri_Shanach_Participles",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST09_01_M03",
-              "folder": "MicroTopic_03_Tavyat_Aniyar_Yat_Nyat_Potential_Suffixes",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST09_01_M03",
+              "slug": "Tavyat_Aniyar_Yat_Nyat_Potential_Suffixes",
+              "name_en": "Tavyat, Aniyar, Yat, Nyat (Kritya Potential Suffixes)",
+              "name_hi": "तव्यत्, अनीयर्, यत् एवं ण्यत् (कृत्य संज्ञक प्रत्यय)",
+              "folder": "Micro_03_Tavyat_Aniyar_Yat_Nyat_Potential_Suffixes",
+              "order": 3,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST09_02",
-          "code": "Subtopic_02_Taddhita_and_Stri_Pratyaya",
+          "slug": "Taddhita_and_Stri_Pratyaya",
+          "name_en": "Taddhita and Stri (Feminine) Affixes",
+          "name_hi": "तद्धित एवं स्त्री प्रत्ययाः",
+          "folder": "Subtopic_02_Taddhita_and_Stri_Pratyaya",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST09_02_M01",
-              "folder": "MicroTopic_01_Matup_In_Thak_Tal_Tva_Taddhita_Suffixes",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST09_02_M01",
+              "slug": "Matup_In_Thak_Tal_Tva_Taddhita_Suffixes",
+              "name_en": "Matup, Ini, Than, Thak, Tal, Tva Taddhita Suffixes",
+              "name_hi": "मतुप्, इनि, ठक्, तल्, त्व, तसिल् तद्धित प्रत्यय",
+              "folder": "Micro_01_Matup_In_Thak_Tal_Tva_Taddhita_Suffixes",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST09_02_M02",
-              "folder": "MicroTopic_02_Tap_Dheep_Dheesh_Dheen_Feminine_Affixes",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST09_02_M02",
+              "slug": "Tap_Dheep_Dheesh_Dheen_Feminine_Affixes",
+              "name_en": "Taap, Daap, Dgeep, Dgeesh, Dgeen Feminine Affixes",
+              "name_hi": "टाप्, डाप्, ङीप्, ङीष् एवं ङीन् स्त्री प्रत्यय",
+              "folder": "Micro_02_Tap_Dheep_Dheesh_Dheen_Feminine_Affixes",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -732,73 +773,74 @@
     },
     {
       "id": "T10",
-      "code": "Topic_10_Indeclinables_Prefixes_Numerals_UPTET",
+      "slug": "Indeclinables_Prefixes_Numerals_UPTET",
+      "name_en": "Indeclinables, Prefixes and Numerals (1 to 100)",
       "name_hi": "अव्ययानि, उपसर्गाः एवं संस्कृत संख्याः",
+      "folder": "Topic_10_Indeclinables_Prefixes_Numerals_UPTET",
+      "order": 10,
       "subtopics": [
         {
           "id": "ST10_01",
-          "code": "Subtopic_01_Avyaya_and_Upasarga",
+          "slug": "Avyaya_and_Upasarga",
+          "name_en": "Avyaya and 22 Upasargas",
+          "name_hi": "अव्यय पद एवं द्वाविंशति उपसर्गाः",
+          "folder": "Subtopic_01_Avyaya_and_Upasarga",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST10_01_M01",
-              "folder": "MicroTopic_01_Sadresham_Trishu_Lingeshu_Common_Avyayas",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST10_01_M01",
+              "slug": "Sadresham_Trishu_Lingeshu_Common_Avyayas",
+              "name_en": "Definition (Sadrisham Trishu Lingeshu) & Frequent Avyayas",
+              "name_hi": "सदृशं त्रिषु लिङ्गेषु... लक्षण एवं प्रमुख अव्यय (अद्य, श्वः, कुत्र, विना)",
+              "folder": "Micro_01_Sadresham_Trishu_Lingeshu_Common_Avyayas",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST10_01_M02",
-              "folder": "MicroTopic_02_TwentyTwo_Upasargas_and_Semantic_Shifts",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST10_01_M02",
+              "slug": "TwentyTwo_Upasargas_and_Semantic_Shifts",
+              "name_en": "22 Upasargas and Meaning Alterations (Dhatvartho Badhyate)",
+              "name_hi": "22 उपसर्ग एवं धातु के अर्थ में परिवर्तन (उपसर्गेण धात्वर्थो...)",
+              "folder": "Micro_02_TwentyTwo_Upasargas_and_Semantic_Shifts",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST10_02",
-          "code": "Subtopic_02_Sanskrit_Numerals_1_to_100",
+          "slug": "Sanskrit_Numerals_1_to_100",
+          "name_en": "Sanskrit Numerals (1 to 100) and Large Values",
+          "name_hi": "संस्कृत संख्यावाचक शब्दाः (1 से 100 एवं बृहत् संख्याएं)",
+          "folder": "Subtopic_02_Sanskrit_Numerals_1_to_100",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST10_02_M01",
-              "folder": "MicroTopic_01_Gender_Rules_for_Numbers_1_to_4",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST10_02_M01",
+              "slug": "Gender_Rules_for_Numbers_1_to_4",
+              "name_en": "Gender-Specific Rules for Numbers 1 to 4",
+              "name_hi": "1 से 4 तक त्रिलिंगी संख्या नियम एवं 5 से आगे नित्य बहुवचन",
+              "folder": "Micro_01_Gender_Rules_for_Numbers_1_to_4",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST10_02_M02",
-              "folder": "MicroTopic_02_Ekonatrimshat_Navatishcha_Complex_Numerals",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST10_02_M02",
+              "slug": "Ekonatrimshat_Navatishcha_Complex_Numerals",
+              "name_en": "Complex Numbers (Ekonatrimshat, Unapanchashat, Navatishcha)",
+              "name_hi": "ऊन/एकोन रूप (एकोनविंशतिः, एकोनत्रिंशत्, नवतिः आदि)",
+              "folder": "Micro_02_Ekonatrimshat_Navatishcha_Complex_Numerals",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST10_02_M03",
-              "folder": "MicroTopic_03_Shatam_Sahasram_Laksham_Kotih_Values",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST10_02_M03",
+              "slug": "Shatam_Sahasram_Laksham_Kotih_Values",
+              "name_en": "Values: Shatam, Sahasram, Ayutam, Laksham, Prayutam, Kotih",
+              "name_hi": "शतम्, सहस्रम्, अयुतम्, लक्षम्, प्रयुतम् एवं कोटिः मान",
+              "folder": "Micro_03_Shatam_Sahasram_Laksham_Kotih_Values",
+              "order": 3,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -806,62 +848,65 @@
     },
     {
       "id": "T11",
-      "code": "Topic_11_Voice_Transformation_and_Correction_UPTET",
+      "slug": "Voice_Transformation_and_Correction_UPTET",
+      "name_en": "Voice Transformation and Sentence Error Correction",
       "name_hi": "वाच्य परिवर्तनम् एवं अशुद्धि-संशोधनम्",
+      "folder": "Topic_11_Voice_Transformation_and_Correction_UPTET",
+      "order": 11,
       "subtopics": [
         {
           "id": "ST11_01",
-          "code": "Subtopic_01_Voice_Transformations",
+          "slug": "Voice_Transformations",
+          "name_en": "Voice Transformations in Sanskrit",
+          "name_hi": "वाच्य परिवर्तन नियम (कर्तृ, कर्म एवं भाववाच्य)",
+          "folder": "Subtopic_01_Voice_Transformations",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST11_01_M01",
-              "folder": "MicroTopic_01_Kartrivachya_Karmavachya_Bhavavachya_Rules",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST11_01_M01",
+              "slug": "Kartrivachya_Karmavachya_Bhavavachya_Rules",
+              "name_en": "Kartrivachya, Karmavachya & Bhavavachya Rules (1-2-1 / 3-1-1)",
+              "name_hi": "कर्तृवाच्य (1-2-1), कर्मवाच्य (3-1-1) एवं भाववाच्य (3-X-1) नियम",
+              "folder": "Micro_01_Kartrivachya_Karmavachya_Bhavavachya_Rules",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST11_01_M02",
-              "folder": "MicroTopic_02_Yak_Atmanepada_Conjugations_in_Passive",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST11_01_M02",
+              "slug": "Yak_Atmanepada_Conjugations_in_Passive",
+              "name_en": "'Yak' Pratyaya and Atmanepada Forms in Passive/Impersonal",
+              "name_hi": "कर्मवाच्य/भाववाच्य में 'यक्' प्रत्यय एवं आत्मनेपद रूप रचना",
+              "folder": "Micro_02_Yak_Atmanepada_Conjugations_in_Passive",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST11_02",
-          "code": "Subtopic_02_Sentence_Correction_Translation",
+          "slug": "Sentence_Correction_Translation",
+          "name_en": "Sentence Correction and Hindi-Sanskrit Translation",
+          "name_hi": "वाक्य अशुद्धि-संशोधन एवं हिन्दी-संस्कृत अनुवाद",
+          "folder": "Subtopic_02_Sentence_Correction_Translation",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST11_02_M01",
-              "folder": "MicroTopic_01_Concord_Number_Gender_Case_Error_Correction",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST11_02_M01",
+              "slug": "Concord_Number_Gender_Case_Error_Correction",
+              "name_en": "Subject-Verb, Gender, Number & Case Error Correction",
+              "name_hi": "कर्ता-क्रिया, लिंग, वचन एवं कारक संबंधी अशुद्धि-संशोधन",
+              "folder": "Micro_01_Concord_Number_Gender_Case_Error_Correction",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST11_02_M02",
-              "folder": "MicroTopic_02_Hindi_to_Sanskrit_Translation_Rules",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST11_02_M02",
+              "slug": "Hindi_to_Sanskrit_Translation_Rules",
+              "name_en": "Standard Rules of Hindi to Sanskrit Translation",
+              "name_hi": "हिन्दी से संस्कृत अनुवाद के मानक नियम एवं लकारों का प्रयोग",
+              "folder": "Micro_02_Hindi_to_Sanskrit_Translation_Rules",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -869,62 +914,65 @@
     },
     {
       "id": "T12",
-      "code": "Topic_12_Proverbs_Moral_Maxims_Subhashita",
+      "slug": "Proverbs_Moral_Maxims_Subhashita",
+      "name_en": "Proverbs, Moral Maxims and Celebrated Suktis",
       "name_hi": "सूक्तयः, नीतयः एवं सुभाषितानि",
+      "folder": "Topic_12_Proverbs_Moral_Maxims_Subhashita",
+      "order": 12,
       "subtopics": [
         {
           "id": "ST12_01",
-          "code": "Subtopic_01_Celebrated_Sanskrit_Suktis_UPTET",
+          "slug": "Celebrated_Sanskrit_Suktis_UPTET",
+          "name_en": "Celebrated Sanskrit Suktis and Philosophical Lines",
+          "name_hi": "प्रमुख सूक्तयः एवं सूक्ति-सन्दर्भ",
+          "folder": "Subtopic_01_Celebrated_Sanskrit_Suktis_UPTET",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST12_01_M01",
-              "folder": "MicroTopic_01_Hitam_Manohari_Durlabham_Vachah_Analysis",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST12_01_M01",
+              "slug": "Hitam_Manohari_Durlabham_Vachah_Analysis",
+              "name_en": "Analysis of 'Hitam Manohari Cha Durlabham Vachah' etc.",
+              "name_hi": "किरातार्जुनीयम्, उत्तररामचरितम् एवं रघुवंशम् की प्रमुख सूक्तियाँ",
+              "folder": "Micro_01_Hitam_Manohari_Durlabham_Vachah_Analysis",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST12_01_M02",
-              "folder": "MicroTopic_02_Satyam_Eva_Jayate_Vasudhaiva_Kutumbakam",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST12_01_M02",
+              "slug": "Satyam_Eva_Jayate_Vasudhaiva_Kutumbakam",
+              "name_en": "National and Vedic Mottos (Satyam Eva Jayate, Vasudhaiva)",
+              "name_hi": "सत्यमेव जयते, वसुधैव कुटुम्बकम्, योगः कर्मसु कौशलम् आदि आदर्श",
+              "folder": "Micro_02_Satyam_Eva_Jayate_Vasudhaiva_Kutumbakam",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST12_02",
-          "code": "Subtopic_02_Niti_Texts_and_Subhashita",
+          "slug": "Niti_Texts_and_Subhashita",
+          "name_en": "Didactic Literature: Niti Shatakam and Panchatantra",
+          "name_hi": "नीति साहित्य: नीतिशतकम् एवं पञ्चतन्त्रम्",
+          "folder": "Subtopic_02_Niti_Texts_and_Subhashita",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST12_02_M01",
-              "folder": "MicroTopic_01_Bhartrihari_Niti_Shatakam_Verses",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST12_02_M01",
+              "slug": "Bhartrihari_Niti_Shatakam_Verses",
+              "name_en": "Bhartrihari's Niti Shatakam: Vidya, Dhana, Durjana Paddhatis",
+              "name_hi": "भर्तृहरिकृत नीतिशतकम्: विद्या, धन, दुर्जन, परोपकार पद्धति",
+              "folder": "Micro_01_Bhartrihari_Niti_Shatakam_Verses",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST12_02_M02",
-              "folder": "MicroTopic_02_Panchatantra_Hitopadesha_Moral_Lessons",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST12_02_M02",
+              "slug": "Panchatantra_Hitopadesha_Moral_Lessons",
+              "name_en": "Panchatantra & Hitopadesha Moral Lessons and Verses",
+              "name_hi": "विष्णुशर्मा कृत पञ्चतन्त्रम् एवं नारायणपण्डित कृत हितोपदेश श्लोक",
+              "folder": "Micro_02_Panchatantra_Hitopadesha_Moral_Lessons",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -932,62 +980,65 @@
     },
     {
       "id": "T13",
-      "code": "Topic_13_Prosody_and_Figures_of_Speech_UPTET",
+      "slug": "Prosody_and_Figures_of_Speech_UPTET",
+      "name_en": "Prosody (Chhand) and Figures of Speech (Alankara)",
       "name_hi": "छन्दः एवं अलङ्कार परिचयः",
+      "folder": "Topic_13_Prosody_and_Figures_of_Speech_UPTET",
+      "order": 13,
       "subtopics": [
         {
           "id": "ST13_01",
-          "code": "Subtopic_01_Sanskrit_Chhand_Prosody",
+          "slug": "Sanskrit_Chhand_Prosody",
+          "name_en": "Sanskrit Metres and Prosody Rules",
+          "name_hi": "संस्कृत छन्दः परिचय एवं लक्षण",
+          "folder": "Subtopic_01_Sanskrit_Chhand_Prosody",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST13_01_M01",
-              "folder": "MicroTopic_01_Laghu_Guru_Scansion_Rules_in_Sanskrit",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST13_01_M01",
+              "slug": "Laghu_Guru_Scansion_Rules_in_Sanskrit",
+              "name_en": "Laghu, Guru Scansion Rules & 'Yamatarajabhanasalagam' Ganas",
+              "name_hi": "ह्रस्व-दीर्घ मात्रा, लघु-गुरु नियम एवं 'यमाताराजभानसलगां' गण विचार",
+              "folder": "Micro_01_Laghu_Guru_Scansion_Rules_in_Sanskrit",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST13_01_M02",
-              "folder": "MicroTopic_02_Anushtup_Indravajra_Upendravajra_Vasantatilaka",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST13_01_M02",
+              "slug": "Anushtup_Indravajra_Upendravajra_Vasantatilaka",
+              "name_en": "Anushtup, Indravajra, Upendravajra, Upajati & Vasantatilaka",
+              "name_hi": "अनुष्टुप्, इन्द्रवज्रा, उपेन्द्रवज्रा, उपजाति एवं वसन्ततिलका छन्द",
+              "folder": "Micro_02_Anushtup_Indravajra_Upendravajra_Vasantatilaka",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST13_02",
-          "code": "Subtopic_02_Sanskrit_Alankara_Poetics",
+          "slug": "Sanskrit_Alankara_Poetics",
+          "name_en": "Sanskrit Figures of Speech (Alankara)",
+          "name_hi": "संस्कृत अलङ्कार निरूपण",
+          "folder": "Subtopic_02_Sanskrit_Alankara_Poetics",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST13_02_M01",
-              "folder": "MicroTopic_01_Shabdalankara_Anuprasa_Yamaka_Shlesha",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST13_02_M01",
+              "slug": "Shabdalankara_Anuprasa_Yamaka_Shlesha",
+              "name_en": "Shabdalankara: Anuprasa (Chheka, Vritti), Yamaka, Shlesha",
+              "name_hi": "शब्दालंकार (अनुप्रास, यमक, श्लेष के लक्षण एवं उदाहरण)",
+              "folder": "Micro_01_Shabdalankara_Anuprasa_Yamaka_Shlesha",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST13_02_M02",
-              "folder": "MicroTopic_02_Arthalankara_Upama_Rupaka_Utpreksha_Atishayokti",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST13_02_M02",
+              "slug": "Arthalankara_Upama_Rupaka_Utpreksha_Atishayokti",
+              "name_en": "Arthalankara: Upama (Sadharmya), Rupaka, Utpreksha, Drishtanta",
+              "name_hi": "अर्थालंकार (उपमा, रूपक, उत्प्रेक्षा, दृष्टांत, अर्थान्तरन्यास)",
+              "folder": "Micro_02_Arthalankara_Upama_Rupaka_Utpreksha_Atishayokti",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -995,101 +1046,102 @@
     },
     {
       "id": "T14",
-      "code": "Topic_14_Sanskrit_Literature_Epics_Poets_UPTET",
-      "name_hi": "संस्कृत साहित्यम् — प्रमुख रचनाकाराः एवं कृतयः",
+      "slug": "Sanskrit_Literature_Epics_Poets_UPTET",
+      "name_en": "Sanskrit Literature — Epics, Dramas and Great Poets",
+      "name_hi": "संस्कृत साहित्यम् — महाकाव्यानि, नाटककाराः एवं रचनाकार परिचयः",
+      "folder": "Topic_14_Sanskrit_Literature_Epics_Poets_UPTET",
+      "order": 14,
       "subtopics": [
         {
           "id": "ST14_01",
-          "code": "Subtopic_01_Epics_Ramayana_Mahabharata",
+          "slug": "Epics_Ramayana_Mahabharata",
+          "name_en": "Itihasa Epics: Valmiki Ramayana and Vyasa Mahabharata",
+          "name_hi": "आदिकाव्य रामायणम् एवं महाभारतम्",
+          "folder": "Subtopic_01_Epics_Ramayana_Mahabharata",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST14_01_M01",
-              "folder": "MicroTopic_01_Valmiki_Ramayana_Adikavya_Structure",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_01_M01",
+              "slug": "Valmiki_Ramayana_Adikavya_Structure",
+              "name_en": "Valmiki Ramayana (Adikavya, 7 Kandas, 24000 Slokas)",
+              "name_hi": "वाल्मीकि रामायण (सप्त काण्ड, चतुर्विंशतिसाहस्री संहिता)",
+              "folder": "Micro_01_Valmiki_Ramayana_Adikavya_Structure",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST14_01_M02",
-              "folder": "MicroTopic_02_Vyasa_Mahabharata_Parvas_Puranas",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_01_M02",
+              "slug": "Vyasa_Mahabharata_Parvas_Puranas",
+              "name_en": "Vyasa Mahabharata (18 Parvas, Shatasahasri) & 18 Puranas",
+              "name_hi": "वेदव्यास कृत महाभारतम् (अष्टादश पर्व, शतसाहस्री संहिता) एवं पुराण",
+              "folder": "Micro_02_Vyasa_Mahabharata_Parvas_Puranas",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST14_02",
-          "code": "Subtopic_02_Kalidasa_and_Brihattrayi_Laghuttrayi",
+          "slug": "Kalidasa_and_Brihattrayi_Laghuttrayi",
+          "name_en": "Kalidasa's Oeuvre, Brihattrayi and Laghutrayi",
+          "name_hi": "कालिदास की कृतियाँ, बृहत्त्रयी एवं लघुत्रयी",
+          "folder": "Subtopic_02_Kalidasa_and_Brihattrayi_Laghuttrayi",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST14_02_M01",
-              "folder": "MicroTopic_01_Kalidasa_Seven_Masterpieces_Shakuntalam",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_02_M01",
+              "slug": "Kalidasa_Seven_Masterpieces_Shakuntalam",
+              "name_en": "Kalidasa's 7 Works: Abhijnanashakuntalam, Meghadutam etc.",
+              "name_hi": "कालिदास के 7 ग्रंथ (अभिज्ञानशाकुन्तलम्, मालविकाग्निमित्रम् आदि)",
+              "folder": "Micro_01_Kalidasa_Seven_Masterpieces_Shakuntalam",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST14_02_M02",
-              "folder": "MicroTopic_02_Brihattrayi_Kiratarjuniya_Sisupalavadha_Naishadhiyacharita",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_02_M02",
+              "slug": "Brihattrayi_Kiratarjuniya_Sisupalavadha_Naishadhiyacharita",
+              "name_en": "Brihattrayi: Kiratarjuniyam (Bharavi), Shishupala, Naishadhiya",
+              "name_hi": "बृहत्त्रयी (किरातार्जुनीयम् - भारवि, शिशुपालवधम् - माघ, नैषधीयचरितम् - श्रीहर्ष)",
+              "folder": "Micro_02_Brihattrayi_Kiratarjuniya_Sisupalavadha_Naishadhiyacharita",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST14_02_M03",
-              "folder": "MicroTopic_03_Laghutrayi_Raghuvamsham_Kumarasambhavam_Meghaduta",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_02_M03",
+              "slug": "Laghutrayi_Raghuvamsham_Kumarasambhavam_Meghaduta",
+              "name_en": "Laghutrayi: Raghuvamsham, Kumarasambhavam & Meghadutam",
+              "name_hi": "लघुत्रयी (रघुवंशम्, कुमारसंभवम् एवं मेघदूतम्)",
+              "folder": "Micro_03_Laghutrayi_Raghuvamsham_Kumarasambhavam_Meghaduta",
+              "order": 3,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST14_03",
-          "code": "Subtopic_03_Dramatists_and_Prose_Masters",
+          "slug": "Dramatists_and_Prose_Masters",
+          "name_en": "Sanskrit Dramatists and Prose Writers",
+          "name_hi": "प्रमुख नाटककार एवं गद्यकार",
+          "folder": "Subtopic_03_Dramatists_and_Prose_Masters",
+          "order": 3,
           "micro_topics": [
             {
-              "micro_id": "ST14_03_M01",
-              "folder": "MicroTopic_01_Banabhatta_Kadambari_Dandin_Subandhu",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_03_M01",
+              "slug": "Banabhatta_Kadambari_Dandin_Subandhu",
+              "name_en": "Banabhatta (Kadambari, Harshacharita), Dandin & Subandhu",
+              "name_hi": "बाणभट्ट (कादम्बरी, हर्षचरितम्), दण्डी (दशकुमारचरितम्) एवं सुबन्धु",
+              "folder": "Micro_01_Banabhatta_Kadambari_Dandin_Subandhu",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST14_03_M02",
-              "folder": "MicroTopic_02_Bhasa_Thirteen_Plays_Bhavabhuti_Shudraka",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST14_03_M02",
+              "slug": "Bhasa_Thirteen_Plays_Bhavabhuti_Shudraka",
+              "name_en": "Bhasa (13 Plays), Bhavabhuti (Uttararamacharita), Shudraka",
+              "name_hi": "भास (त्रयोदश नाटक), भवभूति (उत्तररामचरितम्), शूद्रक (मृच्छकटिकम्), विशाखदत्त",
+              "folder": "Micro_02_Bhasa_Thirteen_Plays_Bhavabhuti_Shudraka",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1097,73 +1149,74 @@
     },
     {
       "id": "T15",
-      "code": "Topic_15_Language_Learning_and_Acquisition_CTET",
-      "name_hi": "भाषाधिगमः एवं भाषाऽर्जनम्",
+      "slug": "Language_Learning_and_Acquisition_CTET",
+      "name_en": "Language Learning and Language Acquisition in Sanskrit",
+      "name_hi": "भाषाधिगमः एवं भाषाऽर्जनम् (संस्कृत शिक्षण शास्त्र)",
+      "folder": "Topic_15_Language_Learning_and_Acquisition_CTET",
+      "order": 15,
       "subtopics": [
         {
           "id": "ST15_01",
-          "code": "Subtopic_01_Acquisition_vs_Learning_Sanskrit",
+          "slug": "Acquisition_vs_Learning_Sanskrit",
+          "name_en": "Natural L1 Acquisition vs Formal L2 Learning in Sanskrit",
+          "name_hi": "सहज भाषा अर्जन बनाम औपचारिक भाषा अधिगम",
+          "folder": "Subtopic_01_Acquisition_vs_Learning_Sanskrit",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST15_01_M01",
-              "folder": "MicroTopic_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST15_01_M01",
+              "slug": "Natural_L1_Acquisition_vs_Formal_L2_Learning",
+              "name_en": "Naturalistic Sanskrit Acquisition vs Formal Instruction",
+              "name_hi": "प्राकृतिक भाषा अर्जन प्रक्रिया बनाम कक्षा-कक्षीय संस्कृत अधिगम",
+              "folder": "Micro_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST15_01_M02",
-              "folder": "MicroTopic_02_Affective_Filter_and_Contextual_Environment",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST15_01_M02",
+              "slug": "Affective_Filter_and_Contextual_Environment",
+              "name_en": "Krashen's Affective Filter & Sanskrit Speaking Environment",
+              "name_hi": "भावात्मक निस्यंदक (भय मुक्ति) एवं संस्कृत संभाषण परिवेश (संस्कृत वातावरणम्)",
+              "folder": "Micro_02_Affective_Filter_and_Contextual_Environment",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST15_02",
-          "code": "Subtopic_02_Psychological_Language_Theories",
+          "slug": "Psychological_Language_Theories",
+          "name_en": "Psycholinguistic Theories Applied to Sanskrit Learning",
+          "name_hi": "भाषा विकास के मनोवैज्ञानिक सिद्धांत",
+          "folder": "Subtopic_02_Psychological_Language_Theories",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST15_02_M01",
-              "folder": "MicroTopic_01_Chomsky_LAD_Universal_Grammar_in_Sanskrit",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST15_02_M01",
+              "slug": "Chomsky_LAD_Universal_Grammar_in_Sanskrit",
+              "name_en": "Chomsky's LAD, Universal Grammar & Inherent Language Faculty",
+              "name_hi": "चॉम्स्की का भाषा अर्जन यंत्र (LAD) एवं सार्वभौमिक व्याकरण",
+              "folder": "Micro_01_Chomsky_LAD_Universal_Grammar_in_Sanskrit",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST15_02_M02",
-              "folder": "MicroTopic_02_Skinner_Operant_Conditioning_Imitation",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST15_02_M02",
+              "slug": "Skinner_Operant_Conditioning_Imitation",
+              "name_en": "Skinner's Operant Conditioning, Imitation and Drill in Sanskrit",
+              "name_hi": "स्किनर का अनुकरण, अभ्यास एवं पुनर्बलन सिद्धांत",
+              "folder": "Micro_02_Skinner_Operant_Conditioning_Imitation",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST15_02_M03",
-              "folder": "MicroTopic_03_Vygotsky_Socio_Cultural_Private_Speech_ZPD",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST15_02_M03",
+              "slug": "Vygotsky_Socio_Cultural_Private_Speech_ZPD",
+              "name_en": "Vygotsky's Socio-Cultural Model, Scaffolding and ZPD",
+              "name_hi": "वाइगोत्स्की का सामाजिक-सांस्कृतिक सिद्धांत, ZPD एवं निजी वाक्",
+              "folder": "Micro_03_Vygotsky_Socio_Cultural_Private_Speech_ZPD",
+              "order": 3,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1171,62 +1224,65 @@
     },
     {
       "id": "T16",
-      "code": "Topic_16_Principles_and_Maxims_of_Teaching_CTET",
+      "slug": "Principles_and_Maxims_of_Teaching_CTET",
+      "name_en": "Principles and Maxims of Sanskrit Teaching",
       "name_hi": "भाषाशिक्षणस्य सिद्धान्ताः, सूत्राणि च",
+      "folder": "Topic_16_Principles_and_Maxims_of_Teaching_CTET",
+      "order": 16,
       "subtopics": [
         {
           "id": "ST16_01",
-          "code": "Subtopic_01_Pedagogical_Principles",
+          "slug": "Pedagogical_Principles",
+          "name_en": "Core Pedagogical Principles in Sanskrit Teaching",
+          "name_hi": "संस्कृत शिक्षण के आधारभूत सिद्धांत",
+          "folder": "Subtopic_01_Pedagogical_Principles",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST16_01_M01",
-              "folder": "MicroTopic_01_Naturalness_Habit_Formation_Active_Practice",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST16_01_M01",
+              "slug": "Naturalness_Habit_Formation_Active_Practice",
+              "name_en": "Principles of Naturalness (स्वाभाविकता), Habit Formation & Practice",
+              "name_hi": "स्वाभाविकतायाः सिद्धांतः, अभ्यासस्य सिद्धांतः एवं सक्रिय सहभागिता",
+              "folder": "Micro_01_Naturalness_Habit_Formation_Active_Practice",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST16_01_M02",
-              "folder": "MicroTopic_02_Interest_Motivation_Individual_Differences",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST16_01_M02",
+              "slug": "Interest_Motivation_Individual_Differences",
+              "name_en": "Principles of Interest, Motivation, Proportion & Individual Differences",
+              "name_hi": "रुचेः सिद्धांतः, प्रेरणायाः सिद्धांतः एवं वैयक्तिक-भिन्नतायाः सिद्धांतः",
+              "folder": "Micro_02_Interest_Motivation_Individual_Differences",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST16_02",
-          "code": "Subtopic_02_Pedagogical_Maxims_in_Sanskrit",
+          "slug": "Pedagogical_Maxims_in_Sanskrit",
+          "name_en": "Pedagogical Maxims (शिक्षण सूत्राणि) in Sanskrit",
+          "name_hi": "संस्कृत शिक्षण के प्रमुख सूत्र",
+          "folder": "Subtopic_02_Pedagogical_Maxims_in_Sanskrit",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST16_02_M01",
-              "folder": "MicroTopic_01_Known_to_Unknown_Simple_to_Complex_Concrete",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST16_02_M01",
+              "slug": "Known_to_Unknown_Simple_to_Complex_Concrete",
+              "name_en": "Known to Unknown, Simple to Complex, Concrete to Abstract",
+              "name_hi": "ज्ञातादज्ञातं प्रति, सरलात् कठिनं प्रति, मूर्तादमूर्तं प्रति",
+              "folder": "Micro_01_Known_to_Unknown_Simple_to_Complex_Concrete",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST16_02_M02",
-              "folder": "MicroTopic_02_Induction_to_Deduction_Whole_to_Part",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST16_02_M02",
+              "slug": "Induction_to_Deduction_Whole_to_Part",
+              "name_en": "Induction to Deduction (आगमनात् निगमनं प्रति), Whole to Part",
+              "name_hi": "आगमनात् निगमनं प्रति, पूर्णात अंशं प्रति एवं अनुभवात् तर्कं प्रति",
+              "folder": "Micro_02_Induction_to_Deduction_Whole_to_Part",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1234,62 +1290,65 @@
     },
     {
       "id": "T17",
-      "code": "Topic_17_Methods_and_Approaches_of_Teaching_Sanskrit",
+      "slug": "Methods_and_Approaches_of_Teaching_Sanskrit",
+      "name_en": "Methods and Approaches of Teaching Sanskrit",
       "name_hi": "भाषाशिक्षण पद्धतयः एवं उपागमाः",
+      "folder": "Topic_17_Methods_and_Approaches_of_Teaching_Sanskrit",
+      "order": 17,
       "subtopics": [
         {
           "id": "ST17_01",
-          "code": "Subtopic_01_Traditional_Gurukul_Bhandarkar_Methods",
+          "slug": "Traditional_Gurukul_Bhandarkar_Methods",
+          "name_en": "Traditional (Gurukul/Pathshala) & Bhandarkar Methods",
+          "name_hi": "पारंपरिक (गुरुकुल/पाठशाला) एवं भंडारकर विधि",
+          "folder": "Subtopic_01_Traditional_Gurukul_Bhandarkar_Methods",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST17_01_M01",
-              "folder": "MicroTopic_01_Gurukul_Pathshala_Rote_Oral_Tradition",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST17_01_M01",
+              "slug": "Gurukul_Pathshala_Rote_Oral_Tradition",
+              "name_en": "Gurukul/Pathshala Method, Oral Tradition, Parayana & Vad-Vivad",
+              "name_hi": "पाठशाला पद्धति, पारायण विधि, कंठस्थीकरण एवं वाद-विवाद पद्धति",
+              "folder": "Micro_01_Gurukul_Pathshala_Rote_Oral_Tradition",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST17_01_M02",
-              "folder": "MicroTopic_02_Grammar_Translation_Method_Bhandarkar_Vidhi",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST17_01_M02",
+              "slug": "Grammar_Translation_Method_Bhandarkar_Vidhi",
+              "name_en": "Grammar-Translation Method / Dr. Bhandarkar Method Analysis",
+              "name_hi": "व्याकरण-अनुवाद विधि / डॉ. रामकृष्ण गोपाल भंडारकर विधि",
+              "folder": "Micro_02_Grammar_Translation_Method_Bhandarkar_Vidhi",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST17_02",
-          "code": "Subtopic_02_Modern_Direct_Communicative_Methods",
+          "slug": "Modern_Direct_Communicative_Methods",
+          "name_en": "Modern Direct (Nirbadha) and Communicative Approaches",
+          "name_hi": "प्रत्यक्ष (निर्बाध) विधि एवं संप्रेषणात्मक उपागम",
+          "folder": "Subtopic_02_Modern_Direct_Communicative_Methods",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST17_02_M01",
-              "folder": "MicroTopic_01_Direct_Method_Nirbadha_Teaching_in_Sanskrit",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST17_02_M01",
+              "slug": "Direct_Method_Nirbadha_Teaching_in_Sanskrit",
+              "name_en": "Direct Method (निर्बाध / प्रत्यक्ष विधि): Teaching in Sanskrit Medium",
+              "name_hi": "प्रत्यक्ष विधि: संस्कृत माध्यम से संस्कृत शिक्षण (मातृभाषा वर्जन)",
+              "folder": "Micro_01_Direct_Method_Nirbadha_Teaching_in_Sanskrit",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST17_02_M02",
-              "folder": "MicroTopic_02_Communicative_Language_Teaching_CLT_Eclectic",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST17_02_M02",
+              "slug": "Communicative_Language_Teaching_CLT_Eclectic",
+              "name_en": "Communicative Language Teaching (CLT) & Eclectic Approach",
+              "name_hi": "संप्रेषणात्मक उपागम (CLT), संभाषण शिविर एवं समन्वित पद्धति",
+              "folder": "Micro_02_Communicative_Language_Teaching_CLT_Eclectic",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1297,90 +1356,93 @@
     },
     {
       "id": "T18",
-      "code": "Topic_18_Language_Skills_LSRW_Pedagogy_CTET",
-      "name_hi": "भाषाकौशलानि — श्रवणम्, भाषणम्, पठनम्, लेखनम्",
+      "slug": "Language_Skills_LSRW_Pedagogy_CTET",
+      "name_en": "Language Skills Pedagogy — Listening, Speaking, Reading, Writing",
+      "name_hi": "भाषाकौशलानि — श्रवणम्, भाषणम्, पठनम्, लेखनम् (LSRW)",
+      "folder": "Topic_18_Language_Skills_LSRW_Pedagogy_CTET",
+      "order": 18,
       "subtopics": [
         {
           "id": "ST18_01",
-          "code": "Subtopic_01_Aural_Oral_Listening_Speaking",
+          "slug": "Aural_Oral_Listening_Speaking",
+          "name_en": "Aural-Oral Skills: Listening and Speaking Pedagogy",
+          "name_hi": "श्रवण एवं भाषण कौशल शिक्षण शास्त्र",
+          "folder": "Subtopic_01_Aural_Oral_Listening_Speaking",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST18_01_M01",
-              "folder": "MicroTopic_01_Listening_Comprehension_Development_Defects",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST18_01_M01",
+              "slug": "Listening_Comprehension_Development_Defects",
+              "name_en": "Listening Comprehension Development, Audio Aids & Defects",
+              "name_hi": "श्रवण कौशल का विकास, श्रुतभावग्रहण एवं श्रवण दोष निवारण",
+              "folder": "Micro_01_Listening_Comprehension_Development_Defects",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST18_01_M02",
-              "folder": "MicroTopic_02_Speaking_Pronunciation_Recitation_Dialogues",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST18_01_M02",
+              "slug": "Speaking_Pronunciation_Recitation_Dialogues",
+              "name_en": "Oral Expression, Shloka Recitation, Pronunciation & Dialogues",
+              "name_hi": "भाषण कौशल, श्लोक सस्वर पाठ, शुद्ध उच्चारण एवं संवाद",
+              "folder": "Micro_02_Speaking_Pronunciation_Recitation_Dialogues",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST18_02",
-          "code": "Subtopic_02_Reading_Skills_and_Dyslexia",
+          "slug": "Reading_Skills_and_Dyslexia",
+          "name_en": "Reading Pedagogy (Saswara, Mauna) and Dyslexia",
+          "name_hi": "पठन कौशल (सस्वर, मौन वाचन) एवं डिस्लेक्सिया",
+          "folder": "Subtopic_02_Reading_Skills_and_Dyslexia",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST18_02_M01",
-              "folder": "MicroTopic_01_Loud_Reading_Silent_Intensive_Extensive",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST18_02_M01",
+              "slug": "Loud_Reading_Silent_Intensive_Extensive",
+              "name_en": "Saswara Pathana, Mauna Pathana, Druta & Gambhira Pathana",
+              "name_hi": "सस्वर पठन, मौन पठन, आदर्श वाचन, अनुकरण वाचन एवं द्रुत वाचन",
+              "folder": "Micro_01_Loud_Reading_Silent_Intensive_Extensive",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST18_02_M02",
-              "folder": "MicroTopic_02_Reading_Comprehension_and_Dyslexia_Remediation",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST18_02_M02",
+              "slug": "Reading_Comprehension_and_Dyslexia_Remediation",
+              "name_en": "Reading Comprehension and Remediation of Dyslexia (पठनवैकल्यम्)",
+              "name_hi": "पठन अवबोध एवं डिस्लेक्सिया (पठनवैकल्यम्) का उपचारात्मक शिक्षण",
+              "folder": "Micro_02_Reading_Comprehension_and_Dyslexia_Remediation",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST18_03",
-          "code": "Subtopic_03_Writing_Skills_and_Dysgraphia",
+          "slug": "Writing_Skills_and_Dysgraphia",
+          "name_en": "Writing Pedagogy, Mechanics and Dysgraphia",
+          "name_hi": "लेखन कौशल, वर्तनी एवं डिस्ग्राफिया",
+          "folder": "Subtopic_03_Writing_Skills_and_Dysgraphia",
+          "order": 3,
           "micro_topics": [
             {
-              "micro_id": "ST18_03_M01",
-              "folder": "MicroTopic_01_Calligraphy_Transcription_Dictation_Sulekha",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST18_03_M01",
+              "slug": "Calligraphy_Transcription_Dictation_Sulekha",
+              "name_en": "Sulekha, Anulekha, Shrutalekha (Dictation) & Mechanics",
+              "name_hi": "सुलेख, अनुलेख, श्रुतलेख एवं शिरोरेखा युक्त देवनागरी लिपि विन्यास",
+              "folder": "Micro_01_Calligraphy_Transcription_Dictation_Sulekha",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST18_03_M02",
-              "folder": "MicroTopic_02_Creative_Writing_Orthography_Dysgraphia",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST18_03_M02",
+              "slug": "Creative_Writing_Orthography_Dysgraphia",
+              "name_en": "Creative Sanskrit Composition, Orthography & Dysgraphia Remediation",
+              "name_hi": "मौलिक रचना लेखन, वर्तनी शुद्धि एवं डिस्ग्राफिया (लेखनवैकल्यम्)",
+              "folder": "Micro_02_Creative_Writing_Orthography_Dysgraphia",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1388,62 +1450,65 @@
     },
     {
       "id": "T19",
-      "code": "Topic_19_Teaching_Prose_Poetry_Grammar_Drama",
+      "slug": "Teaching_Prose_Poetry_Grammar_Drama",
+      "name_en": "Teaching of Specific Literary Genres — Prose, Poetry, Grammar, Drama",
       "name_hi": "विशिष्ट विधाशिक्षणम् — गद्य, पद्य, व्याकरण एवं नाटक शिक्षणम्",
+      "folder": "Topic_19_Teaching_Prose_Poetry_Grammar_Drama",
+      "order": 19,
       "subtopics": [
         {
           "id": "ST19_01",
-          "code": "Subtopic_01_Teaching_Prose_and_Poetry",
+          "slug": "Teaching_Prose_and_Poetry",
+          "name_en": "Pedagogy of Prose and Poetry Teaching",
+          "name_hi": "गद्य शिक्षण एवं पद्य शिक्षण पद्धतियाँ",
+          "folder": "Subtopic_01_Teaching_Prose_and_Poetry",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST19_01_M01",
-              "folder": "MicroTopic_01_Prose_Kathinya_Nivarana_Udbodhana_Methods",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST19_01_M01",
+              "slug": "Prose_Kathinya_Nivarana_Udbodhana_Methods",
+              "name_en": "Prose Teaching Steps, Kathinya Nivarana & Udbodhana Vidhis",
+              "name_hi": "गद्य शिक्षण के सोपान, काठिन्य निवारण एवं उद्बोधन विधियाँ",
+              "folder": "Micro_01_Prose_Kathinya_Nivarana_Udbodhana_Methods",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST19_01_M02",
-              "folder": "MicroTopic_02_Poetry_Dandanvaya_Khandanvaya_Rasanubhuti",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST19_01_M02",
+              "slug": "Poetry_Dandanvaya_Khandanvaya_Rasanubhuti",
+              "name_en": "Poetry Teaching: Dandanvaya, Khandanvaya & Bhashatika",
+              "name_hi": "पद्य शिक्षण: दण्डान्वय, खण्डान्वय, भाषानुवाद एवं रसानुभूति",
+              "folder": "Micro_02_Poetry_Dandanvaya_Khandanvaya_Rasanubhuti",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST19_02",
-          "code": "Subtopic_02_Teaching_Grammar_and_Drama",
+          "slug": "Teaching_Grammar_and_Drama",
+          "name_en": "Pedagogy of Grammar and Drama Teaching",
+          "name_hi": "व्याकरण शिक्षण एवं नाटक शिक्षण पद्धतियाँ",
+          "folder": "Subtopic_02_Teaching_Grammar_and_Drama",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST19_02_M01",
-              "folder": "MicroTopic_01_Grammar_Inductive_Deductive_Sutra_Method",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST19_02_M01",
+              "slug": "Grammar_Inductive_Deductive_Sutra_Method",
+              "name_en": "Grammar: Aagamana, Nigamana, Sutra & Bhashasansarga",
+              "name_hi": "व्याकरण शिक्षण: आगमन-निगमन, सूत्र विधि एवं भाषासंसर्ग विधि",
+              "folder": "Micro_01_Grammar_Inductive_Deductive_Sutra_Method",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST19_02_M02",
-              "folder": "MicroTopic_02_Drama_Classroom_Dramatization_Rangamancha",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST19_02_M02",
+              "slug": "Drama_Classroom_Dramatization_Rangamancha",
+              "name_en": "Drama: Classroom Dramatization, Adarsha Natyavidhi & Role-Play",
+              "name_hi": "नाटक शिक्षण: कक्षाभिनय, रंगमंचाभिनय एवं व्याख्या विधि",
+              "folder": "Micro_02_Drama_Classroom_Dramatization_Rangamancha",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1451,62 +1516,65 @@
     },
     {
       "id": "T20",
-      "code": "Topic_20_TLM_Textbooks_and_Multilingualism_CTET",
+      "slug": "TLM_Textbooks_and_Multilingualism_CTET",
+      "name_en": "Teaching Learning Materials, Textbooks and Multilingualism",
       "name_hi": "शिक्षण-अधिगम-सामग्री, पाठ्यपुस्तकम् एवं बहुभाषिकता",
+      "folder": "Topic_20_TLM_Textbooks_and_Multilingualism_CTET",
+      "order": 20,
       "subtopics": [
         {
           "id": "ST20_01",
-          "code": "Subtopic_01_Teaching_Learning_Materials_Sanskrit",
+          "slug": "Teaching_Learning_Materials_Sanskrit",
+          "name_en": "Visual, Audio and Digital Aids for Sanskrit",
+          "name_hi": "दृश्य, श्रव्य एवं डिजिटल शिक्षण सामग्री",
+          "folder": "Subtopic_01_Teaching_Learning_Materials_Sanskrit",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST20_01_M01",
-              "folder": "MicroTopic_01_Visual_Aids_Blackboard_Flashcards_Models",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST20_01_M01",
+              "slug": "Visual_Aids_Blackboard_Flashcards_Models",
+              "name_en": "Visual Aids: Shyamphalaka (Blackboard), Flashcards, Charts & Models",
+              "name_hi": "दृश्य उपकरण (श्यामफलक, चित्र, प्रतिकृति, फ़्लैशकार्ड, रेखाचित्र)",
+              "folder": "Micro_01_Visual_Aids_Blackboard_Flashcards_Models",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST20_01_M02",
-              "folder": "MicroTopic_02_Audio_Visual_Language_Lab_Digital_Aids",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST20_01_M02",
+              "slug": "Audio_Visual_Language_Lab_Digital_Aids",
+              "name_en": "Audio-Visual Media, Sanskrit Language Lab & DIKSHA Portal",
+              "name_hi": "श्रव्य-दृश्य सामग्री, भाषा प्रयोगशाला एवं डिजिटल संसाधन (दीक्षा, ई-पाठशाला)",
+              "folder": "Micro_02_Audio_Visual_Language_Lab_Digital_Aids",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST20_02",
-          "code": "Subtopic_02_Textbooks_and_Multilingualism",
+          "slug": "Textbooks_and_Multilingualism",
+          "name_en": "Ideal Sanskrit Textbooks and Multilingualism as a Resource",
+          "name_hi": "आदर्श पाठ्यपुस्तक एवं बहुभाषिकता एक संसाधन के रूप में",
+          "folder": "Subtopic_02_Textbooks_and_Multilingualism",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST20_02_M01",
-              "folder": "MicroTopic_01_Criteria_for_Ideal_Sanskrit_Textbooks",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST20_02_M01",
+              "slug": "Criteria_for_Ideal_Sanskrit_Textbooks",
+              "name_en": "Criteria for Ideal Sanskrit Textbooks (Internal & External)",
+              "name_hi": "आदर्श संस्कृत पाठ्यपुस्तक के आंतरिक एवं बाह्य गुण/मानदंड",
+              "folder": "Micro_01_Criteria_for_Ideal_Sanskrit_Textbooks",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST20_02_M02",
-              "folder": "MicroTopic_02_Multilingualism_as_Resource_in_Sanskrit_Class",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST20_02_M02",
+              "slug": "Multilingualism_as_Resource_in_Sanskrit_Class",
+              "name_en": "Multilingualism as a Pedagogical Resource in Sanskrit Classroom",
+              "name_hi": "संस्कृत कक्षा में बहुभाषिकता एक संसाधन (मातृभाषा का सकारात्मक अंतरण)",
+              "folder": "Micro_02_Multilingualism_as_Resource_in_Sanskrit_Class",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1514,62 +1582,65 @@
     },
     {
       "id": "T21",
-      "code": "Topic_21_Assessment_Diagnostics_Remedial_Teaching_CTET",
+      "slug": "Assessment_Diagnostics_Remedial_Teaching_CTET",
+      "name_en": "Evaluation, Diagnostic Testing and Remedial Teaching",
       "name_hi": "मूल्याङ्कनम्, निदानात्मकं परीक्षणम् एवं उपचारात्मकं शिक्षणम्",
+      "folder": "Topic_21_Assessment_Diagnostics_Remedial_Teaching_CTET",
+      "order": 21,
       "subtopics": [
         {
           "id": "ST21_01",
-          "code": "Subtopic_01_Continuous_Comprehensive_Evaluation",
+          "slug": "Continuous_Comprehensive_Evaluation",
+          "name_en": "CCE Framework, Formative Assessment and Tools",
+          "name_hi": "सतत एवं व्यापक मूल्यांकन (CCE) तथा आकलन उपकरण",
+          "folder": "Subtopic_01_Continuous_Comprehensive_Evaluation",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST21_01_M01",
-              "folder": "MicroTopic_01_Formative_Summative_Assessment_as_Learning",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST21_01_M01",
+              "slug": "Formative_Summative_Assessment_as_Learning",
+              "name_en": "Formative, Summative & Assessment AS Learning in Sanskrit",
+              "name_hi": "रचनात्मक (निर्माणात्मक), संकलनात्मक एवं सीखने के रूप में सतत आकलन",
+              "folder": "Micro_01_Formative_Summative_Assessment_as_Learning",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST21_01_M02",
-              "folder": "MicroTopic_02_Rubrics_Portfolios_Anecdotal_Records",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST21_01_M02",
+              "slug": "Rubrics_Portfolios_Anecdotal_Records",
+              "name_en": "Authentic Assessment Tools: Portfolios, Rubrics & Anecdotal Records",
+              "name_hi": "मूल्यांकन उपकरण: पोर्टफोलियो, रूब्रिक्स, जांच-सूची एवं संचयी अभिलेख",
+              "folder": "Micro_02_Rubrics_Portfolios_Anecdotal_Records",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST21_02",
-          "code": "Subtopic_02_Diagnostic_and_Remedial_Teaching",
+          "slug": "Diagnostic_and_Remedial_Teaching",
+          "name_en": "Error Analysis, Diagnostic Testing and Remedial Teaching",
+          "name_hi": "त्रुटि विश्लेषण, निदानात्मक परीक्षण एवं उपचारात्मक शिक्षण",
+          "folder": "Subtopic_02_Diagnostic_and_Remedial_Teaching",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST21_02_M01",
-              "folder": "MicroTopic_01_Error_Analysis_in_Sanskrit_Learning_Windows",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST21_02_M01",
+              "slug": "Error_Analysis_in_Sanskrit_Learning_Windows",
+              "name_en": "Error Analysis as Learning Windows in Sanskrit (अशुद्धिविश्लेषणम्)",
+              "name_hi": "संस्कृत में त्रुटियाँ सीखने की खिड़कियों के रूप में (अशुद्धि-विश्लेषण)",
+              "folder": "Micro_01_Error_Analysis_in_Sanskrit_Learning_Windows",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST21_02_M02",
-              "folder": "MicroTopic_02_Diagnostic_Testing_and_Remedial_Interventions",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST21_02_M02",
+              "slug": "Diagnostic_Testing_and_Remedial_Interventions",
+              "name_en": "Diagnostic Testing and Individual Remedial Teaching Modules",
+              "name_hi": "निदानात्मक परीक्षण (कमियों की पहचान) एवं उपचारात्मक शिक्षण का आयोजन",
+              "folder": "Micro_02_Diagnostic_Testing_and_Remedial_Interventions",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }
@@ -1577,62 +1648,65 @@
     },
     {
       "id": "T22",
-      "code": "Topic_22_Policies_NEP_2020_and_NCF_Directives",
-      "name_hi": "नीतयः, आयोगानि एवं संस्कृतभाषायाः स्थानम्",
+      "slug": "Policies_NEP_2020_and_NCF_Directives",
+      "name_en": "Education Policies, Commissions and Status of Sanskrit",
+      "name_hi": "नीतयः, आयोगानि एवं संस्कृतभाषायाः स्थानम् (NEP 2020 & NCF)",
+      "folder": "Topic_22_Policies_NEP_2020_and_NCF_Directives",
+      "order": 22,
       "subtopics": [
         {
           "id": "ST22_01",
-          "code": "Subtopic_01_Constitutional_Status_Three_Language_Formula",
+          "slug": "Constitutional_Status_Three_Language_Formula",
+          "name_en": "Constitutional Status (8th Schedule) and Three-Language Formula",
+          "name_hi": "संवैधानिक स्थिति (8वीं अनुसूची, शास्त्रीय भाषा) एवं त्रि-भाषा सूत्र",
+          "folder": "Subtopic_01_Constitutional_Status_Three_Language_Formula",
+          "order": 1,
           "micro_topics": [
             {
-              "micro_id": "ST22_01_M01",
-              "folder": "MicroTopic_01_Eighth_Schedule_Classical_Language_Status",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST22_01_M01",
+              "slug": "Eighth_Schedule_Classical_Language_Status",
+              "name_en": "8th Schedule, Classical Language (शास्त्रीय भाषा) Status & Art. 351",
+              "name_hi": "अष्टम अनुसूची, शास्त्रीय भाषा का दर्जा एवं अनुच्छेद 351 (हिन्दी-संस्कृत संवर्धन)",
+              "folder": "Micro_01_Eighth_Schedule_Classical_Language_Status",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST22_01_M02",
-              "folder": "MicroTopic_02_Three_Language_Formula_Kothari_Commission",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST22_01_M02",
+              "slug": "Three_Language_Formula_Kothari_Commission",
+              "name_en": "Three-Language Formula (त्रि-भाषा सूत्रम्) & Kothari Commission 1964-66",
+              "name_hi": "कोठारी आयोग (1964-66) एवं त्रि-भाषा सूत्र में संस्कृत का विकल्प",
+              "folder": "Micro_02_Three_Language_Formula_Kothari_Commission",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         },
         {
           "id": "ST22_02",
-          "code": "Subtopic_02_NEP_2020_and_NCF_Directives",
+          "slug": "NEP_2020_and_NCF_Directives",
+          "name_en": "NEP 2020 and NCF Directives on Sanskrit and Indian Knowledge Systems",
+          "name_hi": "राष्ट्रीय शिक्षा नीति 2020 एवं NCF में संस्कृत तथा भारतीय ज्ञान परंपरा (IKS)",
+          "folder": "Subtopic_02_NEP_2020_and_NCF_Directives",
+          "order": 2,
           "micro_topics": [
             {
-              "micro_id": "ST22_02_M01",
-              "folder": "MicroTopic_01_NEP_2020_and_Simple_Standard_Sanskrit",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST22_02_M01",
+              "slug": "NEP_2020_and_Simple_Standard_Sanskrit",
+              "name_en": "NEP 2020: Simple Standard Sanskrit (सरल-मानक-संस्कृतम्) Option",
+              "name_hi": "NEP 2020: सरल-मानक-संस्कृतम् (SSS) एवं मुख्यधारा में संस्कृत अध्ययन",
+              "folder": "Micro_01_NEP_2020_and_Simple_Standard_Sanskrit",
+              "order": 1,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             },
             {
-              "micro_id": "ST22_02_M02",
-              "folder": "MicroTopic_02_NCF_FS_NCF_SE_Panchakosha_Indian_Knowledge_Systems",
-              "assets": [
-                "Concept",
-                "Short_Notes",
-                "PYQ",
-                "MCQ",
-                "Practice"
-              ]
+              "id": "ST22_02_M02",
+              "slug": "NCF_FS_NCF_SE_Panchakosha_Indian_Knowledge_Systems",
+              "name_en": "NCF-FS, NCF-SE, Panchakosha Theory & Indian Knowledge Systems (IKS)",
+              "name_hi": "NCF-FS एवं NCF-SE: पञ्चकोश विकास तथा भारतीय ज्ञान परंपरा (IKS)",
+              "folder": "Micro_02_NCF_FS_NCF_SE_Panchakosha_Indian_Knowledge_Systems",
+              "order": 2,
+              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
             }
           ]
         }

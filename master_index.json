@@ -1,9 +1,62 @@
 {
+  "schema_version": "1.0.0",
+  "framework_version": "1.0.0",
+  "content_version": "0.1.0",
+  "taxonomy_version": "1.0.0",
   "exam": "UPTET_CTET",
   "paper": "Paper_1_and_2",
   "version": "1.0.0",
   "active_subjects_count": 6,
   "total_planned_subjects": 6,
+  "asset_types": [
+    "Concept",
+    "Short_Notes",
+    "PYQ",
+    "MCQ",
+    "Practice",
+    "Mock_Test"
+  ],
+  "mock_test_global_config": {
+    "negative_marking": false,
+    "default_pyq_ratio": 0.70,
+    "default_mcq_ratio": 0.30,
+    "marks_per_question": 1.0
+  },
+  "full_mock_test_config": {
+    "total_questions": 150,
+    "duration_minutes": 150,
+    "negative_marking": false,
+    "pyq_ratio": 0.70,
+    "mcq_ratio": 0.30,
+    "sections": [
+      {
+        "subject_id": "CDP",
+        "name_hi": "बाल विकास एवं शिक्षण शास्त्र",
+        "questions_count": 30
+      },
+      {
+        "subject_id": "HINDI",
+        "name_hi": "हिन्दी भाषा एवं शिक्षण शास्त्र",
+        "questions_count": 30
+      },
+      {
+        "subject_id": "MATH",
+        "name_hi": "गणित एवं शिक्षण शास्त्र",
+        "questions_count": 30
+      },
+      {
+        "subject_id": "EVS",
+        "name_hi": "पर्यावरण अध्ययन एवं शिक्षण शास्त्र",
+        "questions_count": 30
+      },
+      {
+        "subject_id": "LANG_2",
+        "name_hi": "द्वितीय भाषा (अंग्रेजी / संस्कृत)",
+        "questions_count": 30,
+        "selectable_subject_ids": ["ENG", "SAN"]
+      }
+    ]
+  },
   "subjects": [
     {
       "id": "CDP",

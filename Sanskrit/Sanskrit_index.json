@@ -33,15 +33,15 @@
   "mock_test_config": {
     "topic_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     },
     "subject_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     }
@@ -70,7 +70,17 @@
               "name_hi": "तथ्यात्मक, नीतिपरक एवं विवरणात्मक गद्य बोध",
               "folder": "Micro_01_Factual_Moral_Expository_Comprehension",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_01_M02",
@@ -79,7 +89,17 @@
               "name_hi": "संदर्भगत व्याकरण (संधि, समास, विभक्ति एवं प्रत्यय)",
               "folder": "Micro_02_Contextual_Grammar_Sandhi_Samasa_Vibhakti",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -98,7 +118,17 @@
               "name_hi": "काव्य भाव, अन्वय एवं सुभाषित नीतिपरक अर्थ",
               "folder": "Micro_01_Poetic_Emotion_Anvaya_Subhashita",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_02_M02",
@@ -107,7 +137,17 @@
               "name_hi": "छंद, अलंकार एवं पद-व्याख्या",
               "folder": "Micro_02_Chhand_Alankara_Word_Explanations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -136,7 +176,17 @@
               "name_hi": "14 माहेश्वर सूत्र, उत्पत्ति एवं इत्-संज्ञा (हलन्त्यम्)",
               "folder": "Micro_01_Fourteen_Maheshwar_Sutras_It_Samjna",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_01_M02",
@@ -145,7 +195,17 @@
               "name_hi": "42/43 प्रत्याहार निर्माण विधि (आदिरन्त्येन सहेता सूत्र)",
               "folder": "Micro_02_FortyTwo_Pratyahara_Construction_Rules",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -164,7 +224,17 @@
               "name_hi": "स्वर (अच्): ह्रस्व, दीर्घ एवं प्लुत स्वर (मात्रा काल)",
               "folder": "Micro_01_Swar_Ach_Hrasva_Dirgha_Pluta",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_02_M02",
@@ -173,7 +243,17 @@
               "name_hi": "व्यंजन (हल्): स्पर्श, अंतःस्थ, ऊष्म एवं अयोगवाह",
               "folder": "Micro_02_Vyanjan_Hal_Sparsha_Antastha_Ushma_Ayogavaha",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -202,7 +282,17 @@
               "name_hi": "कंठ्य, तालव्य, मूर्धन्य, दंत्य एवं ओष्ठ्य (अकुह, इचुयश आदि सूत्र)",
               "folder": "Micro_01_Kanthya_Talavya_Murdhanya_Dantya_Osthya",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_01_M02",
@@ -211,7 +301,17 @@
               "name_hi": "दंतोष्ठ्य, कंठतालव्य, कंठोष्ठ्य, नासिका एवं जिह्वामूलीय सूत्र",
               "folder": "Micro_02_Dantosthya_Nasika_Paninian_Formulae",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -230,7 +330,17 @@
               "name_hi": "पञ्च आभ्यन्तर प्रयत्न (स्पृष्ट, ईषत्स्पृष्ट, विवृत, ईषद्विवृत, संवृत)",
               "folder": "Micro_01_Five_Abhyantara_Prayatna_Sprishta_Vivrita",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_02_M02",
@@ -239,7 +349,17 @@
               "name_hi": "एकादश बाह्य प्रयत्न (विवार, संवार, घोष, अघोष, अल्पप्राण, उदात्त आदि)",
               "folder": "Micro_02_Eleven_Bahya_Prayatna_Ghosh_Pran_Swarita",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -268,7 +388,17 @@
               "name_hi": "दीर्घ (अकः सवर्णे), गुण (आद्गुणः), वृद्धि, यण् एवं अयादि संधि",
               "folder": "Micro_01_Dirgha_Guna_Vriddhi_Yan_Ayadi_Sutras",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_01_M02",
@@ -277,7 +407,17 @@
               "name_hi": "पूर्वरूप (एङः पदान्तादति), पररूप एवं प्रकृतिभाव संधि",
               "folder": "Micro_02_Purvarupa_Pararupa_Sandhi_Exceptions",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -296,7 +436,17 @@
               "name_hi": "श्चुत्व (स्तोः श्चुना श्चुः), ष्टुत्व एवं जश्त्व संधि नियम",
               "folder": "Micro_01_Schutva_Shtutva_Jashtva_Rules",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_02_M02",
@@ -305,7 +455,17 @@
               "name_hi": "चर्त्व, अनुस्वार (मोऽनुस्वारः) एवं परसवर्ण संधि सूत्र",
               "folder": "Micro_02_Charva_Anusvara_Parasavarna_Sutras",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -324,7 +484,17 @@
               "name_hi": "सत्त्व, उत्त्व (अतो रोरप्लुतादप्लुते) एवं रुत्त्व संधि",
               "folder": "Micro_01_Sattva_Utva_Rutva_Modifications",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_03_M02",
@@ -333,7 +503,17 @@
               "name_hi": "विसर्ग लोप, 'रो रि' एवं 'ढ्रलोपे पूर्वस्य दीर्घोऽणः' सूत्र",
               "folder": "Micro_02_Visarga_Elision_Ror_Ri_Dhralopa",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -362,7 +542,17 @@
               "name_hi": "समास के 5/6 भेद, लौकिक एवं अलौकिक विग्रह",
               "folder": "Micro_01_Samasa_Types_Laukika_Alaukika_Vigraha",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_01_M02",
@@ -371,7 +561,17 @@
               "name_hi": "अव्ययीभाव (उप, अनु, प्रति आदि) एवं 'नदीभिश्च' विशेष सूत्र",
               "folder": "Micro_02_Avyayibhav_Prefixes_Nadibhishcha_Sutra",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -390,7 +590,17 @@
               "name_hi": "विभक्ति तत्पुरुष (द्वितीया-सप्तमी), उपपद एवं नञ् तत्पुरुष",
               "folder": "Micro_01_Vibhakti_Tatpurush_Upapada_Nan_Tatpurush",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_02_M02",
@@ -399,7 +609,17 @@
               "name_hi": "कर्मधारय (विशेषण-विशेष्य) एवं संख्यापूर्वो द्विगु समास",
               "folder": "Micro_02_Karmadharaya_and_Sankhyapurvo_Dvigu",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -418,7 +638,17 @@
               "name_hi": "इतरेतर द्वन्द्व, समाहार द्वन्द्व एवं एकशेष द्वन्द्व",
               "folder": "Micro_01_Itaretara_Samahara_Ekashesha_Dvandva",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_03_M02",
@@ -427,7 +657,17 @@
               "name_hi": "समानाधिकरण एवं व्यधिकरण बहुव्रीहि (अन्यपदप्रधान)",
               "folder": "Micro_02_Samanadhikarana_Vyadhikarana_Bahuvrihi",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -456,7 +696,17 @@
               "name_hi": "पुंल्लिंग शब्द रूप (राम, हरि, शम्भु, गुरु, पितृ)",
               "folder": "Micro_01_Masculine_Rama_Hari_Guru_Pitri",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_01_M02",
@@ -465,7 +715,17 @@
               "name_hi": "स्त्रीलिंग व नपुंसकलिंग (रमा, मति, नदी, फल, वारि, मधु)",
               "folder": "Micro_02_Feminine_Neuter_Rama_Nadi_Phala_Vari_Madhu",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -484,7 +744,17 @@
               "name_hi": "हलन्त रूप (राजन्, आत्मन्, मरुत्, विद्वस्, पयस्)",
               "folder": "Micro_01_Rajan_Atman_Marut_Vidvas_Payas",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_02_M02",
@@ -493,7 +763,17 @@
               "name_hi": "सुप् प्रत्यय (21 विभक्ति पद) एवं अनियमित शब्द रूप",
               "folder": "Micro_02_Declension_Patterns_and_Irregularities",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -512,7 +792,17 @@
               "name_hi": "सर्वनाम रूप (अस्मद्, युष्मद्, तद्, यद्, किम्, सर्व)",
               "folder": "Micro_01_Asmad_Yushmad_Tad_Yad_Kim_Sarva",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_03_M02",
@@ -521,7 +811,17 @@
               "name_hi": "संख्या रूप (एक, द्वि, त्रि, चतुर् के त्रिलिंगी रूप)",
               "folder": "Micro_02_Eka_Dvi_Tri_Chatur_Declensions",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -550,7 +850,17 @@
               "name_hi": "लट्, लोट्, लङ्, विधिलिङ् एवं लृट् लकार प्रत्यय संरचना",
               "folder": "Micro_01_Lat_Lot_Lang_Vidhiling_Lrit_Structures",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_01_M02",
@@ -559,7 +869,17 @@
               "name_hi": "प्रथम, मध्यम, उत्तम पुरुष एवं एक, द्वि, बहुवचन अन्विति नियम",
               "folder": "Micro_02_Purusha_and_Vachana_Concord_Rules",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -578,7 +898,17 @@
               "name_hi": "परस्मैपद धातुएं (भू, पठ्, गम्, दृश्, स्था, पा, अस्, कृ)",
               "folder": "Micro_01_Bhu_Path_Gam_Drish_Stha_Pa_As_Kri",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_02_M02",
@@ -587,7 +917,17 @@
               "name_hi": "आत्मनेपद धातुएं (सेव्, लभ्, याच्) एवं उभयपद धातुएं",
               "folder": "Micro_02_Atmanepada_Roots_Sev_Labh_Conjugations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -616,7 +956,17 @@
               "name_hi": "प्रातिपदिकार्थलिंगपरिमाणवचने प्रथमा एवं कर्तुरीप्सिततमं कर्म",
               "folder": "Micro_01_Karta_Karman_Pratipadika_Sutras",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_01_M02",
@@ -625,7 +975,17 @@
               "name_hi": "उपपद द्वितीया (अभितः, परितः, समया, निकषा, हा, प्रति योगेऽपि)",
               "folder": "Micro_02_Upapada_Dvitiya_Abhitah_Paritah_Prati",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -644,7 +1004,17 @@
               "name_hi": "साधकतमं करणम्, सहयुक्तेऽप्रधाने एवं येनाङ्गविकारः (तृतीया)",
               "folder": "Micro_01_Yenangavikarah_Sahayukte_Tritiya",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_02_M02",
@@ -653,7 +1023,17 @@
               "name_hi": "रुच्यर्थानां प्रीयमाणः एवं नमःस्वस्तिस्वाहास्वधावषड्लं (चतुर्थी)",
               "folder": "Micro_02_Ruchyarthanam_Namah_Swasti_Chaturthi",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_02_M03",
@@ -662,7 +1042,17 @@
               "name_hi": "ध्रुवमपायेऽपादानम् एवं भीत्रार्थानां भयहेतुः (पञ्चमी विभक्ति)",
               "folder": "Micro_03_Apadana_Bhitrarthanam_Jugupsi_Panchami",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -681,7 +1071,17 @@
               "name_hi": "षष्ठी शेषे एवं यतश्च निर्धारणम् (षष्ठी/सप्तमी उभय प्रयोग)",
               "folder": "Micro_01_Shashthi_Sheshe_Yatashcha_Nirdharanam",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_03_M02",
@@ -690,7 +1090,17 @@
               "name_hi": "आधारेऽधिकरणम् एवं यस्य च भावेन भावलक्षणम् (सप्तमी)",
               "folder": "Micro_02_Adharodhikaranam_Yasya_Cha_Bhavena_Saptami",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -719,7 +1129,17 @@
               "name_hi": "क्त्वा, ल्यप् एवं तुमुन् अव्यय प्रत्यय",
               "folder": "Micro_01_Ktva_Lyap_Tumun_Indeclinable_Suffixes",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_01_M02",
@@ -728,7 +1148,17 @@
               "name_hi": "क्त, क्तवतु (निष्ठा) एवं शतृ, शानच् (सत् संज्ञा) कृदन्त",
               "folder": "Micro_02_Kta_Ktavatu_Shatri_Shanach_Participles",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_01_M03",
@@ -737,7 +1167,17 @@
               "name_hi": "तव्यत्, अनीयर्, यत् एवं ण्यत् (कृत्य संज्ञक प्रत्यय)",
               "folder": "Micro_03_Tavyat_Aniyar_Yat_Nyat_Potential_Suffixes",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -756,7 +1196,17 @@
               "name_hi": "मतुप्, इनि, ठक्, तल्, त्व, तसिल् तद्धित प्रत्यय",
               "folder": "Micro_01_Matup_In_Thak_Tal_Tva_Taddhita_Suffixes",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_02_M02",
@@ -765,7 +1215,17 @@
               "name_hi": "टाप्, डाप्, ङीप्, ङीष् एवं ङीन् स्त्री प्रत्यय",
               "folder": "Micro_02_Tap_Dheep_Dheesh_Dheen_Feminine_Affixes",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -794,7 +1254,17 @@
               "name_hi": "सदृशं त्रिषु लिङ्गेषु... लक्षण एवं प्रमुख अव्यय (अद्य, श्वः, कुत्र, विना)",
               "folder": "Micro_01_Sadresham_Trishu_Lingeshu_Common_Avyayas",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_01_M02",
@@ -803,7 +1273,17 @@
               "name_hi": "22 उपसर्ग एवं धातु के अर्थ में परिवर्तन (उपसर्गेण धात्वर्थो...)",
               "folder": "Micro_02_TwentyTwo_Upasargas_and_Semantic_Shifts",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -822,7 +1302,17 @@
               "name_hi": "1 से 4 तक त्रिलिंगी संख्या नियम एवं 5 से आगे नित्य बहुवचन",
               "folder": "Micro_01_Gender_Rules_for_Numbers_1_to_4",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_02_M02",
@@ -831,7 +1321,17 @@
               "name_hi": "ऊन/एकोन रूप (एकोनविंशतिः, एकोनत्रिंशत्, नवतिः आदि)",
               "folder": "Micro_02_Ekonatrimshat_Navatishcha_Complex_Numerals",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_02_M03",
@@ -840,7 +1340,17 @@
               "name_hi": "शतम्, सहस्रम्, अयुतम्, लक्षम्, प्रयुतम् एवं कोटिः मान",
               "folder": "Micro_03_Shatam_Sahasram_Laksham_Kotih_Values",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -869,7 +1379,17 @@
               "name_hi": "कर्तृवाच्य (1-2-1), कर्मवाच्य (3-1-1) एवं भाववाच्य (3-X-1) नियम",
               "folder": "Micro_01_Kartrivachya_Karmavachya_Bhavavachya_Rules",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_01_M02",
@@ -878,7 +1398,17 @@
               "name_hi": "कर्मवाच्य/भाववाच्य में 'यक्' प्रत्यय एवं आत्मनेपद रूप रचना",
               "folder": "Micro_02_Yak_Atmanepada_Conjugations_in_Passive",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -897,7 +1427,17 @@
               "name_hi": "कर्ता-क्रिया, लिंग, वचन एवं कारक संबंधी अशुद्धि-संशोधन",
               "folder": "Micro_01_Concord_Number_Gender_Case_Error_Correction",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_02_M02",
@@ -906,7 +1446,17 @@
               "name_hi": "हिन्दी से संस्कृत अनुवाद के मानक नियम एवं लकारों का प्रयोग",
               "folder": "Micro_02_Hindi_to_Sanskrit_Translation_Rules",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -935,7 +1485,17 @@
               "name_hi": "किरातार्जुनीयम्, उत्तररामचरितम् एवं रघुवंशम् की प्रमुख सूक्तियाँ",
               "folder": "Micro_01_Hitam_Manohari_Durlabham_Vachah_Analysis",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_01_M02",
@@ -944,7 +1504,17 @@
               "name_hi": "सत्यमेव जयते, वसुधैव कुटुम्बकम्, योगः कर्मसु कौशलम् आदि आदर्श",
               "folder": "Micro_02_Satyam_Eva_Jayate_Vasudhaiva_Kutumbakam",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -963,7 +1533,17 @@
               "name_hi": "भर्तृहरिकृत नीतिशतकम्: विद्या, धन, दुर्जन, परोपकार पद्धति",
               "folder": "Micro_01_Bhartrihari_Niti_Shatakam_Verses",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_02_M02",
@@ -972,7 +1552,17 @@
               "name_hi": "विष्णुशर्मा कृत पञ्चतन्त्रम् एवं नारायणपण्डित कृत हितोपदेश श्लोक",
               "folder": "Micro_02_Panchatantra_Hitopadesha_Moral_Lessons",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1001,7 +1591,17 @@
               "name_hi": "ह्रस्व-दीर्घ मात्रा, लघु-गुरु नियम एवं 'यमाताराजभानसलगां' गण विचार",
               "folder": "Micro_01_Laghu_Guru_Scansion_Rules_in_Sanskrit",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_01_M02",
@@ -1010,7 +1610,17 @@
               "name_hi": "अनुष्टुप्, इन्द्रवज्रा, उपेन्द्रवज्रा, उपजाति एवं वसन्ततिलका छन्द",
               "folder": "Micro_02_Anushtup_Indravajra_Upendravajra_Vasantatilaka",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1029,7 +1639,17 @@
               "name_hi": "शब्दालंकार (अनुप्रास, यमक, श्लेष के लक्षण एवं उदाहरण)",
               "folder": "Micro_01_Shabdalankara_Anuprasa_Yamaka_Shlesha",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_02_M02",
@@ -1038,7 +1658,17 @@
               "name_hi": "अर्थालंकार (उपमा, रूपक, उत्प्रेक्षा, दृष्टांत, अर्थान्तरन्यास)",
               "folder": "Micro_02_Arthalankara_Upama_Rupaka_Utpreksha_Atishayokti",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1067,7 +1697,17 @@
               "name_hi": "वाल्मीकि रामायण (सप्त काण्ड, चतुर्विंशतिसाहस्री संहिता)",
               "folder": "Micro_01_Valmiki_Ramayana_Adikavya_Structure",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_01_M02",
@@ -1076,7 +1716,17 @@
               "name_hi": "वेदव्यास कृत महाभारतम् (अष्टादश पर्व, शतसाहस्री संहिता) एवं पुराण",
               "folder": "Micro_02_Vyasa_Mahabharata_Parvas_Puranas",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1095,7 +1745,17 @@
               "name_hi": "कालिदास के 7 ग्रंथ (अभिज्ञानशाकुन्तलम्, मालविकाग्निमित्रम् आदि)",
               "folder": "Micro_01_Kalidasa_Seven_Masterpieces_Shakuntalam",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M02",
@@ -1104,7 +1764,17 @@
               "name_hi": "बृहत्त्रयी (किरातार्जुनीयम् - भारवि, शिशुपालवधम् - माघ, नैषधीयचरितम् - श्रीहर्ष)",
               "folder": "Micro_02_Brihattrayi_Kiratarjuniya_Sisupalavadha_Naishadhiyacharita",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M03",
@@ -1113,7 +1783,17 @@
               "name_hi": "लघुत्रयी (रघुवंशम्, कुमारसंभवम् एवं मेघदूतम्)",
               "folder": "Micro_03_Laghutrayi_Raghuvamsham_Kumarasambhavam_Meghaduta",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1132,7 +1812,17 @@
               "name_hi": "बाणभट्ट (कादम्बरी, हर्षचरितम्), दण्डी (दशकुमारचरितम्) एवं सुबन्धु",
               "folder": "Micro_01_Banabhatta_Kadambari_Dandin_Subandhu",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_03_M02",
@@ -1141,7 +1831,17 @@
               "name_hi": "भास (त्रयोदश नाटक), भवभूति (उत्तररामचरितम्), शूद्रक (मृच्छकटिकम्), विशाखदत्त",
               "folder": "Micro_02_Bhasa_Thirteen_Plays_Bhavabhuti_Shudraka",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1170,7 +1870,17 @@
               "name_hi": "प्राकृतिक भाषा अर्जन प्रक्रिया बनाम कक्षा-कक्षीय संस्कृत अधिगम",
               "folder": "Micro_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_01_M02",
@@ -1179,7 +1889,17 @@
               "name_hi": "भावात्मक निस्यंदक (भय मुक्ति) एवं संस्कृत संभाषण परिवेश (संस्कृत वातावरणम्)",
               "folder": "Micro_02_Affective_Filter_and_Contextual_Environment",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1198,7 +1918,17 @@
               "name_hi": "चॉम्स्की का भाषा अर्जन यंत्र (LAD) एवं सार्वभौमिक व्याकरण",
               "folder": "Micro_01_Chomsky_LAD_Universal_Grammar_in_Sanskrit",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_02_M02",
@@ -1207,7 +1937,17 @@
               "name_hi": "स्किनर का अनुकरण, अभ्यास एवं पुनर्बलन सिद्धांत",
               "folder": "Micro_02_Skinner_Operant_Conditioning_Imitation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_02_M03",
@@ -1216,7 +1956,17 @@
               "name_hi": "वाइगोत्स्की का सामाजिक-सांस्कृतिक सिद्धांत, ZPD एवं निजी वाक्",
               "folder": "Micro_03_Vygotsky_Socio_Cultural_Private_Speech_ZPD",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1245,7 +1995,17 @@
               "name_hi": "स्वाभाविकतायाः सिद्धांतः, अभ्यासस्य सिद्धांतः एवं सक्रिय सहभागिता",
               "folder": "Micro_01_Naturalness_Habit_Formation_Active_Practice",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_01_M02",
@@ -1254,7 +2014,17 @@
               "name_hi": "रुचेः सिद्धांतः, प्रेरणायाः सिद्धांतः एवं वैयक्तिक-भिन्नतायाः सिद्धांतः",
               "folder": "Micro_02_Interest_Motivation_Individual_Differences",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1273,7 +2043,17 @@
               "name_hi": "ज्ञातादज्ञातं प्रति, सरलात् कठिनं प्रति, मूर्तादमूर्तं प्रति",
               "folder": "Micro_01_Known_to_Unknown_Simple_to_Complex_Concrete",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_02_M02",
@@ -1282,7 +2062,17 @@
               "name_hi": "आगमनात् निगमनं प्रति, पूर्णात अंशं प्रति एवं अनुभवात् तर्कं प्रति",
               "folder": "Micro_02_Induction_to_Deduction_Whole_to_Part",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1311,7 +2101,17 @@
               "name_hi": "पाठशाला पद्धति, पारायण विधि, कंठस्थीकरण एवं वाद-विवाद पद्धति",
               "folder": "Micro_01_Gurukul_Pathshala_Rote_Oral_Tradition",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_01_M02",
@@ -1320,7 +2120,17 @@
               "name_hi": "व्याकरण-अनुवाद विधि / डॉ. रामकृष्ण गोपाल भंडारकर विधि",
               "folder": "Micro_02_Grammar_Translation_Method_Bhandarkar_Vidhi",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1339,7 +2149,17 @@
               "name_hi": "प्रत्यक्ष विधि: संस्कृत माध्यम से संस्कृत शिक्षण (मातृभाषा वर्जन)",
               "folder": "Micro_01_Direct_Method_Nirbadha_Teaching_in_Sanskrit",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_02_M02",
@@ -1348,7 +2168,17 @@
               "name_hi": "संप्रेषणात्मक उपागम (CLT), संभाषण शिविर एवं समन्वित पद्धति",
               "folder": "Micro_02_Communicative_Language_Teaching_CLT_Eclectic",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1377,7 +2207,17 @@
               "name_hi": "श्रवण कौशल का विकास, श्रुतभावग्रहण एवं श्रवण दोष निवारण",
               "folder": "Micro_01_Listening_Comprehension_Development_Defects",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_01_M02",
@@ -1386,7 +2226,17 @@
               "name_hi": "भाषण कौशल, श्लोक सस्वर पाठ, शुद्ध उच्चारण एवं संवाद",
               "folder": "Micro_02_Speaking_Pronunciation_Recitation_Dialogues",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1405,7 +2255,17 @@
               "name_hi": "सस्वर पठन, मौन पठन, आदर्श वाचन, अनुकरण वाचन एवं द्रुत वाचन",
               "folder": "Micro_01_Loud_Reading_Silent_Intensive_Extensive",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_02_M02",
@@ -1414,7 +2274,17 @@
               "name_hi": "पठन अवबोध एवं डिस्लेक्सिया (पठनवैकल्यम्) का उपचारात्मक शिक्षण",
               "folder": "Micro_02_Reading_Comprehension_and_Dyslexia_Remediation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1433,7 +2303,17 @@
               "name_hi": "सुलेख, अनुलेख, श्रुतलेख एवं शिरोरेखा युक्त देवनागरी लिपि विन्यास",
               "folder": "Micro_01_Calligraphy_Transcription_Dictation_Sulekha",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_03_M02",
@@ -1442,7 +2322,17 @@
               "name_hi": "मौलिक रचना लेखन, वर्तनी शुद्धि एवं डिस्ग्राफिया (लेखनवैकल्यम्)",
               "folder": "Micro_02_Creative_Writing_Orthography_Dysgraphia",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1471,7 +2361,17 @@
               "name_hi": "गद्य शिक्षण के सोपान, काठिन्य निवारण एवं उद्बोधन विधियाँ",
               "folder": "Micro_01_Prose_Kathinya_Nivarana_Udbodhana_Methods",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_01_M02",
@@ -1480,7 +2380,17 @@
               "name_hi": "पद्य शिक्षण: दण्डान्वय, खण्डान्वय, भाषानुवाद एवं रसानुभूति",
               "folder": "Micro_02_Poetry_Dandanvaya_Khandanvaya_Rasanubhuti",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1499,7 +2409,17 @@
               "name_hi": "व्याकरण शिक्षण: आगमन-निगमन, सूत्र विधि एवं भाषासंसर्ग विधि",
               "folder": "Micro_01_Grammar_Inductive_Deductive_Sutra_Method",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_02_M02",
@@ -1508,7 +2428,17 @@
               "name_hi": "नाटक शिक्षण: कक्षाभिनय, रंगमंचाभिनय एवं व्याख्या विधि",
               "folder": "Micro_02_Drama_Classroom_Dramatization_Rangamancha",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1537,7 +2467,17 @@
               "name_hi": "दृश्य उपकरण (श्यामफलक, चित्र, प्रतिकृति, फ़्लैशकार्ड, रेखाचित्र)",
               "folder": "Micro_01_Visual_Aids_Blackboard_Flashcards_Models",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_01_M02",
@@ -1546,7 +2486,17 @@
               "name_hi": "श्रव्य-दृश्य सामग्री, भाषा प्रयोगशाला एवं डिजिटल संसाधन (दीक्षा, ई-पाठशाला)",
               "folder": "Micro_02_Audio_Visual_Language_Lab_Digital_Aids",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1565,7 +2515,17 @@
               "name_hi": "आदर्श संस्कृत पाठ्यपुस्तक के आंतरिक एवं बाह्य गुण/मानदंड",
               "folder": "Micro_01_Criteria_for_Ideal_Sanskrit_Textbooks",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_02_M02",
@@ -1574,7 +2534,17 @@
               "name_hi": "संस्कृत कक्षा में बहुभाषिकता एक संसाधन (मातृभाषा का सकारात्मक अंतरण)",
               "folder": "Micro_02_Multilingualism_as_Resource_in_Sanskrit_Class",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1603,7 +2573,17 @@
               "name_hi": "रचनात्मक (निर्माणात्मक), संकलनात्मक एवं सीखने के रूप में सतत आकलन",
               "folder": "Micro_01_Formative_Summative_Assessment_as_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_01_M02",
@@ -1612,7 +2592,17 @@
               "name_hi": "मूल्यांकन उपकरण: पोर्टफोलियो, रूब्रिक्स, जांच-सूची एवं संचयी अभिलेख",
               "folder": "Micro_02_Rubrics_Portfolios_Anecdotal_Records",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1631,7 +2621,17 @@
               "name_hi": "संस्कृत में त्रुटियाँ सीखने की खिड़कियों के रूप में (अशुद्धि-विश्लेषण)",
               "folder": "Micro_01_Error_Analysis_in_Sanskrit_Learning_Windows",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_02_M02",
@@ -1640,7 +2640,17 @@
               "name_hi": "निदानात्मक परीक्षण (कमियों की पहचान) एवं उपचारात्मक शिक्षण का आयोजन",
               "folder": "Micro_02_Diagnostic_Testing_and_Remedial_Interventions",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1669,7 +2679,17 @@
               "name_hi": "अष्टम अनुसूची, शास्त्रीय भाषा का दर्जा एवं अनुच्छेद 351 (हिन्दी-संस्कृत संवर्धन)",
               "folder": "Micro_01_Eighth_Schedule_Classical_Language_Status",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST22_01_M02",
@@ -1678,7 +2698,17 @@
               "name_hi": "कोठारी आयोग (1964-66) एवं त्रि-भाषा सूत्र में संस्कृत का विकल्प",
               "folder": "Micro_02_Three_Language_Formula_Kothari_Commission",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1697,7 +2727,17 @@
               "name_hi": "NEP 2020: सरल-मानक-संस्कृतम् (SSS) एवं मुख्यधारा में संस्कृत अध्ययन",
               "folder": "Micro_01_NEP_2020_and_Simple_Standard_Sanskrit",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST22_02_M02",
@@ -1706,11 +2746,27 @@
               "name_hi": "NCF-FS एवं NCF-SE: पञ्चकोश विकास तथा भारतीय ज्ञान परंपरा (IKS)",
               "folder": "Micro_02_NCF_FS_NCF_SE_Panchakosha_Indian_Knowledge_Systems",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "total_mcqs": 0,
+    "total_pyqs": 0,
+    "total_questions": 0,
+    "last_synced": "2026-10-12T13:15:25.347650"
+  }
 }

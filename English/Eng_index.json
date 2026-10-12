@@ -33,15 +33,15 @@
   "mock_test_config": {
     "topic_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     },
     "subject_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     }
@@ -70,7 +70,17 @@
               "name_hi": "तथ्यात्मक, आनुमानिक एवं समग्र अवबोध",
               "folder": "Micro_01_Factual_Inferential_Global_Comprehension",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_01_M02",
@@ -79,7 +89,17 @@
               "name_hi": "संदर्भगत शब्दावली एवं संदर्भ शब्द",
               "folder": "Micro_02_Contextual_Vocabulary_Reference_Words",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -98,7 +118,17 @@
               "name_hi": "काव्य भाव, विषयवस्तु, स्वर एवं केंद्रीय विचार",
               "folder": "Micro_01_Poetic_Emotion_Theme_Tone_Central_Idea",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_02_M02",
@@ -107,7 +137,17 @@
               "name_hi": "काव्य उपकरण, तुकांत योजना एवं बिंब विधान",
               "folder": "Micro_02_Poetic_Devices_Rhyme_Scheme_Imagery",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -136,7 +176,17 @@
               "name_hi": "44 स्वनिम, एकल स्वर एवं संयुक्त स्वर",
               "folder": "Micro_01_FortyFour_Phonemes_Monophthongs_Diphthongs",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_01_M02",
@@ -145,7 +195,17 @@
               "name_hi": "24 व्यंजन ध्वनियाँ (सघोष एवं अघोष)",
               "folder": "Micro_02_TwentyFour_Consonant_Sounds_Voiced_Voiceless",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -164,7 +224,17 @@
               "name_hi": "शब्द व वाक्य बलाघात एवं अनुतान प्रतिमान",
               "folder": "Micro_01_Word_Sentence_Stress_Intonation_Patterns",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_02_M02",
@@ -173,7 +243,17 @@
               "name_hi": "मूक वर्ण, वर्तनी नियम एवं सामान्य अशुद्धियाँ",
               "folder": "Micro_02_Silent_Letters_Spelling_Rules_Errors",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -202,7 +282,17 @@
               "name_hi": "संज्ञा के प्रकार, गणनीय एवं अगणनीय संज्ञा",
               "folder": "Micro_01_Noun_Types_Countable_Uncountable",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_01_M02",
@@ -211,7 +301,17 @@
               "name_hi": "अनियमित/विदेशी बहुवचन एवं लिंग निर्धारण",
               "folder": "Micro_02_Irregular_Foreign_Plurals_Gender_Rules",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_01_M03",
@@ -220,7 +320,17 @@
               "name_hi": "कर्ता, कर्म, संबंध कारक एवं अपॉस्ट्रॉफी नियम",
               "folder": "Micro_03_Nominative_Objective_Possessive_Apostrophe_Rules",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -239,7 +349,17 @@
               "name_hi": "पुरुषवाचक सर्वनाम, क्रम एवं कारक अन्विति",
               "folder": "Micro_01_Personal_Pronouns_Order_Case_Concord",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_02_M02",
@@ -248,7 +368,17 @@
               "name_hi": "संबंधवाचक सर्वनाम एवं पूर्वपद अन्विति",
               "folder": "Micro_02_Relative_Pronouns_Antecedent_Agreement",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_02_M03",
@@ -257,7 +387,17 @@
               "name_hi": "संकेतवाचक, अनिश्चयवाचक एवं निजवाचक सर्वनाम",
               "folder": "Micro_03_Demonstrative_Indefinite_Reflexive_Pronouns",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -286,7 +426,17 @@
               "name_hi": "विशेषण प्रकार (उद्देश्य एवं विधेय विशेषण)",
               "folder": "Micro_01_Adjective_Types_Attributive_Predicative",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_01_M02",
@@ -295,7 +445,17 @@
               "name_hi": "विशेषणों का क्रम एवं कृदंत विशेषण",
               "folder": "Micro_02_Order_of_Adjectives_Participial_Adjectives",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -314,7 +474,17 @@
               "name_hi": "तुलनात्मक अवस्थाएं एवं अनियमित रूप",
               "folder": "Micro_01_Comparison_Degrees_Irregular_Forms",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_02_M02",
@@ -323,7 +493,17 @@
               "name_hi": "परिमाणवाचक निर्धारक (Few, Little, Some, Any)",
               "folder": "Micro_02_Quantifiers_Few_Little_Some_Any",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_02_M03",
@@ -332,7 +512,17 @@
               "name_hi": "उपपद (Definite, Indefinite एवं Zero Article)",
               "folder": "Micro_03_Articles_Definite_Indefinite_Zero_Article",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -361,7 +551,17 @@
               "name_hi": "सकर्मक, अकर्मक एवं संयोजक क्रियाएं",
               "folder": "Micro_01_Transitive_Intransitive_Linking_Verbs",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_01_M02",
@@ -370,7 +570,17 @@
               "name_hi": "कर्ता-क्रिया अन्विति के मानक नियम",
               "folder": "Micro_02_Subject_Verb_Agreement_Rules_Concord",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -389,7 +599,17 @@
               "name_hi": "इन्फिनिटिव एवं बेयर इन्फिनिटिव प्रयोग",
               "folder": "Micro_01_Infinitives_Bare_Infinitive_Usage",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_02_M02",
@@ -398,7 +618,17 @@
               "name_hi": "जीरंड बनाम वर्तमान कृदंत एवं डैंगलिंग संशोधक",
               "folder": "Micro_02_Gerund_vs_Present_Participle_Dangling_Modifiers",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -417,7 +647,17 @@
               "name_hi": "प्राथमिक बनाम मोडल सहायक क्रियाएं",
               "folder": "Micro_01_Primary_Auxiliaries_vs_Modal_Auxiliaries",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_03_M02",
@@ -426,7 +666,17 @@
               "name_hi": "मोडल प्रकार्य (क्षमता, बाध्यता, संभावना)",
               "folder": "Micro_02_Modal_Functions_Ability_Obligation_Probability",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -455,7 +705,17 @@
               "name_hi": "क्रियाविशेषण प्रकार (रीति, स्थान, काल, परिमाण)",
               "folder": "Micro_01_Adverb_Types_Manner_Place_Time_Degree",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_01_M02",
@@ -464,7 +724,17 @@
               "name_hi": "क्रियाविशेषण की स्थिति एवं नकारात्मक प्रतिलोमन",
               "folder": "Micro_02_Position_of_Adverbs_and_Negative_Inversion",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -483,7 +753,17 @@
               "name_hi": "काल, स्थान एवं दिशा सूचक संबंधबोधक",
               "folder": "Micro_01_Prepositions_Time_Place_Direction",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_02_M02",
@@ -492,7 +772,17 @@
               "name_hi": "क्रिया एवं विशेषण के साथ निश्चित संबंधबोधक",
               "folder": "Micro_02_Fixed_Prepositions_with_Verbs_Adjectives",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -511,7 +801,17 @@
               "name_hi": "संयोजक एवं विभाजक समुच्चयबोधक",
               "folder": "Micro_01_Coordinating_and_Subordinating_Conjunctions",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_03_M02",
@@ -520,7 +820,17 @@
               "name_hi": "सह-संबंधी समुच्चयबोधक एवं समानांतरता",
               "folder": "Micro_02_Correlative_Conjunctions_and_Parallelism",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -549,7 +859,17 @@
               "name_hi": "12 काल-पक्ष संरचनाएं एवं नियम",
               "folder": "Micro_01_Twelve_Tense_Aspect_Structures",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_01_M02",
@@ -558,7 +878,17 @@
               "name_hi": "स्थितिपरक बनाम गत्यात्मक क्रियाएं",
               "folder": "Micro_02_Stative_vs_Dynamic_Verbs_in_Aspects",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_01_M03",
@@ -567,7 +897,17 @@
               "name_hi": "मिश्र वाक्यों में काल का अनुक्रम",
               "folder": "Micro_03_Sequence_of_Tenses_in_Complex_Sentences",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -586,7 +926,17 @@
               "name_hi": "शून्य, प्रथम, द्वितीय एवं तृतीय शर्तसूचक प्रारूप",
               "folder": "Micro_01_Zero_First_Second_Third_Conditionals",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_02_M02",
@@ -595,7 +945,17 @@
               "name_hi": "मिश्रित शर्तसूचक एवं संभावनार्थक क्रिया",
               "folder": "Micro_02_Mixed_Conditionals_and_Subjunctive_Mood",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -624,7 +984,17 @@
               "name_hi": "सकर्मकता की शर्तें एवं वाच्य के मूल नियम",
               "folder": "Micro_01_Transitivity_Constraints_Voice_Basics",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_01_M02",
@@ -633,7 +1003,17 @@
               "name_hi": "समस्त कालों में वाच्य रूपांतरण",
               "folder": "Micro_02_Voice_Conversion_across_All_Tenses",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -652,7 +1032,17 @@
               "name_hi": "आज्ञार्थक वाक्यों का वाच्य रूपांतरण",
               "folder": "Micro_01_Imperative_Sentences_Voice_Rules",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_02_M02",
@@ -661,7 +1051,17 @@
               "name_hi": "प्रश्नवाचक एवं अर्ध-कर्मवाच्य संरचनाएं",
               "folder": "Micro_02_Interrogative_and_Quasi_Passive_Constructions",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -690,7 +1090,17 @@
               "name_hi": "रिपोर्टिंग वर्ब एवं काल पश्च-परिवर्तन नियम",
               "folder": "Micro_01_Reporting_Verb_Tense_Backshift_Rules",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_01_M02",
@@ -699,7 +1109,17 @@
               "name_hi": "सर्वनाम परिवर्तन एवं काल/स्थान सूचक अव्यय",
               "folder": "Micro_02_Pronoun_Changes_Adverbials_of_Time_Place",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -718,7 +1138,17 @@
               "name_hi": "कथनात्मक एवं प्रश्नवाचक वाक्यों का अप्रत्यक्ष कथन",
               "folder": "Micro_01_Assertive_and_Interrogative_Speech_Rules",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_02_M02",
@@ -727,7 +1157,17 @@
               "name_hi": "आज्ञार्थक, विस्मयादिबोधक एवं इच्छासूचक कथन",
               "folder": "Micro_02_Imperative_Exclamatory_Optative_Narration",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -756,7 +1196,17 @@
               "name_hi": "उद्देश्य, विधेय, कर्म एवं पूरक घटक",
               "folder": "Micro_01_Sentence_Components_Subject_Predicate_Objects",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_01_M02",
@@ -765,7 +1215,17 @@
               "name_hi": "वाक्य प्रकार एवं प्रश्न-पुच्छ (Question Tags)",
               "folder": "Micro_02_Declarative_Interrogative_Imperative_Question_Tags",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -784,7 +1244,17 @@
               "name_hi": "संज्ञा, विशेषण एवं क्रियाविशेषण उपवाक्य",
               "folder": "Micro_01_Noun_Adjective_Adverbial_Clauses",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_02_M02",
@@ -793,7 +1263,17 @@
               "name_hi": "सरल, संयुक्त एवं मिश्र वाक्यों का परस्पर रूपांतरण",
               "folder": "Micro_02_Simple_Compound_Complex_Transformations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -822,7 +1302,17 @@
               "name_hi": "समानार्थी, विलोम, समश्रुत भिन्नार्थक एवं समरूपी शब्द",
               "folder": "Micro_01_Synonyms_Antonyms_Homophones_Homographs",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_01_M02",
@@ -831,7 +1321,17 @@
               "name_hi": "अनेक शब्दों के लिए एक शब्द एवं संशयकारी शब्द",
               "folder": "Micro_02_One_Word_Substitutes_Confusable_Words",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -850,7 +1350,17 @@
               "name_hi": "मूल शब्द, उपसर्ग, प्रत्यय एवं शब्द निर्माण",
               "folder": "Micro_01_Roots_Prefixes_Suffixes_Word_Formation",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_02_M02",
@@ -859,7 +1369,17 @@
               "name_hi": "मुहावरे, लोकोक्तियाँ एवं वाक्यांश क्रियाएं",
               "folder": "Micro_02_Idioms_Proverbs_Separable_Phrasal_Verbs",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -888,7 +1408,17 @@
               "name_hi": "उपमा, रूपक, मानवीकरण एवं संबोधन अलंकार",
               "folder": "Micro_01_Simile_Metaphor_Personification_Apostrophe",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_01_M02",
@@ -897,7 +1427,17 @@
               "name_hi": "अतिशयोक्ति, विरोधाभास, ध्वन्यनुकरण एवं अनुप्रास",
               "folder": "Micro_02_Hyperbole_Oxymoron_Onomatopoeia_Alliteration",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -916,7 +1456,17 @@
               "name_hi": "व्यंग्य, विपर्यय, न्यूनाभास एवं श्लेष अलंकार",
               "folder": "Micro_01_Irony_Antithesis_Understatement_Pun",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_02_M02",
@@ -925,7 +1475,17 @@
               "name_hi": "पद रूप, सॉनेट, तुक एवं छंद के आधार",
               "folder": "Micro_02_Stanza_Forms_Sonnet_Rhyme_Meter_Basics",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -954,7 +1514,17 @@
               "name_hi": "सहज प्रथम भाषा अर्जन बनाम औपचारिक द्वितीय भाषा अधिगम",
               "folder": "Micro_01_Natural_L1_Acquisition_vs_Formal_L2_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_01_M02",
@@ -963,7 +1533,17 @@
               "name_hi": "भावात्मक निस्यंदक (Affective Filter) एवं परिवेशीय कारक",
               "folder": "Micro_02_Affective_Filter_and_Contextual_Variables",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -982,7 +1562,17 @@
               "name_hi": "स्टीफन क्रैशेन का मॉनिटर मॉडल एवं इनपुट परिकल्पना",
               "folder": "Micro_01_Krashen_Monitor_Model_Input_Hypothesis",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_02_M02",
@@ -991,7 +1581,17 @@
               "name_hi": "नोआम चॉम्स्की का भाषा अर्जन यंत्र (LAD) एवं सार्वभौमिक व्याकरण",
               "folder": "Micro_02_Chomsky_LAD_Universal_Grammar",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_02_M03",
@@ -1000,7 +1600,17 @@
               "name_hi": "स्किनर का व्यवहारवाद बनाम वाइगोत्स्की का सामाजिक-सांस्कृतिक सिद्धांत",
               "folder": "Micro_03_Skinner_Operant_vs_Vygotsky_Socio_Cultural",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1029,7 +1639,17 @@
               "name_hi": "आदत निर्माण, अभिप्रेरणा एवं प्राकृतिक क्रम सिद्धांत",
               "folder": "Micro_01_Habit_Formation_Motivation_Natural_Order",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_01_M02",
@@ -1038,7 +1658,17 @@
               "name_hi": "चयन एवं श्रेणीकरण के भाषाई मानदंड",
               "folder": "Micro_02_Selection_and_Gradation_Criteria",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1057,7 +1687,17 @@
               "name_hi": "ज्ञात से अज्ञात एवं मूर्त से अमूर्त की ओर",
               "folder": "Micro_01_Known_to_Unknown_Concrete_to_Abstract",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M02",
@@ -1066,7 +1706,17 @@
               "name_hi": "आगमन से निगमन एवं पूर्ण से अंश की ओर",
               "folder": "Micro_02_Induction_to_Deduction_Whole_to_Part",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1095,7 +1745,17 @@
               "name_hi": "व्याकरण अनुवाद विधि (GTM) का समीक्षात्मक अध्ययन",
               "folder": "Micro_01_Grammar_Translation_Method_GTM_Analysis",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_01_M02",
@@ -1104,7 +1764,17 @@
               "name_hi": "प्रत्यक्ष विधि (Direct Method): सिद्धांत एवं सीमाएं",
               "folder": "Micro_02_Direct_Method_Principles_and_Limitations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_01_M03",
@@ -1113,7 +1783,17 @@
               "name_hi": "डॉ. वेस्ट की वाचन विधि एवं डॉडसन की द्विभाषी विधि",
               "folder": "Micro_03_Dr_West_Method_and_Bilingual_Method_Dodson",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1132,7 +1812,17 @@
               "name_hi": "संरचनात्मक-परिस्थितिजन्य उपागम एवं प्रतिमान",
               "folder": "Micro_01_Structural_Situational_Approach_Patterns",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_02_M02",
@@ -1141,7 +1831,17 @@
               "name_hi": "संप्रेषणात्मक भाषा शिक्षण (CLT) उपागम",
               "folder": "Micro_02_Communicative_Language_Teaching_CLT",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_02_M03",
@@ -1150,7 +1850,17 @@
               "name_hi": "कार्य-आधारित भाषा शिक्षण एवं समन्वित उपागम",
               "folder": "Micro_03_Task_Based_Language_Teaching_and_Eclectic",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1179,7 +1889,17 @@
               "name_hi": "श्रवण उप-कौशल (सारांश, विशिष्ट विवरण एवं अनुमान)",
               "folder": "Micro_01_Subskills_of_Listening_Gist_Detail",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_01_M02",
@@ -1188,7 +1908,17 @@
               "name_hi": "टॉप-डाउन बनाम बॉटम-अप श्रवण प्रक्रियाएं",
               "folder": "Micro_02_TopDown_vs_BottomUp_Listening_Processes",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1207,7 +1937,17 @@
               "name_hi": "वाचन उप-कौशल (उच्चारण, शुद्धता एवं प्रवाह)",
               "folder": "Micro_01_Subskills_of_Speaking_Pronunciation_Fluency",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_02_M02",
@@ -1216,7 +1956,17 @@
               "name_hi": "मौखिक गतिविधियाँ (भूमिका निर्वहन, संवाद एवं वाद-विवाद)",
               "folder": "Micro_02_Classroom_Speaking_Tasks_Role_Play_Dialogues",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1245,7 +1995,17 @@
               "name_hi": "सस्वर बनाम मौन पठन, द्रुत बनाम गहन पठन",
               "folder": "Micro_01_Loud_vs_Silent_Extensive_vs_Intensive_Reading",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_01_M02",
@@ -1254,7 +2014,17 @@
               "name_hi": "विहंगावलोकन (Skimming), क्रमवीक्षण (Scanning) एवं डिस्लेक्सिया निदान",
               "folder": "Micro_02_Skimming_Scanning_and_Dyslexia_Remediation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1273,7 +2043,17 @@
               "name_hi": "लेखन यांत्रिकी, हस्तलेख एवं विराम-चिह्न प्रयोग",
               "folder": "Micro_01_Mechanics_of_Writing_Handwriting_Styles",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_02_M02",
@@ -1282,7 +2062,17 @@
               "name_hi": "नियंत्रित, निर्देशित, मुक्त एवं रचनात्मक लेखन",
               "folder": "Micro_02_Controlled_Guided_Free_Creative_Writing",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_02_M03",
@@ -1291,7 +2081,17 @@
               "name_hi": "लेखन का प्रक्रिया उपागम (Process Approach) एवं डिस्ग्राफिया",
               "folder": "Micro_03_Process_Approach_to_Writing_and_Dysgraphia",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1320,7 +2120,17 @@
               "name_hi": "आगमनात्मक बनाम निगमनात्मक व्याकरण शिक्षण",
               "folder": "Micro_01_Inductive_vs_Deductive_Grammar_Teaching",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_01_M02",
@@ -1329,7 +2139,17 @@
               "name_hi": "सार्थक संदर्भ में व्यावहारिक व्याकरण शिक्षण",
               "folder": "Micro_02_Teaching_Grammar_in_Meaningful_Context",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1348,7 +2168,17 @@
               "name_hi": "मातृभाषा का व्यवधान बनाम संज्ञानात्मक पाड़/मचान",
               "folder": "Micro_01_L1_Interference_vs_Cognitive_Scaffold",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_02_M02",
@@ -1357,7 +2187,17 @@
               "name_hi": "पारभाषिकता (Translanguaging) एवं भाषाई विविधता समावेशन",
               "folder": "Micro_02_Translanguaging_and_Classroom_Diversity",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1386,7 +2226,17 @@
               "name_hi": "प्रामाणिक शिक्षण सामग्री (Realia, मेनू, समय-सारणी)",
               "folder": "Micro_01_Authentic_ESL_Materials_Realia_Menus",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_01_M02",
@@ -1395,7 +2245,17 @@
               "name_hi": "आदर्श अंग्रेजी पाठ्यपुस्तक के चयन एवं मूल्यांकन मानदंड",
               "folder": "Micro_02_Criteria_for_Ideal_English_Textbook",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1414,7 +2274,17 @@
               "name_hi": "दृश्य-श्रव्य सामग्री, कठपुतली एवं फ़्लैशकार्ड",
               "folder": "Micro_01_AudioVisual_Aids_Puppets_Flashcards",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_02_M02",
@@ -1423,7 +2293,17 @@
               "name_hi": "भाषा प्रयोगशाला, दीक्षा (DIKSHA), पॉडकास्ट एवं भाषा ऐप्स",
               "folder": "Micro_02_Language_Lab_DIKSHA_Podcasts_ESL_Apps",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1452,7 +2332,17 @@
               "name_hi": "रचनात्मक, योगात्मक एवं सीखने के रूप में आकलन",
               "folder": "Micro_01_Formative_Summative_Assessment_as_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_01_M02",
@@ -1461,7 +2351,17 @@
               "name_hi": "मूल्यांकन उपकरण (रूब्रिक्स, पोर्टफोलियो, उपाख्यानात्मक अभिलेख)",
               "folder": "Micro_02_Assessment_Tools_Rubrics_Portfolios_Records",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1480,7 +2380,17 @@
               "name_hi": "भाषाई कौशलों (LSRW) में निदानात्मक परीक्षण",
               "folder": "Micro_01_Diagnostic_Testing_in_LSRW_Skills",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_02_M02",
@@ -1489,7 +2399,17 @@
               "name_hi": "त्रुटि विश्लेषण (Error Analysis) एवं विकासात्मक अवस्थाएं",
               "folder": "Micro_02_Error_Analysis_Learner_Developmental_Windows",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_02_M03",
@@ -1498,7 +2418,17 @@
               "name_hi": "व्यक्तिगत उपचारात्मक शिक्षण योजनाओं का निर्माण",
               "folder": "Micro_03_Designing_Individual_Remedial_Interventions",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1527,7 +2457,17 @@
               "name_hi": "सह-राजभाषा का दर्जा (अनुच्छेद 343 एवं राजभाषा अधिनियम)",
               "folder": "Micro_01_Associate_Official_Language_Status_Article343",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_01_M02",
@@ -1536,7 +2476,17 @@
               "name_hi": "त्रि-भाषा सूत्र (कोठारी आयोग एवं NPE 1986)",
               "folder": "Micro_02_Three_Language_Formula_Kothari_NPE1986",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1555,7 +2505,17 @@
               "name_hi": "प्राथमिक स्तर पर मातृभाषा माध्यम एवं अंग्रेजी शिक्षण (NEP 2020)",
               "folder": "Micro_01_Mother_Tongue_Primary_Instruction_NEP2020",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_02_M02",
@@ -1564,11 +2524,27 @@
               "name_hi": "NCF-FS एवं NCF-SE में बहुभाषिक दक्षता दिशा-निर्देश",
               "folder": "Micro_02_NCF_FS_and_NCF_SE_Multilingual_Competencies",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "total_mcqs": 0,
+    "total_pyqs": 0,
+    "total_questions": 0,
+    "last_synced": "2026-10-12T13:15:25.338823"
+  }
 }

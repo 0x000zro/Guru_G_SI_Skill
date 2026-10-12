@@ -33,15 +33,15 @@
   "mock_test_config": {
     "topic_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     },
     "subject_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     }
@@ -67,7 +67,17 @@
               "name_hi": "वृद्धि का अर्थ एवं स्वरूप",
               "folder": "Micro_01_Growth_Meaning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 30,
+              "pyq_count": 0,
+              "total_questions": 30
             },
             {
               "id": "T01_ST01_M02",
@@ -75,7 +85,17 @@
               "name_hi": "विकास का अर्थ एवं संकल्पना",
               "folder": "Micro_02_Development_Meaning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T01_ST01_M03",
@@ -83,7 +103,17 @@
               "name_hi": "वृद्धि बनाम विकास (तुलनात्मक अंतर)",
               "folder": "Micro_03_Growth_vs_Development",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T01_ST01_M04",
@@ -91,7 +121,17 @@
               "name_hi": "विकासात्मक परिवर्तन के प्रकार",
               "folder": "Micro_04_Developmental_Change",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -108,7 +148,17 @@
               "name_hi": "निरंतरता का सिद्धांत",
               "folder": "Micro_01_Development_Is_Continuous",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T01_ST02_M02",
@@ -116,7 +166,17 @@
               "name_hi": "क्रमबद्धता एवं दिशा का सिद्धांत",
               "folder": "Micro_02_Development_Follows_Sequence",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T01_ST02_M03",
@@ -124,7 +184,17 @@
               "name_hi": "व्यक्तिगत विभिन्नता का सिद्धांत",
               "folder": "Micro_03_Individual_Differences",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T01_ST02_M04",
@@ -132,7 +202,17 @@
               "name_hi": "सामान्य से विशिष्ट क्रियाओं का सिद्धांत",
               "folder": "Micro_04_General_to_Specific_Development",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -158,7 +238,17 @@
               "name_hi": "शैशवावस्था (Infancy)",
               "folder": "Micro_01_Infancy",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T02_ST01_M02",
@@ -166,7 +256,17 @@
               "name_hi": "प्रारंभिक बाल्यावस्था (Early Childhood)",
               "folder": "Micro_02_Early_Childhood",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T02_ST01_M03",
@@ -174,7 +274,17 @@
               "name_hi": "उत्तर / मध्य बाल्यावस्था (Middle Childhood)",
               "folder": "Micro_03_Middle_Childhood",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T02_ST01_M04",
@@ -182,7 +292,17 @@
               "name_hi": "किशोरावस्था (Adolescence)",
               "folder": "Micro_04_Adolescence",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -199,7 +319,17 @@
               "name_hi": "हैविंगहर्स्ट के विकासात्मक कार्य",
               "folder": "Micro_01_Havighurst_Developmental_Tasks",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T02_ST02_M02",
@@ -207,7 +337,17 @@
               "name_hi": "आयु-विशिष्ट विकासात्मक कार्य",
               "folder": "Micro_02_Age_Specific_Tasks",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T02_ST02_M03",
@@ -215,7 +355,17 @@
               "name_hi": "विकासात्मक तत्परता एवं परिपक्वता",
               "folder": "Micro_03_Developmental_Readiness",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -241,7 +391,17 @@
               "name_hi": "वंशानुक्रम का अर्थ एवं जैविक आधार",
               "folder": "Micro_01_Meaning_of_Heredity",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST01_M02",
@@ -249,7 +409,17 @@
               "name_hi": "मानव विकास पर जीनों का प्रभाव",
               "folder": "Micro_02_Genetic_Influence",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST01_M03",
@@ -257,7 +427,17 @@
               "name_hi": "वंशानुक्रम के नियम (मेंडल, गाल्टन)",
               "folder": "Micro_03_Laws_of_Heredity",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -274,7 +454,17 @@
               "name_hi": "वातावरण का अर्थ एवं स्वरूप",
               "folder": "Micro_01_Meaning_of_Environment",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST02_M02",
@@ -282,7 +472,17 @@
               "name_hi": "पारिवारिक परिवेश का प्रभाव",
               "folder": "Micro_02_Family_Environment",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST02_M03",
@@ -290,7 +490,17 @@
               "name_hi": "विद्यालयी वातावरण का प्रभाव",
               "folder": "Micro_03_School_Environment",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST02_M04",
@@ -298,7 +508,17 @@
               "name_hi": "सामाजिक-सांस्कृतिक वातावरण",
               "folder": "Micro_04_Social_Environment",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -315,7 +535,17 @@
               "name_hi": "प्रकृति बनाम पोषण (Nature vs Nurture) विमर्श",
               "folder": "Micro_01_Nature_Nurture_Debate",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST03_M02",
@@ -323,7 +553,17 @@
               "name_hi": "गत्यात्मक अंतःक्रिया (Dynamic Interaction)",
               "folder": "Micro_02_Interaction_of_Heredity_and_Environment",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T03_ST03_M03",
@@ -331,7 +571,17 @@
               "name_hi": "शैक्षिक निहितार्थ एवं शिक्षक की भूमिका",
               "folder": "Micro_03_Educational_Implications",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -357,7 +607,17 @@
               "name_hi": "परिवार एवं प्राथमिक समाजीकरण",
               "folder": "Micro_01_Family_and_Socialization",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST01_M02",
@@ -365,7 +625,17 @@
               "name_hi": "सपाटी समूह (Peer Group) की भूमिका",
               "folder": "Micro_02_Peer_Group",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST01_M03",
@@ -373,7 +643,17 @@
               "name_hi": "विद्यालय एवं द्वितीयक समाजीकरण",
               "folder": "Micro_03_School_and_Socialization",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST01_M04",
@@ -381,7 +661,17 @@
               "name_hi": "संस्कृति और सामाजिक मूल्य",
               "folder": "Micro_04_Culture_and_Socialization",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -398,7 +688,17 @@
               "name_hi": "माता-पिता एवं पालन-पोषण शैलियां",
               "folder": "Micro_01_Parents",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST02_M02",
@@ -406,7 +706,17 @@
               "name_hi": "शिक्षक की समाजीकरण भूमिका",
               "folder": "Micro_02_Teachers",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST02_M03",
@@ -414,7 +724,17 @@
               "name_hi": "सहपाठी संबंध एवं सामाजिक कौशल",
               "folder": "Micro_03_Peers",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST02_M04",
@@ -422,7 +742,17 @@
               "name_hi": "समुदाय एवं पड़ोस",
               "folder": "Micro_04_Community",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T04_ST02_M05",
@@ -430,7 +760,17 @@
               "name_hi": "संचार माध्यम (Mass Media) का प्रभाव",
               "folder": "Micro_05_Media",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -456,7 +796,17 @@
               "name_hi": "पियाजे के सिद्धांत की रूपरेखा",
               "folder": "Micro_01_Piaget_Theory_Overview",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST01_M02",
@@ -464,7 +814,17 @@
               "name_hi": "संवेदी-गामक अवस्था (0-2 वर्ष)",
               "folder": "Micro_02_Sensorimotor_Stage",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST01_M03",
@@ -472,7 +832,17 @@
               "name_hi": "पूर्व-संक्रियात्मक अवस्था (2-7 वर्ष)",
               "folder": "Micro_03_Preoperational_Stage",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST01_M04",
@@ -480,7 +850,17 @@
               "name_hi": "मूर्त-संक्रियात्मक अवस्था (7-11 वर्ष)",
               "folder": "Micro_04_Concrete_Operational_Stage",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST01_M05",
@@ -488,7 +868,17 @@
               "name_hi": "औपचारिक / अमूर्त संक्रियात्मक अवस्था (11+ वर्ष)",
               "folder": "Micro_05_Formal_Operational_Stage",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST01_M06",
@@ -496,7 +886,17 @@
               "name_hi": "स्कीमा, आत्मसातीकरण, समायोजन एवं साम्यधारण",
               "folder": "Micro_06_Schema_Assimilation_Accommodation",
               "order": 6,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -513,7 +913,17 @@
               "name_hi": "सामाजिक रचनावाद एवं सांस्कृतिक उपकरण",
               "folder": "Micro_01_Social_Cultural_Theory",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST02_M02",
@@ -521,7 +931,17 @@
               "name_hi": "समीपस्थ विकास क्षेत्र (ZPD)",
               "folder": "Micro_02_Zone_of_Proximal_Development",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST02_M03",
@@ -529,7 +949,17 @@
               "name_hi": "अधिक ज्ञानी अन्य (MKO)",
               "folder": "Micro_03_More_Knowledgeable_Other",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST02_M04",
@@ -537,7 +967,17 @@
               "name_hi": "पाड़ / मचान (Scaffolding)",
               "folder": "Micro_04_Scaffolding",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST02_M05",
@@ -545,7 +985,17 @@
               "name_hi": "निजी वाक् (Private Speech) एवं विचार",
               "folder": "Micro_05_Language_and_Thought",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -562,7 +1012,17 @@
               "name_hi": "अन्वेषणात्मक अधिगम (Discovery Learning)",
               "folder": "Micro_01_Discovery_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST03_M02",
@@ -570,7 +1030,17 @@
               "name_hi": "प्रस्तुतीकरण के तीन स्तर (Enactive, Iconic, Symbolic)",
               "folder": "Micro_02_Modes_of_Representation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST03_M03",
@@ -578,7 +1048,17 @@
               "name_hi": "सर्पिलाकार पाठ्यक्रम (Spiral Curriculum)",
               "folder": "Micro_03_Spiral_Curriculum",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T05_ST03_M04",
@@ -586,7 +1066,17 @@
               "name_hi": "ब्रूनर के अनुसार स्केफोल्डिंग की संकल्पना",
               "folder": "Micro_04_Scaffolding_in_Bruner",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -612,7 +1102,17 @@
               "name_hi": "कोहलबर्ग के सिद्धांत की रूपरेखा एवं पद्धति",
               "folder": "Micro_01_Kohlberg_Theory",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T06_ST01_M02",
@@ -620,7 +1120,17 @@
               "name_hi": "पूर्व-परंपरागत स्तर (चरण 1 व 2)",
               "folder": "Micro_02_Preconventional_Level",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T06_ST01_M03",
@@ -628,7 +1138,17 @@
               "name_hi": "परंपरागत स्तर (चरण 3 व 4)",
               "folder": "Micro_03_Conventional_Level",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T06_ST01_M04",
@@ -636,7 +1156,17 @@
               "name_hi": "उत्तर-परंपरागत स्तर (चरण 5 व 6)",
               "folder": "Micro_04_Postconventional_Level",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T06_ST01_M05",
@@ -644,7 +1174,17 @@
               "name_hi": "नैतिक दुविधा (Heinz Dilemma) एवं तर्कणा",
               "folder": "Micro_05_Moral_Dilemmas",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -661,7 +1201,17 @@
               "name_hi": "परतंत्र नैतिकता (Heteronomous Morality)",
               "folder": "Micro_01_Heteronomous_Morality",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T06_ST02_M02",
@@ -669,7 +1219,17 @@
               "name_hi": "स्वायत्त नैतिकता (Autonomous Morality)",
               "folder": "Micro_02_Autonomous_Morality",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T06_ST02_M03",
@@ -677,7 +1237,17 @@
               "name_hi": "नैतिक यथार्थवाद बनाम सहयोग की नैतिकता",
               "folder": "Micro_03_Moral_Reasoning",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -703,7 +1273,17 @@
               "name_hi": "एरिक्सन के सिद्धांत के मूल संप्रत्यय",
               "folder": "Micro_01_Erikson_Theory",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST01_M02",
@@ -711,7 +1291,17 @@
               "name_hi": "मनोसामाजिक विकास के 8 चरण",
               "folder": "Micro_02_Psychosocial_Stages",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST01_M03",
@@ -719,7 +1309,17 @@
               "name_hi": "विश्वास बनाम अविश्वास (Trust vs Mistrust)",
               "folder": "Micro_03_Trust_vs_Mistrust",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST01_M04",
@@ -727,7 +1327,17 @@
               "name_hi": "स्वायत्तता बनाम लज्जा/संदेह (Autonomy vs Shame)",
               "folder": "Micro_04_Autonomy_vs_Shame",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST01_M05",
@@ -735,7 +1345,17 @@
               "name_hi": "पहल बनाम अपराधबोध (Initiative vs Guilt)",
               "folder": "Micro_05_Initiative_vs_Guilt",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST01_M06",
@@ -743,7 +1363,17 @@
               "name_hi": "उद्योग बनाम हीनता (Industry vs Inferiority)",
               "folder": "Micro_06_Industry_vs_Inferiority",
               "order": 6,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST01_M07",
@@ -751,7 +1381,17 @@
               "name_hi": "पहचान बनाम भूमिका संभ्रांति (Identity vs Role Confusion)",
               "folder": "Micro_07_Identity_vs_Role_Confusion",
               "order": 7,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -768,7 +1408,17 @@
               "name_hi": "मनोविश्लेषण के आधारभूत तत्व",
               "folder": "Micro_01_Freud_Theory",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST02_M02",
@@ -776,7 +1426,17 @@
               "name_hi": "व्यक्तित्व संरचना: इड, ईगो, सुपर-ईगो",
               "folder": "Micro_02_Id_Ego_Superego",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST02_M03",
@@ -784,7 +1444,17 @@
               "name_hi": "मनोलैंगिक विकास की अवस्थाएं (Psychosexual Stages)",
               "folder": "Micro_03_Psychosexual_Stages",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T07_ST02_M04",
@@ -792,7 +1462,17 @@
               "name_hi": "मनोविश्लेषण के शैक्षिक निहितार्थ एवं रक्षा युक्तियाँ",
               "folder": "Micro_04_Educational_Implications",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -818,7 +1498,17 @@
               "name_hi": "भाषा विकास के प्रमुख चरण",
               "folder": "Micro_01_Language_Development_Stages",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T08_ST01_M02",
@@ -826,7 +1516,17 @@
               "name_hi": "भाषा अर्जन बनाम अधिगम (चॉम्स्की का LAD सिद्धांत)",
               "folder": "Micro_02_Language_Acquisition",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T08_ST01_M03",
@@ -834,7 +1534,17 @@
               "name_hi": "द्विभाषिकता (Bilingualism) एवं संज्ञानात्मक लाभ",
               "folder": "Micro_03_Bilingualism",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T08_ST01_M04",
@@ -842,7 +1552,17 @@
               "name_hi": "बहुभाषिकता एक संसाधन के रूप में",
               "folder": "Micro_04_Multilingualism",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -859,7 +1579,17 @@
               "name_hi": "भाषा एवं संज्ञान का पारस्परिक संबंध",
               "folder": "Micro_01_Language_and_Cognition",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T08_ST02_M02",
@@ -867,7 +1597,17 @@
               "name_hi": "वाइगोत्स्की का भाषा-चिंतन परिप्रेक्ष्य",
               "folder": "Micro_02_Vygotsky_Language_Thought",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T08_ST02_M03",
@@ -875,7 +1615,17 @@
               "name_hi": "पियाजे का भाषा-चिंतन परिप्रेक्ष्य",
               "folder": "Micro_03_Piaget_Language_Thought",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -901,7 +1651,17 @@
               "name_hi": "संज्ञान का अर्थ एवं मानसिक प्रक्रियाएं",
               "folder": "Micro_01_Cognitive_Processes",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST01_M02",
@@ -909,7 +1669,17 @@
               "name_hi": "अवधान / ध्यान (Attention) एवं विस्तार",
               "folder": "Micro_02_Attention",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST01_M03",
@@ -917,7 +1687,17 @@
               "name_hi": "स्मृति (कार्यकारी एवं दीर्घकालिक स्मृति)",
               "folder": "Micro_03_Memory",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST01_M04",
@@ -925,7 +1705,17 @@
               "name_hi": "प्रत्यक्षीकरण (Perception) एवं अर्थ-निर्माण",
               "folder": "Micro_04_Perception",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -942,7 +1732,17 @@
               "name_hi": "संवेग का अर्थ, प्रकृति एवं प्रकार",
               "folder": "Micro_01_Meaning_of_Emotion",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST02_M02",
@@ -950,7 +1750,17 @@
               "name_hi": "संवेगात्मक विकास के प्रतिमान",
               "folder": "Micro_02_Emotional_Development",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST02_M03",
@@ -958,7 +1768,17 @@
               "name_hi": "संवेगात्मक बुद्धि (गोलमैन का मॉडल)",
               "folder": "Micro_03_Emotional_Intelligence",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -975,7 +1795,17 @@
               "name_hi": "आंतरिक अभिप्रेरणा (Intrinsic Motivation)",
               "folder": "Micro_01_Intrinsic_Motivation",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST03_M02",
@@ -983,7 +1813,17 @@
               "name_hi": "बाह्य अभिप्रेरणा (Extrinsic Motivation)",
               "folder": "Micro_02_Extrinsic_Motivation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST03_M03",
@@ -991,7 +1831,17 @@
               "name_hi": "उपलब्धि अभिप्रेरणा एवं मैस्लो का पदानुक्रम",
               "folder": "Micro_03_Achievement_Motivation",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T09_ST03_M04",
@@ -999,7 +1849,17 @@
               "name_hi": "विद्यार्थियों को अभिप्रेरित करने में शिक्षक की रणनीतियाँ",
               "folder": "Micro_04_Teacher_Role_in_Motivation",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1025,7 +1885,17 @@
               "name_hi": "व्यक्तित्व का अर्थ एवं परिभाषाएं (ऑलपोर्ट)",
               "folder": "Micro_01_Meaning_of_Personality",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST01_M02",
@@ -1033,7 +1903,17 @@
               "name_hi": "व्यक्तित्व की विशेषताएं",
               "folder": "Micro_02_Characteristics_of_Personality",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST01_M03",
@@ -1041,7 +1921,17 @@
               "name_hi": "व्यक्तित्व के निर्धारक तत्व (जैविक एवं सामाजिक)",
               "folder": "Micro_03_Determinants_of_Personality",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1058,7 +1948,17 @@
               "name_hi": "शीलभंग सिद्धांत (ऑलपोर्ट एवं कैटेल)",
               "folder": "Micro_01_Trait_Theory",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST02_M02",
@@ -1066,7 +1966,17 @@
               "name_hi": "प्रकार सिद्धांत (युंग, क्रेशमर, शेल्डन)",
               "folder": "Micro_02_Type_Theory",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST02_M03",
@@ -1074,7 +1984,17 @@
               "name_hi": "मनोविश्लेषणात्मक दृष्टिकोण",
               "folder": "Micro_03_Psychoanalytic_View",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST02_M04",
@@ -1082,7 +2002,17 @@
               "name_hi": "मानवतावादी दृष्टिकोण (रोजर्स एवं मैस्लो)",
               "folder": "Micro_04_Humanistic_View",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1099,7 +2029,17 @@
               "name_hi": "वस्तुनिष्ठ परीक्षण (प्रश्नावली, MMPI)",
               "folder": "Micro_01_Objective_Tests",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST03_M02",
@@ -1107,7 +2047,17 @@
               "name_hi": "प्रक्षेपी विधियां (TAT, CAT, Rorschach Inkblot)",
               "folder": "Micro_02_Projective_Tests",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST03_M03",
@@ -1115,7 +2065,17 @@
               "name_hi": "अवलोकन एवं व्यवहारपरक विधियां",
               "folder": "Micro_03_Observation_Method",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T10_ST03_M04",
@@ -1123,7 +2083,17 @@
               "name_hi": "साक्षात्कार एवं व्यक्ति-इतिहास विधि",
               "folder": "Micro_04_Interview_Method",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1149,7 +2119,17 @@
               "name_hi": "बुद्धि का अर्थ एवं परिभाषाएं",
               "folder": "Micro_01_Meaning_of_Intelligence",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST01_M02",
@@ -1157,7 +2137,17 @@
               "name_hi": "बुद्धि की प्रकृति एवं विशेषताएं",
               "folder": "Micro_02_Nature_of_Intelligence",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST01_M03",
@@ -1165,7 +2155,17 @@
               "name_hi": "बुद्धि एवं अधिगम क्षमता का संबंध",
               "folder": "Micro_03_Intelligence_and_Learning",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1182,7 +2182,17 @@
               "name_hi": "स्पीयरमैन का द्विकारक सिद्धांत (G एवं S कारक)",
               "folder": "Micro_01_Spearman_Two_Factor_Theory",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST02_M02",
@@ -1190,7 +2200,17 @@
               "name_hi": "थर्स्टन का प्राथमिक मानसिक योग्यता (PMA) सिद्धांत",
               "folder": "Micro_02_Thurstone_Primary_Mental_Abilities",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST02_M03",
@@ -1198,7 +2218,17 @@
               "name_hi": "गिलफोर्ड का त्रिविमीय बुद्धि मॉडल (SOI)",
               "folder": "Micro_03_Guilford_Structure_of_Intellect",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST02_M04",
@@ -1206,7 +2236,17 @@
               "name_hi": "गार्डनर का बहुबुद्धि सिद्धांत (Multiple Intelligences)",
               "folder": "Micro_04_Gardner_Multiple_Intelligences",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST02_M05",
@@ -1214,7 +2254,17 @@
               "name_hi": "स्टर्नबर्ग का त्रितंत्रीय सिद्धांत (Triarchic Theory)",
               "folder": "Micro_05_Sternberg_Triarchic_Theory",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1231,7 +2281,17 @@
               "name_hi": "बुद्धिलब्धि (IQ) की संकल्पना एवं सूत्र (बिने, स्टर्न, टर्मन)",
               "folder": "Micro_01_IQ_Concept",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST03_M02",
@@ -1239,7 +2299,17 @@
               "name_hi": "व्यक्तिगत बुद्धि परीक्षण (बिने-साइमन, स्टैनफोर्ड-बिने)",
               "folder": "Micro_02_Individual_Intelligence_Tests",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST03_M03",
@@ -1247,7 +2317,17 @@
               "name_hi": "सामूहिक बुद्धि परीक्षण (आर्मी अल्फा एवं बीटा)",
               "folder": "Micro_03_Group_Intelligence_Tests",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T11_ST03_M04",
@@ -1255,7 +2335,17 @@
               "name_hi": "शाब्दिक, अशाब्दिक एवं निष्पादन परीक्षण (भाटिया बैटरी)",
               "folder": "Micro_04_Verbal_and_Nonverbal_Tests",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1281,7 +2371,17 @@
               "name_hi": "व्यक्तिगत विभिन्नता का अर्थ एवं प्रकार",
               "folder": "Micro_01_Meaning_of_Individual_Differences",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T12_ST01_M02",
@@ -1289,7 +2389,17 @@
               "name_hi": "संज्ञानात्मक एवं बौद्धिक अंतर",
               "folder": "Micro_02_Cognitive_Differences",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T12_ST01_M03",
@@ -1297,7 +2407,17 @@
               "name_hi": "अधिगम शैलियाँ (Learning Styles) एवं गति में अंतर",
               "folder": "Micro_03_Learning_Differences",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T12_ST01_M04",
@@ -1305,7 +2425,17 @@
               "name_hi": "अभिरुचि, अभिवृत्ति एवं स्वभावगत अंतर",
               "folder": "Micro_04_Personality_Differences",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1322,7 +2452,17 @@
               "name_hi": "लैंगिक भूमिकाएं (Gender Roles) एवं समाजीकरण",
               "folder": "Micro_01_Gender_Roles",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T12_ST02_M02",
@@ -1330,7 +2470,17 @@
               "name_hi": "लैंगिक रूढ़िवादिता (Gender Stereotypes)",
               "folder": "Micro_02_Gender_Stereotypes",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T12_ST02_M03",
@@ -1338,7 +2488,17 @@
               "name_hi": "लैंगिक पक्षपात (Gender Bias) एवं असमानता",
               "folder": "Micro_03_Gender_Bias",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T12_ST02_M04",
@@ -1346,7 +2506,17 @@
               "name_hi": "जेंडर-संवेदनशील कक्षा-कक्ष एवं शिक्षक दृष्टिकोण",
               "folder": "Micro_04_Gender_Sensitive_Classroom",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1372,7 +2542,17 @@
               "name_hi": "चिंतन का अर्थ एवं प्रकृति",
               "folder": "Micro_01_Meaning_of_Thinking",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST01_M02",
@@ -1380,7 +2560,17 @@
               "name_hi": "अभिसारी चिंतन (Convergent Thinking)",
               "folder": "Micro_02_Convergent_Thinking",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST01_M03",
@@ -1388,7 +2578,17 @@
               "name_hi": "अपसारी चिंतन (Divergent Thinking)",
               "folder": "Micro_03_Divergent_Thinking",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST01_M04",
@@ -1396,7 +2596,17 @@
               "name_hi": "आलोचनात्मक चिंतन (Critical Thinking) एवं परासंज्ञान",
               "folder": "Micro_04_Critical_Thinking",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1413,7 +2623,17 @@
               "name_hi": "समस्या समाधान के चरण एवं प्रक्रिया",
               "folder": "Micro_01_Problem_Solving_Process",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST02_M02",
@@ -1421,7 +2641,17 @@
               "name_hi": "समस्या समाधान की रणनीतियाँ (एल्गोरिदम एवं ह्यूरिस्टिक्स)",
               "folder": "Micro_02_Strategies_of_Problem_Solving",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST02_M03",
@@ -1429,7 +2659,17 @@
               "name_hi": "बालक को समस्या समाधानकर्ता बनाने में शिक्षक की भूमिका",
               "folder": "Micro_03_Teacher_Role",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1446,7 +2686,17 @@
               "name_hi": "सृजनात्मकता का अर्थ एवं घटक (टॉरेंस मॉडल)",
               "folder": "Micro_01_Meaning_of_Creativity",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST03_M02",
@@ -1454,7 +2704,17 @@
               "name_hi": "सृजनशील बालकों की पहचान एवं लक्षण",
               "folder": "Micro_02_Characteristics_of_Creative_Children",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST03_M03",
@@ -1462,7 +2722,17 @@
               "name_hi": "सृजनात्मक चिंतन के चरण (तैयारी, उद्भवन, प्रदीप्ति, सत्यापन)",
               "folder": "Micro_03_Creative_Thinking",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T13_ST03_M04",
@@ -1470,7 +2740,17 @@
               "name_hi": "सृजनात्मकता संवर्धन: विचारमंथन (Brainstorming) तकनीक",
               "folder": "Micro_04_Encouraging_Creativity",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1496,7 +2776,17 @@
               "name_hi": "अधिगम का अर्थ एवं प्रमुख परिभाषाएं",
               "folder": "Micro_01_Meaning_of_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T14_ST01_M02",
@@ -1504,7 +2794,17 @@
               "name_hi": "अधिगम की विशेषताएं एवं पठार",
               "folder": "Micro_02_Characteristics_of_Learning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T14_ST01_M03",
@@ -1512,7 +2812,17 @@
               "name_hi": "अधिगम को प्रभावित करने वाले कारक",
               "folder": "Micro_03_Factors_Affecting_Learning",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1529,7 +2839,17 @@
               "name_hi": "थार्नडाइक का प्रयास एवं त्रुटि सिद्धांत",
               "folder": "Micro_01_Thorndike_Laws",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T14_ST02_M02",
@@ -1537,7 +2857,17 @@
               "name_hi": "तत्परता का नियम (Law of Readiness)",
               "folder": "Micro_02_Law_of_Readiness",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T14_ST02_M03",
@@ -1545,7 +2875,17 @@
               "name_hi": "अभ्यास का नियम (उपयोग व अनुपयोग का नियम)",
               "folder": "Micro_03_Law_of_Exercise",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T14_ST02_M04",
@@ -1553,7 +2893,17 @@
               "name_hi": "प्रभाव / संतोष का नियम (Law of Effect)",
               "folder": "Micro_04_Law_of_Effect",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1579,7 +2929,17 @@
               "name_hi": "शास्त्रीय अनुबंधन सिद्धांत",
               "folder": "Micro_01_Classical_Conditioning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST01_M02",
@@ -1587,7 +2947,17 @@
               "name_hi": "इवान पावलोव का प्रयोग एवं शैक्षिक अनुप्रयोग",
               "folder": "Micro_02_Pavlov",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST01_M03",
@@ -1595,7 +2965,17 @@
               "name_hi": "क्रिया-प्रसूत अनुबंधन सिद्धांत (Operant Conditioning)",
               "folder": "Micro_03_Operant_Conditioning",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST01_M04",
@@ -1603,7 +2983,17 @@
               "name_hi": "बी.एफ. स्किनर का प्रयोग एवं अभिक्रमित अनुदेशन",
               "folder": "Micro_04_Skinner",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST01_M05",
@@ -1611,7 +3001,17 @@
               "name_hi": "पुनर्बलन अनुसूचियां (Schedules) एवं दंड",
               "folder": "Micro_05_Reinforcement_and_Punishment",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1628,7 +3028,17 @@
               "name_hi": "सूझ या अंतर्दृष्टि का सिद्धांत (कोहलर)",
               "folder": "Micro_01_Insight_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST02_M02",
@@ -1636,7 +3046,17 @@
               "name_hi": "गेस्टाल्ट सिद्धांत के मूल नियम",
               "folder": "Micro_02_Gestalt_Learning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST02_M03",
@@ -1644,7 +3064,17 @@
               "name_hi": "टॉलमैन का चिन्ह अधिगम एवं संज्ञानात्मक मानचित्र",
               "folder": "Micro_03_Cognitive_Maps",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1661,7 +3091,17 @@
               "name_hi": "रचनावाद के मूल सिद्धांत एवं ज्ञान-सृजन",
               "folder": "Micro_01_Constructivism",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST03_M02",
@@ -1669,7 +3109,17 @@
               "name_hi": "शिक्षार्थी-केंद्रित शिक्षण दृष्टिकोण",
               "folder": "Micro_02_Learner_Centered_Learning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST03_M03",
@@ -1677,7 +3127,17 @@
               "name_hi": "सक्रिय सहभागिता एवं अनुभवात्मक अधिगम",
               "folder": "Micro_03_Active_Learning",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T15_ST03_M04",
@@ -1685,7 +3145,17 @@
               "name_hi": "सहयोगात्मक एवं सहकर्मी अधिगम",
               "folder": "Micro_04_Collaborative_Learning",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1711,7 +3181,17 @@
               "name_hi": "व्याख्यान विधि एवं उसकी सीमाएं",
               "folder": "Micro_01_Lecture_Method",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST01_M02",
@@ -1719,7 +3199,17 @@
               "name_hi": "वाद-विवाद एवं विचार-विमर्श विधि",
               "folder": "Micro_02_Discussion_Method",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST01_M03",
@@ -1727,7 +3217,17 @@
               "name_hi": "परियोजना विधि (Project Method - किलपैट्रिक)",
               "folder": "Micro_03_Project_Method",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST01_M04",
@@ -1735,7 +3235,17 @@
               "name_hi": "प्रदर्शन विधि (Demonstration Method)",
               "folder": "Micro_04_Demonstration_Method",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST01_M05",
@@ -1743,7 +3253,17 @@
               "name_hi": "समस्या समाधान शिक्षण विधि",
               "folder": "Micro_05_Problem_Solving_Method",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1760,7 +3280,17 @@
               "name_hi": "प्रश्नोत्तर एवं खोजपूर्ण प्रश्न कौशल",
               "folder": "Micro_01_Questioning_Skill",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST02_M02",
@@ -1768,7 +3298,17 @@
               "name_hi": "स्पष्टीकरण एवं दृष्टांत कौशल",
               "folder": "Micro_02_Explanation_Skill",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST02_M03",
@@ -1776,7 +3316,17 @@
               "name_hi": "पुनर्बलन कौशल (Reinforcement Skill)",
               "folder": "Micro_03_Reinforcement_Skill",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST02_M04",
@@ -1784,7 +3334,17 @@
               "name_hi": "उद्दीपन परिवर्तन कौशल (Stimulus Variation)",
               "folder": "Micro_04_Stimulus_Variation",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1801,7 +3361,17 @@
               "name_hi": "अग्रिम संगठक प्रतिमान (आसुबेल)",
               "folder": "Micro_01_Advance_Organizer_Model",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST03_M02",
@@ -1809,7 +3379,17 @@
               "name_hi": "संप्रत्यय संप्राप्ति प्रतिमान (ब्रूनर)",
               "folder": "Micro_02_Concept_Attainment_Model",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T16_ST03_M03",
@@ -1817,7 +3397,17 @@
               "name_hi": "पृच्छा प्रशिक्षण प्रतिमान (सुचमैन)",
               "folder": "Micro_03_Inquiry_Model",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1843,7 +3433,17 @@
               "name_hi": "समावेशन का अर्थ, उद्देश्य एवं ऐतिहासिक परिप्रेक्ष्य",
               "folder": "Micro_01_Meaning_of_Inclusion",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T17_ST01_M02",
@@ -1851,7 +3451,17 @@
               "name_hi": "समावेशन के मूल सिद्धांत (समानता बनाम समता)",
               "folder": "Micro_02_Principles_of_Inclusion",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T17_ST01_M03",
@@ -1859,7 +3469,17 @@
               "name_hi": "समावेशी कक्षा वातावरण एवं बाधा-मुक्त परिवेश",
               "folder": "Micro_03_Inclusive_Classroom",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T17_ST01_M04",
@@ -1867,7 +3487,17 @@
               "name_hi": "समावेशी शिक्षक के गुण, कौशल एवं दृष्टिकोण",
               "folder": "Micro_04_Teacher_Role",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1884,7 +3514,17 @@
               "name_hi": "सांस्कृतिक विविधता का आदर एवं समावेशन",
               "folder": "Micro_01_Cultural_Diversity",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T17_ST02_M02",
@@ -1892,7 +3532,17 @@
               "name_hi": "भाषाई विविधता एवं मातृभाषा का उपयोग",
               "folder": "Micro_02_Linguistic_Diversity",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T17_ST02_M03",
@@ -1900,7 +3550,17 @@
               "name_hi": "सामाजिक-आर्थिक रूप से वंचित वर्ग का समावेशन",
               "folder": "Micro_03_Socioeconomic_Diversity",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T17_ST02_M04",
@@ -1908,7 +3568,17 @@
               "name_hi": "विभेदित अनुदेशन (Differentiated Instruction) एवं UDL",
               "folder": "Micro_04_Learning_Diversity",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1934,7 +3604,17 @@
               "name_hi": "डिस्लेक्सिया (पठन वैकल्य / Reading Disability)",
               "folder": "Micro_01_Dyslexia",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T18_ST01_M02",
@@ -1942,7 +3622,17 @@
               "name_hi": "डिस्ग्राफिया (लेखन वैकल्य / Writing Disability)",
               "folder": "Micro_02_Dysgraphia",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T18_ST01_M03",
@@ -1950,7 +3640,17 @@
               "name_hi": "डिस्कैल्कुलिया (गणितीय वैकल्य / Math Disability)",
               "folder": "Micro_03_Dyscalculia",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T18_ST01_M04",
@@ -1958,7 +3658,17 @@
               "name_hi": "डिस्प्रेक्सिया एवं डिस्फ़ेसिया का निदान",
               "folder": "Micro_04_Specific_Learning_Disability",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1975,7 +3685,17 @@
               "name_hi": "ऑटिज्म स्पेक्ट्रम विकार (ASD)",
               "folder": "Micro_01_Autism_Spectrum",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T18_ST02_M02",
@@ -1983,7 +3703,17 @@
               "name_hi": "ध्यान-अभाव एवं अतिसक्रियता विकार (ADHD)",
               "folder": "Micro_02_ADHD",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T18_ST02_M03",
@@ -1991,7 +3721,17 @@
               "name_hi": "बौद्धिक अक्षमता (Intellectual Disability)",
               "folder": "Micro_03_Intellectual_Disability",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T18_ST02_M04",
@@ -1999,7 +3739,17 @@
               "name_hi": "कक्षा-कक्ष समर्थन एवं अनुकूलन रणनीतियाँ",
               "folder": "Micro_04_Educational_Support",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2025,7 +3775,17 @@
               "name_hi": "RPwD Act 2016: 21 दिव्यांगताओं का वर्गीकरण",
               "folder": "Micro_01_RPwD_Act_2016_Overview",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T19_ST01_M02",
@@ -2033,7 +3793,17 @@
               "name_hi": "अधिकार, संरक्षण एवं कानूनी हकदारी",
               "folder": "Micro_02_Rights_and_Entitlements",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T19_ST01_M03",
@@ -2041,7 +3811,17 @@
               "name_hi": "अधिनियम में समावेशी शिक्षा के विशेष प्रावधान",
               "folder": "Micro_03_Inclusive_Education_Provisions",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T19_ST01_M04",
@@ -2049,7 +3829,17 @@
               "name_hi": "उचित समायोजन (Reasonable Accommodation) की अवधारणा",
               "folder": "Micro_04_Reasonable_Accommodation",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2066,7 +3856,17 @@
               "name_hi": "प्रतिभाशाली बालक (रेनजुली का त्रिवृत्तीय मॉडल)",
               "folder": "Micro_01_Gifted_Children",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T19_ST02_M02",
@@ -2074,7 +3874,17 @@
               "name_hi": "दृष्टि, श्रवण एवं गत्यात्मक बाधित बालकों का समावेशन",
               "folder": "Micro_02_Children_with_Disabilities",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T19_ST02_M03",
@@ -2082,7 +3892,17 @@
               "name_hi": "मंद गति से सीखने वाले (Slow Learners) एवं उपचारात्मक शिक्षण",
               "folder": "Micro_03_Slow_Learners",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T19_ST02_M04",
@@ -2090,7 +3910,17 @@
               "name_hi": "पाठ्यचर्या अनुकूलन एवं सहायक प्रौद्योगिकियां (Assistive Tech)",
               "folder": "Micro_04_Educational_Adaptations",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2116,7 +3946,17 @@
               "name_hi": "निर्देशन का अर्थ, परिभाषा एवं आवश्यकता",
               "folder": "Micro_01_Meaning_of_Guidance",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST01_M02",
@@ -2124,7 +3964,17 @@
               "name_hi": "निर्देशन के प्रकार (शैक्षिक, व्यावसायिक, व्यक्तिगत)",
               "folder": "Micro_02_Types_of_Guidance",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST01_M03",
@@ -2132,7 +3982,17 @@
               "name_hi": "निर्देशन के सिद्धांत एवं विद्यालयी सेवाएं",
               "folder": "Micro_03_Principles_of_Guidance",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2149,7 +4009,17 @@
               "name_hi": "परामर्श का अर्थ, प्रकृति एवं उपागम (निर्देशात्मक/अनिदेशात्मक)",
               "folder": "Micro_01_Meaning_of_Counselling",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST02_M02",
@@ -2157,7 +4027,17 @@
               "name_hi": "परामर्श की प्रक्रिया एवं साक्षात्कार तकनीक",
               "folder": "Micro_02_Counselling_Process",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST02_M03",
@@ -2165,7 +4045,17 @@
               "name_hi": "परामर्शदाता के रूप में प्राथमिक शिक्षक की भूमिका",
               "folder": "Micro_03_Teacher_as_Counsellor",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2182,7 +4072,17 @@
               "name_hi": "राज्य शैक्षिक अनुसंधान एवं प्रशिक्षण परिषद (SCERT UP)",
               "folder": "Micro_01_SCERT",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST03_M02",
@@ -2190,7 +4090,17 @@
               "name_hi": "जिला शिक्षा एवं प्रशिक्षण संस्थान (DIET) की कार्यप्रणाली",
               "folder": "Micro_02_DIET",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST03_M03",
@@ -2198,7 +4108,17 @@
               "name_hi": "राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद (NCERT)",
               "folder": "Micro_03_NCERT",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T20_ST03_M04",
@@ -2206,7 +4126,17 @@
               "name_hi": "राष्ट्रीय शिक्षक शिक्षा परिषद (NCTE) के मानक",
               "folder": "Micro_04_NCTE",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2232,7 +4162,17 @@
               "name_hi": "मापन का अर्थ एवं संप्रत्यय",
               "folder": "Micro_01_Meaning_of_Measurement",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST01_M02",
@@ -2240,7 +4180,17 @@
               "name_hi": "मापन के स्तर (नामित, क्रमिक, अंतराल, अनुपात)",
               "folder": "Micro_02_Characteristics_of_Measurement",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST01_M03",
@@ -2248,7 +4198,17 @@
               "name_hi": "मात्रात्मक बनाम गुणात्मक मापन",
               "folder": "Micro_03_Quantitative_Measurement",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2265,7 +4225,17 @@
               "name_hi": "अधिगम के लिए आकलन (Assessment for Learning)",
               "folder": "Micro_01_Assessment_for_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST02_M02",
@@ -2273,7 +4243,17 @@
               "name_hi": "अधिगम का आकलन (Assessment of Learning)",
               "folder": "Micro_02_Assessment_of_Learning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST02_M03",
@@ -2281,7 +4261,17 @@
               "name_hi": "रचनात्मक / निर्माणात्मक आकलन (Formative Assessment)",
               "folder": "Micro_03_Formative_Assessment",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST02_M04",
@@ -2289,7 +4279,17 @@
               "name_hi": "योगात्मक / संकलनात्मक आकलन (Summative Assessment)",
               "folder": "Micro_04_Summative_Assessment",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2306,7 +4306,17 @@
               "name_hi": "मूल्यांकन का अर्थ एवं ब्लूम का मूल्यांकन त्रिकोण",
               "folder": "Micro_01_Meaning_of_Evaluation",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST03_M02",
@@ -2314,7 +4324,17 @@
               "name_hi": "निदानात्मक परीक्षण एवं उपचारात्मक शिक्षण (Diagnostic & Remedial)",
               "folder": "Micro_02_Diagnostic_Evaluation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T21_ST03_M03",
@@ -2322,7 +4342,17 @@
               "name_hi": "सतत एवं व्यापक मूल्यांकन (CCE) प्रणाली",
               "folder": "Micro_03_Continuous_Assessment",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2348,7 +4378,17 @@
               "name_hi": "वैधता (Validity) के प्रकार एवं मापन",
               "folder": "Micro_01_Validity",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T22_ST01_M02",
@@ -2356,7 +4396,17 @@
               "name_hi": "विश्वसनीयता (Reliability) की विधियां",
               "folder": "Micro_02_Reliability",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T22_ST01_M03",
@@ -2364,7 +4414,17 @@
               "name_hi": "वस्तुनिष्ठता (Objectivity) एवं उपयोगिता",
               "folder": "Micro_03_Objectivity",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T22_ST01_M04",
@@ -2372,7 +4432,17 @@
               "name_hi": "मानक (Norms) एवं मानकीकृत परीक्षण निर्माण",
               "folder": "Micro_04_Norms",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2389,7 +4459,17 @@
               "name_hi": "क्रियात्मक अनुसंधान का अर्थ, उत्पत्ति (स्टीफन एम. कोरे)",
               "folder": "Micro_01_Meaning_of_Action_Research",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T22_ST02_M02",
@@ -2397,7 +4477,17 @@
               "name_hi": "क्रियात्मक अनुसंधान के 7 सोपान / चरण",
               "folder": "Micro_02_Steps_of_Action_Research",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T22_ST02_M03",
@@ -2405,7 +4495,17 @@
               "name_hi": "विद्यालयी समस्याओं के समाधान में शिक्षक-शोधकर्ता",
               "folder": "Micro_03_Teacher_as_Researcher",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2431,7 +4531,17 @@
               "name_hi": "NEP 2020 के मूल मार्गदर्शक सिद्धांत",
               "folder": "Micro_01_NEP_2020_Overview",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T23_ST01_M02",
@@ -2439,7 +4549,17 @@
               "name_hi": "बुनियादी साक्षरता एवं संख्याज्ञान (FLN & NIPUN)",
               "folder": "Micro_02_Foundational_Literacy_and_Numeracy",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T23_ST01_M03",
@@ -2447,7 +4567,17 @@
               "name_hi": "5+3+3+4 विद्यालयी शैक्षिक संरचना",
               "folder": "Micro_03_School_Education_Structure",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T23_ST01_M04",
@@ -2455,7 +4585,17 @@
               "name_hi": "योग्यता-आधारित शिक्षा एवं PARAKH (360° HPC)",
               "folder": "Micro_04_Competency_Based_Education",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2472,7 +4612,17 @@
               "name_hi": "NCF 2005 के 5 मार्गदर्शक सिद्धांत",
               "folder": "Micro_01_NCF_Overview",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T23_ST02_M02",
@@ -2480,7 +4630,17 @@
               "name_hi": "NCF-FS एवं NCF-SE 2023 की रूपरेखा",
               "folder": "Micro_02_Curriculum_Principles",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T23_ST02_M03",
@@ -2488,7 +4648,17 @@
               "name_hi": "पाठ्यक्रम भार मुक्ति (Learning Without Burden)",
               "folder": "Micro_03_Child_Centered_Education",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2514,7 +4684,17 @@
               "name_hi": "RTE 2009 की ऐतिहासिक पृष्ठभूमि एवं संरचना",
               "folder": "Micro_01_RTE_Act_Overview",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T24_ST01_M02",
@@ -2522,7 +4702,17 @@
               "name_hi": "धारा 3 व 4: निःशुल्क शिक्षा एवं आयु-अनुरूप प्रवेश",
               "folder": "Micro_02_Right_to_Free_and_Compulsory_Education",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T24_ST01_M03",
@@ -2530,7 +4720,17 @@
               "name_hi": "छात्र-शिक्षक अनुपात (PTR) एवं विद्यालयी मानक",
               "folder": "Micro_03_School_Responsibilities",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T24_ST01_M04",
@@ -2538,7 +4738,17 @@
               "name_hi": "धारा 24, 27, 28: शिक्षक दायित्व, प्रतिबंध एवं कार्यघंटे",
               "folder": "Micro_04_Teacher_Responsibilities",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2555,7 +4765,17 @@
               "name_hi": "संयुक्त राष्ट्र बाल अधिकार अभिसमय (UNCRC)",
               "folder": "Micro_01_Child_Rights_Concept",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T24_ST02_M02",
@@ -2563,7 +4783,17 @@
               "name_hi": "पॉक्सो अधिनियम (POCSO Act) एवं विद्यालयी सुरक्षा",
               "folder": "Micro_02_Protection_of_Children",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T24_ST02_M03",
@@ -2571,7 +4801,17 @@
               "name_hi": "शारीरिक दंड का निषेध (धारा 17) एवं भयमुक्त वातावरण",
               "folder": "Micro_03_Child_Centered_Education",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2597,7 +4837,17 @@
               "name_hi": "वैदिक शिक्षा प्रणाली (उपनयन, समावर्तन संस्कार)",
               "folder": "Micro_01_Gurukul_System",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST01_M02",
@@ -2605,7 +4855,17 @@
               "name_hi": "बौद्ध शिक्षा प्रणाली (पब्बज्जा, उपसंपदा संस्कार)",
               "folder": "Micro_02_Buddhist_Education",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST01_M03",
@@ -2613,7 +4873,17 @@
               "name_hi": "मुस्लिम कालीन शिक्षा (मकतब, मदरसा, बिस्मिल्लाह रस्म)",
               "folder": "Micro_03_Medieval_Education",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2630,7 +4900,17 @@
               "name_hi": "वुड का घोषणापत्र 1854 (मैग्नाकार्टा)",
               "folder": "Micro_01_Wood_Despatch",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST02_M02",
@@ -2638,7 +4918,17 @@
               "name_hi": "हंटर आयोग 1882 (भारतीय शिक्षा आयोग)",
               "folder": "Micro_02_Hunter_Commission",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST02_M03",
@@ -2646,7 +4936,17 @@
               "name_hi": "सैडलर आयोग 1917 (कलकत्ता विश्वविद्यालय आयोग)",
               "folder": "Micro_03_Sadler_Commission",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST02_M04",
@@ -2654,7 +4954,17 @@
               "name_hi": "वर्धा शिक्षा योजना 1937 (बुनियादी शिक्षा / नई तालीम)",
               "folder": "Micro_04_Wardha_Scheme",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2671,7 +4981,17 @@
               "name_hi": "कोठारी आयोग 1964-66 (राष्ट्रीय शिक्षा आयोग)",
               "folder": "Micro_01_Kothari_Commission",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST03_M02",
@@ -2679,7 +4999,17 @@
               "name_hi": "राष्ट्रीय शिक्षा नीति 1968 (NPE 1968)",
               "folder": "Micro_02_National_Policy_on_Education_1968",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T25_ST03_M03",
@@ -2687,7 +5017,17 @@
               "name_hi": "राष्ट्रीय शिक्षा नीति 1986 एवं POA 1992",
               "folder": "Micro_03_National_Policy_on_Education_1986",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2713,7 +5053,17 @@
               "name_hi": "स्वामी विवेकानंद: मानव-निर्माण एवं अंतर्निहित पूर्णता",
               "folder": "Micro_01_Swami_Vivekananda",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST01_M02",
@@ -2721,7 +5071,17 @@
               "name_hi": "महात्मा गांधी: 3H (Head, Heart, Hand) एवं स्वावलंबन",
               "folder": "Micro_02_Mahatma_Gandhi",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST01_M03",
@@ -2729,7 +5089,17 @@
               "name_hi": "रवींद्रनाथ टैगोर: प्रकृतिवाद एवं शांतिनिकेतन",
               "folder": "Micro_03_Rabindranath_Tagore",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST01_M04",
@@ -2737,7 +5107,17 @@
               "name_hi": "श्री अरविंद: सर्वांग शिक्षा (Integral Education)",
               "folder": "Micro_04_Sri_Aurobindo",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2754,7 +5134,17 @@
               "name_hi": "सुकरात: प्रश्नोत्तर विधि (Dialectic Method)",
               "folder": "Micro_01_Socrates",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST02_M02",
@@ -2762,7 +5152,17 @@
               "name_hi": "प्लेटो: आदर्श राज्य एवं दार्शनिक शिक्षा",
               "folder": "Micro_02_Plato",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST02_M03",
@@ -2770,7 +5170,17 @@
               "name_hi": "अरस्तू: आगमनात्मक तर्कणा एवं यथार्थवाद",
               "folder": "Micro_03_Aristotle",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST02_M04",
@@ -2778,7 +5188,17 @@
               "name_hi": "जॉन डीवी: प्रगतिशील शिक्षा एवं करके सीखना (Learning by Doing)",
               "folder": "Micro_04_John_Dewey",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST02_M05",
@@ -2786,7 +5206,17 @@
               "name_hi": "रूसो: नकारात्मक शिक्षा एवं प्रकृति की ओर लौटो",
               "folder": "Micro_05_Rousseau",
               "order": 5,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2803,7 +5233,17 @@
               "name_hi": "आदर्शवाद (Idealism): विचार एवं शाश्वत मूल्य",
               "folder": "Micro_01_Idealism",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST03_M02",
@@ -2811,7 +5251,17 @@
               "name_hi": "प्रकृतिवाद (Naturalism): बालक एवं प्रकृति",
               "folder": "Micro_02_Naturalism",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST03_M03",
@@ -2819,7 +5269,17 @@
               "name_hi": "प्रयोजनवाद (Pragmatism): उपयोगिता एवं अनुभव",
               "folder": "Micro_03_Pragmatism",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T26_ST03_M04",
@@ -2827,7 +5287,17 @@
               "name_hi": "यथार्थवाद (Realism): वस्तुगत संसार एवं वैज्ञानिक दृष्टिकोण",
               "folder": "Micro_04_Realism",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -2853,7 +5323,17 @@
               "name_hi": "पीएम पोषण / मध्याह्न भोजन योजना (MDM)",
               "folder": "Micro_01_Mid_Day_Meal",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T27_ST01_M02",
@@ -2861,7 +5341,17 @@
               "name_hi": "समग्र शिक्षा अभियान (SSA + RMSA + TE)",
               "folder": "Micro_02_Samagra_Shiksha",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T27_ST01_M03",
@@ -2869,7 +5359,17 @@
               "name_hi": "सर्व शिक्षा अभियान (SSA) एवं कस्तूरबा गांधी विद्यालय (KGBV)",
               "folder": "Micro_03_Sarva_Shiksha_Abhiyan",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T27_ST01_M04",
@@ -2877,7 +5377,17 @@
               "name_hi": "निपुण भारत मिशन (NIPUN Bharat) एवं बुनियादी लक्ष्य",
               "folder": "Micro_04_NIPUN_Bharat",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -2894,7 +5404,17 @@
               "name_hi": "बेसिक शिक्षा विभाग उत्तर प्रदेश: ब्लॉक एवं संकुल स्तर (BEO, BRC, ARP)",
               "folder": "Micro_01_Basic_Education_Department",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T27_ST02_M02",
@@ -2902,7 +5422,17 @@
               "name_hi": "डायट (DIET) की 7 शाखाएं एवं प्राथमिक शिक्षक प्रशिक्षण",
               "folder": "Micro_02_DIET_Structure",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T27_ST02_M03",
@@ -2910,7 +5440,17 @@
               "name_hi": "एससीईआरटी लखनऊ (SCERT UP) की विशिष्ट भूमिका",
               "folder": "Micro_03_SCERT_Uttar_Pradesh",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "T27_ST02_M04",
@@ -2918,11 +5458,27 @@
               "name_hi": "परीक्षा नियामक प्राधिकारी (PNP प्रयागराज) एवं उत्तर प्रदेश शिक्षा सेवा चयन आयोग",
               "folder": "Micro_04_UP_Exam_Authorities",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "total_mcqs": 30,
+    "total_pyqs": 0,
+    "total_questions": 30,
+    "last_synced": "2026-10-12T13:15:25.303973"
+  }
 }

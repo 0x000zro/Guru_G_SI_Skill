@@ -33,15 +33,15 @@
   "mock_test_config": {
     "topic_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     },
     "subject_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     }
@@ -70,7 +70,17 @@
               "name_hi": "प्राकृतिक, पूर्ण, पूर्णांक, परिमेय एवं वास्तविक संख्याएं",
               "folder": "Micro_01_Natural_Whole_Integers_Rational_Reals",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_01_M02",
@@ -79,7 +89,17 @@
               "name_hi": "स्थानीय मान, जातीय मान एवं विस्तारित रूप",
               "folder": "Micro_02_Place_Value_Face_Value_Expanded_Form",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -98,7 +118,17 @@
               "name_hi": "विभाज्यता के नियम (2 से 19 तक) एवं शेषफल प्रमेय",
               "folder": "Micro_01_Divisibility_Rules_and_Remainder_Theorem",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_02_M02",
@@ -107,7 +137,17 @@
               "name_hi": "इकाई का अंक ज्ञात करना एवं शून्यों की संख्या",
               "folder": "Micro_02_Unit_Digit_and_Trailing_Zeros",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -126,7 +166,17 @@
               "name_hi": "अभाज्य, भाज्य एवं सह-अभाज्य संख्याएं व गुणधर्म",
               "folder": "Micro_01_Prime_Composite_CoPrime_Properties",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_03_M02",
@@ -135,7 +185,17 @@
               "name_hi": "गुणनखंडों की कुल संख्या, सम/विषम गुणनखंड एवं उनका योग",
               "folder": "Micro_02_Factor_Counting_and_Sum_of_Factors",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -164,7 +224,17 @@
               "name_hi": "उचित, अनुचित, मिश्रित भिन्न एवं भिन्नों की तुलना",
               "folder": "Micro_01_Proper_Improper_Mixed_Comparison",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_01_M02",
@@ -173,7 +243,17 @@
               "name_hi": "भिन्नों का जोड़, घटाना, गुणा एवं भाग",
               "folder": "Micro_02_Fundamental_Operations_on_Fractions",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -192,7 +272,17 @@
               "name_hi": "शांत एवं अशांत दशमलव संख्याएं",
               "folder": "Micro_01_Terminating_NonTerminating_Decimals",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_02_M02",
@@ -201,7 +291,17 @@
               "name_hi": "शुद्ध एवं मिश्रित आवर्त दशमलव का भिन्न में रूपांतरण",
               "folder": "Micro_02_Pure_Mixed_Recurring_to_Fractions",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -230,7 +330,17 @@
               "name_hi": "अभाज्य गुणनखंडन एवं भाग विधि द्वारा ल.स. व म.स.",
               "folder": "Micro_01_Factor_and_Division_Methods",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_01_M02",
@@ -239,7 +349,17 @@
               "name_hi": "भिन्नों एवं दशमलव संख्याओं का ल.स. तथा म.स.",
               "folder": "Micro_02_HCF_LCM_of_Fractions_Decimals",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -258,7 +378,17 @@
               "name_hi": "दो संख्याओं का गुणनफल = ल.स. × म.स. संबंध",
               "folder": "Micro_01_Product_Formula_LCM_HCF_Relation",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_02_M02",
@@ -267,7 +397,17 @@
               "name_hi": "घंटियों का बजना, वृत्ताकार पथ एवं समान शेषफल वाले प्रश्न",
               "folder": "Micro_02_Bells_Circular_Tracks_Equal_Remainder",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -296,7 +436,17 @@
               "name_hi": "VBODMAS नियम, कोष्ठक एवं संक्रियाओं का क्रम",
               "folder": "Micro_01_VBODMAS_Rule_and_Brackets",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_01_M02",
@@ -305,7 +455,17 @@
               "name_hi": "सर्वसमिकाओं पर आधारित विशिष्ट सरलीकरण",
               "folder": "Micro_02_Algebraic_Identity_Simplifications",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -324,7 +484,17 @@
               "name_hi": "वर्गमूल एवं घनमूल ज्ञात करने की गुणनखंड व भाग विधियां",
               "folder": "Micro_01_Square_and_Cube_Root_Methods",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_02_M02",
@@ -333,7 +503,17 @@
               "name_hi": "दशमलव संख्याओं के वर्गमूल एवं सन्निकटन मान",
               "folder": "Micro_02_Approximation_and_Decimal_Roots",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -352,7 +532,17 @@
               "name_hi": "घातांक के नियम एवं अज्ञात घातों वाले समीकरण",
               "folder": "Micro_01_Laws_of_Indices_Unknown_Powers",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_03_M02",
@@ -361,7 +551,17 @@
               "name_hi": "करणियों की तुलना, संक्रियाएं एवं परिमेयकरण",
               "folder": "Micro_02_Surds_Comparison_and_Rationalization",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -390,7 +590,17 @@
               "name_hi": "भिन्न, दशमलव एवं प्रतिशत का परस्पर रूपांतरण",
               "folder": "Micro_01_Fraction_Decimal_Percent_Conversion",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_01_M02",
@@ -399,7 +609,17 @@
               "name_hi": "क्रमागत प्रतिशत परिवर्तन एवं प्रभावी प्रतिशत प्रभाव",
               "folder": "Micro_02_Successive_Percentage_Change",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -418,7 +638,17 @@
               "name_hi": "आय, व्यय, मूल्य एवं उपभोग में प्रतिशत परिवर्तन",
               "folder": "Micro_01_Income_Expenditure_Consumption_Price",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_02_M02",
@@ -427,7 +657,17 @@
               "name_hi": "परीक्षा प्राप्तांक, चुनाव एवं जनसंख्या वृद्धि संबंधी प्रश्न",
               "folder": "Micro_02_Exam_Scores_Election_Population_Problems",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -456,7 +696,17 @@
               "name_hi": "क्रय मूल्य, विक्रय मूल्य एवं लाभ/हानि प्रतिशत गणना",
               "folder": "Micro_01_Cost_Selling_Price_Margin_Calculations",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_01_M02",
@@ -465,7 +715,17 @@
               "name_hi": "समान विक्रय मूल्य पर लाभ/हानि एवं क्रय मूल्य अनुपात प्रश्न",
               "folder": "Micro_02_Equal_SP_and_Cost_Ratio_Cases",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -484,7 +744,17 @@
               "name_hi": "अंकित मूल्य एवं क्रमिक बट्टों का समतुल्य बट्टा",
               "folder": "Micro_01_Marked_Price_and_Successive_Discounts",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_02_M02",
@@ -493,7 +763,17 @@
               "name_hi": "दोषपूर्ण बांट एवं बेईमान दुकानदार से संबंधित प्रश्न",
               "folder": "Micro_02_Dishonest_Trader_Faulty_Weights",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -522,7 +802,17 @@
               "name_hi": "मूलधन, दर, समय एवं मिश्रधन की मूल गणनाएँ",
               "folder": "Micro_01_Principal_Rate_Time_Amount_Formulas",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_01_M02",
@@ -531,7 +821,17 @@
               "name_hi": "साधारण ब्याज की किश्तें एवं परिवर्तनीय ब्याज दरें",
               "folder": "Micro_02_Installment_Problems_Varying_Rates",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -550,7 +850,17 @@
               "name_hi": "वार्षिक, छमाही एवं तिमाही चक्रवृद्धि संयोजन",
               "folder": "Micro_01_Annual_HalfYearly_Compounding",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_02_M02",
@@ -559,7 +869,17 @@
               "name_hi": "2 वर्ष एवं 3 वर्ष के चक्रवृद्धि व साधारण ब्याज का अंतर",
               "folder": "Micro_02_Difference_Between_CI_and_SI",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -588,7 +908,17 @@
               "name_hi": "सरल, मिश्रित एवं सतत अनुपात संयोजन",
               "folder": "Micro_01_Simple_Compound_Continued_Ratios",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_01_M02",
@@ -597,7 +927,17 @@
               "name_hi": "मध्यानुपाती, तृतीयानुपाती, चतुर्थानुपाती एवं सिक्कों वाले प्रश्न",
               "folder": "Micro_02_Mean_Third_Fourth_Proportional_Coins",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -616,7 +956,17 @@
               "name_hi": "अनुलोम एवं प्रतिलोम विचरण (एकिक नियम)",
               "folder": "Micro_01_Direct_and_Inverse_Variation",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_02_M02",
@@ -625,7 +975,17 @@
               "name_hi": "साझेदारी: पूंजी निवेश, समय एवं लाभ का विभाजन",
               "folder": "Micro_02_Partnership_Profit_Sharing_Time",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -654,7 +1014,17 @@
               "name_hi": "व्यक्तिगत व सामूहिक कार्यक्षमता (MDH सूत्र आधारित प्रश्न)",
               "folder": "Micro_01_Individual_Group_Work_Efficiency",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_01_M02",
@@ -663,7 +1033,17 @@
               "name_hi": "एकांतर दिनों में कार्य एवं कार्य छोड़कर जाने वाले प्रश्न",
               "folder": "Micro_02_Alternate_Days_Leaving_Joining_Work",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -682,7 +1062,17 @@
               "name_hi": "भरने वाले व खाली करने वाले नलों की शुद्ध कार्यक्षमता",
               "folder": "Micro_01_Inlet_Outlet_Net_Efficiency",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_02_M02",
@@ -691,7 +1081,17 @@
               "name_hi": "टंकी में रिसाव/छेद एवं नलों को बारी-बारी से खोलना",
               "folder": "Micro_02_Leakage_and_Sequential_Opening_Problems",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -720,7 +1120,17 @@
               "name_hi": "इकाई रूपांतरण (किमी/घं से मी/से) एवं औसत चाल",
               "folder": "Micro_01_Unit_Conversion_and_Average_Speed",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_01_M02",
@@ -729,7 +1139,17 @@
               "name_hi": "समान एवं विपरीत दिशाओं में सापेक्ष चाल की अवधारणा",
               "folder": "Micro_02_Relative_Speed_Concepts",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -748,7 +1168,17 @@
               "name_hi": "रेलगाड़ी द्वारा खंभे, व्यक्ति, प्लेटफॉर्म व पुल को पार करना",
               "folder": "Micro_01_Train_Passing_Poles_Platforms",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_02_M02",
@@ -757,7 +1187,17 @@
               "name_hi": "नाव एवं धारा: अनुप्रवाह (Downstream) एवं ऊर्ध्वप्रवाह (Upstream)",
               "folder": "Micro_02_Boats_Upstream_Downstream_Flow",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -786,7 +1226,17 @@
               "name_hi": "लंबाई, भार एवं धारिता के मीट्रिक मात्रक रूपांतरण",
               "folder": "Micro_01_Length_Mass_Capacity_Conversions",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_01_M02",
@@ -795,7 +1245,17 @@
               "name_hi": "अमानक से मानक इकाइयों में संक्रमण का शिक्षण शास्त्र",
               "folder": "Micro_02_NonStandard_to_Standard_Metric_Transition",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -814,7 +1274,17 @@
               "name_hi": "मुद्रा संक्रियाएं, बाज़ार बिलिंग एवं लेन-देन",
               "folder": "Micro_01_Currency_Billing_Transactions",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_02_M02",
@@ -823,7 +1293,17 @@
               "name_hi": "समय अंतराल, 24-घंटे वाली घड़ी, रेल समय-सारणी एवं कैलेंडर",
               "folder": "Micro_02_Time_Intervals_Railway_Schedules_Calendar",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -852,7 +1332,17 @@
               "name_hi": "रेखा, रेखाखंड, किरण एवं कोणों के प्रकार (न्यून, सम, अधिक, ऋजु)",
               "folder": "Micro_01_Lines_Rays_Angles_Types",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_01_M02",
@@ -861,7 +1351,17 @@
               "name_hi": "समांतर रेखाएं, तिर्यक रेखा एवं संगत/एकांतर कोण प्रमेय",
               "folder": "Micro_02_Parallel_Lines_Transversal_Theorems",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -880,7 +1380,17 @@
               "name_hi": "त्रिभुज के अंतःकोण योग, असमिका, सर्वांगसमता एवं समरूपता",
               "folder": "Micro_01_Triangle_Angle_Sum_Congruence_Similarity",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_02_M02",
@@ -889,7 +1399,17 @@
               "name_hi": "चतुर्भुज के प्रकार (आयत, वर्ग, समलंब, समचतुर्भुज) व विकर्ण गुण",
               "folder": "Micro_02_Quadrilateral_Types_Diagonal_Properties",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -908,7 +1428,17 @@
               "name_hi": "त्रिज्या, जीवा, चाप, त्रिज्यखंड एवं स्पर्श रेखा के गुणधर्म",
               "folder": "Micro_01_Radius_Chord_Arc_Sector_Properties",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_03_M02",
@@ -917,7 +1447,17 @@
               "name_hi": "केंद्रस्थ व परिधि कोण संबंध एवं चक्रीय चतुर्भुज प्रमेय",
               "folder": "Micro_02_Central_Inscribed_Angles_Cyclic_Quads",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -946,7 +1486,17 @@
               "name_hi": "समबाहु, समद्विबाहु, समकोण त्रिभुज एवं हीरो का सूत्र",
               "folder": "Micro_01_Equilateral_Isosceles_Heron_Formula",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_01_M02",
@@ -955,7 +1505,17 @@
               "name_hi": "वृत्त की परिधि, क्षेत्रफल, अर्धवृत्त एवं वृत्ताकार वलय",
               "folder": "Micro_02_Circle_Circumference_Area_Ring",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -974,7 +1534,17 @@
               "name_hi": "आयत, वर्ग, विकर्ण एवं रास्तों का क्षेत्रफल (आंतरिक/बाह्य)",
               "folder": "Micro_01_Rectangle_Square_Diagonals_Pathways",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_02_M02",
@@ -983,7 +1553,17 @@
               "name_hi": "समांतर चतुर्भुज, समचतुर्भुज एवं समलंब चतुर्भुज का क्षेत्रफल",
               "folder": "Micro_02_Parallelogram_Rhombus_Trapezium_Area",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1012,7 +1592,17 @@
               "name_hi": "संपूर्ण पृष्ठ, वक्र पृष्ठ, आयतन एवं विकर्ण के सूत्र",
               "folder": "Micro_01_Surface_Area_Volume_Diagonal_Formulae",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_01_M02",
@@ -1021,7 +1611,17 @@
               "name_hi": "कमरे की चारों दीवारों का क्षेत्रफल, खोखले बक्से एवं ठोस पिघलाना",
               "folder": "Micro_02_Four_Walls_Area_Hollow_Boxes",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1040,7 +1640,17 @@
               "name_hi": "लंबवृत्तीय बेलन का वक्र पृष्ठ, संपूर्ण पृष्ठ एवं आयतन",
               "folder": "Micro_01_Right_Circular_Cylinder_Surface_Volume",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M02",
@@ -1049,7 +1659,17 @@
               "name_hi": "शंकु की तिर्यक ऊंचाई, वक्र पृष्ठ, संपूर्ण पृष्ठ एवं आयतन",
               "folder": "Micro_02_Right_Circular_Cone_Slant_Height",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M03",
@@ -1058,7 +1678,17 @@
               "name_hi": "ठोस व खोखला गोला एवं अर्धगोले का आयतन व पृष्ठीय क्षेत्रफल",
               "folder": "Micro_03_Solid_Hollow_Sphere_Hemisphere",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1087,7 +1717,17 @@
               "name_hi": "चर, अचर, गुणांक, बहुपद की घात एवं संक्रियाएँ",
               "folder": "Micro_01_Variables_Coefficients_Polynomial_Operations",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_01_M02",
@@ -1096,7 +1736,17 @@
               "name_hi": "मानक बीजीय सर्वसमिकाएं एवं मान ज्ञात करने संबंधी प्रश्न",
               "folder": "Micro_02_Standard_Algebraic_Identities_Applications",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1115,7 +1765,17 @@
               "name_hi": "एक व दो चर वाले रैखिक समीकरण एवं व्यावहारिक शाब्दिक प्रश्न",
               "folder": "Micro_01_Linear_Equations_One_Two_Variables",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_02_M02",
@@ -1124,7 +1784,17 @@
               "name_hi": "द्विघात समीकरण का गुणनखंडन एवं मूल (Roots) ज्ञात करना",
               "folder": "Micro_02_Polynomial_Factorization_Quadratic_Roots",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1153,7 +1823,17 @@
               "name_hi": "अवर्गीकृत एवं वर्गीकृत आंकड़ों का समांतर माध्य, माध्यिका व बहुलक",
               "folder": "Micro_01_Mean_Median_Mode_Ungrouped_Grouped",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_01_M02",
@@ -1162,7 +1842,17 @@
               "name_hi": "परिसर (Range) एवं आनुभविक संबंध (बहुलक = 3 माध्यिका - 2 माध्य)",
               "folder": "Micro_02_Range_and_Empirical_Relationship",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1181,7 +1871,17 @@
               "name_hi": "दंड आरेख, आयत चित्र, बारंबारता बहुभुज एवं पाई चार्ट व्याख्या",
               "folder": "Micro_01_Bar_Graph_Histogram_Pie_Chart",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_02_M02",
@@ -1190,7 +1890,17 @@
               "name_hi": "प्रायिकता की शास्त्रीय संकल्पना (सिक्के, पासा, ताश के पत्ते व गेंदें)",
               "folder": "Micro_02_Classical_Probability_Coins_Dice_Cards",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1219,7 +1929,17 @@
               "name_hi": "रैखिक सममिति एवं ज्यामितीय आकृतियों में सममिति अक्षों की संख्या",
               "folder": "Micro_01_Line_Symmetry_Axes_Counting",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_01_M02",
@@ -1228,7 +1948,17 @@
               "name_hi": "घूर्णन सममिति, घूर्णन का क्रम (Order) एवं घूर्णन कोण",
               "folder": "Micro_02_Rotational_Symmetry_Order_Angle",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1247,7 +1977,17 @@
               "name_hi": "संख्यात्मक व चित्रात्मक पैटर्न की पहचान एवं सामान्यीकरण",
               "folder": "Micro_01_Number_Shape_Patterns_Generalization",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_02_M02",
@@ -1256,7 +1996,17 @@
               "name_hi": "घन, घनाभ, बेलन के जाल (Nets) एवं फर्श की टाइलिंग (टेसेलेशन)",
               "folder": "Micro_02_TwoD_Nets_of_3D_Solids_Tessellation",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1285,7 +2035,17 @@
               "name_hi": "गणित की अमूर्त, पदानुक्रमिक, सटीक एवं तार्किक संरचना",
               "folder": "Micro_01_Abstract_Hierarchical_Logical_Nature",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_01_M02",
@@ -1294,7 +2054,17 @@
               "name_hi": "गणित में आगमनात्मक बनाम निगमनात्मक तर्कणा",
               "folder": "Micro_02_Inductive_vs_Deductive_Reasoning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1313,7 +2083,17 @@
               "name_hi": "गणितीय प्रतीक, शब्दावली, वाक्य-विन्यास एवं औपचारिक परिभाषाएं",
               "folder": "Micro_01_Mathematical_Symbols_Terms_Definitions",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_02_M02",
@@ -1322,7 +2102,17 @@
               "name_hi": "अभिगृहीत (Axioms), अभिधारणाएं, गणितीय अनुमान एवं प्रमेय",
               "folder": "Micro_02_Axioms_Postulates_Conjectures_Theorems",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1351,7 +2141,17 @@
               "name_hi": "गणित के संकीर्ण बनाम उच्च उद्देश्य (मस्तिष्क का गणितीकरण)",
               "folder": "Micro_01_Narrow_vs_Higher_Aims_Mathematization",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_01_M02",
@@ -1360,7 +2160,17 @@
               "name_hi": "संशोधित ब्लूम टैक्सोनॉमी के संज्ञानात्मक स्तर एवं गणितीय उद्देश्य",
               "folder": "Micro_02_Revised_Bloom_Taxonomy_in_Math",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1379,7 +2189,17 @@
               "name_hi": "NCF 2005 का गणितीय विजन (भयमुक्त, सार्वभौमिक, आनंददायी गणित)",
               "folder": "Micro_01_NCF_2005_Vision_for_Mathematics",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_02_M02",
@@ -1388,7 +2208,17 @@
               "name_hi": "NEP 2020: कम्प्यूटेशनल सोच, गणितीय चिंतन एवं FLN दिशानिर्देश",
               "folder": "Micro_02_NEP_2020_Computational_Mathematical_Thinking",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1417,7 +2247,17 @@
               "name_hi": "आगमन, निगमन, विश्लेषण एवं संश्लेषण विधियां (तुलनात्मक गुण-दोष)",
               "folder": "Micro_01_Inductive_Deductive_Analytic_Synthetic",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_01_M02",
@@ -1426,7 +2266,17 @@
               "name_hi": "समस्या-समाधान (पॉल्या मॉडल), अनुसंधान (ह्यूरिस्टिक) एवं प्रोजेक्ट विधि",
               "folder": "Micro_02_Problem_Solving_Heuristic_Project_Method",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1445,7 +2295,17 @@
               "name_hi": "स्तर 0 (दृश्यांकन/चाक्षुषीकरण) एवं स्तर 1 (विश्लेषण / गुणधर्म पहचान)",
               "folder": "Micro_01_Level_0_Visualization_and_Level_1_Analysis",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_02_M02",
@@ -1454,7 +2314,17 @@
               "name_hi": "स्तर 2 (अनौपचारिक निगमन/संबंध), स्तर 3 (निगमन) एवं स्तर 4 (दृढ़ता/स्वयं-सिद्धि)",
               "folder": "Micro_02_Level_2_Informal_Level_3_Deduction_Rigor",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1483,7 +2353,17 @@
               "name_hi": "जियोबोर्ड (Geoboard): ज्यामितीय आकृतियाँ, परिमाप एवं क्षेत्रफल",
               "folder": "Micro_01_Geoboard_for_Shapes_Perimeter_Area",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_01_M02",
@@ -1492,7 +2372,17 @@
               "name_hi": "गिनतारा (Abacus): स्थानीय मान, गणना एवं दृष्टिबाधित बालकों हेतु TLM",
               "folder": "Micro_02_Abacus_Place_Value_Visually_Impaired",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_01_M03",
@@ -1501,7 +2391,17 @@
               "name_hi": "टैनग्राम (7 टुकड़े पहेली) एवं डीन्स ब्लॉक्स (Base-10 स्थानीय मान व संक्रियाएं)",
               "folder": "Micro_03_Tangram_and_Dienes_Base_10_Blocks",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_01_M04",
@@ -1510,7 +2410,17 @@
               "name_hi": "ग्राफ/ग्रिड पेपर (दशमलव गुणन शिक्षण) एवं डॉट पेपर (सममिति व परावर्तन)",
               "folder": "Micro_04_Grid_Paper_Dot_Paper_Decimals_Symmetry",
               "order": 4,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1529,7 +2439,17 @@
               "name_hi": "गणित लैब की गतिविधियाँ एवं शून्य लागत स्थानीय TLM निर्माण",
               "folder": "Micro_01_Math_Lab_Activities_Low_Cost_TLM",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_02_M02",
@@ -1538,7 +2458,17 @@
               "name_hi": "जियोजेब्रा (GeoGebra), दीक्षा पोर्टल एवं आभासी गणितीय सिमुलेशन",
               "folder": "Micro_02_GeoGebra_DIKSHA_Simulations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1567,7 +2497,17 @@
               "name_hi": "प्रक्रियात्मक त्रुटियाँ (Procedural) बनाम संप्रत्ययात्मक भ्रांतियां (Conceptual)",
               "folder": "Micro_01_Procedural_vs_Conceptual_Errors",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST22_01_M02",
@@ -1576,7 +2516,17 @@
               "name_hi": "लापरवाही त्रुटियाँ एवं शाब्दिक प्रश्नों में भाषाई बाधाएं/जटिलताएं",
               "folder": "Micro_02_Careless_Errors_and_Language_Barriers",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1595,7 +2545,17 @@
               "name_hi": "बालकों की सहज गणितीय सोच एवं सीखने की सीढ़ियों के रूप में त्रुटियाँ",
               "folder": "Micro_01_Child_Math_Thinking_Naive_Theories",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST22_02_M02",
@@ -1604,7 +2564,17 @@
               "name_hi": "त्रुटि-निर्देशित उपचारात्मक शिक्षण योजना एवं पाड़/मचान (Scaffolding)",
               "folder": "Micro_02_Error_Guided_Remedial_Design",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1633,7 +2603,17 @@
               "name_hi": "गणित में सीखने का, के लिए एवं के रूप में आकलन (CCE प्रारूप)",
               "folder": "Micro_01_Formative_Summative_Math_Assessment",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST23_01_M02",
@@ -1642,7 +2622,17 @@
               "name_hi": "रूब्रिक्स, पोर्टफोलियो, मुक्त अंत वाले (Open-Ended) प्रश्न एवं चिंतन",
               "folder": "Micro_02_Math_Rubrics_Portfolios_Open_Ended_Tasks",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1661,7 +2651,17 @@
               "name_hi": "निदानात्मक परीक्षण द्वारा अधिगम रिक्तियों (Learning Gaps) की पहचान",
               "folder": "Micro_01_Diagnostic_Testing_Gap_Identification",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST23_02_M02",
@@ -1670,7 +2670,17 @@
               "name_hi": "उपचारात्मक पाठ योजना निर्माण एवं विभेदित अनुदेशन (Differentiated Teaching)",
               "folder": "Micro_02_Remedial_Lesson_Planning_Individualized",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1699,7 +2709,17 @@
               "name_hi": "निपुण भारत मिशन के अंतर्गत मूलभूत संख्याज्ञान (FLN) विकासात्मक लक्ष्य",
               "folder": "Micro_01_Foundational_Numeracy_Milestones",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST24_01_M02",
@@ -1708,7 +2728,17 @@
               "name_hi": "पूर्व-संख्या संप्रत्यय (वर्गीकरण, क्रम, मिलान) एवं प्रारंभिक संक्रियाएं (कक्षा 1-3)",
               "folder": "Micro_02_Pre_Number_Concepts_Operations_Grades_1_3",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1727,7 +2757,17 @@
               "name_hi": "खिलौना एवं खेल-गतिविधि आधारित अनुभवात्मक गणित शिक्षण शास्त्र",
               "folder": "Micro_01_Toy_and_Activity_Based_Math_Pedagogy",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST24_02_M02",
@@ -1736,11 +2776,27 @@
               "name_hi": "गणितीय भय (Math Phobia) व चिंता के कारण एवं शिक्षक द्वारा सकारात्मक समाधान",
               "folder": "Micro_02_Overcoming_Math_Anxiety_and_Phobia",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "total_mcqs": 0,
+    "total_pyqs": 0,
+    "total_questions": 0,
+    "last_synced": "2026-10-12T13:15:25.321781"
+  }
 }

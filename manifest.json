@@ -18,16 +18,16 @@
   ],
   "mock_test_global_config": {
     "negative_marking": false,
-    "default_pyq_ratio": 0.70,
-    "default_mcq_ratio": 0.30,
+    "default_pyq_ratio": 0.7,
+    "default_mcq_ratio": 0.3,
     "marks_per_question": 1.0
   },
   "full_mock_test_config": {
     "total_questions": 150,
     "duration_minutes": 150,
     "negative_marking": false,
-    "pyq_ratio": 0.70,
-    "mcq_ratio": 0.30,
+    "pyq_ratio": 0.7,
+    "mcq_ratio": 0.3,
     "sections": [
       {
         "subject_id": "CDP",
@@ -53,7 +53,10 @@
         "subject_id": "LANG_2",
         "name_hi": "द्वितीय भाषा (अंग्रेजी / संस्कृत)",
         "questions_count": 30,
-        "selectable_subject_ids": ["ENG", "SAN"]
+        "selectable_subject_ids": [
+          "ENG",
+          "SAN"
+        ]
       }
     ]
   },
@@ -67,7 +70,10 @@
       "status": "scaffolded",
       "total_topics": 27,
       "framework_version": "1.0.0",
-      "taxonomy_version": "1.0.0"
+      "taxonomy_version": "1.0.0",
+      "mcq_count": 30,
+      "pyq_count": 0,
+      "total_questions": 30
     },
     {
       "id": "HINDI",
@@ -78,7 +84,10 @@
       "status": "scaffolded",
       "total_topics": 18,
       "framework_version": "1.0.0",
-      "taxonomy_version": "1.0.0"
+      "taxonomy_version": "1.0.0",
+      "mcq_count": 0,
+      "pyq_count": 0,
+      "total_questions": 0
     },
     {
       "id": "MATH",
@@ -89,7 +98,10 @@
       "status": "scaffolded",
       "total_topics": 24,
       "framework_version": "1.0.0",
-      "taxonomy_version": "1.0.0"
+      "taxonomy_version": "1.0.0",
+      "mcq_count": 0,
+      "pyq_count": 0,
+      "total_questions": 0
     },
     {
       "id": "EVS",
@@ -100,7 +112,10 @@
       "status": "scaffolded",
       "total_topics": 24,
       "framework_version": "1.0.0",
-      "taxonomy_version": "1.0.0"
+      "taxonomy_version": "1.0.0",
+      "mcq_count": 0,
+      "pyq_count": 0,
+      "total_questions": 0
     },
     {
       "id": "ENG",
@@ -111,7 +126,10 @@
       "status": "scaffolded",
       "total_topics": 21,
       "framework_version": "1.0.0",
-      "taxonomy_version": "1.0.0"
+      "taxonomy_version": "1.0.0",
+      "mcq_count": 0,
+      "pyq_count": 0,
+      "total_questions": 0
     },
     {
       "id": "SAN",
@@ -122,12 +140,21 @@
       "status": "scaffolded",
       "total_topics": 22,
       "framework_version": "1.0.0",
-      "taxonomy_version": "1.0.0"
+      "taxonomy_version": "1.0.0",
+      "mcq_count": 0,
+      "pyq_count": 0,
+      "total_questions": 0
     }
   ],
   "brand": "SISKILL",
   "tagline": "Super Intelligence Learning Skill CTET & UPTET",
   "official_domain": "siskill.in",
   "support_email": "support@siskill.in",
-  "package_name": "in.siskill.app"
+  "package_name": "in.siskill.app",
+  "global_stats": {
+    "overall_mcq_count": 30,
+    "overall_pyq_count": 0,
+    "overall_total_questions": 30,
+    "last_synced": "2026-10-12T13:15:25.350641"
+  }
 }

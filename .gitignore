@@ -1,0 +1,26 @@
+# Environment & Secrets
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node & Python caches (यदि स्क्रिप्ट्स इस्तेमाल हों)
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/

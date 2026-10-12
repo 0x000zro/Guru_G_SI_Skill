@@ -33,15 +33,15 @@
   "mock_test_config": {
     "topic_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     },
     "subject_wise": {
       "default_questions": 30,
-      "pyq_ratio": 0.70,
-      "mcq_ratio": 0.30,
+      "pyq_ratio": 0.7,
+      "mcq_ratio": 0.3,
       "negative_marking": false,
       "time_minutes": 30
     }
@@ -70,7 +70,17 @@
               "name_hi": "एकल एवं संयुक्त परिवार की गतिकी व विशेषताएं",
               "folder": "Micro_01_Nuclear_Joint_Family_Dynamics",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_01_M02",
@@ -79,7 +89,17 @@
               "name_hi": "पारिवारिक संबंध एवं बाल विवाह निषेध अधिनियम",
               "folder": "Micro_02_Family_Relations_Child_Marriage_Abolition",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -98,7 +118,17 @@
               "name_hi": "पारंपरिक खेल, शारीरिक व मानसिक विकास",
               "folder": "Micro_01_Traditional_Games_Child_Development",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST01_02_M02",
@@ -107,7 +137,17 @@
               "name_hi": "कार्य, व्यवसाय एवं बाल श्रम (निषेध व नियमन) कानून",
               "folder": "Micro_02_Work_Occupations_Child_Labor_Laws",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -136,7 +176,17 @@
               "name_hi": "जंतु विशेषताएं (स्लॉथ, बाघ, हाथी एवं सांप)",
               "folder": "Micro_01_Animal_Traits_Sloth_Tiger_Elephant_Snakes",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_01_M02",
@@ -145,7 +195,17 @@
               "name_hi": "पक्षियों की विशेषताएं, चोंच, घोंसले एवं दृष्टि विस्तार",
               "folder": "Micro_02_Bird_Characteristics_Beaks_Nests_Vision",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -164,7 +224,17 @@
               "name_hi": "सामाजिक कीट (मधुमक्खियां, चींटियां एवं दीमक)",
               "folder": "Micro_01_Social_Insects_Honeybees_Ants_Termites",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST02_02_M02",
@@ -173,7 +243,17 @@
               "name_hi": "रेशम कीट, केंचुआ एवं संवेदी अनुकूलन",
               "folder": "Micro_02_Silkworm_Earthworm_Sensory_Adaptations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -202,7 +282,17 @@
               "name_hi": "जड़, तना, पत्तियां, प्रकाश संश्लेषण एवं वाष्पोत्सर्जन",
               "folder": "Micro_01_Roots_Stems_Leaves_Photosynthesis_Transpiration",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_01_M02",
@@ -211,7 +301,17 @@
               "name_hi": "विशिष्ट पौधे (कीटभक्षी/नेपेंथिस, रेगिस्तानी ओक एवं बरगद)",
               "folder": "Micro_02_Insectivorous_Nepenthes_Desert_Oak_Banyan",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -230,7 +330,17 @@
               "name_hi": "बीज अंकुरण, प्रकीर्णन एवं भारत में आए विदेशी बीज",
               "folder": "Micro_01_Seed_Germination_Dispersal_Foreign_Seeds",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST03_02_M02",
@@ -239,7 +349,17 @@
               "name_hi": "फसल चक्र, झूम खेती (मिजोरम) एवं जैविक कृषि",
               "folder": "Micro_02_Cropping_Patterns_Jhum_Organic_Farming",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -268,7 +388,17 @@
               "name_hi": "पोषक तत्व, हीनताजन्य रोग, विटामिन एवं खनिज",
               "folder": "Micro_01_Nutrients_Deficiency_Diseases_Vitamins",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_01_M02",
@@ -277,7 +407,17 @@
               "name_hi": "खाद्य संरक्षण विधियां एवं मामिडी तांड्रा (आम पापड़)",
               "folder": "Micro_02_Food_Preservation_Techniques_Mamidi_Tandra",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_01_M03",
@@ -286,7 +426,17 @@
               "name_hi": "क्षेत्रीय खान-पान (लिंग-हू-फेन, टैपिओका एवं मछली)",
               "folder": "Micro_03_Regional_Cuisines_Ling_hu_fen_Tapioca_Fish",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -305,7 +455,17 @@
               "name_hi": "मानव पाचन तंत्र एवं डॉ. ब्यूमोंट के पेट के प्रयोग",
               "folder": "Micro_01_Human_Digestion_Dr_Beaumont_Experiments",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST04_02_M02",
@@ -314,7 +474,17 @@
               "name_hi": "जल व मच्छर जनित रोग (मलेरिया, रोनाल्ड रॉस की खोज)",
               "folder": "Micro_02_Water_Mosquito_Borne_Diseases_Malaria_Ross",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -343,7 +513,17 @@
               "name_hi": "लद्दाख के पत्थरों के घर एवं चांगपा के रेबो (Rebo) टेंट",
               "folder": "Micro_01_Ladakh_Stone_Houses_Changpa_Rebo_Tents",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_01_M02",
@@ -352,7 +532,17 @@
               "name_hi": "असम के बांस के खंभों पर बने घर एवं मनाली के ढलवां मकान",
               "folder": "Micro_02_Assam_Bamboo_Stilt_Manali_Houses",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_01_M03",
@@ -361,7 +551,17 @@
               "name_hi": "राजस्थान के मिट्टी के घर एवं कश्मीर की हाउसबोट (शिकारा)",
               "folder": "Micro_03_Rajasthan_Mud_Houses_Kashmir_Houseboats",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -380,7 +580,17 @@
               "name_hi": "अस्थायी, स्थायी एवं सार्वजनिक आश्रय स्थल",
               "folder": "Micro_01_Temporary_Permanent_Public_Housing",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST05_02_M02",
@@ -389,7 +599,17 @@
               "name_hi": "स्वच्छता, अपशिष्ट प्रबंधन एवं बिन बुलाए जीव (Uninvited Pests)",
               "folder": "Micro_02_Sanitation_Waste_Management_Uninvited_Pests",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -418,7 +638,17 @@
               "name_hi": "जल के स्रोत, भूजल दोहन एवं जल प्रदूषण",
               "folder": "Micro_01_Water_Sources_Groundwater_Depletion_Pollution",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_01_M02",
@@ -427,7 +657,17 @@
               "name_hi": "पारंपरिक बावड़ियां, घड़सीसर सरोवर एवं अल-बिरूनी का विवरण",
               "folder": "Micro_02_Traditional_Stepwells_Bawri_Ghadsisar_AlBiruni",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -446,7 +686,17 @@
               "name_hi": "जल के गुण, मृत सागर (Dead Sea), घनत्व एवं उत्प्लावन",
               "folder": "Micro_01_Water_Properties_Dead_Sea_Density_Buoyancy",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST06_02_M02",
@@ -455,7 +705,17 @@
               "name_hi": "जल आंदोलन: तरुण भारत संघ (राजेंद्र सिंह) एवं भीमा संघ",
               "folder": "Micro_02_Water_Movements_Tarun_Bharat_Bhima_Sangh",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -484,7 +744,17 @@
               "name_hi": "भारत का मानचित्र: राज्य, तटीय सीमाएं एवं सापेक्ष स्थिति",
               "folder": "Micro_01_Indian_Map_States_Coastal_Relative_Position",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_01_M02",
@@ -493,7 +763,17 @@
               "name_hi": "दिशा व दूरी संबंधी प्रश्न एवं रेलगाड़ी समय-सारणी विश्लेषण",
               "folder": "Micro_02_Direction_Distance_Problems_Train_Timetables",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -512,7 +792,17 @@
               "name_hi": "बछेंद्री पाल एवं माउंट एवरेस्ट पर्वतारोहण अभियान",
               "folder": "Micro_01_Bachendri_Pal_Mount_Everest_Expedition",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_02_M02",
@@ -521,7 +811,17 @@
               "name_hi": "सुनीता विलियम्स, कल्पना चावला एवं अंतरिक्ष अनुभव",
               "folder": "Micro_02_Sunita_Williams_Kalpana_Chawla_Space",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST07_02_M03",
@@ -530,7 +830,17 @@
               "name_hi": "स्थानीय परिवहन (वल्लम, फेरी, जुगाड़) एवं रेल टिकट विवरण",
               "folder": "Micro_03_Local_Transport_Vallam_Ferry_Jugaad_Tickets",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -559,7 +869,17 @@
               "name_hi": "लोक चित्रकला (मधुबनी, वर्ली, पट्टचित्र एवं कलमकारी)",
               "folder": "Micro_01_Folk_Paintings_Madhubani_Warli_Pattachitra",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_01_M02",
@@ -568,7 +888,17 @@
               "name_hi": "पारंपरिक वस्त्र (पोचमपल्ली, पश्मीना शॉल एवं चिकनकारी)",
               "folder": "Micro_02_Textiles_Pochampally_Pashmina_Chikankari",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -587,7 +917,17 @@
               "name_hi": "कांसा/कांस्य मिश्रधातु (तांबा व टिन) एवं मिट्टी के बर्तन निर्माण",
               "folder": "Micro_01_Bronze_Alloy_Copper_Tin_Pottery_Making",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST08_02_M02",
@@ -596,7 +936,17 @@
               "name_hi": "पारंपरिक व्यवसाय एवं कृषि यंत्र (कुरीगे, खूंटी, इलिगे)",
               "folder": "Micro_02_Traditional_Occupations_Agricultural_Tools",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -625,7 +975,17 @@
               "name_hi": "पारिस्थितिकी (हेकल) एवं पारिस्थितिकी तंत्र (टांसले) की संकल्पना",
               "folder": "Micro_01_Ecology_Haaeckel_Ecosystem_Tansley_Concepts",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_01_M02",
@@ -634,7 +994,17 @@
               "name_hi": "जैविक व अजैविक घटक, उत्पादक, उपभोक्ता एवं अपघटक",
               "folder": "Micro_02_Biotic_Abiotic_Producers_Consumers_Decomposers",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -653,7 +1023,17 @@
               "name_hi": "खाद्य श्रृंखला, खाद्य जाल एवं लिंडेमैन का 10% ऊर्जा नियम",
               "folder": "Micro_01_Food_Chains_Webs_Lindeman_Ten_Percent_Law",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_02_M02",
@@ -662,7 +1042,17 @@
               "name_hi": "पारिस्थितिक पिरामिड (ऊर्जा, जैवभार एवं संख्या का पिरामिड)",
               "folder": "Micro_02_Ecological_Pyramids_Energy_Biomass_Numbers",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -681,7 +1071,17 @@
               "name_hi": "स्थलीय बायोम (टुंड्रा, टैगा, सवाना एवं घास के मैदान)",
               "folder": "Micro_01_Terrestrial_Biomes_Tundra_Taiga_Grasslands",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST09_03_M02",
@@ -690,7 +1090,17 @@
               "name_hi": "जलीय पारिस्थितिकी तंत्र, प्रवाल भित्तियाँ एवं मैंग्रोव वन",
               "folder": "Micro_02_Aquatic_Coral_Reefs_Mangrove_Ecosystems",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -719,7 +1129,17 @@
               "name_hi": "जैव विविधता (वाल्टर रोसेन) एवं अल्फा, बीटा, गामा विविधता",
               "folder": "Micro_01_Biodiversity_Rosen_Alpha_Beta_Gamma_Diversity",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_01_M02",
@@ -728,7 +1148,17 @@
               "name_hi": "भारत के जैव विविधता हॉटस्पॉट (पश्चिमी घाट एवं पूर्वी हिमालय)",
               "folder": "Micro_02_Hotspots_Western_Ghats_Eastern_Himalayas",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -747,7 +1177,17 @@
               "name_hi": "IUCN रेड डाटा बुक, संकटग्रस्त प्रजातियां एवं गुलाबी पृष्ठ",
               "folder": "Micro_01_IUCN_Red_Data_Book_Endangered_Categories",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_02_M02",
@@ -756,7 +1196,17 @@
               "name_hi": "स्व-स्थाने (In-situ) बनाम बाह्य-स्थाने (Ex-situ) संरक्षण",
               "folder": "Micro_02_Insitu_vs_Exsitu_Conservation_Sanctuaries",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -775,7 +1225,17 @@
               "name_hi": "प्रोजेक्ट टाइगर (1973), हाथी, गैंडा एवं घड़ियाल परियोजना",
               "folder": "Micro_01_Project_Tiger_Elephant_Rhino_Crocodile",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_03_M02",
@@ -784,7 +1244,17 @@
               "name_hi": "प्रमुख राष्ट्रीय उद्यान एवं अभयारण्य (जिम कॉर्बेट, काजीरंगा, गिर)",
               "folder": "Micro_02_Major_National_Parks_Jim_Corbett_Kaziranga",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST10_03_M03",
@@ -793,7 +1263,17 @@
               "name_hi": "प्रमुख संस्थान: भारतीय वन्यजीव संस्थान, FRI, NGT एवं CPCB",
               "folder": "Micro_03_Wildlife_Institute_of_India_FRI_NGT",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -822,7 +1302,17 @@
               "name_hi": "वायु प्रदूषक, PM2.5, स्मॉग, अम्ल वर्षा एवं ताजमहल क्षरण",
               "folder": "Micro_01_Air_Pollutants_PM25_Smog_Acid_Rain_Gases",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_01_M02",
@@ -831,7 +1321,17 @@
               "name_hi": "जल प्रदूषण, BOD, COD, सुपोषण (Eutrophication) एवं जलजनित रोग",
               "folder": "Micro_02_Water_Pollution_BOD_COD_Eutrophication_Diseases",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_01_M03",
@@ -840,7 +1340,17 @@
               "name_hi": "ध्वनि प्रदूषण (डेसिबल मानक) एवं मृदा प्रदूषण व क्षरण",
               "folder": "Micro_03_Noise_Decibel_Standards_Soil_Degradation",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -859,7 +1369,17 @@
               "name_hi": "ग्रीनहाउस गैसें, वैश्विक तापमान वृद्धि एवं जलवायु परिवर्तन",
               "folder": "Micro_01_Greenhouse_Gases_Global_Warming_Dynamics",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST11_02_M02",
@@ -868,7 +1388,17 @@
               "name_hi": "ओजोन छिद्र, डॉबसन इकाई, पराबैंगनी किरणें एवं मॉन्ट्रियल प्रोटोकॉल",
               "folder": "Micro_02_Ozone_Depletion_Dobson_Montreal_Protocol",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -897,7 +1427,17 @@
               "name_hi": "चिपको आंदोलन (सुंदरलाल बहुगुणा, चंडी प्रसाद भट्ट, गौरा देवी)",
               "folder": "Micro_01_Chipko_Movement_Bahuguna_Gaura_Devi",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_01_M02",
@@ -906,7 +1446,17 @@
               "name_hi": "बिश्नोई आंदोलन (अमृता देवी), अप्पिको आंदोलन एवं नर्मदा बचाओ आंदोलन",
               "folder": "Micro_02_Bishnoi_Appiko_Narmada_Bachao_Andolan",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -925,7 +1475,17 @@
               "name_hi": "वन्यजीव संरक्षण अधिनियम 1972 एवं वन संरक्षण अधिनियम 1980",
               "folder": "Micro_01_Wildlife_Protection_Act_1972_Forest_1980",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_02_M02",
@@ -934,7 +1494,17 @@
               "name_hi": "पर्यावरण (संरक्षण) अधिनियम 1986 (छाता विधान / Umbrella Act)",
               "folder": "Micro_02_Environment_Protection_Act_1986_Umbrella_Act",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -953,7 +1523,17 @@
               "name_hi": "स्टॉकहोम सम्मेलन 1972, पृथ्वी शिखर सम्मेलन 1992 एवं एजेंडा-21",
               "folder": "Micro_01_Stockholm_1972_Earth_Summit_1992_Agenda21",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST12_03_M02",
@@ -962,7 +1542,17 @@
               "name_hi": "क्योटो प्रोटोकॉल (1997), कार्बन क्रेडिट एवं पेरिस जलवायु समझौता",
               "folder": "Micro_02_Kyoto_Protocol_Carbon_Credits_Paris_Agreement",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -991,7 +1581,17 @@
               "name_hi": "सूर्य एवं आठ ग्रहों का वर्गीकरण व भौतिक विशेषताएं",
               "folder": "Micro_01_Sun_Eight_Planets_Classification_Traits",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_01_M02",
@@ -1000,7 +1600,17 @@
               "name_hi": "उपग्रह (चंद्रमा), क्षुद्रग्रह, उल्कापिंड एवं धूमकेतु",
               "folder": "Micro_02_Satellites_Asteroids_Meteors_Comets",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1019,7 +1629,17 @@
               "name_hi": "घूर्णन, परिक्रमण, ऋतु परिवर्तन, उपसौर एवं अपसौर",
               "folder": "Micro_01_Rotation_Revolution_Seasons_Perihelion_Aphelion",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_02_M02",
@@ -1028,7 +1648,17 @@
               "name_hi": "अक्षांश, देशांतर रेखाएं, ग्रीनविच (GMT) एवं भारतीय मानक समय (IST)",
               "folder": "Micro_02_Latitudes_Longitudes_IDL_GMT_IST_Calculations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST13_02_M03",
@@ -1037,7 +1667,17 @@
               "name_hi": "कर्क-मकर रेखाएं, विषुवत वृत्त, सूर्य ग्रहण एवं चंद्र ग्रहण",
               "folder": "Micro_03_Tropics_Equator_Solar_Lunar_Eclipses",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1066,7 +1706,17 @@
               "name_hi": "हिमालय पर्वतमाला (शिवालिक, हिमाद्रि), दर्रे एवं प्रमुख चोटियां",
               "folder": "Micro_01_Himalayan_Ranges_Passes_Major_Peaks",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_01_M02",
@@ -1075,7 +1725,17 @@
               "name_hi": "प्रायद्वीपीय पठार, पश्चिमी-पूर्वी घाट एवं तटीय मैदान",
               "folder": "Micro_02_Peninsular_Plateau_Western_Eastern_Ghats_Coasts",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1094,7 +1754,17 @@
               "name_hi": "हिमालयी अपवाह तंत्र (गंगा, यमुना, सिंधु एवं ब्रह्मपुत्र)",
               "folder": "Micro_01_Himalayan_Rivers_Ganga_Yamuna_Brahmaputra",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M02",
@@ -1103,7 +1773,17 @@
               "name_hi": "प्रायद्वीपीय नदियां (नर्मदा, ताप्ती, गोदावरी, कृष्णा, कावेरी)",
               "folder": "Micro_02_Peninsular_Rivers_Arabian_Sea_Bay_of_Bengal",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST14_02_M03",
@@ -1112,7 +1792,17 @@
               "name_hi": "प्रमुख झीलें (वुलर, चिल्का, सांभर, लोकटक) एवं जलप्रपात",
               "folder": "Micro_03_Major_Lakes_Wular_Chilika_Sambhar_Waterfalls",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1141,7 +1831,17 @@
               "name_hi": "भारतीय मानसून की क्रियाविधि एवं वर्षा का वितरण",
               "folder": "Micro_01_Southwest_Northeast_Monsoon_Rainfall",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_01_M02",
@@ -1150,7 +1850,17 @@
               "name_hi": "ICAR मृदा वर्गीकरण (जलोढ़, काली/रेगुर, लाल एवं लैटेराइट)",
               "folder": "Micro_02_ICAR_Soil_Classification_Alluvial_Black_Laterite",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1169,7 +1879,17 @@
               "name_hi": "फसलें (रबी, खरीफ, जायद), हरित क्रांति (स्वामीनाथन) एवं श्वेत क्रांति",
               "folder": "Micro_01_Crops_Green_Revolution_Swaminathan_White_Rev",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST15_02_M02",
@@ -1178,7 +1898,17 @@
               "name_hi": "ऊर्जा संसाधन (पारंपरिक व गैर-पारंपरिक) एवं प्रमुख खनिज क्षेत्र",
               "folder": "Micro_02_Conventional_Renewable_Energy_Mineral_Belts",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1207,7 +1937,17 @@
               "name_hi": "उत्तर प्रदेश की सीमाएं, भाभर, तराई एवं बुंदेलखंड पठार",
               "folder": "Micro_01_Boundaries_Bhabhar_Terai_Bundelkhand_Plateau",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_01_M02",
@@ -1216,7 +1956,17 @@
               "name_hi": "उत्तर प्रदेश की नदियां (गंगा, यमुना, गोमती, सरयू) एवं नहरें",
               "folder": "Micro_02_UP_Rivers_Ganga_Yamuna_Gomti_Saryu_Canals",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1235,7 +1985,17 @@
               "name_hi": "दुधवा राष्ट्रीय उद्यान, चंद्रप्रभा एवं कतरनियाघाट वन्यजीव विहार",
               "folder": "Micro_01_Dudhwa_National_Park_Chandraprabha_Katarniaghat",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_02_M02",
@@ -1244,7 +2004,17 @@
               "name_hi": "पक्षी विहार (नवाबगंज/शहीद चंद्रशेखर, लाख बहोसी, बखिरा, सुरहाताल)",
               "folder": "Micro_02_Bird_Sanctuaries_Nawabganj_LakhBahosi_Bakhira",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1263,7 +2033,17 @@
               "name_hi": "उत्तर प्रदेश के प्रमुख मेले (कुंभ, नौचंडी, बटेश्वर, देवा शरीफ)",
               "folder": "Micro_01_Kumbh_Nauchandi_Bateshwar_DewaSharif_Fairs",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_03_M02",
@@ -1272,7 +2052,17 @@
               "name_hi": "लोकनृत्य एवं लोकगायन (चरकुला, नौटंकी, कजरी, आल्हा, रासलीला)",
               "folder": "Micro_02_Folk_Dances_Charkula_Nautanki_Kajri_Alha",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST16_03_M03",
@@ -1281,7 +2071,17 @@
               "name_hi": "उत्तर प्रदेश की जनजातियां (थारू/दीपावली को शोक पर्व, बुक्सा)",
               "folder": "Micro_03_UP_Tribes_Tharu_Diwali_Mourning_Buksa",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1310,7 +2110,17 @@
               "name_hi": "कैबिनेट मिशन, प्रारूप समिति, डॉ. आंबेडकर एवं निर्माण यात्रा",
               "folder": "Micro_01_Cabinet_Mission_Drafting_Committee_Ambedkar",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_01_M02",
@@ -1319,7 +2129,17 @@
               "name_hi": "भारतीय संविधान के विभिन्न विदेशी स्रोत व विशेषताएं",
               "folder": "Micro_02_Constitutional_Sources_Borrowed_Features",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1338,7 +2158,17 @@
               "name_hi": "प्रस्तावना के मूल आदर्श एवं 42वां संविधान संशोधन (1976)",
               "folder": "Micro_01_Preamble_Core_Philosophy_42nd_Amendment",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST17_02_M02",
@@ -1347,7 +2177,17 @@
               "name_hi": "नागरिकता संबंधी संवैधानिक प्रावधान (अनुच्छेद 5 से 11)",
               "folder": "Micro_02_Citizenship_Provisions_Articles_5_to_11",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1376,7 +2216,17 @@
               "name_hi": "छह मौलिक अधिकार (समानता, स्वतंत्रता, शोषण विरुद्ध, धर्म, शिक्षा)",
               "folder": "Micro_01_Six_Fundamental_Rights_Articles_14_to_30",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_01_M02",
@@ -1385,7 +2235,17 @@
               "name_hi": "संवैधानिक उपचार (अनुच्छेद 32, 5 रिटें) एवं अनुच्छेद 21A (86वां संशोधन)",
               "folder": "Micro_02_Article_32_Writs_Article_21A_RTE_Amendment",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1404,7 +2264,17 @@
               "name_hi": "नीति निदेशक तत्व (ग्राम पंचायत अनु. 40, समान नागरिक संहिता 44, पर्यावरण 48A)",
               "folder": "Micro_01_DPSP_Panchayats_Art40_UCC_Art44_Environment_48A",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST18_02_M02",
@@ -1413,7 +2283,17 @@
               "name_hi": "मूल कर्तव्य (स्वर्ण सिंह समिति, अनु. 51A एवं 51A(g) वन्यजीव/पर्यावरण)",
               "folder": "Micro_02_Fundamental_Duties_Swaran_Singh_Art51A_g",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1442,7 +2322,17 @@
               "name_hi": "भारत के राष्ट्रपति, शक्तियां एवं आपातकालीन उपबंध (अनु. 352, 356, 360)",
               "folder": "Micro_01_President_Powers_Emergency_Articles_352_356_360",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_01_M02",
@@ -1451,7 +2341,17 @@
               "name_hi": "संसद (लोकसभा, राज्यसभा), मंत्रिमंडल एवं प्रधानमंत्री",
               "folder": "Micro_02_Parliament_Lok_Sabha_Rajya_Sabha_Prime_Minister",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_01_M03",
@@ -1460,7 +2360,17 @@
               "name_hi": "सर्वोच्च न्यायालय की अधिकारिता, न्यायिक पुनरावलोकन एवं PIL",
               "folder": "Micro_03_Supreme_Court_Jurisdiction_Public_Interest_Litigation",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1479,7 +2389,17 @@
               "name_hi": "राज्यपाल, मुख्यमंत्री, विधानसभा एवं विधान परिषद",
               "folder": "Micro_01_Governor_Chief_Minister_State_Legislature",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_02_M02",
@@ -1488,7 +2408,17 @@
               "name_hi": "73वां संविधान संशोधन, 11वीं अनुसूची एवं बलवंत राय मेहता समिति (त्रि-स्तरीय)",
               "folder": "Micro_02_73rd_Amendment_11th_Schedule_Balwant_Rai_Mehta",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST19_02_M03",
@@ -1497,7 +2427,17 @@
               "name_hi": "74वां संविधान संशोधन, 12वीं अनुसूची एवं नगर पालिका/नगर निगम",
               "folder": "Micro_03_74th_Amendment_12th_Schedule_Municipalities",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1526,7 +2466,17 @@
               "name_hi": "पर्यावरण अध्ययन की संकल्पना एवं शैक्षिक क्षेत्र (कक्षा 3 से 5)",
               "folder": "Micro_01_EVS_Concept_Scope_Grades_3_to_5",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_01_M02",
@@ -1535,7 +2485,17 @@
               "name_hi": "विज्ञान, सामाजिक विज्ञान एवं पर्यावरण शिक्षा का एकीकरण",
               "folder": "Micro_02_Integration_of_Science_Social_Science_Environment",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_01_M03",
@@ -1544,7 +2504,17 @@
               "name_hi": "कक्षा 1 व 2 में EVS पाठ्यपुस्तक का न होना (भाषा व गणित द्वारा शिक्षण)",
               "folder": "Micro_03_No_Textbook_in_Grades_1_2_Contextual_Teaching",
               "order": 3,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1563,7 +2533,17 @@
               "name_hi": "NCERT की 6 मुख्य थीम्स एवं उप-थीम्स का शिक्षाशास्त्रीय आधार",
               "folder": "Micro_01_Six_Core_NCERT_Themes_Rationale",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST20_02_M02",
@@ -1572,7 +2552,17 @@
               "name_hi": "बालक के तात्कालिक परिवेश को वैश्विक संदर्भों से जोड़ना",
               "folder": "Micro_02_Connecting_Immediate_Environment_to_Global",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1601,7 +2591,17 @@
               "name_hi": "मूर्त से अमूर्त एवं ज्ञात से अज्ञात की ओर शिक्षण सूत्र",
               "folder": "Micro_01_Concrete_to_Abstract_Known_to_Unknown",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_01_M02",
@@ -1610,7 +2610,17 @@
               "name_hi": "स्थानीय से वैश्विक एवं 'करके सीखना' (Learning by Doing)",
               "folder": "Micro_02_Local_to_Global_Learning_by_Doing",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1629,7 +2639,17 @@
               "name_hi": "प्राथमिक विज्ञान एवं सामाजिक अध्ययन के साथ सह-संबंध",
               "folder": "Micro_01_Correlation_with_Science_Social_Science",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST21_02_M02",
@@ -1638,7 +2658,17 @@
               "name_hi": "बहु-विषयक समग्र समझ एवं पर्यावरणीय संवेदनशीलता",
               "folder": "Micro_02_Multidisciplinary_Holistic_Understanding",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1667,7 +2697,17 @@
               "name_hi": "अन्वेषण/खोज विधि, समस्या समाधान एवं परियोजना विधि",
               "folder": "Micro_01_Inquiry_Discovery_Problem_Solving_Projects",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST22_01_M02",
@@ -1676,7 +2716,17 @@
               "name_hi": "सहयोगात्मक अधिगम, समूह परिचर्चा एवं सहकर्मी संवाद",
               "folder": "Micro_02_Classroom_Discussions_Collaborative_Learning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1695,7 +2745,17 @@
               "name_hi": "सरल वैज्ञानिक प्रयोग, अवलोकन, वर्गीकरण एवं परिकल्पना",
               "folder": "Micro_01_Simple_Experiments_Observation_Classification",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST22_02_M02",
@@ -1704,7 +2764,17 @@
               "name_hi": "क्षेत्र भ्रमण (Field Trips) का शैक्षिक नियोजन एवं प्रत्यक्ष अनुभव",
               "folder": "Micro_02_Field_Trips_Educational_Excursions_Planning",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1733,7 +2803,17 @@
               "name_hi": "वास्तविक जीवन की कथाएं, जेंडर व जातिगत पूर्वाग्रह मुक्ति",
               "folder": "Micro_01_Child_Centered_Narratives_Debiasing_Gender_Caste",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST23_01_M02",
@@ -1742,7 +2822,17 @@
               "name_hi": "परिभाषाओं व रटंत प्रणाली का निषेध; आलोचनात्मक चिंतन प्रोत्साहन",
               "folder": "Micro_02_Avoiding_Definitions_Rote_Encouraging_Critique",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1761,7 +2851,17 @@
               "name_hi": "स्थानीय शून्य-लागत TLM, वास्तविक वस्तुएं (Realia), ग्लोब एवं चार्ट",
               "folder": "Micro_01_Local_No_Cost_TLM_Real_Objects_Models_Globe",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST23_02_M02",
@@ -1770,7 +2870,17 @@
               "name_hi": "दृश्य-श्रव्य सामग्री, दीक्षा (DIKSHA) पोर्टल एवं डिजिटल अनुकरण",
               "folder": "Micro_02_Audio_Visual_Aids_DIKSHA_Simulations",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
@@ -1799,7 +2909,17 @@
               "name_hi": "सीखने के लिए, का एवं रूप में आकलन (रचनात्मक व योगात्मक)",
               "folder": "Micro_01_Formative_Summative_Assessment_as_Learning",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST24_01_M02",
@@ -1808,7 +2928,17 @@
               "name_hi": "पोर्टफोलियो, उपाख्यानात्मक अभिलेख (Anecdotal Records), रूब्रिक्स",
               "folder": "Micro_02_Portfolios_Anecdotal_Records_Checklists_Rubrics",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         },
@@ -1827,7 +2957,17 @@
               "name_hi": "बच्चों की वैकल्पिक अवधारणाएं (Alternative Conceptions) व भ्रांतियां",
               "folder": "Micro_01_Identifying_Alternative_Conceptions_Misconceptions",
               "order": 1,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             },
             {
               "id": "ST24_02_M02",
@@ -1836,11 +2976,27 @@
               "name_hi": "विशेष आवश्यकता वाले बच्चों (CWSN) हेतु समावेशी उपचारात्मक शिक्षण",
               "folder": "Micro_02_Inclusive_Remediation_for_SEDG_and_CWSN",
               "order": 2,
-              "assets": ["Concept", "Short_Notes", "PYQ", "MCQ", "Practice", "Mock_Test"]
+              "assets": [
+                "Concept",
+                "Short_Notes",
+                "PYQ",
+                "MCQ",
+                "Practice",
+                "Mock_Test"
+              ],
+              "mcq_count": 0,
+              "pyq_count": 0,
+              "total_questions": 0
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "stats": {
+    "total_mcqs": 0,
+    "total_pyqs": 0,
+    "total_questions": 0,
+    "last_synced": "2026-10-12T13:15:25.330622"
+  }
 }

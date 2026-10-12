@@ -12,6 +12,7 @@ import re
 import json
 import time
 from datetime import datetime
+import index_tracker
 
 # ================= Configuration =================
 ROOT_DIR = "."  # क्वेश्चन बैंक का रूट डायरेक्टरी पाथ
@@ -194,6 +195,7 @@ def process_file(dirpath: str, input_filename: str, output_filename: str):
     archive_path = os.path.join(dirpath, archive_name)
     os.rename(input_path, archive_path)
     print(f"[ARCHIVE] Renamed {input_filename} -> {archive_name}")
+    index_tracker.sync_master_manifest(ROOT_DIR)
 
 
 # ================= Monitoring Daemon =================
